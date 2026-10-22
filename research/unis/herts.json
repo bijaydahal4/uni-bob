@@ -1,0 +1,739 @@
+{
+ "id": "herts",
+ "name": "University of Hertfordshire",
+ "shortName": "Hertfordshire",
+ "aliases": [
+  "Herts",
+  "Hertfordshire",
+  "Uni of Herts",
+  "University of Herts",
+  "UH",
+  "UoH"
+ ],
+ "city": "Hatfield",
+ "region": "East of England",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.herts.ac.uk/life/accommodation",
+  "checked": "2026-10-22",
+  "evidence": "The University has two main, easy-to-reach and accessible campuses – College Lane and de Havilland – both based in Hatfield and well-connected for travel around Hertfordshire and into central London."
+ },
+ "location": {
+  "postcode": "AL10 9EU",
+  "postcodeSource": "https://www.herts.ac.uk/visit-us",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/AL109EU",
+  "checked": "2026-10-22"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK students on full-time courses starting in 2027 (2027/28). Herts says tuition fees are charged annually and may be higher in future years.",
+  "source": {
+   "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics",
+   "checked": "2026-10-22",
+   "evidence": "£10,050 for the 2027/2028 academic year"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 134,
+  "amountHigh": 289,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "On-campus halls cost about £134–£289 a week in 2026/27 depending on the room and contract length (twin en suite from £134.12 per person; single £159.74–£165.97; single en suite at de Havilland, where these courses are taught, £204.26–£243.95; studio en suite up to £289.10). Electricity, gas, water and internet are included in the rent.",
+  "source": {
+   "url": "https://www.herts.ac.uk/life/student-accommodation/living-on-campus/twin-college-lane",
+   "checked": "2026-10-22",
+   "evidence": "£134.12 (per occupant) PER WEEK"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Undergraduate open day (College Lane Campus, 09:30-15:00)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open day: Saturday 21 November 2026, 09:30-15:00 (College Lane Campus). 2027 dates not announced yet.",
+  "url": "https://www.herts.ac.uk/study/open-days-and-events/undergraduate-open-days",
+  "source": {
+   "url": "https://www.herts.ac.uk/study/open-days-and-events/undergraduate-open-days",
+   "checked": "2026-10-22",
+   "evidence": "Our next Open Day is taking place on our College Lane Campus on Saturday 21 November 09.30 - 15.00 - book your place below:"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "UK (Home fee) applicants who meet at least one of Herts' criteria are considered automatically for a contextual offer, typically up to one grade lower (about eight UCAS points).",
+  "typicalReduction": "Typically up to one grade lower than the standard entry requirements (equivalent to eight UCAS points)",
+  "criteria": [
+   {
+    "key": "fsm",
+    "detail": "You received free school meals at any point in the last six years during secondary education.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "You were in care before the age of 16.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "You care, unpaid, for a friend or family member with an illness or disability, mental health condition or an addiction.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "You are irreconcilably estranged from both parents and receive no support from them.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "You are a Home fee applicant with refugee status.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Your home postcode (from your UCAS form) falls into IMD Quintile 1, the areas facing the most significant socioeconomic challenges (IMD decile 1-2).",
+    "measure": "IMD",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Gypsy, Roma, Traveller, Showmen and Boater applicants: email the Student Success team with your full name and UCAS number to be considered for a contextual offer.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "To be considered, you must be a UK domiciled student with Home fee status and meet at least one of the criteria. If you meet them, the admissions team considers you for a contextual offer automatically. Grade adjustments are not available for part-time applicants, deferred entry or Clearing, and for some courses adjustments may not be possible.",
+  "url": "https://www.herts.ac.uk/study/how-to-apply/undergraduate",
+  "source": {
+   "url": "https://www.herts.ac.uk/study/how-to-apply/undergraduate",
+   "checked": "2026-10-22",
+   "evidence": "A contextual offer is typically up to one grade lower than our standard entry requirements (equivalent to eight UCAS points)."
+  }
+ },
+ "programmes": [
+  {
+   "id": "herts-taster-day",
+   "name": "University Taster Day",
+   "provider": "University of Hertfordshire",
+   "providerType": "university",
+   "uniIds": [
+    "herts"
+   ],
+   "summary": "One-day on-campus taster for Year 12 / level 3 students with taster lectures and workshops, sessions on UCAS applications and student finance, and campus and accommodation tours.",
+   "whoCanApply": "Year 12 / level 3 students. The page currently shows booking for groups (for example from a school or college), so ask your school or college.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "For Year 12 / level 3 students; no other criteria are listed. The page says 'Group booking - Now open'.",
+   "benefits": [
+    "Taster lectures and workshops",
+    "Student sessions, from nailing a UCAS application to understanding student finance",
+    "Campus and accommodation tours",
+    "Information on degree apprenticeships, work placements and study abroad"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "day",
+   "subjects": "Not specified (taster lectures and workshops)",
+   "yearGroup": "Year 12 / level 3",
+   "runs": {
+    "text": "Thursday 27 May 2027, 9:30-14:00 at the College Lane Campus, Hatfield",
+    "start": "2027-05-27",
+    "end": "2027-05-27",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Group booking is open now",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "2027 date published; booking deadline and cost are not stated on the page.",
+   "url": "https://www.herts.ac.uk/about-us/supporting-our-students/education-liaison-and-outreach/taster-day",
+   "source": {
+    "url": "https://www.herts.ac.uk/about-us/supporting-our-students/education-liaison-and-outreach/taster-day",
+    "checked": "2026-10-22",
+    "evidence": "When: Thursday 27 May 2027, 9:30 - 14:00"
+   },
+   "notConfirmed": [
+    "Cost not stated",
+    "Booking deadline not stated",
+    "Whether individual students (not in a school or college group) can book is not stated"
+   ]
+  },
+  {
+   "id": "herts-tasterhub",
+   "name": "Tasterhub (on-demand taster lectures)",
+   "provider": "University of Hertfordshire",
+   "providerType": "university",
+   "uniIds": [
+    "herts"
+   ],
+   "summary": "On-demand online taster lectures from Herts lecturers and industry talks from guest speakers; subjects include Accounting and finance and Philosophy, politics and economics.",
+   "whoCanApply": "The page sets no entry criteria; it is a collection of on-demand videos for anyone researching higher education.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "No eligibility criteria are listed on the page.",
+   "benefits": [
+    "Taster lectures delivered by Herts lecturers give an insight into studying a subject at university",
+    "Industry talks from guest speakers about their careers"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "online",
+   "subjects": "Includes Accounting and finance and Philosophy, politics and economics (plus other subjects)",
+   "yearGroup": "Not stated",
+   "runs": {
+    "text": "On demand (watch online any time)",
+    "start": null,
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Available now",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "No deadline stated (on-demand)",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "On-demand online resource, so there are no yearly dates. Checked October 2026.",
+   "url": "https://www.herts.ac.uk/about-us/supporting-our-students/education-liaison-and-outreach/tasterhub-home",
+   "source": {
+    "url": "https://www.herts.ac.uk/about-us/supporting-our-students/education-liaison-and-outreach/tasterhub-home",
+    "checked": "2026-10-22",
+    "evidence": "Kickstart your research into higher education with our collection of on-demand taster lectures and industry talks."
+   },
+   "notConfirmed": [
+    "Cost and any sign-up requirement are not stated on the page"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.herts.ac.uk/",
+  "courses": "https://www.herts.ac.uk/courses/undergraduate",
+  "economics": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics",
+  "openDays": "https://www.herts.ac.uk/study/open-days-and-events/undergraduate-open-days",
+  "fees": "https://www.herts.ac.uk/study/fees-and-funding",
+  "contextual": "https://www.herts.ac.uk/study/how-to-apply/undergraduate",
+  "accommodation": "https://www.herts.ac.uk/life/accommodation"
+ },
+ "courses": [
+  {
+   "id": "herts-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "Three years full-time; an optional placement year or year abroad can be added between years 2 and 3 (an extra year)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": null,
+    "tariff": 120,
+    "tariffLow": null,
+    "text": "120 UCAS points; typical A level offer BBB (UK applicants, 2027/28 entry)",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics",
+     "checked": "2026-10-22",
+     "evidence": "Typical offer (UCAS points) | 120 | Typical A Level offer | BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    }
+   ],
+   "gcseText": "Grade 4/C in English Language and Mathematics.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics",
+    "checked": "2026-10-22",
+    "evidence": "Grade 4/C in English Language and Mathematics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Hertfordshire is not on UAT-UK's official TMUA course list for 2027 entry.",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics",
+     "checked": "2026-10-22",
+     "evidence": "The entry requirements listed on the course pages provide a guide to the minimum level of qualifications needed to study each course."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (2027/28) used",
+    "A level subject requirements and excluded subjects are not listed on the course page (only GCSEs are listed)",
+    "Contextual offer grades are not published for this course (university page: typically up to one grade lower)"
+   ],
+   "notes": "Economics and Economics and Finance share one course description: you choose the Economics or the Economics and Finance pathway. A foundation-year version has its own course page. Taught at the de Havilland Campus."
+  },
+  {
+   "id": "herts-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L1N3",
+   "lengthYears": 3,
+   "lengthNote": "Three years full-time; an optional placement year or year abroad can be added between years 2 and 3 (an extra year)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": null,
+    "tariff": 120,
+    "tariffLow": null,
+    "text": "120 UCAS points; typical A level offer BBB (UK applicants, 2027/28 entry)",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics-and-finance",
+     "checked": "2026-10-22",
+     "evidence": "Typical offer (UCAS points) | 120 | Typical A Level offer | BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    }
+   ],
+   "gcseText": "Grade 4/C in English Language and Mathematics.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics-and-finance",
+    "checked": "2026-10-22",
+    "evidence": "Grade 4/C in English Language and Mathematics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Hertfordshire is not on UAT-UK's official TMUA course list for 2027 entry.",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics-and-finance",
+     "checked": "2026-10-22",
+     "evidence": "The entry requirements listed on the course pages provide a guide to the minimum level of qualifications needed to study each course."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-economics-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (2027/28) used",
+    "A level subject requirements and excluded subjects are not listed on the course page (only GCSEs are listed)",
+    "Contextual offer grades are not published for this course (university page: typically up to one grade lower)"
+   ],
+   "notes": "Shares its course description with Economics (L101): you choose the Economics or the Economics and Finance pathway. A foundation-year version has its own course page. Taught at the de Havilland Campus."
+  },
+  {
+   "id": "herts-business-finance",
+   "name": "Business and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN13",
+   "lengthYears": 3,
+   "lengthNote": "Three years full-time; an optional placement year or year abroad can be added between years 2 and 3 (an extra year)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; typical A level offer BBC (UK applicants, 2027/28 entry)",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-business-and-finance",
+     "checked": "2026-10-22",
+     "evidence": "Typical offer (UCAS points) | 112 | Typical A Level offer | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    }
+   ],
+   "gcseText": "Grade 4/C in English Language and Mathematics.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-business-and-finance",
+    "checked": "2026-10-22",
+    "evidence": "Grade 4/C in English Language and Mathematics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Hertfordshire is not on UAT-UK's official TMUA course list for 2027 entry.",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-business-and-finance",
+     "checked": "2026-10-22",
+     "evidence": "The entry requirements listed on the course pages provide a guide to the minimum level of qualifications needed to study each course."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-business-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (2027/28) used",
+    "A level subject requirements and excluded subjects are not listed on the course page (only GCSEs are listed)",
+    "Contextual offer grades are not published for this course (university page: typically up to one grade lower)"
+   ],
+   "notes": "Broad business first year, then a finance specialism from year 2. Taught at the de Havilland Campus."
+  },
+  {
+   "id": "herts-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N4N3",
+   "lengthYears": 3,
+   "lengthNote": "Three years full-time; an optional placement year or year abroad can be added between years 2 and 3 (an extra year)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; typical A level offer BBC (UK applicants, 2027/28 entry)",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-accounting-and-finance",
+     "checked": "2026-10-22",
+     "evidence": "Typical offer (UCAS points) | 112 | Typical A Level offer | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    }
+   ],
+   "gcseText": "Grade 4/C in English Language and 4/C Mathematics.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-accounting-and-finance",
+    "checked": "2026-10-22",
+    "evidence": "Grade 4/C in English Language and 4/C Mathematics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Hertfordshire is not on UAT-UK's official TMUA course list for 2027 entry.",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-accounting-and-finance",
+     "checked": "2026-10-22",
+     "evidence": "The entry requirements listed on the course pages provide a guide to the minimum level of qualifications needed to study each course."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.herts.ac.uk/courses/undergraduate/bsc-hons-accounting-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (2027/28) used",
+    "A level subject requirements and excluded subjects are not listed on the course page (only GCSEs are listed)",
+    "Contextual offer grades are not published for this course (university page: typically up to one grade lower)"
+   ],
+   "notes": "Taught at the de Havilland Campus."
+  },
+  {
+   "id": "herts-business-management",
+   "name": "Business Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N201",
+   "lengthYears": 3,
+   "lengthNote": "Three years full-time; an optional placement year or year abroad can be added between years 2 and 3 (an extra year)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; typical A level offer BBC (UK applicants, 2027/28 entry)",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/ba-hons-business-management",
+     "checked": "2026-10-22",
+     "evidence": "Typical offer (UCAS points) | 112 | Typical A Level offer | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    }
+   ],
+   "gcseText": "Grade 4/C in English Language and 4/C Mathematics.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.herts.ac.uk/courses/undergraduate/ba-hons-business-management",
+    "checked": "2026-10-22",
+    "evidence": "Grade 4/C in English Language and 4/C Mathematics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Hertfordshire is not on UAT-UK's official TMUA course list for 2027 entry.",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/ba-hons-business-management",
+     "checked": "2026-10-22",
+     "evidence": "The entry requirements listed on the course pages provide a guide to the minimum level of qualifications needed to study each course."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.herts.ac.uk/courses/undergraduate/ba-hons-business-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (2027/28) used",
+    "A level subject requirements and excluded subjects are not listed on the course page (only GCSEs are listed)",
+    "Contextual offer grades are not published for this course (university page: typically up to one grade lower)"
+   ],
+   "notes": "A foundation-year version has its own course page. Taught at the de Havilland Campus."
+  },
+  {
+   "id": "herts-accounting-management",
+   "name": "Accounting and Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N401",
+   "lengthYears": 3,
+   "lengthNote": "Three years full-time; an optional placement year or year abroad can be added between years 2 and 3 (an extra year)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; typical A level offer BBC (UK applicants, 2027/28 entry)",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/ba-hons-accounting-and-management",
+     "checked": "2026-10-22",
+     "evidence": "Typical offer (UCAS points) | 112 | Typical A Level offer | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 (C)"
+    }
+   ],
+   "gcseText": "Grade 4/C in English Language and 4/C Mathematics.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.herts.ac.uk/courses/undergraduate/ba-hons-accounting-and-management",
+    "checked": "2026-10-22",
+    "evidence": "Grade 4/C in English Language and 4/C Mathematics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Hertfordshire is not on UAT-UK's official TMUA course list for 2027 entry.",
+    "source": {
+     "url": "https://www.herts.ac.uk/courses/undergraduate/ba-hons-accounting-and-management",
+     "checked": "2026-10-22",
+     "evidence": "The entry requirements listed on the course pages provide a guide to the minimum level of qualifications needed to study each course."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.herts.ac.uk/courses/undergraduate/ba-hons-accounting-and-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (2027/28) used",
+    "A level subject requirements and excluded subjects are not listed on the course page (only GCSEs are listed)",
+    "Contextual offer grades are not published for this course (university page: typically up to one grade lower)"
+   ],
+   "notes": "A foundation-year version has its own course page. Taught at the de Havilland Campus."
+  }
+ ],
+ "notes": [
+  "All six courses are taught at the de Havilland Campus in Hatfield. Entry requirements are published as UCAS tariff points with a typical A level grade equivalent (120 points = BBB, 112 points = BBC); Herts says they are a guide to the minimum and each application is considered individually.",
+  "Course pages show 2027/28 entry tables and a September 2027 start; no 2028-entry pages are published yet, so all courses use 2027 entry.",
+  "Hertfordshire is not on UAT-UK's TMUA course list for 2027 entry; no course page names an admissions test."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry (2027/28) recorded for all courses",
+  "A level subject requirements and excluded subjects are not listed on any course page (only GCSE English Language and Mathematics grade 4/C)",
+  "Open days after 21 November 2026 are not announced on the open days page",
+  "Contextual offer grades are not published per course (university page: typically up to one grade lower)",
+  "Taster Day cost, booking deadline and whether individuals can book are not stated; Tasterhub cost not stated",
+  "BSc (Hons) Business Economics page could not be opened (HTTP 403) and it is not in Herts' business course list, so it is not recorded",
+  "Herts' 'managing your finances' page shows a lower, undated halls rent range (£92–£189 a week); the dated 2026/27 room pages are used instead"
+ ]
+}

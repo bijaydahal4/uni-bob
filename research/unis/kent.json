@@ -1,0 +1,1017 @@
+{
+ "id": "kent",
+ "name": "University of Kent",
+ "shortName": "Kent",
+ "aliases": [
+  "Kent",
+  "Kent Uni",
+  "Uni of Kent",
+  "UoK",
+  "UKC",
+  "University of Kent at Canterbury"
+ ],
+ "city": "Canterbury",
+ "region": "South East",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.kent.ac.uk/courses/undergraduate/2027/109/economics",
+  "checked": "2026-10-21",
+  "evidence": "You’ll learn in a close-knit campus with one-to-one support from expert lecturers and researchers."
+ },
+ "location": {
+  "postcode": "CT2 7NZ",
+  "postcodeSource": "https://www.kent.ac.uk/courses/undergraduate/2027/109/economics",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/CT27NZ",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for Home (UK) students on full-time courses starting in 2027 (2027/28), up from £9,790. Fees may rise in later years of the course. A year in industry costs £2,010 and a year abroad £1,505 (2027 entry course pages).",
+  "source": {
+   "url": "https://www.kent.ac.uk/tuition-fees/undergraduate",
+   "checked": "2026-10-21",
+   "evidence": "tuition fees in England for Home students will increase to £10,050 from £9,790"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 127.89,
+  "amountHigh": 314.86,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University accommodation costs about £127.89-£314.86 a week (2026/27 price list; rooms include electricity, gas, water and contents insurance). Kent also estimates food at £56-£99 a week and books and materials at £20-£27 a week.",
+  "source": {
+   "url": "https://www.kent.ac.uk/courses/fees-and-funding/living-costs",
+   "checked": "2026-10-21",
+   "evidence": "£127.89 - £314.86 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-14",
+    "endDate": null,
+    "label": "Canterbury Undergraduate Open Day (9.30am-3pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next Canterbury undergraduate open day: Saturday 14 November 2026, 9.30am-3pm. No 2027 open day dates are listed yet. The Access Kent Travel Bursary gives eligible students £25 or £50 towards travel to the 14 November open day.",
+  "url": "https://www.kent.ac.uk/courses/visit/open-days",
+  "source": {
+   "url": "https://www.kent.ac.uk/courses/visit/open-days",
+   "checked": "2026-10-21",
+   "evidence": "Event date: Saturday 14 November"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Applicants from England or Wales who meet any one of Kent's contextual criteria get a conditional offer up to 16 UCAS points (about two A level grades) lower than the standard offer.",
+  "typicalReduction": "Up to 16 UCAS points lower than the University standard offer; for A levels, up to two grades below the published standard offer. Course-specific subject grades are not adjusted. On Kent's course pages the contextual offers are shown, e.g. CCD/CCC for Economics and BCC for Accounting and Finance.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Live in a Tundra Q1 area",
+    "measure": "TUNDRA",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Live in an IMD 2019 Q1 or Q2 area",
+    "measure": "IMD",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "A mature student, aged 21 or over on the 1st day of term",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "Free School Meals recipient",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Have spent any time in Care under a Local Authority",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Disabled students and those with long term health conditions, including learning differences and mental health conditions",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Young carers",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Unaccompanied Minors, asylum seekers and refugees",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Applicants from Gypsy, Traveler, Roma and Showman Boater Communities",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Applicants from Military Families",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "school",
+    "detail": "Attend an English school/college that receives below average KS5 academic qualification results (identified using the Applicant Centre or Exam Institution on the UCAS application)",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Documented mitigating circumstances",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Applicants with significant, documented, education gaps",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "Contextual offers are for applicants domiciled in England or Wales who meet one or more of the criteria. Say on your UCAS application how you meet them (or in your personal statement or reference); Kent may ask for evidence. Kent uses datasets available as of 1 October each year.",
+  "url": "https://www.kent.ac.uk/applicants/policies/contextual-admissions-policy",
+  "source": {
+   "url": "https://www.kent.ac.uk/applicants/policies/contextual-admissions-policy",
+   "checked": "2026-10-21",
+   "evidence": "Contextual offers are up to 16 UCAS points lower than the University Standard Offer"
+  }
+ },
+ "programmes": [
+  {
+   "id": "kent-succeed-programme",
+   "name": "The Succeed Programme (Ambition to Succeed)",
+   "provider": "University of Kent",
+   "providerType": "university",
+   "uniIds": [
+    "kent"
+   ],
+   "summary": "A free 18-month programme of online workshops, campus visits and a residential at Canterbury to help Year 12 students in Kent and Medway decide on their next steps.",
+   "whoCanApply": "Level 3 students (Year 12 or first year of a Level 3 course) with a Kent or Medway postcode, or who attend a school or college in Kent or Medway. Priority goes to those who meet more than one of Kent's widening-participation criteria. Not open to students living and studying outside Kent and Medway.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "area",
+    "fsm",
+    "firstGen",
+    "care",
+    "refugee",
+    "carer",
+    "other"
+   ],
+   "eligibilityDetail": "All interested Level 3 students with either a Kent or Medway postcode or attend a school in a Kent or Medway postcode. Priority is given to those who meet more than one of: live in an area with lower than expected participation in Higher Education; 5 GCSEs at grades 9-4 including Maths and English; eligible for Free School Meals; parent(s)/guardian(s) did not attend university; from a group under-represented in Higher Education (care experience, refugees or unaccompanied asylum-seeking children, disabled students, young carers, gypsy/traveller/roma/showmen/boater communities, military families).",
+   "benefits": [
+    "Free, including lunch on the Saturday visit days and accommodation and all meals on the residential; travel costs reimbursed",
+    "Eligible to apply for the Kent Ambition to Succeed Scholarship worth £500-£2,000 for each stage of undergraduate study at Kent",
+    "Free University library membership"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "All subjects (guidance on higher education)",
+   "yearGroup": "Year 12 (or first year of a Level 3 course)",
+   "runs": {
+    "text": "18 months: three online workshops, three in-person campus visits and a residential on the Canterbury campus in Year 12, then support into Year 13 (exact dates not published)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not stated on the page",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Midnight on 14 February 2027",
+    "date": "2027-02-14",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "Exact programme dates are not published; the application deadline is for the programme starting in Year 12.",
+   "url": "https://www.kent.ac.uk/schools-and-colleges/the-succeed-programme",
+   "source": {
+    "url": "https://www.kent.ac.uk/schools-and-colleges/the-succeed-programme",
+    "checked": "2026-10-21",
+    "evidence": "Applications close at midnight on 14 February 2027"
+   },
+   "notConfirmed": [
+    "Exact dates of the workshops, campus visits and residential are not published",
+    "The page does not say the programme lowers university offers (it leads to a scholarship)"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.kent.ac.uk/",
+  "courses": "https://www.kent.ac.uk/courses/undergraduate",
+  "economics": "https://www.kent.ac.uk/economics",
+  "openDays": "https://www.kent.ac.uk/courses/visit/open-days",
+  "fees": "https://www.kent.ac.uk/tuition-fees/undergraduate",
+  "contextual": "https://www.kent.ac.uk/courses/undergraduate/apply/contextual-offers",
+  "accommodation": "https://www.kent.ac.uk/accommodation/canterbury/prices"
+ },
+ "courses": [
+  {
+   "id": "kent-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as 4-year versions with a year in industry or a year abroad (separate Kent course pages); a foundation-year version is also listed",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC at A level (88-112 UCAS points range); BCC if you are taking A level Maths. A level Maths is not required.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/2027/109/economics",
+     "checked": "2026-10-21",
+     "evidence": "BCC (with Maths) or BBC (without Maths)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "A level Maths is not required, but taking it lowers the offer from BBC to BCC (no Maths grade is stated)."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Page says Mathematics grade B / 5"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Course pages ask for a good level of English (equivalent to B2) and give GCSE grade 4/C or above in English Language as an example; Kent's general entry requirements ask for a pass at grade 4/C or above in GCSE English Language."
+    }
+   ],
+   "gcseText": "Mathematics grade B / 5. English: GCSE English Language grade 4/C or above is the example given for the English language requirement.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Kent generally accepts any A level syllabus approved by the AQA, OCR, WJEC and Edexcel and CIE awarding bodies"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; Kent offers are based on grades, personal statement and reference. Kent is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "We base offers on a combination of GCSE/AS/VCE A level/A level/other qualifications or predicted grades, your personal statement and reference."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Offer if you are taking A level Maths (BBC if you are not).",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/109/economics",
+      "checked": "2026-10-21",
+      "evidence": "BCC (with Maths) or BBC (without Maths)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": null,
+     "conditions": "Contextual offer if you take A level Maths and meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/109/economics",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: CCD (with Maths) or CCC (without Maths)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "Contextual offer if you do not take A level Maths and meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/109/economics",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: CCD (with Maths) or CCC (without Maths)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.kent.ac.uk/courses/undergraduate/2027/109/economics",
+    "ucas": "https://www.ucas.com/explore/courses/692304e1-779b-569a-fea8-9c981b65938c/economics"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Kent's 2028 course pages return 404 on 2026-10-21); 2027 entry used"
+   ],
+   "notes": "No A level is required: BCC with Maths, BBC without. You can adapt your degree with an econometrics and financial economics focus, which is shown in the degree title. Year in industry (fee £2,010) and year abroad (fee £1,505) versions are separate Kent course pages."
+  },
+  {
+   "id": "kent-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN14",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as 4-year versions with a year in industry or a year abroad (separate Kent course pages); a foundation-year version is also listed",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC at A level (88-112 UCAS points range); BCC if you are taking A level Maths. A level Maths is not required.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1/economics-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "BCC (with Maths) or BBC (without Maths)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "A level Maths is not required, but taking it lowers the offer from BBC to BCC (no Maths grade is stated)."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Page says Mathematics grade B / 5"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Course pages ask for a good level of English (equivalent to B2) and give GCSE grade 4/C or above in English Language as an example; Kent's general entry requirements ask for a pass at grade 4/C or above in GCSE English Language."
+    }
+   ],
+   "gcseText": "Mathematics grade B / 5. English: GCSE English Language grade 4/C or above is the example given for the English language requirement.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Kent generally accepts any A level syllabus approved by the AQA, OCR, WJEC and Edexcel and CIE awarding bodies"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; Kent offers are based on grades, personal statement and reference. Kent is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "We base offers on a combination of GCSE/AS/VCE A level/A level/other qualifications or predicted grades, your personal statement and reference."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Offer if you are taking A level Maths (BBC if you are not).",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1/economics-and-finance",
+      "checked": "2026-10-21",
+      "evidence": "BCC (with Maths) or BBC (without Maths)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": null,
+     "conditions": "Contextual offer if you take A level Maths and meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1/economics-and-finance",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: CCD (with Maths) or CCC (without Maths)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "Contextual offer if you do not take A level Maths and meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1/economics-and-finance",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: CCD (with Maths) or CCC (without Maths)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.kent.ac.uk/courses/undergraduate/2027/1/economics-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Kent's 2028 course pages return 404 on 2026-10-21); 2027 entry used"
+   ],
+   "notes": "Joint honours course combining economics with accounting and finance modules."
+  },
+  {
+   "id": "kent-economics-management",
+   "name": "Economics and Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN12",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as 4-year versions with a year in industry or a year abroad (separate Kent course pages); a foundation-year version is also listed",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC at A level (88-112 UCAS points range); BCC if you are taking A level Maths. A level Maths is not required.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1941/economics-and-management",
+     "checked": "2026-10-21",
+     "evidence": "BCC (with Maths) or BBC (without Maths)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "A level Maths is not required, but taking it lowers the offer from BBC to BCC (no Maths grade is stated)."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Page says Mathematics grade B / 5"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Course pages ask for a good level of English (equivalent to B2) and give GCSE grade 4/C or above in English Language as an example; Kent's general entry requirements ask for a pass at grade 4/C or above in GCSE English Language."
+    }
+   ],
+   "gcseText": "Mathematics grade B / 5. English: GCSE English Language grade 4/C or above is the example given for the English language requirement.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Kent generally accepts any A level syllabus approved by the AQA, OCR, WJEC and Edexcel and CIE awarding bodies"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; Kent offers are based on grades, personal statement and reference. Kent is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "We base offers on a combination of GCSE/AS/VCE A level/A level/other qualifications or predicted grades, your personal statement and reference."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Offer if you are taking A level Maths (BBC if you are not).",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1941/economics-and-management",
+      "checked": "2026-10-21",
+      "evidence": "BCC (with Maths) or BBC (without Maths)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": null,
+     "conditions": "Contextual offer if you take A level Maths and meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1941/economics-and-management",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: CCD (with Maths) or CCC (without Maths)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "Contextual offer if you do not take A level Maths and meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1941/economics-and-management",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: CCD (with Maths) or CCC (without Maths)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.kent.ac.uk/courses/undergraduate/2027/1941/economics-and-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Kent's 2028 course pages return 404 on 2026-10-21); 2027 entry used"
+   ],
+   "notes": "Joint honours course combining economics with management modules."
+  },
+  {
+   "id": "kent-economics-politics",
+   "name": "Economics and Politics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LL12",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as 4-year versions with a year in industry or a year abroad (separate Kent course pages)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC at A level (88-112 UCAS points range); BCC if you are taking A level Maths. A level Maths is not required.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/2027/180/economics-and-politics",
+     "checked": "2026-10-21",
+     "evidence": "BCC (with Maths) or BBC (without Maths)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "A level Maths is not required, but taking it lowers the offer from BBC to BCC (no Maths grade is stated)."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Page says Mathematics grade B / 5"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Course pages ask for a good level of English (equivalent to B2) and give GCSE grade 4/C or above in English Language as an example; Kent's general entry requirements ask for a pass at grade 4/C or above in GCSE English Language."
+    }
+   ],
+   "gcseText": "Mathematics grade B / 5. English: GCSE English Language grade 4/C or above is the example given for the English language requirement.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Kent generally accepts any A level syllabus approved by the AQA, OCR, WJEC and Edexcel and CIE awarding bodies"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; Kent offers are based on grades, personal statement and reference. Kent is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "We base offers on a combination of GCSE/AS/VCE A level/A level/other qualifications or predicted grades, your personal statement and reference."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Offer if you are taking A level Maths (BBC if you are not).",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/180/economics-and-politics",
+      "checked": "2026-10-21",
+      "evidence": "BCC (with Maths) or BBC (without Maths)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": null,
+     "conditions": "Contextual offer if you take A level Maths and meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/180/economics-and-politics",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: CCD (with Maths) or CCC (without Maths)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "Contextual offer if you do not take A level Maths and meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/180/economics-and-politics",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: CCD (with Maths) or CCC (without Maths)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.kent.ac.uk/courses/undergraduate/2027/180/economics-and-politics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Kent's 2028 course pages return 404 on 2026-10-21); 2027 entry used",
+    "Course page lists the 2027 UK tuition fee as TBC (Kent's undergraduate fees page confirms £10,050 for 2027/28)"
+   ],
+   "notes": "Joint honours course. The course page lists the UK fee as TBC but says the Government has confirmed Home fees rise to £10,050 for 2027/28."
+  },
+  {
+   "id": "kent-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N400",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time (6 years part-time). Also offered with a year in industry or a year abroad (4 years) and with a foundation year (separate Kent course pages)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A level (104-120 UCAS points)",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/2027/235/accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "BBB / 104-120 UCAS points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Page says Mathematics grade 5 / B or equivalent"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Course pages ask for a good level of English (equivalent to B2) and give GCSE grade 4/C or above in English Language as an example; Kent's general entry requirements ask for a pass at grade 4/C or above in GCSE English Language."
+    }
+   ],
+   "gcseText": "Mathematics grade 5 / B or equivalent. English: GCSE English Language grade 4/C or above is the example given for the English language requirement.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Kent generally accepts any A level syllabus approved by the AQA, OCR, WJEC and Edexcel and CIE awarding bodies"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; Kent offers are based on grades, personal statement and reference. Kent is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "We base offers on a combination of GCSE/AS/VCE A level/A level/other qualifications or predicted grades, your personal statement and reference."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Contextual offer if you meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/235/accounting-and-finance",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.kent.ac.uk/courses/undergraduate/2027/235/accounting-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Kent's 2028 course pages return 404 on 2026-10-21); 2027 entry used"
+   ],
+   "notes": "Listed by Kent as professionally recognised by ACCA, CIMA, ICAEW and CIPFA. Also available part-time (6 years)."
+  },
+  {
+   "id": "kent-finance",
+   "name": "Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N301",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time (6 years part-time). Also offered with a year in industry or a year abroad (4 years) and with a foundation year (separate Kent course pages)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A level (104-120 UCAS points)",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/2027/3732/finance-and-investment",
+     "checked": "2026-10-21",
+     "evidence": "BBB / 104-120 UCAS points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Page says Mathematics grade 5 / B or equivalent"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Course pages ask for a good level of English (equivalent to B2) and give GCSE grade 4/C or above in English Language as an example; Kent's general entry requirements ask for a pass at grade 4/C or above in GCSE English Language."
+    }
+   ],
+   "gcseText": "Mathematics grade 5 / B or equivalent. English: GCSE English Language grade 4/C or above is the example given for the English language requirement.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Kent generally accepts any A level syllabus approved by the AQA, OCR, WJEC and Edexcel and CIE awarding bodies"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; Kent offers are based on grades, personal statement and reference. Kent is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "We base offers on a combination of GCSE/AS/VCE A level/A level/other qualifications or predicted grades, your personal statement and reference."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Contextual offer if you meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/3732/finance-and-investment",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.kent.ac.uk/courses/undergraduate/2027/3732/finance-and-investment",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Kent's 2028 course pages return 404 on 2026-10-21); 2027 entry used"
+   ],
+   "notes": "The course page is titled Finance (its web address and some related-course lists say Finance and Investment). Listed with CFA Institute, AACSB, EQUIS and AMBA recognition."
+  },
+  {
+   "id": "kent-business-management",
+   "name": "Business Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N206",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time (6 years part-time). Also offered with a year in industry or a year abroad (4 years) and with a foundation year (separate Kent course pages)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A level (104-120 UCAS points)",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1399/business-and-management-canterbury",
+     "checked": "2026-10-21",
+     "evidence": "BBB / 104-120 UCAS points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Page says Mathematics grade C/4 or equivalent"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Course pages ask for a good level of English (equivalent to B2) and give GCSE grade 4/C or above in English Language as an example; Kent's general entry requirements ask for a pass at grade 4/C or above in GCSE English Language."
+    }
+   ],
+   "gcseText": "Mathematics grade C/4 or equivalent. English: GCSE English Language grade 4/C or above is the example given for the English language requirement.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Kent generally accepts any A level syllabus approved by the AQA, OCR, WJEC and Edexcel and CIE awarding bodies"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; Kent offers are based on grades, personal statement and reference. Kent is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.kent.ac.uk/courses/undergraduate/apply/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "We base offers on a combination of GCSE/AS/VCE A level/A level/other qualifications or predicted grades, your personal statement and reference."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Contextual offer if you meet Kent's contextual criteria.",
+     "programme": null,
+     "source": {
+      "url": "https://www.kent.ac.uk/courses/undergraduate/2027/1399/business-and-management-canterbury",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.kent.ac.uk/courses/undergraduate/2027/1399/business-and-management-canterbury",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Kent's 2028 course pages return 404 on 2026-10-21); 2027 entry used"
+   ],
+   "notes": "Kent Business School course; the web address says business-and-management-canterbury (Canterbury campus)."
+  }
+ ],
+ "notes": [
+  "No 2028-entry course pages yet (checked 2026-10-21: kent.ac.uk/courses/undergraduate/2028/109/economics returns 404), so all courses use 2027 entry.",
+  "Kent is not on UAT-UK's official TMUA list for 2027 entry, and none of the course pages names an admissions test.",
+  "Kent's Economics courses do not require A level Maths: the offer is BCC with Maths and BBC without. Accounting and Finance, Finance and Business Management ask for BBB.",
+  "The only Year 12 outreach programme found (the Succeed Programme) is for students in Kent and Medway; Kent's Year 12 subject events are for science, maths, law/psychology/criminology and creative arts, not economics."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "No 2027 open day dates published yet (only Saturday 14 November 2026 is listed)",
+  "No Economics-specific Year 12 event or offer-lowering outreach programme found; the Succeed Programme is limited to Kent and Medway students and the page does not say it lowers offers",
+  "Kent's living costs page does not state its academic year; the 2026/27 label is based on the matching range in the 2026/27 accommodation price list"
+ ]
+}

@@ -1,0 +1,811 @@
+{
+ "id": "ntu",
+ "name": "Nottingham Trent University",
+ "shortName": "Nottingham Trent",
+ "aliases": [
+  "NTU",
+  "Nottingham Trent",
+  "Nottingham Trent Uni",
+  "Nottingham Trent University"
+ ],
+ "city": "Nottingham",
+ "region": "Midlands",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics",
+  "checked": "2026-10-21",
+  "evidence": "You’ll mainly be studying in the Newton building, at the centre of our vibrant City Campus."
+ },
+ "location": {
+  "postcode": "NG1 4FQ",
+  "postcodeSource": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/NG14FQ",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (home) students on full-time undergraduate courses starting in September 2027 (2027/28). NTU's fee table also lists £2,010 for a placement year and £1,507 for a study-abroad year in 2027/28. NTU says home fees are subject to government policy and may change in future years of study.",
+  "source": {
+   "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics",
+   "checked": "2026-10-21",
+   "evidence": "£10,050 per year"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 98.84,
+  "amountHigh": 230.16,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Rent in NTU accommodation (including bills and internet) is about £98.84–£230.16 a week (2026/27). NTU accommodation usually has 44-week contracts. NTU also suggests about £35–£50 a week for food and housekeeping.",
+  "source": {
+   "url": "https://www.ntu.ac.uk/life-at-ntu/nottingham/living-costs",
+   "checked": "2026-10-21",
+   "evidence": "Rent in NTU accommodation (including bills and internet): £98.84–£230.16 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-12-05",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days: Saturday 7 November 2026 and Saturday 5 December 2026. NTU says to choose your subject and course on its page so you book the open day for the campus where your course is taught.",
+  "url": "https://www.ntu.ac.uk/study-and-courses/open-days/undergraduate-open-days",
+  "source": {
+   "url": "https://www.ntu.ac.uk/study-and-courses/open-days/undergraduate-open-days",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 7 November 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "NTU automatically gives a lower contextual offer, typically up to two grades lower, if you meet any one of its criteria.",
+  "typicalReduction": "Typically up to two grades lower than the standard entry criteria; on these courses the contextual offer is 104 UCAS Tariff points instead of 112.",
+  "criteria": [
+   {
+    "key": "school",
+    "detail": "Currently studying at Nottingham College, Vision West Notts College, Bilborough College, Confetti, on an NTU college course, or at one of NTU's named key feeder schools or colleges (full list on the page), and progressing to a full-time foundation, integrated foundation or undergraduate degree at NTU.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "East Midlands postcode: home postcode is within the East Midlands devolved authority covering Derbyshire, Nottinghamshire, Derby and Nottingham.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Low participation areas: from an area of low participation in higher education, according to the Office for Students' Participation of Local Areas data (POLAR 4, quintile 1 or 2).",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Care experienced: spent time in local authority care, foster care, or any formal care setting.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "Free School Meals: may have received Free School Meals during secondary education.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged from parents: you have no contact or support from your family.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Elite athletes: applicants who show exceptional sporting potential.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You are guaranteed a contextual offer if you meet any of the listed criteria. NTU receives this information directly from UCAS, so you do not need to apply separately; it is applied automatically. You should declare all relevant circumstances accurately on your UCAS application.",
+  "url": "https://www.ntu.ac.uk/m/admissions/policies/contextual-offers",
+  "source": {
+   "url": "https://www.ntu.ac.uk/m/admissions/policies/contextual-offers",
+   "checked": "2026-10-21",
+   "evidence": "You are guaranteed a contextual offer if you meet any of the following criteria:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "ntu-business-experience-day",
+   "name": "Business Experience Day",
+   "provider": "Nottingham Trent University",
+   "providerType": "university",
+   "uniIds": [
+    "ntu"
+   ],
+   "summary": "A one-day Business taster at NTU (10 am-3 pm) for students aged 16 or over, with three dates listed for 2026/27.",
+   "whoCanApply": "Anyone aged 16 or over can register their interest; the page sets no other criteria.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "You must be 16 or over to sign up for NTU's experience events. For group bookings contact post16@ntu.ac.uk.",
+   "benefits": [
+    "A taster of what it is like to study Business at NTU",
+    "NTU emails you the details nearer the day once you register your interest"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated on the page",
+   "isFree": null,
+   "format": "day",
+   "subjects": "Business (the page does not say whether Economics is covered)",
+   "yearGroup": "Year 12 (aged 16 or over)",
+   "runs": {
+    "text": "Wednesday 18 November 2026, Wednesday 3 March 2027 and Wednesday 19 May (year not stated on the page), 10 am-3 pm",
+    "start": "2026-11-18",
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Register your interest now; NTU emails details nearer the day",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "Dates listed for 2026/27; the year of the 19 May date is not stated on the page.",
+   "url": "https://www.ntu.ac.uk/study-and-courses/open-days/young-people/experience-your-course",
+   "source": {
+    "url": "https://www.ntu.ac.uk/study-and-courses/open-days/young-people/experience-your-course",
+    "checked": "2026-10-21",
+    "evidence": "Business Experience Day, Wednesday 18 November 2026, 10 am–3 pm"
+   },
+   "notConfirmed": [
+    "Cost and application deadline are not stated on the page",
+    "The page does not say whether the Business Experience Day covers Economics",
+    "The year of the Wednesday 19 May date is not stated (listed after the 2027 dates)"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.ntu.ac.uk/",
+  "courses": "https://www.ntu.ac.uk/study-and-courses/undergraduate/undergraduate-course-search",
+  "economics": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics",
+  "openDays": "https://www.ntu.ac.uk/study-and-courses/open-days/undergraduate-open-days",
+  "fees": "https://www.ntu.ac.uk/study-and-courses/undergraduate/fees-and-funding/tuition-fees-and-student-loans",
+  "contextual": "https://www.ntu.ac.uk/m/admissions/policies/contextual-offers",
+  "accommodation": "https://www.ntu.ac.uk/life-at-ntu/accommodation"
+ },
+ "courses": [
+  {
+   "id": "ntu-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered with a placement year (4 years, UCAS code L10C)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "112 UCAS Tariff points from up to four qualifications (typical offer range 104-112 points)",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics",
+     "checked": "2026-10-21",
+     "evidence": "Standard offer: 112 UCAS Tariff points from up to four qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "The page says grade C / 4"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "The page says grade B / 5"
+    }
+   ],
+   "gcseText": "GCSE English grade C / 4 and Maths grade B / 5.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics",
+    "checked": "2026-10-21",
+    "evidence": "Other requirements: GCSE English grade C / 4 and Maths grade B / 5."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course; the page says there are no additional requirements.",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics",
+     "checked": "2026-10-21",
+     "evidence": "There are no additional requirements for this course."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "104 UCAS Tariff points from up to four qualifications if you meet NTU's contextual criteria (NTU gets this from UCAS and applies it automatically).",
+     "programme": null,
+     "source": {
+      "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: 104 UCAS Tariff points from up to four qualifications"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded"
+   ],
+   "notes": "No required, preferred or excluded A-level subjects are listed; NTU asks for UCAS Tariff points only. NTU's entry guide (https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/entry-requirements-and-offers) uses A-level Psychology and A-level Geography in its worked tariff examples, and says an Extended Project can count as one of the up to four qualifications. The page's typical offer range is 104-112 points: 112 is the standard offer and 104 the contextual offer. Economics (with Foundation Year) BSc (Hons) is listed as a separate course on NBS's undergraduate list (https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/study-at-nbs/undergraduate-at-nbs)."
+  },
+  {
+   "id": "ntu-economics-business",
+   "name": "Economics with Business",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L1N1",
+   "lengthYears": 3,
+   "lengthNote": "Also offered with a placement year (4 years, UCAS code L1NC)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "112 UCAS Tariff points from up to four qualifications (typical offer range 104-112 points)",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-business",
+     "checked": "2026-10-21",
+     "evidence": "Standard offer: 112 UCAS Tariff points from up to four qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "The page says grade C / 4"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "The page says grade B / 5"
+    }
+   ],
+   "gcseText": "GCSE English grade C / 4 and Maths grade B / 5.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-business",
+    "checked": "2026-10-21",
+    "evidence": "Other requirements: GCSE English grade C / 4 and Maths grade B / 5."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course; the page says there are no additional requirements.",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-business",
+     "checked": "2026-10-21",
+     "evidence": "There are no additional requirements for this course."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "104 UCAS Tariff points from up to four qualifications if you meet NTU's contextual criteria (NTU gets this from UCAS and applies it automatically).",
+     "programme": null,
+     "source": {
+      "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-business",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: 104 UCAS Tariff points from up to four qualifications"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-business",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded"
+   ],
+   "notes": "No required, preferred or excluded A-level subjects are listed; NTU asks for UCAS Tariff points only. NTU's entry guide (https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/entry-requirements-and-offers) uses A-level Psychology and A-level Geography in its worked tariff examples, and says an Extended Project can count as one of the up to four qualifications. The page's typical offer range is 104-112 points: 112 is the standard offer and 104 the contextual offer."
+  },
+  {
+   "id": "ntu-economics-international-finance-banking",
+   "name": "Economics with International Finance and Banking",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L1N3",
+   "lengthYears": 3,
+   "lengthNote": "Also offered with a placement year (4 years, UCAS code L1NH)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "112 UCAS Tariff points from up to four qualifications (typical offer range 104-112 points)",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-international-finance-and-banking",
+     "checked": "2026-10-21",
+     "evidence": "Standard offer: 112 UCAS Tariff points from up to four qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "The page says grade C / 4"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "The page says grade B / 5"
+    }
+   ],
+   "gcseText": "GCSE English grade C / 4 and Maths grade B / 5.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-international-finance-and-banking",
+    "checked": "2026-10-21",
+    "evidence": "Other requirements: GCSE English grade C / 4 and Maths grade B / 5."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course; the page says there are no additional requirements.",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-international-finance-and-banking",
+     "checked": "2026-10-21",
+     "evidence": "There are no additional requirements for this course."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "104 UCAS Tariff points from up to four qualifications if you meet NTU's contextual criteria (NTU gets this from UCAS and applies it automatically).",
+     "programme": null,
+     "source": {
+      "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-international-finance-and-banking",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: 104 UCAS Tariff points from up to four qualifications"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-economics-with-international-finance-and-banking",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded"
+   ],
+   "notes": "No required, preferred or excluded A-level subjects are listed; NTU asks for UCAS Tariff points only. NTU's entry guide (https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/entry-requirements-and-offers) uses A-level Psychology and A-level Geography in its worked tariff examples, and says an Extended Project can count as one of the up to four qualifications. The page's typical offer range is 104-112 points: 112 is the standard offer and 104 the contextual offer."
+  },
+  {
+   "id": "ntu-business-management-economics",
+   "name": "Business Management and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "NL21",
+   "lengthYears": 3,
+   "lengthNote": "Also offered with a placement year (4 years, UCAS code NL2C)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "112 UCAS Tariff points from up to four qualifications (typical offer range 104-112 points)",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business-management-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "Standard offer: 112 UCAS Tariff points from up to four qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business-management-and-economics",
+    "checked": "2026-10-21",
+    "evidence": "There are no additional requirements for this course."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course; the page says there are no additional requirements.",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business-management-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "There are no additional requirements for this course."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "104 UCAS Tariff points from up to four qualifications if you meet NTU's contextual criteria (NTU gets this from UCAS and applies it automatically).",
+     "programme": null,
+     "source": {
+      "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business-management-and-economics",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: 104 UCAS Tariff points from up to four qualifications"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business-management-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded",
+    "GCSE requirements: the course page lists none for UK students"
+   ],
+   "notes": "No required, preferred or excluded A-level subjects are listed; NTU asks for UCAS Tariff points only. NTU's entry guide (https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/entry-requirements-and-offers) uses A-level Psychology and A-level Geography in its worked tariff examples, and says an Extended Project can count as one of the up to four qualifications. The page's typical offer range is 104-112 points: 112 is the standard offer and 104 the contextual offer. Joint-honours course."
+  },
+  {
+   "id": "ntu-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN4H",
+   "lengthYears": 3,
+   "lengthNote": "Also offered with a placement year (4 years, UCAS code NN43)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "112 UCAS Tariff points from up to four qualifications (typical offer range 104-112 points)",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "Standard offer: 112 UCAS Tariff points from up to four qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "The page says grade C / 4"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "The page says grade B / 5"
+    }
+   ],
+   "gcseText": "GCSE English grade C / 4 and Maths grade B / 5.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-accounting-and-finance",
+    "checked": "2026-10-21",
+    "evidence": "Other requirements: GCSE English grade C / 4 and Maths grade B / 5."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course; the page says there are no additional requirements.",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "There are no additional requirements for this course."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "104 UCAS Tariff points from up to four qualifications if you meet NTU's contextual criteria (NTU gets this from UCAS and applies it automatically).",
+     "programme": null,
+     "source": {
+      "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-accounting-and-finance",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: 104 UCAS Tariff points from up to four qualifications"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/bsc-hons-accounting-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded"
+   ],
+   "notes": "No required, preferred or excluded A-level subjects are listed; NTU asks for UCAS Tariff points only. NTU's entry guide (https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/entry-requirements-and-offers) uses A-level Psychology and A-level Geography in its worked tariff examples, and says an Extended Project can count as one of the up to four qualifications. The page's typical offer range is 104-112 points: 112 is the standard offer and 104 the contextual offer. Accounting and Finance (with Foundation Year) BSc (Hons) is listed as a separate course on NBS's undergraduate list (https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/study-at-nbs/undergraduate-at-nbs)."
+  },
+  {
+   "id": "ntu-business",
+   "name": "Business",
+   "degree": "BA (Hons)",
+   "ucasCode": "N101",
+   "lengthYears": 3,
+   "lengthNote": "Also offered with a placement year (4 years, UCAS code N100)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "112 UCAS Tariff points from up to four qualifications (typical offer range 104-112 points)",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business",
+     "checked": "2026-10-21",
+     "evidence": "Standard offer: 112 UCAS Tariff points from up to four qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business",
+    "checked": "2026-10-21",
+    "evidence": "There are no additional requirements for this course."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course; the page says there are no additional requirements.",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business",
+     "checked": "2026-10-21",
+     "evidence": "There are no additional requirements for this course."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "104 UCAS Tariff points from up to four qualifications if you meet NTU's contextual criteria (NTU gets this from UCAS and applies it automatically).",
+     "programme": null,
+     "source": {
+      "url": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: 104 UCAS Tariff points from up to four qualifications"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ntu.ac.uk/course/nottingham-business-school/ug/ba-hons-business",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded",
+    "GCSE requirements: the course page lists none for UK students"
+   ],
+   "notes": "No required, preferred or excluded A-level subjects are listed; NTU asks for UCAS Tariff points only. NTU's entry guide (https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/entry-requirements-and-offers) uses A-level Psychology and A-level Geography in its worked tariff examples, and says an Extended Project can count as one of the up to four qualifications. The page's typical offer range is 104-112 points: 112 is the standard offer and 104 the contextual offer. Business (with Foundation Year) BA (Hons) is listed as a separate course on NBS's undergraduate list (https://www.ntu.ac.uk/study-and-courses/academic-schools/nottingham-business-school/study-at-nbs/undergraduate-at-nbs)."
+  },
+  {
+   "id": "ntu-property-finance-investment",
+   "name": "Property Finance and Investment",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N3N5",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a placement year (UCAS code NN23)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "real-estate",
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "112 UCAS Tariff points from up to four qualifications, two of which must be A-level equivalent (typical offer range 104-112 points)",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/ug/bsc-hons-property-finance-and-investment",
+     "checked": "2026-10-21",
+     "evidence": "Standard offer: 112 UCAS Tariff points from up to four qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/ug/bsc-hons-property-finance-and-investment",
+    "checked": "2026-10-21",
+    "evidence": "There are no additional requirements for this course."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course; the page says there are no additional requirements.",
+    "source": {
+     "url": "https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/ug/bsc-hons-property-finance-and-investment",
+     "checked": "2026-10-21",
+     "evidence": "There are no additional requirements for this course."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "104 UCAS Tariff points from up to four qualifications, two of which must be A-level equivalent if you meet NTU's contextual criteria (NTU gets this from UCAS and applies it automatically).",
+     "programme": null,
+     "source": {
+      "url": "https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/ug/bsc-hons-property-finance-and-investment",
+      "checked": "2026-10-21",
+      "evidence": "Contextual offer: 104 UCAS Tariff points from up to four qualifications"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ntu.ac.uk/course/architecture-design-and-the-built-environment/ug/bsc-hons-property-finance-and-investment",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded",
+    "GCSE requirements: the course page lists none for UK students"
+   ],
+   "notes": "No required, preferred or excluded A-level subjects are listed; NTU asks for UCAS Tariff points only. NTU's entry guide (https://www.ntu.ac.uk/study-and-courses/undergraduate/applying-to-ntu/entry-requirements-and-offers) uses A-level Psychology and A-level Geography in its worked tariff examples, and says an Extended Project can count as one of the up to four qualifications. The page's typical offer range is 104-112 points: 112 is the standard offer and 104 the contextual offer. Taught in the School of Architecture, Design and the Built Environment; the course page says it is accredited by the Royal Institution of Chartered Surveyors (RICS)."
+  }
+ ],
+ "notes": [
+  "NTU's offers are in UCAS Tariff points (112 standard, 104 contextual, from up to four qualifications), not A-level grades. NTU's entry guide says an Extended Project can count as one of the four qualifications.",
+  "No 2028-entry pages yet (checked 2026-10-21): course pages show a September 2027 start, so 2027 entry is recorded for all courses.",
+  "None of these course pages names an admissions test (the pages say there are no additional requirements).",
+  "NTU's open days page also lists a Thursday 25 February 2027 online event for international students only.",
+  "All seven courses are taught at City Campus in Nottingham (the course pages say On-campus (City Campus)). Property Finance and Investment is run by the School of Architecture, Design and the Built Environment; the others are in Nottingham Business School."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "Open days: NTU's page works out the right open day after you pick your subject and course (an interactive selector), so it is not confirmed which of the two Saturdays is for Economics at City Campus",
+  "Year 12 programmes: no NTU summer school or lower-offer access programme for Year 12 students found on ntu.ac.uk (searched 2026-10-21); only the Business Experience Day taster was found. NTU's outreach booklet is titled for Nottingham and Nottinghamshire schools",
+  "Contextual offers: the list of named key feeder schools and colleges is long and is on NTU's contextual offers page, not copied here"
+ ]
+}

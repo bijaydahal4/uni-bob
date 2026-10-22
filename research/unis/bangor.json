@@ -1,0 +1,688 @@
+{
+ "id": "bangor",
+ "name": "Bangor University",
+ "shortName": "Bangor",
+ "aliases": [
+  "Bangor",
+  "Bangor Uni",
+  "Bangor University",
+  "Prifysgol Bangor",
+  "Bangor Wales"
+ ],
+ "city": "Bangor",
+ "region": "Wales",
+ "country": "Wales",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.bangor.ac.uk/openday",
+  "checked": "2026-10-21",
+  "evidence": "Bangor is a small, friendly city"
+ },
+ "location": {
+  "postcode": "LL57 2DG",
+  "postcodeSource": "https://www.bangor.ac.uk/courses/undergraduate/l110-economics-bsc-hons",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/LL572DG",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 9790,
+  "academicYear": "2026/27",
+  "text": "£9,790 per year for Home (UK) students starting in September 2026 (2026/27). Bangor says the fee for September 2027 is yet to be set (it is waiting for the Welsh Government maximum regulated fee), so £9,790 is only an indication for 2027 entry.",
+  "source": {
+   "url": "https://www.bangor.ac.uk/studentfinance/new-undergraduates",
+   "checked": "2026-10-21",
+   "evidence": "The tuition fee for full-time undergraduate Home students starting at Bangor University in September 2026 is £9,790."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 110,
+  "amountHigh": 265,
+  "period": "week",
+  "academicYear": "2027/28",
+  "text": "University halls are priced 'from' £110 a week (Budget Single) up to 'from' £265 a week (Studio Deluxe). All bills, internet and gym membership are included. The page labels room availability for September 2027.",
+  "source": {
+   "url": "https://www.bangor.ac.uk/find-your-perfect-room-undergraduate-students",
+   "checked": "2026-10-21",
+   "evidence": "From £110 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-24",
+    "endDate": null,
+    "label": "Undergraduate Open Day (08:45-16:00)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-28",
+    "endDate": null,
+    "label": "Undergraduate Open Day (08:45-16:00)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days: Saturday 24 October 2026 and Saturday 28 November 2026 (both 08:45-16:00, Main University Building). No later dates are listed yet.",
+  "url": "https://www.bangor.ac.uk/openday",
+  "source": {
+   "url": "https://www.bangor.ac.uk/openday/events/open-day-8",
+   "checked": "2026-10-21",
+   "evidence": "Book your place at the Open Day - Saturday, 24 October"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Bangor uses postcode data and UCAS contextual data to decide who gets a contextual offer, which is likely to be lower than the standard offer; it doesn't say by how much.",
+  "typicalReduction": null,
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Home postcode in a higher education low-participation neighbourhood (including Communities First areas in Wales). Postcodes are put into 5 POLAR4 tiers, with Tier 1 having the lowest proportion of residents who have attended higher education; the page doesn't say which tiers qualify.",
+    "measure": "POLAR4",
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "fsm",
+    "detail": "Free school meals recipient (from UCAS contextual data).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged from parents (from UCAS contextual data).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "carer",
+    "detail": "Caring responsibilities (from UCAS contextual data).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "care",
+    "detail": "Time spent in care (from UCAS contextual data).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "firstGen",
+    "detail": "First in the family to attend university (from UCAS contextual data).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Parent or carer in the UK Armed Forces; served in the UK Armed Forces; living with a physical and/or mental health condition, long-term illness or learning difference (all from UCAS contextual data).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "school",
+    "detail": "School performance data (e.g. exam results) from UCAS might be used at confirmation (summer results) to help decide where applicants have not quite met the terms of their offer.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": null,
+  "rulesText": "Bangor will review the UCAS contextual information to inform whether an applicant is eligible for a contextual offer. All contextual offers are made on the basis of potential to achieve highly at the university and no offers will be based solely on contextual data. The page doesn't say how many criteria you need.",
+  "url": "https://www.bangor.ac.uk/contextual-offers",
+  "source": {
+   "url": "https://www.bangor.ac.uk/contextual-offers",
+   "checked": "2026-10-21",
+   "evidence": "This means that your offer is likely to be lower than you may have otherwise received."
+  }
+ },
+ "programmes": [
+  {
+   "id": "bangor-reaching-wider-mentoring",
+   "name": "Reaching Wider Mentoring",
+   "provider": "Bangor University (Reaching Wider)",
+   "providerType": "university",
+   "uniIds": [
+    "bangor"
+   ],
+   "summary": "1:1 online mentoring with a current undergraduate who studies in Wales, giving advice on university options, careers, CVs and applications.",
+   "whoCanApply": "Learners currently in Year 12 or Year 13 (aged 16-19) from Reaching Wider priority groups: mainly people living in the bottom two quintiles of the Welsh Index of Multiple Deprivation (a Wales-only measure), plus care experienced learners and carers.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "area",
+    "care",
+    "carer"
+   ],
+   "eligibilityDetail": "Priority groups identified by HEFCW: young people up to the age of 18 and adults over 21 living in the bottom two quintiles of the Welsh Index of Multiple Deprivation (WIMD) up to Level 4 learning; care experienced learners and carers (regardless of WIMD).",
+   "benefits": [
+    "Weekly 1:1 online mentoring with an undergraduate student who studies in Wales",
+    "Free and impartial advice on career goals and university aspirations",
+    "Help with CVs, cover letters and applications"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "online",
+   "subjects": "All subjects (general careers and university advice)",
+   "yearGroup": "Year 12 and Year 13",
+   "runs": {
+    "text": "Not published",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "The page gives no year, dates or deadline; details are as published on 2026-10-21.",
+   "url": "https://www.bangor.ac.uk/reaching-wider/mentoring",
+   "source": {
+    "url": "https://www.bangor.ac.uk/reaching-wider/mentoring",
+    "checked": "2026-10-21",
+    "evidence": "who are currently Year 12 and Year 13 (aged 16-19) in education"
+   },
+   "notConfirmed": [
+    "No start date, end date or application deadline published",
+    "Page doesn't say which school year it describes or how to apply; 'Free' is based on the page describing the advice as free"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.bangor.ac.uk/",
+  "courses": "https://www.bangor.ac.uk/courses?level_of_study=wt_undergraduate_programme",
+  "economics": "https://www.bangor.ac.uk/study/undergraduate/economics",
+  "openDays": "https://www.bangor.ac.uk/openday",
+  "fees": "https://www.bangor.ac.uk/studentfinance/new-undergraduates",
+  "contextual": "https://www.bangor.ac.uk/contextual-offers",
+  "accommodation": "https://www.bangor.ac.uk/accommodation"
+ },
+ "courses": [
+  {
+   "id": "bangor-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L110",
+   "lengthYears": 3,
+   "lengthNote": "Optional extra year: a Placement Year or an International Experience Year (each an additional 1 year). A 4-year version with a foundation year has its own UCAS code (L10F).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 136,
+    "tariffLow": 112,
+    "text": "112-136 UCAS tariff points from a Level 3 qualification (the page gives BTEC National Extended Diploma DMM-DDD as an example). Bangor doesn't publish A-level grades for this range.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/l110-economics-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 112 - 136 tariff points from a Level 3 qualification"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification."
+    }
+   ],
+   "gcseText": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification.",
+   "notAccepted": [
+    "General Studies",
+    "Key Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bangor.ac.uk/courses/undergraduate/l110-economics-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "A Levels: General Studies and Key Skills not normally accepted"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Bangor is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/l110-economics-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 112 - 136 tariff points from a Level 3 qualification"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.bangor.ac.uk/courses/undergraduate/l110-economics-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year isn't printed on the course page; recorded as 2027 entry because the page says 2027/28 tuition fees are still being finalised and Bangor's apply page gives the 2027-entry UCAS deadline (13 January 2027). No 2028-entry information found.",
+    "The tariff range isn't translated into A-level grades, and the page lists no required A-level subjects or minimum A-level grades.",
+    "Couldn't open the UCAS course page (blocked, HTTP 403), so there is no second source."
+   ],
+   "notes": "Points can include a relevant EPQ but you need at least 2 full A-levels (or equivalent). First year follows the CORE economics syllabus; trading floor with Bloomberg terminals. The page says this course is currently subject to revalidation, so content may change."
+  },
+  {
+   "id": "bangor-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L1N3",
+   "lengthYears": 3,
+   "lengthNote": "Optional extra year: a Placement Year or an International Experience Year (each an additional 1 year). A 4-year version with a foundation year has its own UCAS code (L1NF).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": 104,
+    "text": "104-128 UCAS tariff points from a Level 3 qualification (the page gives BTEC National Extended Diploma DMM-DDM as an example). Bangor doesn't publish A-level grades for this range.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/l1n3-economics-and-finance-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 104 - 128 tariff points from a Level 3 qualification"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification."
+    }
+   ],
+   "gcseText": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification.",
+   "notAccepted": [
+    "General Studies",
+    "Key Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bangor.ac.uk/courses/undergraduate/l1n3-economics-and-finance-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "A Levels: General Studies and Key Skills not normally accepted"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Bangor is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/l1n3-economics-and-finance-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 104 - 128 tariff points from a Level 3 qualification"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.bangor.ac.uk/courses/undergraduate/l1n3-economics-and-finance-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year isn't printed on the course page; recorded as 2027 entry because the page says 2027/28 tuition fees are still being finalised and Bangor's apply page gives the 2027-entry UCAS deadline (13 January 2027). No 2028-entry information found.",
+    "The tariff range isn't translated into A-level grades, and the page lists no required A-level subjects or minimum A-level grades.",
+    "Couldn't open the UCAS course page (blocked, HTTP 403), so there is no second source."
+   ],
+   "notes": "Points can include a relevant EPQ but you need at least 2 full A-levels (or equivalent). CISI Educational Partner; Bangor is a Chartered Banker Institute Centre of Excellence. The page says this course is currently subject to revalidation, so content may change."
+  },
+  {
+   "id": "bangor-banking-finance",
+   "name": "Banking and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N391",
+   "lengthYears": 3,
+   "lengthNote": "Optional extra year: a Placement Year or an International Experience Year (each an additional 1 year). A 4-year version with a foundation year has its own UCAS code (N39F).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": 104,
+    "text": "104-128 UCAS tariff points from a Level 3 qualification (the page gives BTEC National Extended Diploma DMM-DDM as an example). Bangor doesn't publish A-level grades for this range.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/n391-banking-and-finance-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 104 - 128 tariff points from a Level 3 qualification"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification."
+    }
+   ],
+   "gcseText": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification.",
+   "notAccepted": [
+    "General Studies",
+    "Key Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bangor.ac.uk/courses/undergraduate/n391-banking-and-finance-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "A Levels: General Studies and Key Skills not normally accepted"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Bangor is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/n391-banking-and-finance-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 104 - 128 tariff points from a Level 3 qualification"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.bangor.ac.uk/courses/undergraduate/n391-banking-and-finance-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year isn't printed on the course page; recorded as 2027 entry because the page says 2027/28 tuition fees are still being finalised and Bangor's apply page gives the 2027-entry UCAS deadline (13 January 2027). No 2028-entry information found.",
+    "The tariff range isn't translated into A-level grades, and the page lists no required A-level subjects or minimum A-level grades.",
+    "Couldn't open the UCAS course page (blocked, HTTP 403), so there is no second source."
+   ],
+   "notes": "Points can include a relevant EPQ but you need at least 2 full A-levels (or equivalent). CISI Educational Partner; Bangor is a Chartered Banker Institute Centre of Excellence."
+  },
+  {
+   "id": "bangor-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN4H",
+   "lengthYears": 3,
+   "lengthNote": "Optional extra year: a Placement Year or an International Experience Year (each an additional 1 year). A 4-year version with a foundation year has its own UCAS code (NN4F).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 136,
+    "tariffLow": 112,
+    "text": "112-136 UCAS tariff points from a Level 3 qualification (the page gives BTEC National Extended Diploma DMM-DDD as an example). Bangor doesn't publish A-level grades for this range.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/nn4h-accounting-and-finance-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 112 - 136 tariff points from a Level 3 qualification"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification."
+    }
+   ],
+   "gcseText": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification.",
+   "notAccepted": [
+    "General Studies",
+    "Key Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bangor.ac.uk/courses/undergraduate/nn4h-accounting-and-finance-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "A Levels: General Studies and Key Skills not normally accepted"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Bangor is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/nn4h-accounting-and-finance-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 112 - 136 tariff points from a Level 3 qualification"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.bangor.ac.uk/courses/undergraduate/nn4h-accounting-and-finance-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year isn't printed on the course page; recorded as 2027 entry because the page says 2027/28 tuition fees are still being finalised and Bangor's apply page gives the 2027-entry UCAS deadline (13 January 2027). No 2028-entry information found.",
+    "The tariff range isn't translated into A-level grades, and the page lists no required A-level subjects or minimum A-level grades.",
+    "Couldn't open the UCAS course page (blocked, HTTP 403), so there is no second source."
+   ],
+   "notes": "Points can include a relevant EPQ but you need at least 2 full A-levels (or equivalent). The page says graduates could be eligible for exemptions from up to nine professional exams (route to Chartered Accountant). The page says this course is currently subject to revalidation, so content may change."
+  },
+  {
+   "id": "bangor-business-management",
+   "name": "Business Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N200",
+   "lengthYears": 3,
+   "lengthNote": "Optional extra year: a Placement Year or an International Experience Year (each an additional 1 year). A 4-year version with a foundation year has its own UCAS code (N20F).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": 104,
+    "text": "104-128 UCAS tariff points from a Level 3 qualification (the page gives BTEC National Extended Diploma DMM-DDM as an example). Bangor doesn't publish A-level grades for this range.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/n200-business-management-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 104 - 128 tariff points from a Level 3 qualification"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification."
+    }
+   ],
+   "gcseText": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification.",
+   "notAccepted": [
+    "General Studies",
+    "Key Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bangor.ac.uk/courses/undergraduate/n200-business-management-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "A Levels: General Studies and Key Skills not normally accepted"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Bangor is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/n200-business-management-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 104 - 128 tariff points from a Level 3 qualification"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.bangor.ac.uk/courses/undergraduate/n200-business-management-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year isn't printed on the course page; recorded as 2027 entry because the page says 2027/28 tuition fees are still being finalised and Bangor's apply page gives the 2027-entry UCAS deadline (13 January 2027). No 2028-entry information found.",
+    "The tariff range isn't translated into A-level grades, and the page lists no required A-level subjects or minimum A-level grades.",
+    "Couldn't open the UCAS course page (blocked, HTTP 403), so there is no second source."
+   ],
+   "notes": "Points can include a relevant EPQ but you need at least 2 full A-levels (or equivalent). Accredited by the Chartered Management Institute (CMI). The page says this course is currently subject to revalidation, so content may change."
+  },
+  {
+   "id": "bangor-banking-fintech",
+   "name": "Banking with Financial Technology (FinTech)",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N312",
+   "lengthYears": 3,
+   "lengthNote": "Optional extra year: a Placement Year or an International Experience Year (each an additional 1 year). A 4-year version with a foundation year has its own UCAS code (N32F).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": 104,
+    "text": "104-128 UCAS tariff points from a Level 3 qualification (the page gives BTEC National Extended Diploma DMM-DDM as an example). Bangor doesn't publish A-level grades for this range.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/n312-banking-with-financial-technology-fintech-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 104 - 128 tariff points from a Level 3 qualification"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification."
+    }
+   ],
+   "gcseText": "GCSE Maths at grade C/4 required if not demonstrated by the Level 3 qualification.",
+   "notAccepted": [
+    "General Studies",
+    "Key Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bangor.ac.uk/courses/undergraduate/n312-banking-with-financial-technology-fintech-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "A Levels: General Studies and Key Skills not normally accepted"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Bangor is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.bangor.ac.uk/courses/undergraduate/n312-banking-with-financial-technology-fintech-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Offers are tariff based, 104 - 128 tariff points from a Level 3 qualification"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.bangor.ac.uk/courses/undergraduate/n312-banking-with-financial-technology-fintech-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year isn't printed on the course page; recorded as 2027 entry because the page says 2027/28 tuition fees are still being finalised and Bangor's apply page gives the 2027-entry UCAS deadline (13 January 2027). No 2028-entry information found.",
+    "The tariff range isn't translated into A-level grades, and the page lists no required A-level subjects or minimum A-level grades.",
+    "Couldn't open the UCAS course page (blocked, HTTP 403), so there is no second source."
+   ],
+   "notes": "Points can include a relevant EPQ but you need at least 2 full A-levels (or equivalent). Includes coding, programming and machine learning alongside banking and finance."
+  }
+ ],
+ "notes": [
+  "Bangor publishes offers as UCAS tariff points (e.g. 112-136 for Economics), not A-level grades, so they are recorded as tariff offers; no grade equivalents are given.",
+  "The course pages don't print an entry year; they are treated as 2027 entry (2027/28 fees 'still being finalised'; the apply page gives the 2027-entry UCAS deadline as 13 January 2027). No 2028-entry information found on 2026-10-21.",
+  "Bangor is not on UAT-UK's official TMUA list for 2027 entry, and none of the course pages mention an admissions test.",
+  "Bangor's Home tuition fee is the same as the Welsh Government maximum regulated fee, so it can change each year.",
+  "Bangor's own widening-access outreach (Reaching Wider) is defined using the Welsh Index of Multiple Deprivation, a Wales-only measure."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published (none found); 2027 entry recorded for all courses, although the course pages don't print an entry year",
+  "2027/28 Home tuition fee not set yet (Bangor is waiting for the Welsh Government maximum regulated fee); the 2026/27 fee of £9,790 is recorded",
+  "Halls prices page doesn't state the academic year (it labels availability for 'September 2027'); prices are 'From' prices for each room type",
+  "Contextual admissions page describes the 2025/26 cycle (September 2026 entry); it doesn't say how much lower a contextual offer is or which POLAR4 tiers qualify",
+  "Open days after Saturday 28 November 2026 are not listed on the open day page",
+  "No Year 12 summer school or taster scheme open to students from England found on Bangor's official pages; the only Year 12 scheme found (Reaching Wider mentoring) is aimed at people in Wales",
+  "UCAS course pages couldn't be opened (HTTP 403), so no second source for the courses"
+ ]
+}

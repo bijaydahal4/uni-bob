@@ -1,0 +1,1352 @@
+{
+  "id": "loughborough",
+  "name": "Loughborough University",
+  "shortName": "Loughborough",
+  "aliases": [
+    "Lboro",
+    "Loughborough Uni",
+    "Loughborough University"
+  ],
+  "city": "Loughborough",
+  "region": "Midlands",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.lboro.ac.uk/study/where-study-live/loughborough-campus/",
+    "checked": "2026-10-17",
+    "evidence": "Our stunning single-site campus is our most glorious green asset."
+  },
+  "location": {
+    "postcode": "LE11 3TU",
+    "postcodeSource": "https://www.lboro.ac.uk/about/find-us/",
+    "lat": 52.764847,
+    "lng": -1.229512,
+    "coordsSource": "https://api.postcodes.io/postcodes/LE113TU",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK students (2027/28 entry); a placement year costs 20% of the full-time fee and a study-abroad year 15%",
+    "source": {
+      "url": "https://www.lboro.ac.uk/study/undergraduate/fees-funding/fees/",
+      "checked": "2026-10-17",
+      "evidence": "The UK Government undergraduate tuition fee cap for 2027-28 is £10,050."
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 5151.21,
+    "amountHigh": 10514.93,
+    "period": "year",
+    "academicYear": "2026/27",
+    "text": "Undergraduate halls cost roughly £5,151-£10,515 for the year (2026/27, mostly 41-week lets); self-catered halls are cheaper and catered halls include meals",
+    "source": {
+      "url": "https://www.lboro.ac.uk/services/accommodation/on-campus/fees-facilities/",
+      "checked": "2026-10-17",
+      "evidence": "Elvyn Richards | En-suite only | 10 | 41 weeks | £10,514.93 ... Falkner-Eggington | Shared bathroom only | 41 weeks | £5,151.21"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-11-14",
+        "endDate": null,
+        "label": "Undergraduate open day (9am-3:30pm)",
+        "format": "in person",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next undergraduate open day: Saturday 14 November 2026, 9am-3:30pm (no later dates listed yet)",
+    "url": "https://www.lboro.ac.uk/study/open-events/open-days/",
+    "source": {
+      "url": "https://www.lboro.ac.uk/study/open-events/open-days/",
+      "checked": "2026-10-17",
+      "evidence": "Undergraduate open day Saturday 14 November 2026 9am - 3:30pm"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Loughborough makes Access Loughborough contextual offers up to two grades lower than the typical offer to applicants who had free school meals, or who attend a state school or college and live in an IMD quintile 1 area; Realising Opportunities and LUDUS Gold students get reduced alternative offers (up to two and up to three grades lower).",
+    "typicalReduction": "Up to two grades lower than typical entry requirements (Access Loughborough); up to three grades lower with LUDUS Gold",
+    "criteria": [
+      {
+        "key": "fsm",
+        "detail": "Known to be eligible for free school meals at the end of Key Stage 4 (Year 11) and/or the six years before it (England; equivalent rules for Northern Ireland and Wales), or currently receiving free school meals or free meals in further education",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Live in an area in IMD quintile 1 (England only) AND attend a non-fee-paying (state) school or college",
+        "measure": "IMD",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "access",
+        "detail": "Taking part in Realising Opportunities: you get a dual offer including an alternative offer up to two grades lower, dependent on completing the programme",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Taking part in LUDUS Gold: you get a dual offer including an alternative offer up to three grades lower, dependent on completing the programme",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Spent more than three months in care (considered as contextual information; not listed as an Access Loughborough criterion)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "carer",
+        "detail": "Have caring responsibilities (young carer); supporting evidence from your referee is needed",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged from your family",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "refugee",
+        "detail": "Recognised refugee, asylum seeker or granted humanitarian protection",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "other",
+        "detail": "Disability or long-term health condition (supporting evidence from your referee needed)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "other",
+        "detail": "Mature applicant: aged 21 or over at the start of the course",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "other",
+        "detail": "Other personal or extenuating circumstances that disrupted your education",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      }
+    ],
+    "minCriteria": null,
+    "rulesText": "You're eligible for an Access Loughborough Contextual Offer if you were known to be eligible for free school meals (or currently receive them), or you attend a state school or college and live in IMD quintile 1 (England only). It is open to applicants taking three A levels, or two A levels plus an accepted Level 3 qualification, who expect to pay UK fees. If you're eligible, any offer will be up to two grades lower than typical, but eligibility doesn't guarantee an offer. Other contextual information (care, caring responsibilities, disability, estrangement, refugee status, mature age, extenuating circumstances) is considered individually and may lead to a reduced offer of up to one grade lower.",
+    "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+    "source": {
+      "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+      "checked": "2026-10-17",
+      "evidence": "Where specific contextual information is met, you will be eligible for an Access Loughborough Contextual Offer. This is up to two grades lower than typical entry requirements."
+    }
+  },
+  "programmes": [
+    {
+      "id": "loughborough-ludus-gold",
+      "name": "LUDUS Gold",
+      "provider": "Loughborough University",
+      "providerType": "university",
+      "uniIds": [
+        "loughborough"
+      ],
+      "summary": "A free programme of online and on-campus support (including a Business and Economics taster day, an online academic skills project and a VIP open day) for targeted Year 12 students; completing it earns a reduced alternative offer.",
+      "whoCanApply": "Year 12 students at a state school or college who are UK fee paying, predicted or achieved 5 GCSEs at grades 9-5 (with at least grade 4 in Maths and English Language), and who meet at least one of: live in an IMD quintile 1 area (England), free school meals in the last six years, or time spent in care.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area",
+        "fsm",
+        "care"
+      ],
+      "eligibilityDetail": "Must meet at least one of: living in an area more deprived than at least 80% of neighbourhoods in England (IMD quintile 1) based on your home postcode; eligible for free school meals in the last 6 years; time spent in care. AND all of: predicted/achieved 5 GCSEs grades 9-5; at least grade 4 in GCSE Maths and English Language; attending a state school/college in Year 12 (or first year of college); UK fee paying (or expecting to be).",
+      "benefits": [
+        "Reduced alternative offer at Loughborough: up to 3 A-level grades lower than the standard offer, if you complete the programme",
+        "Priority booking for an Inspiring Minds academic taster day (Business and Economics is one of the events)",
+        "VIP Open Day experience for students who complete the programme",
+        "Opportunity Scholarship of £3,000 a year for three years (excluding a placement year) if you get an offer, make Loughborough your firm choice and have a verified household income of £30,000 or less"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "loughborough"
+      ],
+      "offerReduction": "Up to 3 A level grades lower than the standard offer",
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "All subjects (Business and Economics taster day available)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Exact dates not published; the programme includes a welcome event, an Inspiring Minds taster day, a 4-week online LEAP project and a VIP open day",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Applications opened Monday 14 September 2026",
+        "date": "2026-09-14",
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Friday 20 November 2026",
+        "date": "2026-11-20",
+        "status": "Confirmed"
+      },
+      "infoYear": 2026,
+      "infoNote": "Details for the round open to current Year 12 students (applications 14 September to 20 November 2026). Programme dates for this cohort aren't published.",
+      "url": "https://www.lboro.ac.uk/study/ludus/gold/students/",
+      "source": {
+        "url": "https://www.lboro.ac.uk/study/ludus/gold/apply/",
+        "checked": "2026-10-17",
+        "evidence": "Applications are now open for Year 12 students from Monday 14th September - Friday 20th November 2026"
+      },
+      "notConfirmed": [
+        "runs: programme start and end dates aren't published",
+        "yearGroup/length: the pages don't say how long the programme lasts beyond the activities listed"
+      ]
+    },
+    {
+      "id": "loughborough-inspiring-minds-business-economics",
+      "name": "Inspiring Minds: Business and Economics",
+      "provider": "Loughborough University",
+      "providerType": "university",
+      "uniIds": [
+        "loughborough"
+      ],
+      "summary": "A free one-day taster for Year 12 students at the Loughborough campus, with sessions across Accounting and Finance, Business, Economics, Marketing and Management plus advice on UCAS applications and student finance.",
+      "whoCanApply": "Year 12 students; individual students and school or college groups are welcome.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Open to Year 12 students, individually or as part of a school or college group. No attendance fee.",
+      "benefits": [
+        "Choose from taster sessions across business and economics subjects",
+        "Explore campus facilities and meet current students and recent graduates",
+        "Information, advice and guidance on university applications and student finance",
+        "Loughborough says attending can enhance a personal statement"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "day",
+      "subjects": "Business and Economics (Accounting and Finance, Business, Economics, Marketing, Management)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Expected spring 2027 (the 2026 event was Thursday 9 April 2026, about 9am-4pm; 2027 dates not announced yet)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Not announced yet (you can register your interest on the Inspiring Minds page)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not announced yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2026 event (9 April 2026). Loughborough says its 2027 dates will be announced soon; the spring 2027 timing is an expectation based on the 2026 date.",
+      "url": "https://www.lboro.ac.uk/study/school-college-liaison/post-16/inspiring-minds/businessandeconomics/",
+      "source": {
+        "url": "https://www.lboro.ac.uk/study/school-college-liaison/post-16/inspiring-minds/businessandeconomics/",
+        "checked": "2026-10-17",
+        "evidence": "Inspiring Minds is Loughborough University’s series of taster days for Year 12 students."
+      },
+      "notConfirmed": [
+        "runs: 2027 date not announced",
+        "opens/deadline: booking dates for 2027 not announced"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.lboro.ac.uk/",
+    "courses": "https://www.lboro.ac.uk/study/undergraduate/courses/",
+    "economics": "https://www.lboro.ac.uk/study/undergraduate/subjects/economics/",
+    "openDays": "https://www.lboro.ac.uk/study/open-events/open-days/",
+    "fees": "https://www.lboro.ac.uk/study/undergraduate/fees-funding/fees/",
+    "contextual": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/",
+    "accommodation": "https://www.lboro.ac.uk/study/where-study-live/accommodation/"
+  },
+  "courses": [
+    {
+      "id": "loughborough-economics",
+      "name": "Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS L10A)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level; no specific A-level subjects are required (Maths A-level not essential). GCSE Maths grade 6 and English Language grade 4 needed.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics/",
+          "checked": "2026-10-17",
+          "evidence": "Typical A level offer AAA While no specific subjects are required, we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Biology",
+            "Business",
+            "Classical Civilisation",
+            "Chemistry",
+            "Economics",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "History",
+            "Languages",
+            "Law",
+            "Mathematics",
+            "Further Mathematics",
+            "Philosophy",
+            "Physics",
+            "Politics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology"
+          ],
+          "note": "Preferred, not required: subjects that show numerical, analytical and discursive ability. No specific subjects are required."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "No flexibility, but a grade B in Level 3 Core Maths is considered an acceptable alternative"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE Maths grade 6/B and GCSE English Language grade 4/C",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics/",
+        "checked": "2026-10-17",
+        "evidence": "Maths A Level not essential. ... we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities ... Geography ... Maths/Further Maths ... Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Applicants are usually selected solely on the basis of their UCAS application; an interview is only needed in exceptional cases.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants are usually selected solely on the basis of their UCAS application, but in exceptional cases an interview may be required."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Access Loughborough Contextual Offer: for applicants who were known to be eligible for free school meals, or who attend a state school/college and live in an IMD quintile 1 area (England), taking three A levels (or two A levels plus an accepted Level 3 qualification) and expecting to pay UK fees. Meeting the criteria doesn't guarantee an offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics/",
+            "checked": "2026-10-17",
+            "evidence": "Access Loughborough Contextual Offer A level: ABB with no subject specific requirements but we do have a list of preferred A level subjects outlined above."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to two grades lower) if you take part in Realising Opportunities and complete it. Exact grades aren't published; any subject-specific grades still apply.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative RO offers are dependent on your successful completion of the RO programme and are up to two grades lower than typical entry requirements."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to three A-level grades lower) if you complete the LUDUS Gold programme. Exact grades aren't published; specific grades in certain subjects can still be required.",
+          "programme": "LUDUS Gold",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative LUDUS Gold offers are dependent on your successful completion of the LUDUS Gold programme and are up to three grades lower than typical entry requirements."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lboro.ac.uk/study/undergraduate/courses/economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (pages show a September 2027 start), so 2027 entry is used",
+        "alternativeOffers: exact grades for Realising Opportunities and LUDUS Gold offers aren't published (only 'up to two grades' and 'up to three grades' lower)"
+      ],
+      "notes": "A-level Maths is not essential (extra optional maths support is offered) but GCSE Maths grade 6 is needed with no flexibility. Optional placement year (Diploma in Professional Studies) or year abroad. Loughborough says it may ask applicants to achieve specific grades in certain subjects. A foundation-year version exists (Economics with a Foundation Year for Elite Athletes, UCAS L1FY) but only for students classed as elite athletes, so it is recorded as 'none' for general applicants."
+    },
+    {
+      "id": "loughborough-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L1NK",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS LN14)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level; no specific A-level subjects are required (Maths A-level not essential). GCSE Maths grade 6 and English Language grade 4 needed.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-finance-bsc/",
+          "checked": "2026-10-17",
+          "evidence": "Typical A level offer AAA While no specific subjects are required, we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Biology",
+            "Business",
+            "Classical Civilisation",
+            "Chemistry",
+            "Economics",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "History",
+            "Languages",
+            "Law",
+            "Mathematics",
+            "Further Mathematics",
+            "Philosophy",
+            "Physics",
+            "Politics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology"
+          ],
+          "note": "Preferred, not required: subjects that show numerical, analytical and discursive ability. No specific subjects are required."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "No flexibility, but a grade B in Level 3 Core Maths is considered an acceptable alternative"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE Maths grade 6/B and GCSE English Language grade 4/C",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-finance-bsc/",
+        "checked": "2026-10-17",
+        "evidence": "Maths A Level not essential. ... we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities ... Geography ... Maths/Further Maths ... Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Applicants are usually selected solely on the basis of their UCAS application; an interview is only needed in exceptional cases.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-finance-bsc/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants are usually selected solely on the basis of their UCAS application, but in exceptional cases an interview may be required."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Access Loughborough Contextual Offer: for applicants who were known to be eligible for free school meals, or who attend a state school/college and live in an IMD quintile 1 area (England), taking three A levels (or two A levels plus an accepted Level 3 qualification) and expecting to pay UK fees. Meeting the criteria doesn't guarantee an offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-finance-bsc/",
+            "checked": "2026-10-17",
+            "evidence": "Access Loughborough Contextual Offer A level: ABB with no subject specific requirements but we do have a list of preferred A level subjects outlined above."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to two grades lower) if you take part in Realising Opportunities and complete it. Exact grades aren't published; any subject-specific grades still apply.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative RO offers are dependent on your successful completion of the RO programme and are up to two grades lower than typical entry requirements."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to three A-level grades lower) if you complete the LUDUS Gold programme. Exact grades aren't published; specific grades in certain subjects can still be required.",
+          "programme": "LUDUS Gold",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative LUDUS Gold offers are dependent on your successful completion of the LUDUS Gold programme and are up to three grades lower than typical entry requirements."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-finance-bsc/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (pages show a September 2027 start), so 2027 entry is used",
+        "alternativeOffers: exact grades for Realising Opportunities and LUDUS Gold offers aren't published (only 'up to two grades' and 'up to three grades' lower)"
+      ],
+      "notes": "A-level Maths is not essential but GCSE Maths grade 6 is needed with no flexibility. Optional placement year or year abroad. Loughborough says it may ask applicants to achieve specific grades in certain subjects. A foundation-year route for elite athletes (Economics, UCAS L1FY) lists this course as a progression option; it isn't open to general applicants."
+    },
+    {
+      "id": "loughborough-economics-management",
+      "name": "Economics and Management",
+      "degree": "BSc (Hons)",
+      "ucasCode": "LN12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS LN1F)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A-level; no specific A-level subjects are required (Maths A-level not essential). GCSE Maths grade 6 and English Language grade 4 needed.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-management/",
+          "checked": "2026-10-17",
+          "evidence": "Typical A level offer AAB While no specific subjects are required, we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Biology",
+            "Business",
+            "Classical Civilisation",
+            "Chemistry",
+            "Economics",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "History",
+            "Languages",
+            "Law",
+            "Mathematics",
+            "Further Mathematics",
+            "Philosophy",
+            "Physics",
+            "Politics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology"
+          ],
+          "note": "Preferred, not required: subjects that show numerical, analytical and discursive ability. No specific subjects are required."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "No flexibility, but a grade B in Level 3 Core Maths is considered an acceptable alternative"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE Maths grade 6/B and GCSE English Language grade 4/C",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-management/",
+        "checked": "2026-10-17",
+        "evidence": "Maths A Level not essential. ... we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities ... Geography ... Maths/Further Maths ... Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Applicants are usually selected solely on the basis of their UCAS application; an interview is only needed in exceptional cases.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-management/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants are usually selected solely on the basis of their UCAS application, but in exceptional cases an interview may be required."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Access Loughborough Contextual Offer: for applicants who were known to be eligible for free school meals, or who attend a state school/college and live in an IMD quintile 1 area (England), taking three A levels (or two A levels plus an accepted Level 3 qualification) and expecting to pay UK fees. Meeting the criteria doesn't guarantee an offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-management/",
+            "checked": "2026-10-17",
+            "evidence": "Access Loughborough Contextual Offer A level: BBB with no subject specific requirements but we do have a list of preferred A level subjects outlined above."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to two grades lower) if you take part in Realising Opportunities and complete it. Exact grades aren't published; any subject-specific grades still apply.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative RO offers are dependent on your successful completion of the RO programme and are up to two grades lower than typical entry requirements."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to three A-level grades lower) if you complete the LUDUS Gold programme. Exact grades aren't published; specific grades in certain subjects can still be required.",
+          "programme": "LUDUS Gold",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative LUDUS Gold offers are dependent on your successful completion of the LUDUS Gold programme and are up to three grades lower than typical entry requirements."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lboro.ac.uk/study/undergraduate/courses/economics-and-management/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (pages show a September 2027 start), so 2027 entry is used",
+        "alternativeOffers: exact grades for Realising Opportunities and LUDUS Gold offers aren't published (only 'up to two grades' and 'up to three grades' lower)"
+      ],
+      "notes": "A-level Maths is not essential but GCSE Maths grade 6 is needed with no flexibility. Optional placement year or year abroad. Loughborough says it may ask applicants to achieve specific grades in certain subjects. A foundation-year route for elite athletes (Economics, UCAS L1FY) lists this course as a progression option; it isn't open to general applicants."
+    },
+    {
+      "id": "loughborough-ppe",
+      "name": "Politics, Philosophy and Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "L0V1",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS L0V0)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A-level; no A-level subject requirements are listed. GCSE Maths grade 6 and English Language grade 4 needed.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/politics-philosophy-and-economics/",
+          "checked": "2026-10-17",
+          "evidence": "Typical A level offer AAB Typical IB offer 35 (6,6,5 HL)"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "No flexibility, but a grade B in Level 3 Core Maths is considered an acceptable alternative"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE Maths grade 6/B and GCSE English Language grade 4/C",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.lboro.ac.uk/study/undergraduate/courses/politics-philosophy-and-economics/",
+        "checked": "2026-10-17",
+        "evidence": "Typical A level offer AAB Typical IB offer 35 (6,6,5 HL)"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page doesn't mention an admissions test or interview.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/politics-philosophy-and-economics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Access Loughborough Contextual Offer: for applicants who were known to be eligible for free school meals, or who attend a state school/college and live in an IMD quintile 1 area (England), taking three A levels (or two A levels plus an accepted Level 3 qualification) and expecting to pay UK fees. Meeting the criteria doesn't guarantee an offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/courses/politics-philosophy-and-economics/",
+            "checked": "2026-10-17",
+            "evidence": "Access Loughborough Contextual Offer A level: BBB A level and BTEC Level 3 National Extended Certificate: BB and Distinction"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to two grades lower) if you take part in Realising Opportunities and complete it. Exact grades aren't published; any subject-specific grades still apply.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative RO offers are dependent on your successful completion of the RO programme and are up to two grades lower than typical entry requirements."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to three A-level grades lower) if you complete the LUDUS Gold programme. Exact grades aren't published; specific grades in certain subjects can still be required.",
+          "programme": "LUDUS Gold",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative LUDUS Gold offers are dependent on your successful completion of the LUDUS Gold programme and are up to three grades lower than typical entry requirements."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lboro.ac.uk/study/undergraduate/courses/politics-philosophy-and-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (pages show a September 2027 start), so 2027 entry is used",
+        "alternativeOffers: exact grades for Realising Opportunities and LUDUS Gold offers aren't published (only 'up to two grades' and 'up to three grades' lower)",
+        "subjects: the page doesn't list preferred, required or excluded A-level subjects, so whether Psychology and Geography are accepted is unknown",
+        "admissionsTest: the page doesn't mention an admissions test or interview; none is assumed"
+      ],
+      "notes": "The page lists no required or preferred A-level subjects. GCSE Maths grade 6 is needed with no flexibility. Students are encouraged to add a placement or year abroad, and often decide in year one or two. A general foundation route exists (Social Sciences and Humanities with a Foundation Year, UCAS L3FY, BBB-CCC) that leads to this course."
+    },
+    {
+      "id": "loughborough-maths-economics",
+      "name": "Mathematics with Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "G1L1",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS G1LC)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA or A*AB including an A in A-level Maths. A lower offer of AAB (including AB in Maths and Further Maths) applies only if you take both Maths and Further Maths. GCSE English Language grade 4 needed.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/mathematics-with-economics/",
+          "checked": "2026-10-17",
+          "evidence": "Typical A level offer AAA/A*AB including A in Maths or AAB including AB in Maths and Further Maths."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A in A-level Maths (AAA or A*AB route); the AAB route needs AB in Maths and Further Maths"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Further Mathematics"
+          ],
+          "note": "Not required. If you take Maths and Further Maths the typical offer is AAB including AB in those two subjects."
+        }
+      ],
+      "furtherMaths": "preferred",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE English Language grade 4/C",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.lboro.ac.uk/study/undergraduate/courses/mathematics-with-economics/",
+        "checked": "2026-10-17",
+        "evidence": "Typical A level offer AAA/A*AB including A in Maths or AAB including AB in Maths and Further Maths."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is part of the offer. Loughborough recognises STEP, MAT and TMUA as showing aptitude for higher-level Maths but does not include them in any conditions of offer.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/mathematics-with-economics/",
+          "checked": "2026-10-17",
+          "evidence": "We recognise the benefit of STEP/MAT/TMUA in demonstrating your aptitude to study Mathematics at a higher level but do not include it as part of any conditions of offer."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Access Loughborough Contextual Offer: for applicants who were known to be eligible for free school meals, or who attend a state school/college and live in an IMD quintile 1 area (England), taking three A levels (or two A levels plus an accepted Level 3 qualification) and expecting to pay UK fees. Meeting the criteria doesn't guarantee an offer. For this course the contextual offer is ABB including an A in Maths, or ABC including Maths and Further Maths with an A in either.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/courses/mathematics-with-economics/",
+            "checked": "2026-10-17",
+            "evidence": "Access Loughborough Contextual Offer A level: ABB including A in Maths or ABC including Maths and Further Maths with grade A in either."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to two grades lower) if you take part in Realising Opportunities and complete it. Exact grades aren't published; any subject-specific grades still apply.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative RO offers are dependent on your successful completion of the RO programme and are up to two grades lower than typical entry requirements."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to three A-level grades lower) if you complete the LUDUS Gold programme. Exact grades aren't published; specific grades in certain subjects can still be required.",
+          "programme": "LUDUS Gold",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative LUDUS Gold offers are dependent on your successful completion of the LUDUS Gold programme and are up to three grades lower than typical entry requirements."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lboro.ac.uk/study/undergraduate/courses/mathematics-with-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (pages show a September 2027 start), so 2027 entry is used",
+        "alternativeOffers: exact grades for Realising Opportunities and LUDUS Gold offers aren't published (only 'up to two grades' and 'up to three grades' lower)",
+        "gcse: the page lists only GCSE English Language grade 4; no GCSE Maths grade is given (A-level Maths is required)",
+        "subjects: apart from Maths, the page doesn't list preferred, required or excluded A-level subjects, so whether Psychology and Geography are accepted is unknown"
+      ],
+      "notes": "Needs A-level Maths at grade A. The alternative AAB offer is only for applicants taking both Maths and Further Maths (grades A and B in those two). A general foundation route exists (Mathematics with a Foundation Year, UCAS G102, BBB-BCC) that leads to this course."
+    },
+    {
+      "id": "loughborough-geography-economics",
+      "name": "Geography with Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "LL17",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS LL18)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-geography"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A-level; no A-level subject requirements are listed. GCSE English Language grade 4 needed.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/geography-with-economics/",
+          "checked": "2026-10-17",
+          "evidence": "Typical A level offer AAB Typical IB offer 35 (6,6,5 HL)"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE English Language grade 4/C",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.lboro.ac.uk/study/undergraduate/courses/geography-with-economics/",
+        "checked": "2026-10-17",
+        "evidence": "Typical A level offer AAB Typical IB offer 35 (6,6,5 HL)"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Applicants are usually selected solely on the basis of their UCAS application.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/geography-with-economics/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants are usually selected solely on the basis of their UCAS application."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Access Loughborough Contextual Offer: for applicants who were known to be eligible for free school meals, or who attend a state school/college and live in an IMD quintile 1 area (England), taking three A levels (or two A levels plus an accepted Level 3 qualification) and expecting to pay UK fees. Meeting the criteria doesn't guarantee an offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/courses/geography-with-economics/",
+            "checked": "2026-10-17",
+            "evidence": "Access Loughborough Contextual Offer A level: BBB A level and BTEC Level 3 National Extended Certificate: BB and Distinction"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to two grades lower) if you take part in Realising Opportunities and complete it. Exact grades aren't published; any subject-specific grades still apply.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative RO offers are dependent on your successful completion of the RO programme and are up to two grades lower than typical entry requirements."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to three A-level grades lower) if you complete the LUDUS Gold programme. Exact grades aren't published; specific grades in certain subjects can still be required.",
+          "programme": "LUDUS Gold",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative LUDUS Gold offers are dependent on your successful completion of the LUDUS Gold programme and are up to three grades lower than typical entry requirements."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lboro.ac.uk/study/undergraduate/courses/geography-with-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (pages show a September 2027 start), so 2027 entry is used",
+        "alternativeOffers: exact grades for Realising Opportunities and LUDUS Gold offers aren't published (only 'up to two grades' and 'up to three grades' lower)",
+        "gcse: the page lists only GCSE English Language grade 4; no GCSE Maths grade is given",
+        "subjects: the page doesn't list preferred, required or excluded A-level subjects, so whether Psychology and Geography are accepted is unknown"
+      ],
+      "notes": "The page lists no required or preferred A-level subjects for the A-level route (the BTEC route asks for A-level Geography at grade B). Only GCSE English Language is listed, with no GCSE Maths grade."
+    },
+    {
+      "id": "loughborough-finance",
+      "name": "Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "N302",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS N300)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A-level; no specific A-level subjects are required. GCSE Maths grade 5 and English Language grade 4 needed.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/finance/",
+          "checked": "2026-10-17",
+          "evidence": "Typical A level offer AAB While no specific subjects are required, we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Biology",
+            "Business",
+            "Classical Civilisation",
+            "Chemistry",
+            "Economics",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "History",
+            "Languages",
+            "Law",
+            "Mathematics",
+            "Further Mathematics",
+            "Philosophy",
+            "Physics",
+            "Politics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology"
+          ],
+          "note": "Preferred, not required: subjects that show numerical, analytical and discursive ability. No specific subjects are required."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "No flexibility, but a grade C in Level 3 Core Maths is considered an acceptable alternative"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE Maths grade 5/C and GCSE English Language grade 4/C",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lboro.ac.uk/study/undergraduate/courses/finance/",
+        "checked": "2026-10-17",
+        "evidence": "we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities ... Geography ... Maths/Further Maths ... Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Applicants are usually selected solely on the basis of their UCAS application; an interview is only needed in exceptional cases.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/finance/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants are usually selected solely on the basis of their UCAS application, but in exceptional cases an interview may be required."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Access Loughborough Contextual Offer: for applicants who were known to be eligible for free school meals, or who attend a state school/college and live in an IMD quintile 1 area (England), taking three A levels (or two A levels plus an accepted Level 3 qualification) and expecting to pay UK fees. Meeting the criteria doesn't guarantee an offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/courses/finance/",
+            "checked": "2026-10-17",
+            "evidence": "Access Loughborough Contextual Offer A level: BBB with no subject specific requirements but we do have a list of preferred A level subjects outlined above."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to two grades lower) if you take part in Realising Opportunities and complete it. Exact grades aren't published; any subject-specific grades still apply.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative RO offers are dependent on your successful completion of the RO programme and are up to two grades lower than typical entry requirements."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to three A-level grades lower) if you complete the LUDUS Gold programme. Exact grades aren't published; specific grades in certain subjects can still be required.",
+          "programme": "LUDUS Gold",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative LUDUS Gold offers are dependent on your successful completion of the LUDUS Gold programme and are up to three grades lower than typical entry requirements."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lboro.ac.uk/study/undergraduate/courses/finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (pages show a September 2027 start), so 2027 entry is used",
+        "alternativeOffers: exact grades for Realising Opportunities and LUDUS Gold offers aren't published (only 'up to two grades' and 'up to three grades' lower)"
+      ],
+      "notes": "GCSE Maths grade 5 is needed with no flexibility (a grade C in Level 3 Core Maths is an alternative). Optional placement year or year abroad. Loughborough says it may ask applicants to achieve specific grades in certain subjects. A foundation-year version exists (Business with a Foundation Year for Elite Athletes) but only for elite athletes, so it is recorded as 'none' for general applicants."
+    },
+    {
+      "id": "loughborough-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "N400",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS NN34)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A-level; no specific A-level subjects are required. GCSE Maths grade 5 and English Language grade 4 needed.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/accounting-and-finance-bsc/",
+          "checked": "2026-10-17",
+          "evidence": "Typical A level offer AAB While no specific subjects are required, we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Biology",
+            "Business",
+            "Classical Civilisation",
+            "Chemistry",
+            "Economics",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "History",
+            "Languages",
+            "Law",
+            "Mathematics",
+            "Further Mathematics",
+            "Philosophy",
+            "Physics",
+            "Politics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology"
+          ],
+          "note": "Preferred, not required: subjects that show numerical, analytical and discursive ability. No specific subjects are required."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "No flexibility, but a grade C in Level 3 Core Maths is considered an acceptable alternative"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE Maths grade 5/C and GCSE English Language grade 4/C",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lboro.ac.uk/study/undergraduate/courses/accounting-and-finance-bsc/",
+        "checked": "2026-10-17",
+        "evidence": "we prefer subjects which demonstrate a range of numerical, analytical and discursive abilities ... Geography ... Maths/Further Maths ... Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Applicants are usually selected solely on the basis of their UCAS application; an interview is only needed in exceptional cases.",
+        "source": {
+          "url": "https://www.lboro.ac.uk/study/undergraduate/courses/accounting-and-finance-bsc/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants are usually selected solely on the basis of their UCAS application, but in exceptional cases an interview may be required."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Access Loughborough Contextual Offer: for applicants who were known to be eligible for free school meals, or who attend a state school/college and live in an IMD quintile 1 area (England), taking three A levels (or two A levels plus an accepted Level 3 qualification) and expecting to pay UK fees. Meeting the criteria doesn't guarantee an offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/courses/accounting-and-finance-bsc/",
+            "checked": "2026-10-17",
+            "evidence": "Access Loughborough Contextual Offer A level: BBB with no subject specific requirements but we do have a list of preferred A level subjects outlined above."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to two grades lower) if you take part in Realising Opportunities and complete it. Exact grades aren't published; any subject-specific grades still apply.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative RO offers are dependent on your successful completion of the RO programme and are up to two grades lower than typical entry requirements."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Dual offer (a standard offer plus an alternative offer up to three A-level grades lower) if you complete the LUDUS Gold programme. Exact grades aren't published; specific grades in certain subjects can still be required.",
+          "programme": "LUDUS Gold",
+          "source": {
+            "url": "https://www.lboro.ac.uk/study/undergraduate/apply/entry-requirements/contextual-admissions/reduced-contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative LUDUS Gold offers are dependent on your successful completion of the LUDUS Gold programme and are up to three grades lower than typical entry requirements."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lboro.ac.uk/study/undergraduate/courses/accounting-and-finance-bsc/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (pages show a September 2027 start), so 2027 entry is used",
+        "alternativeOffers: exact grades for Realising Opportunities and LUDUS Gold offers aren't published (only 'up to two grades' and 'up to three grades' lower)"
+      ],
+      "notes": "Professionally accredited course. GCSE Maths grade 5 is needed with no flexibility (a grade C in Level 3 Core Maths is an alternative). Optional placement year or year abroad. Loughborough says it may ask applicants to achieve specific grades in certain subjects. A foundation-year version exists (Business with a Foundation Year for Elite Athletes) but only for elite athletes, so it is recorded as 'none' for general applicants."
+    }
+  ],
+  "notes": [
+    "All course facts are for September 2027 entry; Loughborough hasn't published 2028-entry pages yet.",
+    "Economics, Economics and Finance and Economics and Management say A-level Maths is not essential, but they need GCSE Maths grade 6 (grade 5 for Finance and Accounting and Finance). Mathematics with Economics needs A-level Maths at grade A.",
+    "Every course has a 4-year version with an optional placement year (separate UCAS code) and a year abroad option; the placement year fee is 20% of the full-time fee and a study-abroad year 15%.",
+    "Loughborough doesn't normally include the EPQ in offer conditions; it may be used when considering an application after exam results.",
+    "Realising Opportunities gives a dual offer up to two grades lower than typical; LUDUS Gold gives one up to three A-level grades lower. Both are recorded as alternative offers on each course.",
+    "Many courses get a large number of applications per place, and meeting the typical offer doesn't guarantee an offer.",
+    "Business and Management BSc (N202, typical offer AAB) was not added, to keep to 8 courses."
+  ],
+  "notConfirmed": [
+    "entryYear: 2028-entry pages aren't published yet (pages show a September 2027 start), so 2027 entry is used for every course",
+    "contextual: Loughborough describes its Access Loughborough rules for the 2027 admissions cycle; rules for 2028 entry aren't published yet",
+    "openDays: only the 14 November 2026 open day is listed; later undergraduate open day dates aren't published",
+    "livingCosts: hall prices are 2026/27 indicative prices per let (mostly 41 weeks); 2027/28 prices aren't published",
+    "competition: Loughborough doesn't publish offer rates or applications per place on these course pages"
+  ]
+}

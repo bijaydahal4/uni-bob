@@ -1,0 +1,752 @@
+{
+  "id": "hull",
+  "name": "University of Hull",
+  "shortName": "Hull",
+  "aliases": [
+    "Hull",
+    "Hull Uni",
+    "Uni of Hull",
+    "UoHull",
+    "University of Hull"
+  ],
+  "city": "Hull",
+  "region": "North",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.hull.ac.uk/collaborate/schools-and-colleges-liaison/taster-days",
+    "checked": "2026-10-21",
+    "evidence": "explore our beautiful single-site campus and state-of-the-art facilities"
+  },
+  "location": {
+    "postcode": "HU6 7RX",
+    "postcodeSource": "https://www.hull.ac.uk/study/undergraduate/meet-us/open-days",
+    "lat": null,
+    "lng": null,
+    "coordsSource": "https://api.postcodes.io/postcodes/HU67RX",
+    "checked": "2026-10-21"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK students on Hull's Business School course pages (Hull says to use 2027-28 information as a guide because fees for 2028 entry aren't confirmed). Hull's main fees page and its PPE course page still say £9,790. Those course pages also list £1,505 for a year abroad, £2,010 for a year in industry and £5,760 for a foundation year.",
+    "source": {
+      "url": "https://www.hull.ac.uk/study/undergraduate/courses/business-economics-ba-hons?option=standard-course&start=2027",
+      "checked": "2026-10-21",
+      "evidence": "For UK students, our standard course fee is £10,050 per year."
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 99,
+    "amountHigh": 315,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "University halls cost about £99 to £315 a week on 43 or 51 week contracts (2026/27 prices): Taylor Court £99 to £180, Westfield Court £135 to £315.",
+    "source": {
+      "url": "https://www.hull.ac.uk/life-at-hull/accommodation",
+      "checked": "2026-10-21",
+      "evidence": "On-campus, en-suite accommodation starting from £99 a week."
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-11-28",
+        "endDate": null,
+        "label": "Undergraduate Open Day",
+        "format": "in person",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next undergraduate open day: Saturday 28 November 2026 on campus (no later dates listed yet). Campus visits can be booked all year round, and Hull offers an Open Day travel grant of up to £100 if you travel more than 40 miles.",
+    "url": "https://www.hull.ac.uk/study/undergraduate/meet-us/open-days",
+    "source": {
+      "url": "https://www.hull.ac.uk/study/undergraduate/meet-us/open-days",
+      "checked": "2026-10-21",
+      "evidence": "Saturday 28 November 2026"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "If you meet two or more of Hull's criteria you can get a contextual offer of 96 UCAS points, applied automatically from your UCAS application.",
+    "typicalReduction": "A contextual offer is 96 UCAS points, which Hull says is lower than its standard entry requirements (on the economics and business courses recorded here the typical offer is 96 to 112 points, so it equals the bottom of that range).",
+    "criteria": [
+      {
+        "key": "area",
+        "detail": "You live in an area with a low number of young people progressing to higher education (Hull's summary page: an area with historically low progression to higher education or an area of high relative deprivation). Hull doesn't name the measure or quintiles.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "carer",
+        "detail": "You are a carer.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "other",
+        "detail": "You have parenting responsibilities.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "care",
+        "detail": "You are care experienced (have spent time in local authority care).",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "other",
+        "detail": "You are from a military family.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "refugee",
+        "detail": "You are a refugee or asylum seeker.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "fsm",
+        "detail": "You are, or have been, eligible for free school meals.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "firstGen",
+        "detail": "You are the first person in your family to attend higher education (neither parent or guardian attended university).",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "other",
+        "detail": "You are aged over 21.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "other",
+        "detail": "You have a disability.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "other",
+        "detail": "You are a member of the Gypsy, Traveller, Roma, Showmen or Boater communities.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "estranged",
+        "detail": "You are estranged from your family.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "other",
+        "detail": "You have other relevant circumstances that aren't listed.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      }
+    ],
+    "minCriteria": 2,
+    "rulesText": "You may qualify for a contextual offer if you meet two or more of the listed criteria. If you qualify, Hull applies the offer automatically from your UCAS application (admissions staff assess your circumstances and assign qualifying points). Offers can be made to home and international applicants completing UK qualifications that carry UCAS tariff points. Not available for Foundation Year entry or programmes with mandatory placements or capped student numbers; the listed exclusions are BA British Politics & Legislative Studies, LLB Law & Legislative Studies, BA Primary Teaching with Foundation Year and health programmes such as nursing and midwifery.",
+    "url": "https://www.hull.ac.uk/study/undergraduate/how-to-apply/contextual-offers",
+    "source": {
+      "url": "https://www.hull.ac.uk/study/undergraduate/how-to-apply/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "You may be eligible for a contextual offer if you meet two or more of our criteria."
+    }
+  },
+  "programmes": [
+    {
+      "id": "hull-taster-days",
+      "name": "Taster Days",
+      "provider": "University of Hull",
+      "providerType": "university",
+      "uniIds": [
+        "hull"
+      ],
+      "summary": "Free day on campus for post-16 students with a campus tour, a talk or workshop, a chance to meet current students and lecturers, and a subject masterclass led by academics.",
+      "whoCanApply": "Post-16 students, typically in Year 12, Year 13 or equivalent. Hull welcomes group bookings from schools and colleges across the UK; the page doesn't say whether individual students can book.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Open to post-16 students (typically Year 12, Year 13 or equivalent); organised as group bookings by schools and colleges.",
+      "benefits": [
+        "Guided campus tour and a chance to meet current students and lecturers",
+        "Subject masterclass led by academic staff",
+        "A chance to ask questions before applying"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "day",
+      "subjects": "Subject masterclasses (subjects vary); not specific to Economics",
+      "yearGroup": "Year 12 and Year 13 (post-16)",
+      "runs": {
+        "text": "Dates are arranged with the school or college; no fixed dates published",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Current Hull page (checked 2026-10-21) describes the standing offer for schools and colleges; no dates are published.",
+      "url": "https://www.hull.ac.uk/collaborate/schools-and-colleges-liaison/taster-days",
+      "source": {
+        "url": "https://www.hull.ac.uk/collaborate/schools-and-colleges-liaison/taster-days",
+        "checked": "2026-10-21",
+        "evidence": "Our free taster days give post-16 students the chance to visit our campus and experience university life first-hand."
+      },
+      "notConfirmed": [
+        "dates and how to book are not published on the page; it describes group bookings by schools and colleges",
+        "whether an Economics or business masterclass is offered isn't stated"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.hull.ac.uk/",
+    "courses": "https://www.hull.ac.uk/study/undergraduate/courses",
+    "economics": "https://www.hull.ac.uk/Faculties/subjects/economics",
+    "openDays": "https://www.hull.ac.uk/study/undergraduate/meet-us/open-days",
+    "fees": "https://www.hull.ac.uk/study/undergraduate/fees-and-funding",
+    "contextual": "https://www.hull.ac.uk/study/undergraduate/how-to-apply/contextual-offers",
+    "accommodation": "https://www.hull.ac.uk/life-at-hull/accommodation"
+  },
+  "courses": [
+    {
+      "id": "hull-economics",
+      "name": "Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L115",
+      "lengthYears": 3,
+      "lengthNote": "Course options on Hull's page: standard 3-year course, foundation year, placement year or year abroad",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "tariff",
+        "typical": "BBC",
+        "low": null,
+        "tariff": 112,
+        "tariffLow": 96,
+        "text": "96 to 112 UCAS points (112 points is shown as A levels BBC); at least 80 points must come from A levels, BTEC or other equivalent qualifications",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/economics-bsc-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.hull.ac.uk/study/undergraduate/courses/economics-bsc-hons?option=standard-course&start=2027",
+        "checked": "2026-10-21",
+        "evidence": "At least 80 points must come from A levels, BTEC, or other equivalent qualifications."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on this course page, and Hull is not on UAT-UK's official list of universities using the TMUA for 2027 entry.",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/economics-bsc-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": 96,
+          "conditions": "Contextual offer of 96 UCAS points (the typical offer is 96 to 112) if you meet two or more of Hull's contextual criteria; applied automatically from your UCAS application. Not available for Foundation Year entry or courses with mandatory placements or capped student numbers.",
+          "programme": null,
+          "source": {
+            "url": "https://www.hull.ac.uk/study/undergraduate/courses/economics-bsc-hons?option=standard-course&start=2027",
+            "checked": "2026-10-21",
+            "evidence": "Our contextual offer is 96 points."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.hull.ac.uk/study/undergraduate/courses/economics-bsc-hons?option=standard-course&start=2027",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet (the ?start=2028 version of Hull's course page shows no details); 2027 entry recorded",
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: no required or preferred A-level subjects are listed (the offer is in UCAS points), so whether Maths or any other subject is needed isn't stated",
+        "grades: only the 112-point equivalent (A levels BBC) is shown; the grade equivalent of 96 points isn't shown",
+        "Hull's page says this course is not accepting applications for 2027; whether it will run for 2028 entry isn't confirmed"
+      ],
+      "notes": "Hull's page says this course is not accepting applications for 2027 and suggests BA Business Economics (L120) instead. Shares a common first year with Business Economics, so you can switch direction in year 2. Placements with employers and the Government Economic Service or ONS, plus a final-year internship, are available. Alternative qualifications: IB Diploma 28 points; Access to HE Diploma (pass) with 96-112 UCAS tariff points.",
+      "notOpen": "Hull says this course is not accepting applications for 2027 entry (it suggests BA Business Economics instead)."
+    },
+    {
+      "id": "hull-business-economics",
+      "name": "Business Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "L120",
+      "lengthYears": 3,
+      "lengthNote": "Course options on Hull's page: standard 3-year course, foundation year, placement year or year abroad",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "business-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "tariff",
+        "typical": "BBC",
+        "low": null,
+        "tariff": 112,
+        "tariffLow": 96,
+        "text": "96 to 112 UCAS points (112 points is shown as A levels BBC); at least 80 points must come from A levels, BTEC or other equivalent qualifications",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/business-economics-ba-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.hull.ac.uk/study/undergraduate/courses/business-economics-ba-hons?option=standard-course&start=2027",
+        "checked": "2026-10-21",
+        "evidence": "At least 80 points must come from A levels, BTEC, or other equivalent qualifications."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on this course page, and Hull is not on UAT-UK's official list of universities using the TMUA for 2027 entry.",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/business-economics-ba-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": 96,
+          "conditions": "Contextual offer of 96 UCAS points (the typical offer is 96 to 112) if you meet two or more of Hull's contextual criteria; applied automatically from your UCAS application. Not available for Foundation Year entry or courses with mandatory placements or capped student numbers.",
+          "programme": null,
+          "source": {
+            "url": "https://www.hull.ac.uk/study/undergraduate/courses/business-economics-ba-hons?option=standard-course&start=2027",
+            "checked": "2026-10-21",
+            "evidence": "Our contextual offer is 96 points."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.hull.ac.uk/study/undergraduate/courses/business-economics-ba-hons?option=standard-course&start=2027",
+        "ucas": "https://www.ucas.com/explore/courses/b750ea1e-2e43-4db0-b202-79ccef77cb47/course?studyYear=2027"
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet (the ?start=2028 version of Hull's course page shows no details); 2027 entry recorded",
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: no required or preferred A-level subjects are listed (the offer is in UCAS points), so whether Maths or any other subject is needed isn't stated",
+        "grades: only the 112-point equivalent (A levels BBC) is shown; the grade equivalent of 96 points isn't shown"
+      ],
+      "notes": "Shares a common first year with BSc Economics, so you can switch direction in year 2. Placements (for example PepsiCo, the NHS, the Government Economic Service or ONS), a final-year internship and study abroad are available. Hull suggests this course as the alternative to BSc Economics for 2027 entry. Alternative qualifications: IB Diploma 28 points; Access to HE Diploma (pass) with 96-112 UCAS tariff points."
+    },
+    {
+      "id": "hull-ppe",
+      "name": "Philosophy, Politics and Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "L0V0",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "tariff",
+        "typical": "BBC",
+        "low": null,
+        "tariff": 112,
+        "tariffLow": 96,
+        "text": "96 to 112 UCAS points (112 points is shown as A levels BBC); at least 80 points must come from A levels, BTEC or other equivalent qualifications",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.hull.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons?option=standard-course&start=2027",
+        "checked": "2026-10-21",
+        "evidence": "At least 80 points must come from A levels, BTEC, or other equivalent qualifications."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on this course page, and Hull is not on UAT-UK's official list of universities using the TMUA for 2027 entry.",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": 96,
+          "conditions": "Contextual offer of 96 UCAS points (the typical offer is 96 to 112) if you meet two or more of Hull's contextual criteria; applied automatically from your UCAS application. Not available for Foundation Year entry or courses with mandatory placements or capped student numbers.",
+          "programme": null,
+          "source": {
+            "url": "https://www.hull.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons?option=standard-course&start=2027",
+            "checked": "2026-10-21",
+            "evidence": "Our contextual offer is 96 points."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.hull.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons?option=standard-course&start=2027",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet (the ?start=2028 version of Hull's course page shows no details); 2027 entry recorded",
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: no required or preferred A-level subjects are listed (the offer is in UCAS points), so whether Maths or any other subject is needed isn't stated",
+        "grades: only the 112-point equivalent (A levels BBC) is shown; the grade equivalent of 96 points isn't shown",
+        "Hull's page says this course is not accepting applications for 2027; whether it will run for 2028 entry isn't confirmed",
+        "fees: this page lists a UK fee of £9,790 a year, while Hull's Business School course pages list £10,050",
+        "year abroad: the page describes studying abroad for a trimester, not a full year abroad"
+      ],
+      "notes": "Hull's page describes an optional Westminster placement (three months working with an MP or peer) and the option to study abroad for a trimester. Not on Hull's list of courses excluded from contextual offers. Alternative qualifications: IB Diploma 28 points; Access to HE Diploma (pass) with 96-112 UCAS tariff points.",
+      "notOpen": "Hull says this course is not accepting applications for 2027 entry. Whether it runs for 2028 is not confirmed."
+    },
+    {
+      "id": "hull-accounting-financial-management",
+      "name": "Accounting and Financial Management",
+      "degree": "BSc (Hons)",
+      "ucasCode": "NN43",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a four-year course with a built-in placement year or a year studying abroad",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "tariff",
+        "typical": "BBC",
+        "low": null,
+        "tariff": 112,
+        "tariffLow": 96,
+        "text": "96 to 112 UCAS points (112 points is shown as A levels BBC); at least 80 points must come from A levels, BTEC or other equivalent qualifications",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/accounting-and-financial-management-bsc-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.hull.ac.uk/study/undergraduate/courses/accounting-and-financial-management-bsc-hons?option=standard-course&start=2027",
+        "checked": "2026-10-21",
+        "evidence": "At least 80 points must come from A levels, BTEC, or other equivalent qualifications."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on this course page, and Hull is not on UAT-UK's official list of universities using the TMUA for 2027 entry.",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/accounting-and-financial-management-bsc-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": 96,
+          "conditions": "Contextual offer of 96 UCAS points (the typical offer is 96 to 112) if you meet two or more of Hull's contextual criteria; applied automatically from your UCAS application. Not available for Foundation Year entry or courses with mandatory placements or capped student numbers.",
+          "programme": null,
+          "source": {
+            "url": "https://www.hull.ac.uk/study/undergraduate/courses/accounting-and-financial-management-bsc-hons?option=standard-course&start=2027",
+            "checked": "2026-10-21",
+            "evidence": "Our contextual offer is 96 points."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.hull.ac.uk/study/undergraduate/courses/accounting-and-financial-management-bsc-hons?option=standard-course&start=2027",
+        "ucas": "https://www.ucas.com/explore/courses/a6a2751f-4f2d-940e-50eb-0130e3f52a7a/course?studyYear=2027"
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet (the ?start=2028 version of Hull's course page shows no details); 2027 entry recorded",
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: no required or preferred A-level subjects are listed (the offer is in UCAS points), so whether Maths or any other subject is needed isn't stated",
+        "grades: only the 112-point equivalent (A levels BBC) is shown; the grade equivalent of 96 points isn't shown"
+      ],
+      "notes": "Four-year versions add either a built-in placement year or a year studying abroad. Alternative qualifications: IB Diploma 28 points; Access to HE Diploma (pass) with 96-112 UCAS tariff points."
+    },
+    {
+      "id": "hull-financial-management",
+      "name": "Financial Management",
+      "degree": "BSc (Hons)",
+      "ucasCode": "N340",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a four-year course with a built-in placement year or a year studying abroad",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "tariff",
+        "typical": "BBC",
+        "low": null,
+        "tariff": 112,
+        "tariffLow": 96,
+        "text": "96 to 112 UCAS points (112 points is shown as A levels BBC); at least 80 points must come from A levels, BTEC or other equivalent qualifications",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/financial-management-bsc-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.hull.ac.uk/study/undergraduate/courses/financial-management-bsc-hons?option=standard-course&start=2027",
+        "checked": "2026-10-21",
+        "evidence": "At least 80 points must come from A levels, BTEC, or other equivalent qualifications."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on this course page, and Hull is not on UAT-UK's official list of universities using the TMUA for 2027 entry.",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/financial-management-bsc-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": 96,
+          "conditions": "Contextual offer of 96 UCAS points (the typical offer is 96 to 112) if you meet two or more of Hull's contextual criteria; applied automatically from your UCAS application. Not available for Foundation Year entry or courses with mandatory placements or capped student numbers.",
+          "programme": null,
+          "source": {
+            "url": "https://www.hull.ac.uk/study/undergraduate/courses/financial-management-bsc-hons?option=standard-course&start=2027",
+            "checked": "2026-10-21",
+            "evidence": "Our contextual offer is 96 points."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.hull.ac.uk/study/undergraduate/courses/financial-management-bsc-hons?option=standard-course&start=2027",
+        "ucas": "https://www.ucas.com/explore/courses/dd6c62a7-b270-28cf-a3f4-fff43b362ea8/course?studyYear=2027"
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet (the ?start=2028 version of Hull's course page shows no details); 2027 entry recorded",
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: no required or preferred A-level subjects are listed (the offer is in UCAS points), so whether Maths or any other subject is needed isn't stated",
+        "grades: only the 112-point equivalent (A levels BBC) is shown; the grade equivalent of 96 points isn't shown"
+      ],
+      "notes": "Includes use of Hull's Bloomberg Financial Markets Laboratory. Alternative qualifications: IB Diploma 28 points; Access to HE Diploma (pass) with 96-112 UCAS tariff points."
+    },
+    {
+      "id": "hull-business-management",
+      "name": "Business Management",
+      "degree": "BA (Hons)",
+      "ucasCode": "N100",
+      "lengthYears": 3,
+      "lengthNote": "Placement year available (4 years); study abroad for a year or a semester is also an option",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "tariff",
+        "typical": "BBC",
+        "low": null,
+        "tariff": 112,
+        "tariffLow": 96,
+        "text": "96 to 112 UCAS points (112 points is shown as A levels BBC); at least 80 points must come from A levels, BTEC or other equivalent qualifications",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/business-management-ba-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.hull.ac.uk/study/undergraduate/courses/business-management-ba-hons?option=standard-course&start=2027",
+        "checked": "2026-10-21",
+        "evidence": "At least 80 points must come from A levels, BTEC, or other equivalent qualifications."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on this course page, and Hull is not on UAT-UK's official list of universities using the TMUA for 2027 entry.",
+        "source": {
+          "url": "https://www.hull.ac.uk/study/undergraduate/courses/business-management-ba-hons?option=standard-course&start=2027",
+          "checked": "2026-10-21",
+          "evidence": "Our typical offer for this course is 96–112 UCAS points. Our contextual offer is 96 points."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": 96,
+          "conditions": "Contextual offer of 96 UCAS points (the typical offer is 96 to 112) if you meet two or more of Hull's contextual criteria; applied automatically from your UCAS application. Not available for Foundation Year entry or courses with mandatory placements or capped student numbers.",
+          "programme": null,
+          "source": {
+            "url": "https://www.hull.ac.uk/study/undergraduate/courses/business-management-ba-hons?option=standard-course&start=2027",
+            "checked": "2026-10-21",
+            "evidence": "Our contextual offer is 96 points."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.hull.ac.uk/study/undergraduate/courses/business-management-ba-hons?option=standard-course&start=2027",
+        "ucas": "https://www.ucas.com/explore/courses/4d04e5c8-b94b-8f71-8e51-6bdfbc9e331e/course?studyYear=2027"
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet (the ?start=2028 version of Hull's course page shows no details); 2027 entry recorded",
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: no required or preferred A-level subjects are listed (the offer is in UCAS points), so whether Maths or any other subject is needed isn't stated",
+        "grades: only the 112-point equivalent (A levels BBC) is shown; the grade equivalent of 96 points isn't shown"
+      ],
+      "notes": "Hull's Authentic Business Learning approach includes projects with businesses every year. Alternative qualifications: IB Diploma 28 points; Access to HE Diploma (pass) with 96-112 UCAS tariff points."
+    }
+  ],
+  "notes": [
+    "Hull's offers are in UCAS tariff points: 96 to 112 points on every course recorded (112 points is shown as A levels BBC). At least 80 points must come from A levels, BTEC or equivalent qualifications.",
+    "A contextual offer is 96 UCAS points, the bottom of the typical range on these courses; you need to meet two or more of Hull's contextual criteria.",
+    "BSc Economics (L115) and BA Philosophy, Politics and Economics (L0V0) are marked 'not accepting applications for 2027' on Hull's pages; Hull points to BA Business Economics (L120) as the alternative to Economics.",
+    "Hull is not on UAT-UK's official TMUA list for 2027 entry and no course page names an admissions test.",
+    "Open Day travel grant: up to £100 towards travel costs if you travel more than 40 miles."
+  ],
+  "notConfirmed": [
+    "2028 entry: Hull has not published 2028-entry course details or fees (the ?start=2028 version of the course pages shows nothing); 2027 entry is recorded for all courses",
+    "tuition fee: Hull's Business School course pages say £10,050 a year (2027-28 guide, 2028 entry fees not confirmed) but Hull's main fees page and the PPE course page say £9,790",
+    "open days: only 28 November 2026 is listed; no 2027 dates yet",
+    "contextual offers: Hull doesn't say which area measure (for example POLAR or IMD) it uses, or how the 'qualifying points' are weighted",
+    "taster days: no dates are published and the page describes group bookings by schools and colleges; it doesn't say whether individual students can book",
+    "halls: The Courtyard page still shows 2025/26 prices (£184 to £299 a week)"
+  ]
+}

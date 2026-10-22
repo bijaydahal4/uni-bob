@@ -1,0 +1,929 @@
+{
+ "id": "goldsmiths",
+ "name": "Goldsmiths, University of London",
+ "shortName": "Goldsmiths",
+ "aliases": [
+  "Goldsmiths",
+  "Goldsmiths University",
+  "Goldsmiths College",
+  "Goldsmiths University of London",
+  "Goldsmiths London"
+ ],
+ "city": "London",
+ "region": "London",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.gold.ac.uk/ug/why-goldsmiths/",
+  "checked": "2026-10-21",
+  "evidence": "Based in vibrant New Cross, our friendly single-site campus is the perfect base to explore all that London has to offer."
+ },
+ "location": {
+  "postcode": "SE14 6NW",
+  "postcodeSource": "https://www.gold.ac.uk/find-us/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/SE146NW",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 9790,
+  "academicYear": "2026/27",
+  "text": "£9,790 per year for Home (UK) students on full-time undergraduate courses (the course pages say these are the fees for students starting in the 2026/2027 academic year; the 2027/28 fee is not published yet).",
+  "source": {
+   "url": "https://www.gold.ac.uk/ug/bsc-economics/",
+   "checked": "2026-10-21",
+   "evidence": "Home - full-time: £9790"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 191.5,
+  "amountHigh": 404.5,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Goldsmiths halls cost about £191.50–£404.50 a week in 2026/27 depending on the hall and room type, with electricity, water and heating bills included.",
+  "source": {
+   "url": "https://www.gold.ac.uk/accommodation/digital-accommodation-guide-2026/",
+   "checked": "2026-10-21",
+   "evidence": "£191.50"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Undergraduate open day (11am–3pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-12-05",
+    "endDate": null,
+    "label": "Undergraduate open day (11am–3pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days (in person, 11am–3pm): 21 November 2026 and 5 December 2026. Subject-specific virtual events are still to be announced.",
+  "url": "https://www.gold.ac.uk/open-days/",
+  "source": {
+   "url": "https://www.gold.ac.uk/open-days/",
+   "checked": "2026-10-21",
+   "evidence": "Undergraduate Open Day (In-person)"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Goldsmiths gives a contextual offer three grades lower than its published offer to care-experienced and estranged applicants, and gives other flagged applications extra consideration (no guaranteed offer).",
+  "typicalReduction": "Three grades lower than the published requirement for care-experienced or estranged applicants (a typical A-level offer of CCC would be reduced to DDD); students on a Progression Agreement can get offers one grade lower than advertised.",
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "Care experienced: time in residential care, foster care or kinship care (formal or informal) or as an unaccompanied asylum seeker. Answer yes to the care-experienced question on your UCAS application. Goldsmiths sets no limit on how long you were in care and no age limit.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged: no contact with your parents during your studies, or very limited contact where you still have a relationship with your siblings. Answer yes to the estranged question on your UCAS application. Goldsmiths sets no limit on how long you were estranged and no age limit.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Progression Agreements (local and mature students): students on agreements with Goldsmiths' local partner colleges (the page names Lewisham College, Southwark College and Mulberry UTC) or studying an OCN or LASER Access to HE Diploma can access guaranteed interviews and/or offers one grade lower than advertised on more than 50 undergraduate programmes. The 2027-entry documents are being refreshed.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "If you answer yes to either the care experienced or estranged questions on your UCAS application, Goldsmiths will automatically consider you for a reduced grade offer (three grades lower than the published requirement; the exact offer depends on the programme and qualification). Other applications flagged through the UCAS contextual questions, or by information from you or your referee, get extra consideration beyond the usual checks, which does not guarantee an offer.",
+  "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+  "source": {
+   "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+   "checked": "2026-10-21",
+   "evidence": "If you answer yes to either the care experienced or estranged questions on your UCAS application, we will automatically consider you for a reduced grade offer."
+  }
+ },
+ "programmes": [
+  {
+   "id": "goldsmiths-discover-gold-days",
+   "name": "Discover Gold Days",
+   "provider": "Goldsmiths, University of London",
+   "providerType": "university",
+   "uniIds": [
+    "goldsmiths"
+   ],
+   "summary": "Campus visit days for Year 12 and 13 students with a campus tour, a workshop about university, a free lunch, a Q&A with student ambassadors and an academic taster session.",
+   "whoCanApply": "School and college groups and individual prospective students in Years 12 and 13. Places go first to schools and colleges in South East London and to students from underrepresented groups, such as those entitled to Free School Meals (Pupil Premium).",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "fsm",
+    "other"
+   ],
+   "eligibilityDetail": "Open to groups and individual prospective students, but when assigning places Goldsmiths prioritises schools and colleges in South East London and students from underrepresented groups, such as those entitled to Free School Meals (Pupil Premium students).",
+   "benefits": [
+    "Campus tour led by student ambassadors",
+    "Workshop about university and an academic taster session",
+    "Free lunch in the campus refectory",
+    "Q&A with student ambassadors"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "day",
+   "subjects": "All subjects (one academic taster session)",
+   "yearGroup": "Years 12 and 13",
+   "runs": {
+    "text": "Throughout the year (no dates published)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "The page says Discover Gold Days run throughout the year but gives no dates, booking window or deadline for 2027.",
+   "url": "https://www.gold.ac.uk/schools-and-colleges/post-16/",
+   "source": {
+    "url": "https://www.gold.ac.uk/schools-and-colleges/post-16/",
+    "checked": "2026-10-21",
+    "evidence": "The Widening Participation Team runs Discover Gold Days throughout the year for school and college groups and individual prospective students."
+   },
+   "notConfirmed": [
+    "dates, booking window and deadline for 2027 are not published",
+    "cost: the page says lunch is free but not whether the visit itself is free"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.gold.ac.uk/",
+  "courses": "https://www.gold.ac.uk/ug/a-z/",
+  "economics": "https://www.gold.ac.uk/subjects/economy-society/",
+  "openDays": "https://www.gold.ac.uk/open-days/",
+  "fees": "https://www.gold.ac.uk/ug/fees-funding/",
+  "contextual": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+  "accommodation": "https://www.gold.ac.uk/accommodation/digital-accommodation-guide-2026/"
+ },
+ "courses": [
+  {
+   "id": "goldsmiths-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time. No placement-year or year-abroad version is listed; the page mentions an optional credit-bearing Work Placement module and a term abroad through the Turing Scheme (half of year 2).",
+   "options": {
+    "yearAbroad": "none",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "CCC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "CCC at A-level (three A-levels)",
+    "source": {
+     "url": "https://www.gold.ac.uk/ug/bsc-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A-level: CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+    "checked": "2026-10-21",
+    "evidence": "Our standard A-level requirements are passes in three full A-level subjects (preferably directly relevant to the subject you intend to study)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Goldsmiths is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "DDD",
+     "tariff": null,
+     "conditions": "Three grades lower than the published offer if you are care experienced or estranged and say so on your UCAS application (Goldsmiths' example: a typical A-level offer of CCC is reduced to DDD). Goldsmiths says the exact offer depends on the programme and qualification.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+      "checked": "2026-10-21",
+      "evidence": "a typical A Level offer is CCC and would be reduced to DDD"
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Applicants who have completed (or are due to complete) an EPQ may receive a reduced offer. Goldsmiths only gives an example for a BBB course (BBC plus grade B in the EPQ); no EPQ offer is published for this CCC course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "Applications from candidates who, in addition to appropriate Level 3 qualifications, have completed (or are due to complete) an EPQ may also receive a reduced offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gold.ac.uk/ug/bsc-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the course page does not say which entry year its A-level requirement is for (its fee line says students starting in 2026/2027); recorded as 2027 entry, the current application cycle. 2028 entry requirements are not published",
+    "gcse: course page doesn't list GCSE requirements",
+    "subjects: course page lists no required or excluded A-level subjects, so whether Psychology and Geography count is not stated",
+    "the older BA/BSc Economics programme specification (undated PDF, https://www.gold.ac.uk/media/docs/programme-specifications/BA_BSc-Economics-Clean-Copy.pdf) says A-level BBB and 'normally at least Grade B in GCSE (or equivalent) in Mathematics, Economics or Statistics'; the course page (CCC, no GCSEs listed) is used. Check with Admissions"
+   ],
+   "notes": "Training in economic theory, economic history, modelling, coding, statistics and econometrics, taught in the School of Creative Management. Compulsory year 1 modules include Mathematics for Economics and Business (30 credits), but no A-level Maths requirement is stated on the page."
+  },
+  {
+   "id": "goldsmiths-economics-ba",
+   "name": "Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L1M9",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time. No placement-year or year-abroad version is listed; the page mentions summer placements and internships and a term abroad through the Turing Scheme (half of year 3).",
+   "options": {
+    "yearAbroad": "none",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "CCC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "CCC at A-level (three A-levels)",
+    "source": {
+     "url": "https://www.gold.ac.uk/ug/ba-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A-level: CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+    "checked": "2026-10-21",
+    "evidence": "Our standard A-level requirements are passes in three full A-level subjects (preferably directly relevant to the subject you intend to study)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Goldsmiths is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "DDD",
+     "tariff": null,
+     "conditions": "Three grades lower than the published offer if you are care experienced or estranged and say so on your UCAS application (Goldsmiths' example: a typical A-level offer of CCC is reduced to DDD). Goldsmiths says the exact offer depends on the programme and qualification.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+      "checked": "2026-10-21",
+      "evidence": "a typical A Level offer is CCC and would be reduced to DDD"
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Applicants who have completed (or are due to complete) an EPQ may receive a reduced offer. Goldsmiths only gives an example for a BBB course (BBC plus grade B in the EPQ); no EPQ offer is published for this CCC course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "Applications from candidates who, in addition to appropriate Level 3 qualifications, have completed (or are due to complete) an EPQ may also receive a reduced offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gold.ac.uk/ug/ba-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the course page does not say which entry year its A-level requirement is for (its fee line says students starting in 2026/2027); recorded as 2027 entry, the current application cycle. 2028 entry requirements are not published",
+    "gcse: course page doesn't list GCSE requirements",
+    "subjects: course page lists no required or excluded A-level subjects, so whether Psychology and Geography count is not stated",
+    "the older BA/BSc Economics programme specification (undated PDF, https://www.gold.ac.uk/media/docs/programme-specifications/BA_BSc-Economics-Clean-Copy.pdf) says A-level BBB and 'normally at least Grade B in GCSE (or equivalent) in Mathematics, Economics or Statistics'; the course page (CCC, no GCSEs listed) is used. Check with Admissions"
+   ],
+   "notes": "A pluralist economics degree: formal training in economics and its different schools of thought, with quantitative methods. Compulsory year 1 modules include Mathematics for Economics and Business (30 credits); no A-level Maths requirement is stated on the page."
+  },
+  {
+   "id": "goldsmiths-economics-finance-accounting",
+   "name": "Economics with Finance and Accounting",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN34",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time.",
+   "options": {
+    "yearAbroad": "none",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance",
+    "economics-accounting"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "CCC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "CCC at A-level (three A-levels)",
+    "source": {
+     "url": "https://www.gold.ac.uk/ug/economics-finance-accounting/",
+     "checked": "2026-10-21",
+     "evidence": "A-level: CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+    "checked": "2026-10-21",
+    "evidence": "Our standard A-level requirements are passes in three full A-level subjects (preferably directly relevant to the subject you intend to study)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Goldsmiths is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "DDD",
+     "tariff": null,
+     "conditions": "Three grades lower than the published offer if you are care experienced or estranged and say so on your UCAS application (Goldsmiths' example: a typical A-level offer of CCC is reduced to DDD). Goldsmiths says the exact offer depends on the programme and qualification.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+      "checked": "2026-10-21",
+      "evidence": "a typical A Level offer is CCC and would be reduced to DDD"
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Applicants who have completed (or are due to complete) an EPQ may receive a reduced offer. Goldsmiths only gives an example for a BBB course (BBC plus grade B in the EPQ); no EPQ offer is published for this CCC course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "Applications from candidates who, in addition to appropriate Level 3 qualifications, have completed (or are due to complete) an EPQ may also receive a reduced offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gold.ac.uk/ug/economics-finance-accounting/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the course page does not say which entry year its A-level requirement is for (its fee line says students starting in 2026/2027); recorded as 2027 entry, the current application cycle. 2028 entry requirements are not published",
+    "gcse: course page doesn't list GCSE requirements",
+    "subjects: course page lists no required or excluded A-level subjects, so whether Psychology and Geography count is not stated"
+   ],
+   "notes": "Economic theory and quantitative methods combined with finance and accounting. Year 1 compulsory modules include Introductory Economics, Mathematics for Economics and Business (30 credits), Introduction to Management Accounting and Introduction to Financial Accounting."
+  },
+  {
+   "id": "goldsmiths-economics-data-science",
+   "name": "Economics with Data Science",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L1M2",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time.",
+   "options": {
+    "yearAbroad": "none",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "CCC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "CCC at A-level (three A-levels)",
+    "source": {
+     "url": "https://www.gold.ac.uk/ug/bsc-economics-data-science/",
+     "checked": "2026-10-21",
+     "evidence": "A-level: CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+    "checked": "2026-10-21",
+    "evidence": "Our standard A-level requirements are passes in three full A-level subjects (preferably directly relevant to the subject you intend to study)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Goldsmiths is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "DDD",
+     "tariff": null,
+     "conditions": "Three grades lower than the published offer if you are care experienced or estranged and say so on your UCAS application (Goldsmiths' example: a typical A-level offer of CCC is reduced to DDD). Goldsmiths says the exact offer depends on the programme and qualification.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+      "checked": "2026-10-21",
+      "evidence": "a typical A Level offer is CCC and would be reduced to DDD"
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Applicants who have completed (or are due to complete) an EPQ may receive a reduced offer. Goldsmiths only gives an example for a BBB course (BBC plus grade B in the EPQ); no EPQ offer is published for this CCC course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "Applications from candidates who, in addition to appropriate Level 3 qualifications, have completed (or are due to complete) an EPQ may also receive a reduced offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gold.ac.uk/ug/bsc-economics-data-science/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the course page does not say which entry year its A-level requirement is for (its fee line says students starting in 2026/2027); recorded as 2027 entry, the current application cycle. 2028 entry requirements are not published",
+    "gcse: course page doesn't list GCSE requirements",
+    "subjects: course page lists no required or excluded A-level subjects, so whether Psychology and Geography count is not stated"
+   ],
+   "notes": "Combines economic theory with data science and machine learning. Year 1 compulsory modules include Introductory Economics, Introduction to Programming, Computing Project 1 and Mathematics for Economics and Business (30 credits); no A-level Maths requirement is stated on the page."
+  },
+  {
+   "id": "goldsmiths-ppe",
+   "name": "Politics, Philosophy & Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "LLV1",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time. Also offered as an Integrated Degree in Politics and International Relations with a foundation year.",
+   "options": {
+    "yearAbroad": "none",
+    "placement": "unknown",
+    "foundationYear": "available"
+   },
+   "types": [
+    "ppe",
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "CCC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "CCC at A-level (three A-levels)",
+    "source": {
+     "url": "https://www.gold.ac.uk/ug/ba-politics-philosophy-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A-level: CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.gold.ac.uk/ug/ba-politics-philosophy-economics/",
+    "checked": "2026-10-21",
+    "evidence": "The programme includes a basic introduction to economics, so you don’t need any prior experience of economics or an A-level in Mathematics before you start."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Goldsmiths is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "DDD",
+     "tariff": null,
+     "conditions": "Three grades lower than the published offer if you are care experienced or estranged and say so on your UCAS application (Goldsmiths' example: a typical A-level offer of CCC is reduced to DDD). Goldsmiths says the exact offer depends on the programme and qualification.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+      "checked": "2026-10-21",
+      "evidence": "a typical A Level offer is CCC and would be reduced to DDD"
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Applicants who have completed (or are due to complete) an EPQ may receive a reduced offer. Goldsmiths only gives an example for a BBB course (BBC plus grade B in the EPQ); no EPQ offer is published for this CCC course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "Applications from candidates who, in addition to appropriate Level 3 qualifications, have completed (or are due to complete) an EPQ may also receive a reduced offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gold.ac.uk/ug/ba-politics-philosophy-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the course page does not say which entry year its A-level requirement is for (its fee line says students starting in 2026/2027); recorded as 2027 entry, the current application cycle. 2028 entry requirements are not published",
+    "gcse: course page doesn't list GCSE requirements",
+    "subjects: course page lists no required or excluded A-level subjects, so whether Psychology and Geography count is not stated"
+   ],
+   "notes": "The page says you do not need prior economics or an A-level in Mathematics. Year 1 compulsory modules include Foundations of Economics 1 and 2, Introduction to Philosophy: The Problems of Ethics and Introduction to Political Philosophy. Taught in the School of Global Change."
+  },
+  {
+   "id": "goldsmiths-management-economics",
+   "name": "Management with Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NL21",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time. No placement-year or year-abroad version is listed; the page mentions an optional Work Placement module (15 credits, end of year 2) and a term-long study abroad exchange.",
+   "options": {
+    "yearAbroad": "none",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "CCC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "CCC at A-level (three A-levels)",
+    "source": {
+     "url": "https://www.gold.ac.uk/ug/bsc-management-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A-level: CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+    "checked": "2026-10-21",
+    "evidence": "Our standard A-level requirements are passes in three full A-level subjects (preferably directly relevant to the subject you intend to study)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Goldsmiths is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "DDD",
+     "tariff": null,
+     "conditions": "Three grades lower than the published offer if you are care experienced or estranged and say so on your UCAS application (Goldsmiths' example: a typical A-level offer of CCC is reduced to DDD). Goldsmiths says the exact offer depends on the programme and qualification.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+      "checked": "2026-10-21",
+      "evidence": "a typical A Level offer is CCC and would be reduced to DDD"
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Applicants who have completed (or are due to complete) an EPQ may receive a reduced offer. Goldsmiths only gives an example for a BBB course (BBC plus grade B in the EPQ); no EPQ offer is published for this CCC course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "Applications from candidates who, in addition to appropriate Level 3 qualifications, have completed (or are due to complete) an EPQ may also receive a reduced offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gold.ac.uk/ug/bsc-management-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the course page does not say which entry year its A-level requirement is for (its fee line says students starting in 2026/2027); recorded as 2027 entry, the current application cycle. 2028 entry requirements are not published",
+    "gcse: course page doesn't list GCSE requirements",
+    "subjects: course page lists no required or excluded A-level subjects, so whether Psychology and Geography count is not stated"
+   ],
+   "notes": "A management degree with economics: year 1 includes Foundations of Economics 1 and 2 and Strategic Management; year 2 includes Mathematics for Economics and Business (30 credits) and Economic Reasoning."
+  },
+  {
+   "id": "goldsmiths-business-management",
+   "name": "Business Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N200",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time. No placement-year or year-abroad version is listed; the page mentions an optional Work Placement module (15 credits, end of year 2) and a term-long study abroad exchange.",
+   "options": {
+    "yearAbroad": "none",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "CCC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "CCC at A-level (three A-levels)",
+    "source": {
+     "url": "https://www.gold.ac.uk/ug/bsc-business-management/",
+     "checked": "2026-10-21",
+     "evidence": "A-level: CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+    "checked": "2026-10-21",
+    "evidence": "Our standard A-level requirements are passes in three full A-level subjects (preferably directly relevant to the subject you intend to study)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Goldsmiths is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "DDD",
+     "tariff": null,
+     "conditions": "Three grades lower than the published offer if you are care experienced or estranged and say so on your UCAS application (Goldsmiths' example: a typical A-level offer of CCC is reduced to DDD). Goldsmiths says the exact offer depends on the programme and qualification.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+      "checked": "2026-10-21",
+      "evidence": "a typical A Level offer is CCC and would be reduced to DDD"
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Applicants who have completed (or are due to complete) an EPQ may receive a reduced offer. Goldsmiths only gives an example for a BBB course (BBC plus grade B in the EPQ); no EPQ offer is published for this CCC course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "Applications from candidates who, in addition to appropriate Level 3 qualifications, have completed (or are due to complete) an EPQ may also receive a reduced offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gold.ac.uk/ug/bsc-business-management/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the course page does not say which entry year its A-level requirement is for (its fee line says students starting in 2026/2027); recorded as 2027 entry, the current application cycle. 2028 entry requirements are not published",
+    "gcse: course page doesn't list GCSE requirements",
+    "subjects: course page lists no required or excluded A-level subjects, so whether Psychology and Geography count is not stated"
+   ],
+   "notes": "An interdisciplinary business degree covering marketing, finance, economics, information systems and computing. Year 1 includes Foundations of Economics 1 and 2 and Finance and Accounting."
+  },
+  {
+   "id": "goldsmiths-management-accounting-finance",
+   "name": "Management with Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N243",
+   "lengthYears": 3,
+   "lengthNote": "3 years full-time.",
+   "options": {
+    "yearAbroad": "none",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "CCC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "CCC at A-level (three A-levels)",
+    "source": {
+     "url": "https://www.gold.ac.uk/ug/management-accounting-finance/",
+     "checked": "2026-10-21",
+     "evidence": "A-level: CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+    "checked": "2026-10-21",
+    "evidence": "Our standard A-level requirements are passes in three full A-level subjects (preferably directly relevant to the subject you intend to study)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Goldsmiths is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "DDD",
+     "tariff": null,
+     "conditions": "Three grades lower than the published offer if you are care experienced or estranged and say so on your UCAS application (Goldsmiths' example: a typical A-level offer of CCC is reduced to DDD). Goldsmiths says the exact offer depends on the programme and qualification.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/goldsmiths-university-guide/contextual-admissions/",
+      "checked": "2026-10-21",
+      "evidence": "a typical A Level offer is CCC and would be reduced to DDD"
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Applicants who have completed (or are due to complete) an EPQ may receive a reduced offer. Goldsmiths only gives an example for a BBB course (BBC plus grade B in the EPQ); no EPQ offer is published for this CCC course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.gold.ac.uk/ug/apply/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "Applications from candidates who, in addition to appropriate Level 3 qualifications, have completed (or are due to complete) an EPQ may also receive a reduced offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gold.ac.uk/ug/management-accounting-finance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the course page does not say which entry year its A-level requirement is for (its fee line says students starting in 2026/2027); recorded as 2027 entry, the current application cycle. 2028 entry requirements are not published",
+    "gcse: course page doesn't list GCSE requirements",
+    "subjects: course page lists no required or excluded A-level subjects, so whether Psychology and Geography count is not stated"
+   ],
+   "notes": "Strategic and organisational studies combined with accounting and finance. Year 1 compulsory modules include Foundations of Economics 1 and 2, Introduction to Management Accounting and Introduction to Financial Accounting."
+  }
+ ],
+ "notes": [
+  "All eight courses list A-level CCC on their course page, with no required subjects, GCSEs or admissions test listed.",
+  "Goldsmiths is not on UAT-UK's official TMUA list for 2027 entry, so no TMUA is recorded.",
+  "Contextual offers: three grades lower (CCC to DDD) for care-experienced and estranged applicants; Progression Agreement students get offers one grade lower than advertised.",
+  "Goldsmiths describes itself as a single-site campus in New Cross, South East London."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements are not published; the course pages do not state an entry year (their fee line refers to students starting in 2026/2027), so 2027 entry is recorded",
+  "2027/28 tuition fee not published yet; the 2026/27 fee of £9,790 is recorded",
+  "2027/28 halls rents not published yet; 2026/27 weekly rents from the 2026 accommodation guide are recorded",
+  "open days: only autumn 2026 dates are published; later 2027 undergraduate open days are not announced yet",
+  "UCAS course pages could not be opened (HTTP 403 to scripts), so there is no second-source check",
+  "GCSE requirements: not listed on any course page; the older BA/BSc Economics programme specification mentions GCSE grade B in Mathematics, Economics or Statistics and A-level BBB, which disagrees with the course page (CCC)",
+  "contextual: reduced offers are only published for care-experienced, estranged and Progression Agreement students; no area (POLAR/IMD), free school meals, school or first-generation criteria are published",
+  "programmes: no dated Year 12 summer school or taster for Economics found (the Art Summer School is art only; Be Bold with Gold and Channel Talent are booked through schools or an external site)"
+ ]
+}

@@ -1,0 +1,594 @@
+{
+ "id": "sunderland",
+ "name": "University of Sunderland",
+ "shortName": "Sunderland",
+ "aliases": [
+  "Sunderland",
+  "Sunderland Uni",
+  "Sunderland University",
+  "Uni of Sunderland"
+ ],
+ "city": "Sunderland",
+ "region": "North",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.sunderland.ac.uk/student-life/accommodation",
+  "checked": "2026-10-21",
+  "evidence": "We offer a great choice of accommodation within a short distance of our two campuses and the city centre."
+ },
+ "location": {
+  "postcode": "SR6 0DD",
+  "postcodeSource": "https://www.sunderland.ac.uk/about/how-to-get-here",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/SR60DD",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 for the first year for Home (UK) fee-paying students starting in 2027/28. Sunderland says fees are set by Government rules and may increase every year based on the Retail Price Index.",
+  "source": {
+   "url": "https://www.sunderland.ac.uk/all-fees",
+   "checked": "2026-10-21",
+   "evidence": "If you're a Home fee-paying student, the fee for your first year of study for 2027/28 will be £10,050."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 90,
+  "amountHigh": 155,
+  "period": "week",
+  "academicYear": null,
+  "text": "University halls (self-catered) cost about £90-£155 a week for a single student room (Panns Bank £90-£155, Scotia Quay £131-£150, The Precinct £107); family houses cost £187-£215. Rent includes gas, electricity, water, internet and contents insurance; 40-week or 50-week contracts (for example £3,600-£4,500 for the cheapest Panns Bank room). The pages do not say which academic year the prices are for.",
+  "source": {
+   "url": "https://www.sunderland.ac.uk/student-life/accommodation/panns-bank",
+   "checked": "2026-10-21",
+   "evidence": "Dormer height (3 rooms) | £90 | £3,600 | £4,500"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-11",
+    "endDate": null,
+    "label": "Business and Tourism Undergraduate Open Evening, 4pm-7pm (Sir Tom Cowie Campus at St Peter's)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-02-24",
+    "endDate": null,
+    "label": "Undergraduate Open Evening, 4pm-7pm",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-06-05",
+    "endDate": null,
+    "label": "Undergraduate and Postgraduate Open Day, 10am-2pm",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-08-14",
+    "endDate": null,
+    "label": "Undergraduate Open Day, 10am-2pm",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next events: Business and Tourism Undergraduate Open Evening on 11 November 2026 (listed on Sunderland's events page); Undergraduate Open Evening on 24 February 2027; open days on Saturday 5 June and Saturday 14 August 2027. Bookings may not be open yet for later events.",
+  "url": "https://www.sunderland.ac.uk/open-days",
+  "source": {
+   "url": "https://www.sunderland.ac.uk/open-days",
+   "checked": "2026-10-21",
+   "evidence": "We run Open Days throughout the year – here are the 2027 dates for your diary:"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Home-fee applicants who meet at least one of Sunderland's contextual statements can get an offer lowered by 8 UCAS tariff points, or by up to 16 points if two or more statements apply.",
+  "typicalReduction": "Up to 16 UCAS tariff points: 8 points if one statement applies to you, 16 points if two or more apply.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "You live in one of these postcode areas: DH, DL, NE, SR, TS, CA1, CA14, HU5, HU8, LA9, LS3, OL12, PR1, PR25, SK2, WA4, WF8, YO12, YO23",
+    "measure": "other",
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "You live in a neighbourhood of low participation in higher education: postcode in POLAR quintiles 1 and 2 (the page does not give a POLAR version number)",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Postcodes in TUNDRA quintiles 1 and 2 are also accepted",
+    "measure": "TUNDRA",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "firstGen",
+    "detail": "You are the first generation in your immediate family to attend university",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "You are care-experienced (listed together with being irreconcilably estranged from your family)",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "You are irreconcilably estranged from your family (listed together with being care-experienced)",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "You are an asylum seeker or refugee",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "You have caring responsibilities",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "You receive free school meals or were eligible within the last six years (not part of the UCAS form: email evidence to admissions@sunderland.ac.uk)",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You are part of the Gypsy, Traveller, Roma, Showmen or Boater communities (email evidence to admissions@sunderland.ac.uk)",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You are a student from a UK armed forces family (military service child) (email evidence to admissions@sunderland.ac.uk)",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "To be eligible for an 8 UCAS tariff point reduction, one of the listed statements must apply to you; for a 16 point reduction, two or more must apply. You must be a Home fee-status student paying full tuition fees and a first-year applicant to a full-time course of at least three years. Contextual offers cannot be used against Foundation degrees or Integrated Foundation Years. The maximum is 16 tariff points and tariff point adjustments cannot be used in conjunction with each other.",
+  "url": "https://www.sunderland.ac.uk/how-to-apply/tariff-point-reduction",
+  "source": {
+   "url": "https://www.sunderland.ac.uk/how-to-apply/tariff-point-reduction",
+   "checked": "2026-10-21",
+   "evidence": "To be eligible for an 8 UCAS tariff point reduction, one of the following statements must apply to you."
+  }
+ },
+ "programmes": [
+  {
+   "id": "sunderland-first-choice",
+   "name": "First Choice Progression Scheme (with Summer School)",
+   "provider": "University of Sunderland",
+   "providerType": "university",
+   "uniIds": [
+    "sunderland"
+   ],
+   "summary": "Year 12 progression scheme with a skills session and a compulsory on-campus Summer School; completing it earns 16 tariff points off your offer, a guaranteed conditional offer and a guaranteed interview at Sunderland.",
+   "whoCanApply": "Year 12 students at a school or college that is part of the First Choice Scheme, who want to go on to higher education, are interested in a course or subject Sunderland offers and are expected to achieve at least 96 UCAS points from their Level 3 qualifications.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "No widening participation criteria are listed for the main scheme (the separate First Choice: Medicine strand has them). Students must register their interest, complete a skills session in Year 12 (at school or college, on campus or online) and their school or college must be part of the scheme.",
+   "benefits": [
+    "16 tariff points to complement your offer (courses starting September 2027, either Sunderland campus; not MBChB Medicine)",
+    "A guaranteed conditional offer (not for courses that need an interview) and a guaranteed interview",
+    "Dedicated First Choice scholarships and awards",
+    "Experience of university life at the Summer School, plus support through the application process",
+    "You must complete all parts of the scheme and make Sunderland your firm choice on UCAS before the May 2027 deadline to get the tariff points and guaranteed offer/interview"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "sunderland"
+   ],
+   "offerReduction": "16 tariff points",
+   "cost": null,
+   "isFree": null,
+   "format": "mixed",
+   "subjects": "All subjects (subject-specific workshops at the Summer School)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Summer School 2026: Wednesday 1 to Friday 3 July 2026 (summer 2027 dates not announced yet)",
+    "start": "2026-07-01",
+    "end": "2026-07-03",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Not published (register your interest through your school or college)",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026 programme (for students starting university in September 2027). Dates for summer 2027 and terms for September 2028 entry are not announced yet.",
+   "url": "https://www.sunderland.ac.uk/undergraduate/schools-colleges-outreach/post-16/first-choice",
+   "source": {
+    "url": "https://www.sunderland.ac.uk/undergraduate/schools-colleges-outreach/post-16/first-choice",
+    "checked": "2026-10-21",
+    "evidence": "Summer School 2026 will take place from Wednesday 1 to Friday 3 July."
+   },
+   "notConfirmed": [
+    "Cost of the scheme and Summer School not stated on the page",
+    "Summer 2027 dates, sign-up window and deadline not published",
+    "Page does not list which schools and colleges are in the scheme",
+    "Tariff-point and guaranteed-offer terms are published for courses starting September 2027, not September 2028"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.sunderland.ac.uk/",
+  "courses": "https://www.sunderland.ac.uk/undergraduate",
+  "economics": "https://www.sunderland.ac.uk/subject-areas/business-management",
+  "openDays": "https://www.sunderland.ac.uk/open-days",
+  "fees": "https://www.sunderland.ac.uk/all-fees",
+  "contextual": "https://www.sunderland.ac.uk/how-to-apply/tariff-point-reduction",
+  "accommodation": "https://www.sunderland.ac.uk/student-life/accommodation"
+ },
+ "courses": [
+  {
+   "id": "sunderland-accounting-finance",
+   "name": "Accounting and Finance (with Professional Exemptions)",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN41",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 96,
+    "text": "Typical offer 96-112 UCAS Tariff points from a combination of acceptable Level 3 qualifications (A levels, T Levels, BTEC Diplomas/Extended Diplomas, Scottish and Irish Highers, Access to HE Diplomas or the International Baccalaureate); at most 6 points from Level 3 Key Skills. No A level grades are published.",
+    "source": {
+     "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-accounting-finance-professional-exemptions",
+     "checked": "2026-10-21",
+     "evidence": "Our typical offer is 96-112 UCAS Tariff points, from a combination of acceptable Level 3 qualifications which may include"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Three GCSE passes at grade C/4 or above including maths and English language (or Level 2 Key Skills in Application of Number)"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Three GCSE passes at grade C/4 or above including maths and English language (or Level 2 Key Skills in Communication)"
+    }
+   ],
+   "gcseText": "You also need three passes at GCSE grade C or above. This must include maths and English language, or a minimum of Level 2 Key Skills in Communication and Application of Number. If you've studied for a GCSE that has a numerical grade, you'll need to achieve a grade 4 or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-accounting-finance-professional-exemptions",
+    "checked": "2026-10-21",
+    "evidence": "Our typical offer is 96-112 UCAS Tariff points, from a combination of acceptable Level 3 qualifications which may include"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Sunderland is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-accounting-finance-professional-exemptions",
+     "checked": "2026-10-21",
+     "evidence": "Our typical offer is 96-112 UCAS Tariff points, from a combination of acceptable Level 3 qualifications which may include"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer can be reduced by up to 16 UCAS Tariff points if you meet Sunderland's contextual criteria (8 points for one criterion, 16 points for two or more). Home fee-status applicants to full-time courses of at least three years; not for Integrated Foundation Years. The reduced offer is not published as grades or points.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-accounting-finance-professional-exemptions",
+      "checked": "2026-10-21",
+      "evidence": "This may include a reduced offer of up to 16 UCAS Tariff points, (or equivalent)."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "16 tariff points to complement your offer, a guaranteed conditional offer (not for courses that need an interview) and a guaranteed interview, if you complete all parts of the First Choice Progression Scheme in Year 12 (skills session and Summer School) and make Sunderland your firm choice on UCAS before the May deadline. Published for courses starting September 2027 only; some new courses may not be eligible. The page says tariff point adjustments cannot be used in conjunction with each other.",
+     "programme": "First Choice Progression Scheme",
+     "source": {
+      "url": "https://www.sunderland.ac.uk/undergraduate/schools-colleges-outreach/post-16/first-choice",
+      "checked": "2026-10-21",
+      "evidence": "16 tariff points to complement their offer"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sunderland.ac.uk/undergraduate/ba-hons-accounting-finance-professional-exemptions",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded",
+    "Course page publishes only UCAS Tariff points (96-112), not A level grades, and lists no required or excluded A level subjects",
+    "Course page says 'Complete a paid 48-week placement' but not whether the placement is optional or compulsory",
+    "Study abroad and foundation year are not mentioned on the course page"
+   ],
+   "notes": "You can gain exemptions from some professional accounting exams (the page names ACCA and CIMA). Page summary mentions a paid 48-week placement. Most assessments are closed-book written exams because of the course accreditation. Course page lists September 2027 full-time and part-time starts (and January 2027 starts)."
+  },
+  {
+   "id": "sunderland-business-financial-management",
+   "name": "Business and Financial Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN1H",
+   "lengthYears": 3,
+   "lengthNote": "Optional paid placement year between second and final year; Integrated Foundation Year option starting September 2027 (UCAS code for that version not shown on the page)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 96,
+    "text": "Typical offer 96-112 UCAS Tariff points from a combination of acceptable Level 3 qualifications (A levels, T Levels, BTEC Diplomas/Extended Diplomas, Scottish and Irish Highers, Access to HE Diplomas or the International Baccalaureate); at most 6 points from Level 3 Key Skills. No A level grades are published.",
+    "source": {
+     "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-financial-management",
+     "checked": "2026-10-21",
+     "evidence": "Our typical offer is 96-112 UCAS Tariff points, from a combination of acceptable Level 3 qualifications which may include"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Three GCSE passes at grade C/4 or above including maths and English language (or Level 2 Key Skills in Application of Number)"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Three GCSE passes at grade C/4 or above including maths and English language (or Level 2 Key Skills in Communication)"
+    }
+   ],
+   "gcseText": "You also need three passes at GCSE grade C or above. This must include maths and English language, or a minimum of Level 2 Key Skills in Communication and Application of Number. If you've studied for a GCSE that has a numerical grade, you'll need to achieve a grade 4 or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-financial-management",
+    "checked": "2026-10-21",
+    "evidence": "Our typical offer is 96-112 UCAS Tariff points, from a combination of acceptable Level 3 qualifications which may include"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Sunderland is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-financial-management",
+     "checked": "2026-10-21",
+     "evidence": "Our typical offer is 96-112 UCAS Tariff points, from a combination of acceptable Level 3 qualifications which may include"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer can be reduced by up to 16 UCAS Tariff points if you meet Sunderland's contextual criteria (8 points for one criterion, 16 points for two or more). Home fee-status applicants to full-time courses of at least three years; not for Integrated Foundation Years. The reduced offer is not published as grades or points.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-financial-management",
+      "checked": "2026-10-21",
+      "evidence": "This may include a reduced offer of up to 16 UCAS Tariff points, (or equivalent)."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "16 tariff points to complement your offer, a guaranteed conditional offer (not for courses that need an interview) and a guaranteed interview, if you complete all parts of the First Choice Progression Scheme in Year 12 (skills session and Summer School) and make Sunderland your firm choice on UCAS before the May deadline. Published for courses starting September 2027 only; some new courses may not be eligible. The page says tariff point adjustments cannot be used in conjunction with each other.",
+     "programme": "First Choice Progression Scheme",
+     "source": {
+      "url": "https://www.sunderland.ac.uk/undergraduate/schools-colleges-outreach/post-16/first-choice",
+      "checked": "2026-10-21",
+      "evidence": "16 tariff points to complement their offer"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-financial-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded",
+    "Course page publishes only UCAS Tariff points (96-112), not A level grades, and lists no required or excluded A level subjects",
+    "Study abroad is not mentioned on the course page"
+   ],
+   "notes": "Focus on accounting, cash flow and financial management within a business degree; optional specialist courses with Sage Group PLC. Placement students typically earn around 14,000-18,000 pounds, per the page."
+  },
+  {
+   "id": "sunderland-business-management",
+   "name": "Business and Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN2C",
+   "lengthYears": 3,
+   "lengthNote": "Optional paid placement between second and final year; Integrated Foundation Year option starting September 2027 (UCAS code for that version not shown on the page)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 96,
+    "text": "Typical offer 96-112 UCAS Tariff points from a combination of acceptable Level 3 qualifications (A levels, T Levels, BTEC Diplomas/Extended Diplomas, Scottish and Irish Highers, Access to HE Diplomas or the International Baccalaureate); at most 6 points from Level 3 Key Skills. No A level grades are published.",
+    "source": {
+     "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-management",
+     "checked": "2026-10-21",
+     "evidence": "Our typical offer is 96-112 UCAS Tariff points, from a combination of acceptable Level 3 qualifications which may include"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Three GCSE passes at grade C/4 or above including maths and English language (or Level 2 Key Skills in Application of Number)"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Three GCSE passes at grade C/4 or above including maths and English language (or Level 2 Key Skills in Communication)"
+    }
+   ],
+   "gcseText": "You also need three passes at GCSE grade C or above. This must include maths and English language, or a minimum of Level 2 Key Skills in Communication and Application of Number. If you've studied for a GCSE that has a numerical grade, you'll need to achieve a grade 4 or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-management",
+    "checked": "2026-10-21",
+    "evidence": "Our typical offer is 96-112 UCAS Tariff points, from a combination of acceptable Level 3 qualifications which may include"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Sunderland is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-management",
+     "checked": "2026-10-21",
+     "evidence": "Our typical offer is 96-112 UCAS Tariff points, from a combination of acceptable Level 3 qualifications which may include"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer can be reduced by up to 16 UCAS Tariff points if you meet Sunderland's contextual criteria (8 points for one criterion, 16 points for two or more). Home fee-status applicants to full-time courses of at least three years; not for Integrated Foundation Years. The reduced offer is not published as grades or points.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-management",
+      "checked": "2026-10-21",
+      "evidence": "This may include a reduced offer of up to 16 UCAS Tariff points, (or equivalent)."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "16 tariff points to complement your offer, a guaranteed conditional offer (not for courses that need an interview) and a guaranteed interview, if you complete all parts of the First Choice Progression Scheme in Year 12 (skills session and Summer School) and make Sunderland your firm choice on UCAS before the May deadline. Published for courses starting September 2027 only; some new courses may not be eligible. The page says tariff point adjustments cannot be used in conjunction with each other.",
+     "programme": "First Choice Progression Scheme",
+     "source": {
+      "url": "https://www.sunderland.ac.uk/undergraduate/schools-colleges-outreach/post-16/first-choice",
+      "checked": "2026-10-21",
+      "evidence": "16 tariff points to complement their offer"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sunderland.ac.uk/undergraduate/ba-hons-business-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start); 2027 entry recorded",
+    "Course page publishes only UCAS Tariff points (96-112), not A level grades, and lists no required or excluded A level subjects",
+    "Study abroad is not mentioned on the course page"
+   ],
+   "notes": "Sunderland's most popular undergraduate business degree: a broad foundation in management, marketing, finance, operations and the world economy, with live employer projects."
+  }
+ ],
+ "notes": [
+  "Sunderland has no Economics degree on its Sunderland-campus course lists: the Economics subject page (sunderland.ac.uk/subject-areas/economics) returns 404 and the Business and Management and Accounting and Finance subject pages list none. The closest business and finance degrees are recorded instead.",
+  "Offers are published as UCAS Tariff points (96-112), not A level grades. GCSEs: three passes at grade C/4 or above including maths and English language.",
+  "Business and Marketing Management and Business and Human Resource Management (same subject page) were not recorded as they are less related to Economics.",
+  "Sunderland is not on UAT-UK's official TMUA list for 2027 entry (https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf).",
+  "The 11 November 2026 Business and Tourism open evening is listed at https://www.sunderland.ac.uk/events?levelOfStudy=da669981-4a2f-450d-a068-756d5bee3e56&type=e6027014-4707-4405-bdb1-f760575fa217 (checked 2026-10-21).",
+  "Sunderland also runs a London campus; only the main Sunderland campuses are recorded."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements and 2028/29 fees not published yet; 2027 entry and the 2027/28 fee are recorded",
+  "Course pages only say 'On campus' and do not name the teaching campus. The Business and Tourism open evening is held at the Sir Tom Cowie Campus at St Peter's (SR6 0DD), so that postcode is used; the other campus (City Campus) is SR1 3SD",
+  "Accommodation price pages do not state which academic year the prices are for",
+  "Real Estate or other related courses outside the Business and Management and Accounting and Finance subject pages were not searched",
+  "Format (in person or online) of the 24 February 2027 open evening is not stated on the open days page",
+  "UCAS course pages were not available (blocked), so links.ucas is null"
+ ]
+}

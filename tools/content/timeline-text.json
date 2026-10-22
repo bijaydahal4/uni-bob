@@ -1,0 +1,149 @@
+{
+  "note": "Friendly wording for the Timeline. Steps with a 'fact' take their date, status, basedOn and source from research/timeline.json. Steps without one carry their own (always Expected unless a source confirms the exact date).",
+  "steps": [
+    {
+      "id": "explore-now", "now": true, "title": "Explore courses",
+      "when": "Now (Year 12)",
+      "what": "Look around, save the courses you like, and check what grades and subjects they ask for.",
+      "why": "Knowing the entry requirements early helps you choose the right extras, like an EPQ or a summer school."
+    },
+    {
+      "id": "summer-school-apps", "title": "Apply for Year 12 summer schools", "date": "2027-01-15", "precision": "month",
+      "when": "From about January 2027", "status": "Expected",
+      "basedOn": "Many programmes in the Summer Schools tracker opened their 2026 applications early in the year. Check each programme for its own dates.",
+      "what": "Look through Summer Schools and apply for any that fit you. Deadlines are often in spring.",
+      "why": "Some programmes can lower your offer at that uni, and they're a great thing to write about in your personal statement.",
+      "link": "#/summer"
+    },
+    {
+      "id": "ucas-courses", "fact": "ucas-courses-in-search", "title": "2028-entry courses appear on UCAS",
+      "what": "UCAS starts showing courses for your year (2028 entry), so you can check the latest entry requirements.",
+      "why": "Unis sometimes change their offers from one year to the next.", "infoKey": "ucas"
+    },
+    {
+      "id": "ucas-opens", "fact": "ucas-application-opens", "title": "UCAS application opens",
+      "what": "You can create your UCAS account and start filling in your application.",
+      "why": "Starting early takes the pressure off in Year 13. You can't send it yet.", "infoKey": "ucas"
+    },
+    {
+      "id": "predicted-grades", "title": "Predicted grades", "date": "2027-06-15", "precision": "month",
+      "when": "Usually the summer of Year 12 or early Year 13", "status": "Expected",
+      "basedOn": "UCAS doesn't set a national date. Your sixth form decides, often after Year 12 assessments. Ask your teachers when you'll get yours.",
+      "sourceRef": "predictedGrades",
+      "what": "Your teachers give you the grades they think you'll get. Update your grades in Uni Bob when you have them.",
+      "why": "Unis make offers based on your predicted grades, so they help you pick a sensible mix of courses.", "infoKey": "predicted"
+    },
+    {
+      "id": "open-days-summer", "title": "Summer open days", "date": "2027-06-20", "precision": "month",
+      "when": "June and July 2027", "status": "Expected",
+      "basedOn": "Many unis in Uni Bob hold their main open days in June or July (for example Bath has said June 2027). UCAS suggests Year 12s visit at least two.",
+      "sourceRef": "openDays",
+      "what": "Book a few open days. Most need booking, so do it a few weeks ahead.",
+      "why": "Visiting helps you feel which unis are right for you, and you can ask about the course and offers.", "infoKey": "openDay"
+    },
+    {
+      "id": "personal-statement", "title": "Write your personal statement", "date": "2027-07-01", "precision": "month",
+      "when": "Summer 2027", "status": "Expected",
+      "basedOn": "UCAS suggests the summer of Year 12 for making decisions and starting your application.",
+      "sourceRef": "personalStatement",
+      "what": "Start your answers to UCAS's three questions. It's normal to go through several drafts.",
+      "why": "It's your chance to show why you love Economics, and it matters most when courses are competitive.", "infoKey": "personalStatement"
+    },
+    {
+      "id": "tmua-account", "fact": "tmua-account-opens", "title": "TMUA: accounts and bursaries open",
+      "what": "If any of your courses ask for the TMUA, create your account and apply for a bursary if you're eligible.",
+      "why": "You must book before the deadline, and a bursary has to be agreed before you book.", "infoKey": "tmua"
+    },
+    {
+      "id": "tmua-oct-booking", "fact": "tmua-october-booking", "title": "TMUA: book the October test",
+      "what": "Booking opens for the October sitting. Book early to get a test centre near you.",
+      "why": "Taking it in October means you'll have your result before the main UCAS deadline.", "infoKey": "tmua"
+    },
+    {
+      "id": "ucas-send", "fact": "ucas-can-send", "title": "Send your UCAS application",
+      "what": "From now you can send your finished application. Your sixth form adds your reference and predicted grades first, so check their internal deadline.",
+      "why": "Sending early means unis can look at it sooner, and some reply quickly.", "infoKey": "ucas"
+    },
+    {
+      "id": "open-days-autumn", "title": "Autumn open days", "date": "2027-09-20", "precision": "month",
+      "when": "September to November 2027", "status": "Expected",
+      "basedOn": "Several unis in Uni Bob held autumn open days in 2026 (for example Durham in September and Birmingham in November).",
+      "sourceRef": "openDays",
+      "what": "A last chance to visit before you send your application or choose between offers.",
+      "why": "It helps you feel sure about your five choices.", "infoKey": "openDay"
+    },
+    {
+      "id": "tmua-oct-test", "fact": "tmua-october-sitting", "title": "TMUA: October test window",
+      "what": "The October sitting of the TMUA, if your courses use it.",
+      "why": "Your score goes to the unis that ask for it.", "infoKey": "tmua"
+    },
+    {
+      "id": "tmua-jan-booking", "fact": "tmua-january-booking", "title": "TMUA: book the January test",
+      "what": "Booking opens for the January sitting, if you didn't take it in October.",
+      "why": "Some unis accept a January score, but check each course.", "infoKey": "tmua"
+    },
+    {
+      "id": "tmua-oct-results", "fact": "tmua-october-results", "title": "TMUA: October results",
+      "what": "Your October TMUA score arrives in your UAT-UK account.",
+      "why": "A good score can help, and at some unis it can lower your offer.", "infoKey": "tmua"
+    },
+    {
+      "id": "tmua-jan-test", "fact": "tmua-january-sitting", "title": "TMUA: January test window",
+      "what": "The January sitting of the TMUA.",
+      "why": "Only if you need it and didn't take it in October.", "infoKey": "tmua"
+    },
+    {
+      "id": "ucas-deadline", "fact": "ucas-equal-consideration", "title": "Main UCAS deadline",
+      "what": "Make sure your application is sent by this date (and earlier for your sixth form's own deadline).",
+      "why": "Applications sent by now are all treated equally.", "infoKey": "equalConsideration"
+    },
+    {
+      "id": "ucas-extra", "fact": "ucas-extra", "title": "UCAS Extra opens",
+      "what": "If you've used all five choices and have no offers, you can add another choice one at a time.",
+      "why": "It's another chance to find a place before Clearing.", "infoKey": "ucas"
+    },
+    {
+      "id": "student-finance-opens", "fact": "student-finance-opens", "title": "Apply for Student Finance",
+      "what": "Applications for Student Finance open. You don't need an offer to apply.",
+      "why": "Applying early means your money is ready for the start of term.", "infoKey": "studentFinance"
+    },
+    {
+      "id": "offers", "fact": "ucas-decisions-aim", "title": "Offers arrive",
+      "what": "Unis aim to send their decisions by now if you applied by the main deadline. Some arrive much earlier.",
+      "why": "Once your offers are in, you can compare them.", "infoKey": "conditional"
+    },
+    {
+      "id": "firm-insurance", "fact": "ucas-reply-deadline-may", "title": "Choose your firm and insurance",
+      "what": "Pick your firm choice (your favourite) and an insurance choice (a backup with a lower offer).",
+      "why": "Your insurance is your safety net if results day doesn't go to plan. If your last decision arrives later, your reply deadline is later too.",
+      "infoKey": "firmInsurance"
+    },
+    {
+      "id": "a-level-exams", "fact": "a-level-exams", "title": "A-level exams",
+      "what": "Your A-level exams take place over about six weeks.",
+      "why": "This is what your offers depend on. You've got this!"
+    },
+    {
+      "id": "student-finance-deadline", "fact": "student-finance-deadline", "title": "Student Finance: apply by",
+      "what": "Apply by this date to have your money in time for the start of term.",
+      "why": "Late applications still work, but the money might arrive later.", "infoKey": "studentFinance"
+    },
+    {
+      "id": "clearing", "fact": "ucas-clearing-opens", "title": "Clearing opens",
+      "what": "If you don't have an offer, you can look for courses with spaces.",
+      "why": "Lots of students find great places through Clearing.", "infoKey": "clearing"
+    },
+    {
+      "id": "results-day", "fact": "a-level-results-day", "title": "A-level results day",
+      "what": "You get your results, and UCAS shows whether your firm or insurance place is confirmed.",
+      "why": "If things don't go to plan, Clearing is open the same day."
+    },
+    {
+      "id": "move-in", "title": "Move in and start uni", "date": "2028-09-20", "precision": "month",
+      "when": "September 2028", "status": "Expected",
+      "basedOn": "Your course starts in September 2028. Each uni publishes its own term and moving-in dates.",
+      "what": "Move into your halls, go to welcome week and start your course.",
+      "why": "The start of something exciting!"
+    }
+  ]
+}

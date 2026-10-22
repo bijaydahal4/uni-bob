@@ -1,0 +1,962 @@
+{
+ "id": "brunel",
+ "name": "Brunel University of London",
+ "shortName": "Brunel",
+ "aliases": [
+  "Brunel",
+  "Brunel Uni",
+  "Brunel University",
+  "BUL",
+  "Brunel London",
+  "Brunel Uxbridge"
+ ],
+ "city": "Uxbridge",
+ "region": "London",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.brunel.ac.uk/study/open-days/undergraduate-open-days",
+  "checked": "2026-10-21",
+  "evidence": "Brunel has everything on one campus in Uxbridge, west London"
+ },
+ "location": {
+  "postcode": "UB8 3PH",
+  "postcodeSource": "https://www.brunel.ac.uk/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/UB83PH",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for Home (UK) students starting in 2027/28, subject to Parliamentary approval (Brunel's Economics course page). Brunel says the fee cap is expected to rise with inflation from 2028 onwards. Brunel has a separate page on placement-year fees and other course costs.",
+  "source": {
+   "url": "https://www.brunel.ac.uk/study/courses/economics-bsc",
+   "checked": "2026-10-21",
+   "evidence": "For the 2027/28 academic year, tuition fees for home students will be £10,050, subject to Parliamentary approval."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 179.97,
+  "amountHigh": 381.78,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Undergraduate campus halls cost £179.97 to £381.78 a week in 2026/27: from a budget en-suite room (Mill) up to a large one-bed flat. Rooms cost £179.97 to £281.68 a week; studios and one-bed flats are £368.13 to £381.78. The undergraduate contract runs 13 September 2026 to 21 June 2027 (a budget en-suite totals £7,224.51).",
+  "source": {
+   "url": "https://www.brunel.ac.uk/life/accommodation/rents-and-contract-lengths",
+   "checked": "2026-10-21",
+   "evidence": "Cost per week: £179.97"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Undergraduate open day (9.30am-3.30pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open day: 21 November 2026, 9.30am-3.30pm on campus in Uxbridge (the 10 October 2026 open day has passed). No dates after that are published yet.",
+  "url": "https://www.brunel.ac.uk/study/open-days/undergraduate-open-days",
+  "source": {
+   "url": "https://www.brunel.ac.uk/study/open-days/undergraduate-open-days",
+   "checked": "2026-10-21",
+   "evidence": "Get ready to explore your future at an Undergraduate Open Day on 10 October or 21 November 2026 from 9.30am - 3.30pm."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Home-fee applicants who meet any one of Brunel's contextual criteria are eligible for a reduced contextual offer (published on each course page), but an offer is not guaranteed.",
+  "typicalReduction": "One grade lower at A level on the courses recorded here (ABB standard, BBB contextual), as published on each course page.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Applicants from areas of low higher education participation (POLAR4 Quintiles 1 and 2), worked out from your Home postcode and flagged automatically on your application.",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "Applicants who receive or are eligible to receive Free School Meals (asked on the UCAS application; Brunel can sometimes access Free School Meal data provided by UCAS).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Care-experienced applicants / care leavers (asked on the UCAS application).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Young carer aged 25 or under at enrolment, with a dependent family member or friend (asked on the UCAS application under 'Caring responsibilities').",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "People estranged from their parents or carers (under 25 at enrolment): no contact with your parents or legal guardians because of a permanent breakdown in the relationship.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Refugees, people granted Humanitarian Protection, and asylum seekers (confirm your residency status on the UCAS application; evidence is requested later).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "access",
+    "detail": "Students who attended the Brunel Urban Scholars programme (a Saturday programme for school pupils).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Also on the list: applicants with a disability; mature applicants (21 or over on 1 September of the year the course starts); people from Gypsy, Roma and Traveller communities; applicants from UK Armed Forces families (Service Children) and applicants who have served in the UK Armed Forces.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You would be considered a contextual applicant if you meet one or more of the criteria. Contextual admissions only applies to applicants eligible for Home fees and does not guarantee an offer for your preferred course. Contextual offers are published alongside the standard offer on course pages. Essential criteria like subject requirements cannot normally be waived, and Brunel may ask for verification.",
+  "url": "https://www.brunel.ac.uk/about/admissions/contextual-admissions",
+  "source": {
+   "url": "https://www.brunel.ac.uk/about/admissions/contextual-admissions",
+   "checked": "2026-10-21",
+   "evidence": "you would be considered a contextual applicant if you meet one or more of the criteria set out below"
+  }
+ },
+ "programmes": [
+  {
+   "id": "brunel-business-taster-day",
+   "name": "Business Taster Day (Brunel Business School)",
+   "provider": "Brunel University of London",
+   "providerType": "university",
+   "uniIds": [
+    "brunel"
+   ],
+   "summary": "A one-day taster where Year 12-13 students experience a day in the life of a business student at Brunel Business School: university study, career development, sessions, a campus tour and talks with staff and current students.",
+   "whoCanApply": "Year 12-13 students. Register your interest by emailing the contact given on Brunel's taster days page.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "The page gives the year groups (Year 12-13) and no other criteria.",
+   "benefits": [
+    "Lunch provided",
+    "Sessions on university study and career development",
+    "Campus tour and talks with staff and current students"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated",
+   "isFree": null,
+   "format": "day",
+   "subjects": "Business (Brunel Business School)",
+   "yearGroup": "Years 12-13",
+   "runs": {
+    "text": "17 November 2026, 9:30am-3:30pm",
+    "start": "2026-11-17",
+    "end": "2026-11-17",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Register your interest by email (no opening date given)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "The session listed is on 17 November 2026; no summer 2027 session is listed on the page.",
+   "url": "https://www.brunel.ac.uk/study/schools-and-colleges/Teacher-and-adviser-resources/taster-days",
+   "source": {
+    "url": "https://www.brunel.ac.uk/study/schools-and-colleges/Teacher-and-adviser-resources/taster-days",
+    "checked": "2026-10-21",
+    "evidence": "Business Taster Day- November 17 2026 09:30am-3:30pm"
+   },
+   "notConfirmed": [
+    "Cost not stated (lunch is provided)",
+    "Registration deadline not published"
+   ]
+  },
+  {
+   "id": "brunel-social-science-taster-day",
+   "name": "Festival of Social Science Taster Day",
+   "provider": "Brunel University of London",
+   "providerType": "university",
+   "uniIds": [
+    "brunel"
+   ],
+   "summary": "A full-day taster with workshops and lectures in social sciences (Anthropology, Criminology, Geography, Global Challenges, History, Journalism, Media, Politics and Sociology), campus tour and student panel talks.",
+   "whoCanApply": "Students in Years 11-13. Register your interest using the contact on Brunel's taster days page.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "The page gives the year groups (Years 11-13) and no other criteria.",
+   "benefits": [
+    "Complimentary lunch and light refreshments",
+    "Guided campus tour",
+    "Choose one subject workshop or try several"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated",
+   "isFree": null,
+   "format": "day",
+   "subjects": "Social sciences (Economics is not in the listed subjects)",
+   "yearGroup": "Years 11-13",
+   "runs": {
+    "text": "March 2027, 9:30am-3:00pm (exact date not published)",
+    "start": null,
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Register your interest by email (no opening date given)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "Month and times published; the exact day in March 2027 is not on the page yet.",
+   "url": "https://www.brunel.ac.uk/study/schools-and-colleges/Teacher-and-adviser-resources/taster-days",
+   "source": {
+    "url": "https://www.brunel.ac.uk/study/schools-and-colleges/Teacher-and-adviser-resources/taster-days",
+    "checked": "2026-10-21",
+    "evidence": "Festival of Social Science Taster Day - March 2027"
+   },
+   "notConfirmed": [
+    "Exact date in March 2027 not published",
+    "Cost not stated (lunch is provided)",
+    "Registration deadline not published"
+   ]
+  },
+  {
+   "id": "brunel-university-ready-day",
+   "name": "University Ready: Skills, Knowledge and Next steps",
+   "provider": "Brunel University of London",
+   "providerType": "university",
+   "uniIds": [
+    "brunel"
+   ],
+   "summary": "A general taster day that helps Year 11 and Year 12 students research and choose universities and courses (Year 13 sessions cover student finance).",
+   "whoCanApply": "Students in Years 11, 12 and 13 (sessions are tailored by year group). Book using the contact on Brunel's taster days page.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "The page gives the year groups (Years 11-13) and no other criteria.",
+   "benefits": [
+    "Help researching and selecting universities and courses (Years 11-12)",
+    "Complimentary lunch"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated",
+   "isFree": null,
+   "format": "day",
+   "subjects": "All subjects (general university advice)",
+   "yearGroup": "Years 11-13",
+   "runs": {
+    "text": "Wednesday 10 February 2027",
+    "start": "2027-02-10",
+    "end": "2027-02-10",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Book by email (no opening date given)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": null,
+   "url": "https://www.brunel.ac.uk/study/schools-and-colleges/Teacher-and-adviser-resources/taster-days",
+   "source": {
+    "url": "https://www.brunel.ac.uk/study/schools-and-colleges/Teacher-and-adviser-resources/taster-days",
+    "checked": "2026-10-21",
+    "evidence": "University Ready: Skills, Knowledge and Next steps- Wednesday 10 February 2027"
+   },
+   "notConfirmed": [
+    "Cost not stated (lunch is provided)",
+    "Booking deadline not published"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.brunel.ac.uk/",
+  "courses": "https://www.brunel.ac.uk/study/courses",
+  "economics": "https://www.brunel.ac.uk/economics-finance-and-accounting",
+  "openDays": "https://www.brunel.ac.uk/study/open-days/undergraduate-open-days",
+  "fees": "https://www.brunel.ac.uk/study/undergraduate-fees-and-funding",
+  "contextual": "https://www.brunel.ac.uk/about/admissions/contextual-admissions",
+  "accommodation": "https://www.brunel.ac.uk/life/accommodation/rents-and-contract-lengths"
+ },
+ "courses": [
+  {
+   "id": "brunel-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a one-year professional placement between years two and three (UCAS code L106)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (standard offer); contextual offer BBB. No specific A-level subjects listed.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Part of the minimum of five GCSEs at grade C/4 or above"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4, or GCSE English Literature grade B/5"
+    }
+   ],
+   "gcseText": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brunel.ac.uk/study/courses/economics-bsc",
+    "checked": "2026-10-21",
+    "evidence": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; the offer is based on A-level grades and GCSEs. Brunel is also not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A level if you are a UK undergraduate applicant who meets one or more of Brunel's contextual markers. A contextual offer is not guaranteed (see the contextual admissions page).",
+     "programme": null,
+     "source": {
+      "url": "https://www.brunel.ac.uk/study/courses/economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: GCE A level BBB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brunel.ac.uk/study/courses/economics-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2027 and 2028 entry requirements not published yet: the course page shows 2026/27 entry only, so the offer recorded is for 2026 entry",
+    "A-level subjects: the course page lists grades only (ABB) and doesn't say which subjects are required, preferred or excluded"
+   ],
+   "notes": "Accredited by ACCA and CIMA (exemptions from some professional papers). Year 1 includes a Mathematics for Economics and Finance module described as designed for students of all academic backgrounds. Optional one-year placement between years two and three."
+  },
+  {
+   "id": "brunel-economics-accounting",
+   "name": "Economics and Accounting",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN14",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a one-year professional placement between years two and three (UCAS code NL41)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-accounting"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (standard offer); contextual offer BBB. No specific A-level subjects listed.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/economics-and-accounting-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Part of the minimum of five GCSEs at grade C/4 or above"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4, or GCSE English Literature grade B/5"
+    }
+   ],
+   "gcseText": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brunel.ac.uk/study/courses/economics-and-accounting-bsc",
+    "checked": "2026-10-21",
+    "evidence": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; the offer is based on A-level grades and GCSEs. Brunel is also not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/economics-and-accounting-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A level if you are a UK undergraduate applicant who meets one or more of Brunel's contextual markers. A contextual offer is not guaranteed (see the contextual admissions page).",
+     "programme": null,
+     "source": {
+      "url": "https://www.brunel.ac.uk/study/courses/economics-and-accounting-bsc",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: GCE A level BBB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brunel.ac.uk/study/courses/economics-and-accounting-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2027 and 2028 entry requirements not published yet: the course page shows 2026/27 entry only, so the offer recorded is for 2026 entry",
+    "A-level subjects: the course page lists grades only (ABB) and doesn't say which subjects are required, preferred or excluded"
+   ],
+   "notes": "Accredited degree covering economics alongside financial accounting, financial management and management accounting. Optional one-year placement between years two and three."
+  },
+  {
+   "id": "brunel-economics-business-finance",
+   "name": "Economics and Business Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LND3",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a one-year professional placement between years two and three (UCAS code LNC3)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (standard offer); contextual offer BBB. No specific A-level subjects listed.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/economics-and-business-finance-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Part of the minimum of five GCSEs at grade C/4 or above"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4, or GCSE English Literature grade B/5"
+    }
+   ],
+   "gcseText": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brunel.ac.uk/study/courses/economics-and-business-finance-bsc",
+    "checked": "2026-10-21",
+    "evidence": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; the offer is based on A-level grades and GCSEs. Brunel is also not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/economics-and-business-finance-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A level if you are a UK undergraduate applicant who meets one or more of Brunel's contextual markers. A contextual offer is not guaranteed (see the contextual admissions page).",
+     "programme": null,
+     "source": {
+      "url": "https://www.brunel.ac.uk/study/courses/economics-and-business-finance-bsc",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: GCE A level BBB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brunel.ac.uk/study/courses/economics-and-business-finance-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2027 and 2028 entry requirements not published yet: the course page shows 2026/27 entry only, so the offer recorded is for 2026 entry",
+    "A-level subjects: the course page lists grades only (ABB) and doesn't say which subjects are required, preferred or excluded"
+   ],
+   "notes": "Closest match to Economics and Finance at Brunel. Optional placement year, and Brunel's Study Abroad and Exchange Programmes offer a term or year at a partner institution."
+  },
+  {
+   "id": "brunel-economics-management",
+   "name": "Economics and Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LNC2",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a one-year professional placement between years two and three (UCAS code LND2)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (standard offer); contextual offer BBB. No specific A-level subjects listed.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/economics-and-management-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Part of the minimum of five GCSEs at grade C/4 or above"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4, or GCSE English Literature grade B/5"
+    }
+   ],
+   "gcseText": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brunel.ac.uk/study/courses/economics-and-management-bsc",
+    "checked": "2026-10-21",
+    "evidence": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; the offer is based on A-level grades and GCSEs. Brunel is also not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/economics-and-management-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A level if you are a UK undergraduate applicant who meets one or more of Brunel's contextual markers. A contextual offer is not guaranteed (see the contextual admissions page).",
+     "programme": null,
+     "source": {
+      "url": "https://www.brunel.ac.uk/study/courses/economics-and-management-bsc",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: GCE A level BBB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brunel.ac.uk/study/courses/economics-and-management-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2027 and 2028 entry requirements not published yet: the course page shows 2026/27 entry only, so the offer recorded is for 2026 entry",
+    "A-level subjects: the course page lists grades only (ABB) and doesn't say which subjects are required, preferred or excluded"
+   ],
+   "notes": "Accredited by ACCA and CIMA (exemptions from some professional papers). Optional one-year placement between years two and three."
+  },
+  {
+   "id": "brunel-finance-accounting",
+   "name": "Finance and Accounting",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN34",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a one-year professional placement between years two and three (UCAS code NN3K)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (standard offer); contextual offer BBB. No specific A-level subjects listed.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/finance-and-accounting-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Part of the minimum of five GCSEs at grade C/4 or above"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4, or GCSE English Literature grade B/5"
+    }
+   ],
+   "gcseText": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brunel.ac.uk/study/courses/finance-and-accounting-bsc",
+    "checked": "2026-10-21",
+    "evidence": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; the offer is based on A-level grades and GCSEs. Brunel is also not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/finance-and-accounting-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A level if you are a UK undergraduate applicant who meets one or more of Brunel's contextual markers. A contextual offer is not guaranteed (see the contextual admissions page).",
+     "programme": null,
+     "source": {
+      "url": "https://www.brunel.ac.uk/study/courses/finance-and-accounting-bsc",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: GCE A level BBB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brunel.ac.uk/study/courses/finance-and-accounting-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2027 and 2028 entry requirements not published yet: the course page shows 2026/27 entry only, so the offer recorded is for 2026 entry",
+    "A-level subjects: the course page lists grades only (ABB) and doesn't say which subjects are required, preferred or excluded"
+   ],
+   "notes": "Accredited by ACCA, CIMA and ICAEW (exemptions depend on module choices). Includes econometrics. Optional one-year placement between years two and three."
+  },
+  {
+   "id": "brunel-banking-finance",
+   "name": "Banking and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L130",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a one-year professional placement between years two and three (UCAS code L131)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (standard offer); contextual offer BBB. No specific A-level subjects listed.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/banking-and-finance-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Part of the minimum of five GCSEs at grade C/4 or above"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4, or GCSE English Literature grade B/5"
+    }
+   ],
+   "gcseText": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brunel.ac.uk/study/courses/banking-and-finance-bsc",
+    "checked": "2026-10-21",
+    "evidence": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade B/5), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; the offer is based on A-level grades and GCSEs. Brunel is also not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/banking-and-finance-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A level if you are a UK undergraduate applicant who meets one or more of Brunel's contextual markers. A contextual offer is not guaranteed (see the contextual admissions page).",
+     "programme": null,
+     "source": {
+      "url": "https://www.brunel.ac.uk/study/courses/banking-and-finance-bsc",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: GCE A level BBB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brunel.ac.uk/study/courses/banking-and-finance-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2027 and 2028 entry requirements not published yet: the course page shows 2026/27 entry only, so the offer recorded is for 2026 entry",
+    "A-level subjects: the course page lists grades only (ABB) and doesn't say which subjects are required, preferred or excluded"
+   ],
+   "notes": "Starts with micro and macroeconomic principles, accounting and financial markets; includes econometrics. Accredited by ACCA and CIMA. Optional one-year placement between years two and three."
+  },
+  {
+   "id": "brunel-business-management",
+   "name": "Business and Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a one-year professional placement between years two and three (UCAS code N221)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (standard offer); contextual offer BBB. No specific A-level subjects listed.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/business-and-management-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Part of the minimum of five GCSEs at grade C/4 or above"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4, or GCSE English Literature grade B/5"
+    }
+   ],
+   "gcseText": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade C/4), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brunel.ac.uk/study/courses/business-and-management-bsc",
+    "checked": "2026-10-21",
+    "evidence": "A minimum of five GCSEs (grade C/4 or above) are required including GCSE Mathematics (grade C/4), and either GCSE English Language (grade C/4) or GCSE English Literature (grade B/5)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page; the offer is based on A-level grades and GCSEs. Brunel is also not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.brunel.ac.uk/study/courses/business-and-management-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer: GCE A level ABB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A level if you are a UK undergraduate applicant who meets one or more of Brunel's contextual markers. A contextual offer is not guaranteed (see the contextual admissions page).",
+     "programme": null,
+     "source": {
+      "url": "https://www.brunel.ac.uk/study/courses/business-and-management-bsc",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: GCE A level BBB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brunel.ac.uk/study/courses/business-and-management-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2027 and 2028 entry requirements not published yet: the course page shows 2026/27 entry only, so the offer recorded is for 2026 entry",
+    "A-level subjects: the course page lists grades only (ABB) and doesn't say which subjects are required, preferred or excluded"
+   ],
+   "notes": "CIMA accredited. The page says the course teaches numerical methods and statistical software without the need for A-level maths. Optional placement year between years two and three."
+  }
+ ],
+ "notes": [
+  "Brunel's course pages show 2026/27 entry requirements only (checked 2026-10-21), while the Home fee shown is already for 2027/28. All courses therefore use entry year 2026 (ABB, contextual BBB).",
+  "Brunel is not on UAT-UK's official TMUA list for 2027 entry, and none of these course pages mention an admissions test.",
+  "The Economics-related degrees are taught in Brunel Business School's Economics, Finance and Accounting department. Each course page also points to the 'Economics and Mathematics with an Integrated Foundation Year' course for foundation-year progression requirements; it is not recorded as a separate course.",
+  "Widening Access Travel Fund: home students from state schools who live outside the M25 and meet at least one widening access criterion may be able to claim travel costs for open days, offer holder days and interview/selection days (Brunel open days page).",
+  "Business and Management is the only course here that says it needs no A-level maths for its numerical content; the others list no A-level subject requirements either, only GCSE Mathematics at grade B/5 (grade C/4 for Business and Management)."
+ ],
+ "notConfirmed": [
+  "2027 and 2028 entry requirements not published yet; the course pages show 2026/27 entry only, so every course uses entry year 2026",
+  "A-level subjects: the course pages list grades only and don't say which subjects are required, preferred or excluded, so Psychology and Geography acceptance is unknown",
+  "No open days listed after 21 November 2026 yet",
+  "Whether bills are included in the hall rents isn't stated on the rents page",
+  "No Year 12 summer school or Economics-specific taster day is published; the widening access page mentions 'summer schools and residentials' without details, and the taster days page has a Business Taster Day only",
+  "Cost of the taster days isn't stated (lunch is provided)"
+ ]
+}

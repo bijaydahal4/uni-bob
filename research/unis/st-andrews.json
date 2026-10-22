@@ -1,0 +1,1094 @@
+{
+ "id": "st-andrews",
+ "name": "University of St Andrews",
+ "shortName": "St Andrews",
+ "aliases": [
+  "St Andrews",
+  "St Andrews Uni",
+  "Uni of St Andrews",
+  "UoStA",
+  "St A",
+  "St Andrew's",
+  "Saint Andrews"
+ ],
+ "city": "St Andrews",
+ "region": "Scotland",
+ "country": "Scotland",
+ "setting": "mixed",
+ "settingEvidence": {
+  "url": "https://www.st-andrews.ac.uk/study/part-time/summer-courses/academic-experience/",
+  "checked": "2026-10-21",
+  "evidence": "The town of St Andrews provides a unique and picturesque location for our very special university."
+ },
+ "location": {
+  "postcode": "KY16 9AR",
+  "postcodeSource": "https://www.st-andrews.ac.uk/subjects/economics/economics-ma/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/KY169AR",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 a year for students from England (rest-of-UK fee status) on courses starting in September 2027, yet to be confirmed by the UK Government. The fee for 2026-27 is expected to be £9,790. You pay fees every year you attend (four years for most degrees) and fees may increase annually.",
+  "source": {
+   "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+   "checked": "2026-10-21",
+   "evidence": "England, Wales, Northern Ireland and Republic of Ireland, Channel Islands, Isle of Man: £10,050 (yet to be confirmed by the UK Government)"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 5847,
+  "amountHigh": 12976,
+  "period": "year",
+  "academicYear": "2026/27",
+  "text": "University halls cost about £5,847 to £12,976 for the year (contracts of 34 to 38 weeks), including utilities and internet. Catered halls include meals (14 or 19 a week); typical self-catered en suite rooms are about £8,001 to £9,652. Prices are the 2026-27 fees on the page.",
+  "source": {
+   "url": "https://www.st-andrews.ac.uk/accommodation/undergraduate/fees/",
+   "checked": "2026-10-21",
+   "evidence": "Studio apartment, shared occupancy £5,847"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-28",
+    "endDate": null,
+    "label": "Undergraduate visiting day (fully booked)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-04",
+    "endDate": null,
+    "label": "Undergraduate visiting day (bookings open)",
+    "format": "online",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-04-14",
+    "endDate": null,
+    "label": "Undergraduate visiting day (bookings open 1 March 2027)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-04-28",
+    "endDate": null,
+    "label": "Undergraduate visiting day (bookings open 1 March 2027)",
+    "format": "online",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-05-19",
+    "endDate": null,
+    "label": "Undergraduate visiting day (bookings open 7 April 2027)",
+    "format": "online",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-06-23",
+    "endDate": null,
+    "label": "Undergraduate visiting day (bookings open 10 May 2027)",
+    "format": "online",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next visiting days: 28 October 2026 in person (fully booked) and 4 November 2026 online. In 2027: in person on 14 April; online on 28 April, 19 May and 23 June. In-person Talk and Tour visits run on Mondays and Fridays.",
+  "url": "https://www.st-andrews.ac.uk/study/meet-us/in-st-andrews/ug/",
+  "source": {
+   "url": "https://www.st-andrews.ac.uk/study/meet-us/in-st-andrews/ug/",
+   "checked": "2026-10-21",
+   "evidence": "Wednesday 14 April 2027 - in person visiting day - Bookings will open Monday 1 March 2027 at 12.05pm."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "UK applicants with one or more widening-access indicators (such as a low-participation postcode, a school with low progression, a listed access programme, or care experience) are considered against lower 'Minimum' entry grades. It does not guarantee an offer.",
+  "typicalReduction": "Each course page publishes lower 'Minimum' grades for widening access students, e.g. Economics A-levels ABB instead of AAA.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Your home postcode is in the lowest 40% of the Scottish (SIMD) or English, Welsh or Northern Irish (IMD) deprivation indexes. ACORN data is also used.",
+    "measure": "IMD",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "school",
+    "detail": "You attend or most recently attended a school or college with low progression to higher education or low attainment, using school-level data for your nation.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "access",
+    "detail": "You took part in a widening access programme: Sutton Trust Summer School, LEAPS, Focus West, Lift Off, Aspire North, Reach, Fife First Chances Programme or the Scottish Wider Access Programme (SWAP). The policy also mentions University of St Andrews outreach programmes and government-supported initiatives.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Care experienced or looked after, verified with evidence. Care-experienced applicants are also covered by the University's offer pledge.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Young carer or caring responsibilities, verified with evidence.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged from family, verified with evidence.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Refugee, asylum seeker or displaced person, verified with evidence.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "From a group known to be under-represented in higher education or known to have faced disadvantage (for example Gypsy, Traveller, Roma, Showman and Boater communities), subject to verification.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "Standard: applications where no contextual indicators have been identified. Minimum: applications where one or more contextual indicators have been identified. Contextual information is collated centrally for applicants with Home or rest-of-UK (RUK) fee status, and the University's online entry indicator shows which category applies. Contextual information alone does not result in an automatic offer. The University pledges an offer to first-degree applicants who declare a looked after or care experienced background (or who live in the most deprived 20% of Scotland and attend a school with lower than average progression), if they show they want to study the subject and meet the entry requirements at the first attempt.",
+  "url": "https://www.st-andrews.ac.uk/study/policy/contextual-data/",
+  "source": {
+   "url": "https://www.st-andrews.ac.uk/study/policy/contextual-data/",
+   "checked": "2026-10-21",
+   "evidence": "Minimum: applications where one or more contextual indicators have been identified."
+  }
+ },
+ "programmes": [
+  {
+   "id": "st-andrews-saec-management-economics",
+   "name": "Summer Academic Experience Course: Management, Economics and Entrepreneurship",
+   "provider": "University of St Andrews",
+   "providerType": "university",
+   "uniIds": [
+    "st-andrews"
+   ],
+   "summary": "Paid three-week residential summer school for 16 to 18 year olds, taught by St Andrews staff, with a Management, Economics and Entrepreneurship course.",
+   "whoCanApply": "Students who will be 16 to 18 years old on arrival, applying with an academic transcript showing strong GCSE grades, A grades or a minimum 3.2 GPA (or equivalent), an academic reference and a short personal statement.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Open to applicants aged 16 to 18 on arrival with strong grades; an international programme with students from all over the world. No contextual criteria are listed. Partial scholarships of 10% are listed only for Creative Writing, Cinema, Ideas and Society and Sustainable Development; the fully funded ones are for Diverse Intelligences.",
+   "benefits": [
+    "Teaching from current University of St Andrews academic staff",
+    "Accommodation in Andrew Melville Hall and all meals included in the fee",
+    "Official certificate from the University on successful completion"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "£6,950 all-inclusive (£500 deposit)",
+   "isFree": false,
+   "format": "residential",
+   "subjects": "Management, Economics and Entrepreneurship",
+   "yearGroup": "Ages 16 to 18 on arrival",
+   "runs": {
+    "text": "Saturday 24 July to Saturday 14 August 2027 (three weeks)",
+    "start": "2027-07-24",
+    "end": "2027-08-14",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Applications are open now for Summer 2027",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published on the programme pages",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "2027 dates and fee published. No application deadline found for this course; scholarship applications (other courses) close 25 February 2027.",
+   "url": "https://www.st-andrews.ac.uk/study/part-time/summer-courses/academic-experience/management/",
+   "source": {
+    "url": "https://www.st-andrews.ac.uk/study/part-time/summer-courses/academic-experience/",
+    "checked": "2026-10-21",
+    "evidence": "Start date: Saturday 24 July 2027"
+   },
+   "notConfirmed": [
+    "Application deadline for the Management, Economics and Entrepreneurship course not published"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.st-andrews.ac.uk/",
+  "courses": "https://www.st-andrews.ac.uk/subjects/",
+  "economics": "https://www.st-andrews.ac.uk/subjects/economics/",
+  "openDays": "https://www.st-andrews.ac.uk/study/meet-us/in-st-andrews/ug/",
+  "fees": "https://www.st-andrews.ac.uk/study/undergraduate/fees/england/",
+  "contextual": "https://www.st-andrews.ac.uk/study/policy/contextual-data/",
+  "accommodation": "https://www.st-andrews.ac.uk/accommodation/undergraduate/fees/"
+ },
+ "courses": [
+  {
+   "id": "st-andrews-economics-ma",
+   "name": "Economics",
+   "degree": "MA (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 4,
+   "lengthNote": "Four-year Scottish Honours degree (an undergraduate MA). First two years (sub-honours) combine Economics with at least one other subject.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level for standard entry. Minimum entry for widening access students: ABB.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-ma/",
+     "checked": "2026-10-21",
+     "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "Advanced school mathematics is an advantage (not a requirement) and an ability to learn mathematical skills is essential."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English language or English literature at grade 5. You also need grade 5 in one of Biology, Chemistry, Computing Science, Geography, Mathematics, Physics or Psychology."
+    }
+   ],
+   "gcseText": "All applicants: GCSE (5) in English language or English literature, and one GCSE (5) from the following: Biology, Chemistry, Computing Science, Geography, Mathematics, Physics, Psychology.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-ma/",
+    "checked": "2026-10-21",
+    "evidence": "No previous experience in this subject is required, but advanced school mathematics is an advantage, and an ability to learn mathematical skills is essential."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test for this course. St Andrews' list of what applicants need names an admissions test only for Medicine (UCAT), and St Andrews is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+     "checked": "2026-10-21",
+     "evidence": "sit an admissions test, the UCAT, for Medicine"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades apply if you are a widening access student, i.e. one or more of St Andrews' contextual indicators applies to you (low-participation postcode, school with low progression or attainment, listed access programme, care experienced, caring responsibilities, estranged, refugee or similar). It lowers the grades St Andrews will consider but does not guarantee an offer. The University's online entry indicator tells you which grades apply to you.",
+     "programme": null,
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-ma/",
+      "checked": "2026-10-21",
+      "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades also apply if you took part in a listed widening access programme, e.g. the Sutton Trust Summer School (open to Year 12 students in England and Wales). Other listed programmes: LEAPS, Focus West, Lift Off, Aspire North, Reach, Fife First Chances Programme, SWAP. Does not guarantee an offer.",
+     "programme": "Sutton Trust Summer School",
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+      "checked": "2026-10-21",
+      "evidence": "attend one of the following widening access programmes:"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.st-andrews.ac.uk/subjects/economics/economics-ma/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course pages are labelled '2027 entry'); 2027 entry recorded",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects, so acceptance of Psychology and Geography is not confirmed"
+   ],
+   "notes": "The MA (Hons) here is a four-year undergraduate degree. Same content as the BSc (UCAS L102); St Andrews suggests the MA if you will study Economics alongside Arts subjects and the BSc alongside Science subjects. Economics students can apply for St Andrews Abroad or the School Abroad exchange. A separate Economics BA (International Honours) with William & Mary is also listed, but its entry requirements are 'not finalised'."
+  },
+  {
+   "id": "st-andrews-economics-bsc",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L102",
+   "lengthYears": 4,
+   "lengthNote": "Four-year Scottish Honours degree. First two years (sub-honours) combine Economics with at least one other subject.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level for standard entry. Minimum entry for widening access students: ABB.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+     "checked": "2026-10-21",
+     "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "Advanced school mathematics is an advantage (not a requirement) and an ability to learn mathematical skills is essential."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English language or English literature at grade 5. You also need grade 5 in one of Biology, Chemistry, Computing Science, Geography, Mathematics, Physics or Psychology."
+    }
+   ],
+   "gcseText": "All applicants: GCSE (5) in English language or English literature, and one GCSE (5) from the following: Biology, Chemistry, Computing Science, Geography, Mathematics, Physics, Psychology.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+    "checked": "2026-10-21",
+    "evidence": "No previous experience in this subject is required, but advanced school mathematics is an advantage, and an ability to learn mathematical skills is essential."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test for this course. St Andrews' list of what applicants need names an admissions test only for Medicine (UCAT), and St Andrews is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+     "checked": "2026-10-21",
+     "evidence": "sit an admissions test, the UCAT, for Medicine"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades apply if you are a widening access student, i.e. one or more of St Andrews' contextual indicators applies to you (low-participation postcode, school with low progression or attainment, listed access programme, care experienced, caring responsibilities, estranged, refugee or similar). It lowers the grades St Andrews will consider but does not guarantee an offer. The University's online entry indicator tells you which grades apply to you.",
+     "programme": null,
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+      "checked": "2026-10-21",
+      "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades also apply if you took part in a listed widening access programme, e.g. the Sutton Trust Summer School (open to Year 12 students in England and Wales). Other listed programmes: LEAPS, Focus West, Lift Off, Aspire North, Reach, Fife First Chances Programme, SWAP. Does not guarantee an offer.",
+     "programme": "Sutton Trust Summer School",
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+      "checked": "2026-10-21",
+      "evidence": "attend one of the following widening access programmes:"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course pages are labelled '2027 entry'); 2027 entry recorded",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects, so acceptance of Psychology and Geography is not confirmed"
+   ],
+   "notes": "Same content as the MA (UCAS L100); St Andrews suggests the BSc if you will study Economics alongside Science subjects. Single-Honours students must take Econometrics. Economics students can apply for St Andrews Abroad or the School Abroad exchange."
+  },
+  {
+   "id": "st-andrews-financial-economics-bsc",
+   "name": "Financial Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L161",
+   "lengthYears": 4,
+   "lengthNote": "Four-year Scottish Honours degree. First two years (sub-honours) combine Financial Economics with at least one other subject.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level for standard entry. Minimum entry for widening access students: ABB.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/finance/financial-economics-bsc/",
+     "checked": "2026-10-21",
+     "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "Advanced school mathematics is an advantage (not a requirement) and an ability to learn mathematical skills is essential."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English language or English literature at grade 5. You also need grade 5 in one of Biology, Chemistry, Computing Science, Geography, Mathematics, Physics or Psychology."
+    }
+   ],
+   "gcseText": "All applicants: GCSE (5) in English language or English literature, and one GCSE (5) from the following: Biology, Chemistry, Computing Science, Geography, Mathematics, Physics, Psychology.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.st-andrews.ac.uk/subjects/finance/financial-economics-bsc/",
+    "checked": "2026-10-21",
+    "evidence": "No previous knowledge of this subject is required, but advanced school mathematics is an advantage, and an ability to learn mathematical skills is essential."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test for this course. St Andrews' list of what applicants need names an admissions test only for Medicine (UCAT), and St Andrews is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+     "checked": "2026-10-21",
+     "evidence": "sit an admissions test, the UCAT, for Medicine"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades apply if you are a widening access student, i.e. one or more of St Andrews' contextual indicators applies to you (low-participation postcode, school with low progression or attainment, listed access programme, care experienced, caring responsibilities, estranged, refugee or similar). It lowers the grades St Andrews will consider but does not guarantee an offer. The University's online entry indicator tells you which grades apply to you.",
+     "programme": null,
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/finance/financial-economics-bsc/",
+      "checked": "2026-10-21",
+      "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades also apply if you took part in a listed widening access programme, e.g. the Sutton Trust Summer School (open to Year 12 students in England and Wales). Other listed programmes: LEAPS, Focus West, Lift Off, Aspire North, Reach, Fife First Chances Programme, SWAP. Does not guarantee an offer.",
+     "programme": "Sutton Trust Summer School",
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+      "checked": "2026-10-21",
+      "evidence": "attend one of the following widening access programmes:"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.st-andrews.ac.uk/subjects/finance/financial-economics-bsc/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course pages are labelled '2027 entry'); 2027 entry recorded",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects, so acceptance of Psychology and Geography is not confirmed"
+   ],
+   "notes": "Economics with extra finance modules (asset pricing, corporate finance, portfolio management). Also offered as an MA (Hons), UCAS L111. The page highlights Financial Economics with Management or with Mathematics as useful joint combinations."
+  },
+  {
+   "id": "st-andrews-economics-management-bsc",
+   "name": "Economics and Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LNC2",
+   "lengthYears": 4,
+   "lengthNote": "Four-year joint Honours degree (core modules in both subjects).",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level for standard entry (Economics and Management are both AAA). Minimum entry for widening access students: ABB.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+     "checked": "2026-10-21",
+     "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "Advanced school mathematics is an advantage (not a requirement) and an ability to learn mathematical skills is essential."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English language or English literature at grade 5. You also need grade 5 in one of Biology, Chemistry, Computing Science, Geography, Mathematics, Physics or Psychology."
+    }
+   ],
+   "gcseText": "All applicants: GCSE (5) in English language or English literature, and one GCSE (5) from the following: Biology, Chemistry, Computing Science, Geography, Mathematics, Physics, Psychology.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+    "checked": "2026-10-21",
+    "evidence": "No previous experience in this subject is required, but advanced school mathematics is an advantage, and an ability to learn mathematical skills is essential."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test for this course. St Andrews' list of what applicants need names an admissions test only for Medicine (UCAT), and St Andrews is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+     "checked": "2026-10-21",
+     "evidence": "sit an admissions test, the UCAT, for Medicine"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades apply if you are a widening access student, i.e. one or more of St Andrews' contextual indicators applies to you (low-participation postcode, school with low progression or attainment, listed access programme, care experienced, caring responsibilities, estranged, refugee or similar). It lowers the grades St Andrews will consider but does not guarantee an offer. The University's online entry indicator tells you which grades apply to you.",
+     "programme": null,
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+      "checked": "2026-10-21",
+      "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades also apply if you took part in a listed widening access programme, e.g. the Sutton Trust Summer School (open to Year 12 students in England and Wales). Other listed programmes: LEAPS, Focus West, Lift Off, Aspire North, Reach, Fife First Chances Programme, SWAP. Does not guarantee an offer.",
+     "programme": "Sutton Trust Summer School",
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+      "checked": "2026-10-21",
+      "evidence": "attend one of the following widening access programmes:"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course pages are labelled '2027 entry'); 2027 entry recorded",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects, so acceptance of Psychology and Geography is not confirmed",
+    "No separate joint-degree page: the offer is taken from the subject pages using the rule that the subject with the higher entry requirements sets the grades"
+   ],
+   "notes": "Joint degree with the Business School's Management subject. St Andrews has no separate page for joint degrees. Its course pages say the subject with the higher entry requirements sets the grades, so the offer here is taken from the two subject pages. Management BSc (N201) is also AAA standard / ABB minimum. Also offered as an MA (Hons), UCAS NL21."
+  },
+  {
+   "id": "st-andrews-economics-psychology-bsc",
+   "name": "Economics and Psychology",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LC18",
+   "lengthYears": 4,
+   "lengthNote": "Four-year joint Honours degree (core modules in both subjects).",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "behavioural-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level for standard entry (Economics sets the grades; Psychology alone is AAB). Minimum entry for widening access students: ABB.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+     "checked": "2026-10-21",
+     "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "Advanced school mathematics is an advantage (not a requirement) and an ability to learn mathematical skills is essential."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English language or English literature at grade 5. You also need grade 5 in one of Biology, Chemistry, Computing Science, Geography, Mathematics, Physics or Psychology."
+    }
+   ],
+   "gcseText": "All applicants: GCSE (5) in English language or English literature, and one GCSE (5) from the following: Biology, Chemistry, Computing Science, Geography, Mathematics, Physics, Psychology.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+    "checked": "2026-10-21",
+    "evidence": "No previous experience in this subject is required, but advanced school mathematics is an advantage, and an ability to learn mathematical skills is essential."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test for this course. St Andrews' list of what applicants need names an admissions test only for Medicine (UCAT), and St Andrews is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+     "checked": "2026-10-21",
+     "evidence": "sit an admissions test, the UCAT, for Medicine"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades apply if you are a widening access student, i.e. one or more of St Andrews' contextual indicators applies to you (low-participation postcode, school with low progression or attainment, listed access programme, care experienced, caring responsibilities, estranged, refugee or similar). It lowers the grades St Andrews will consider but does not guarantee an offer. The University's online entry indicator tells you which grades apply to you.",
+     "programme": null,
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+      "checked": "2026-10-21",
+      "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades also apply if you took part in a listed widening access programme, e.g. the Sutton Trust Summer School (open to Year 12 students in England and Wales). Other listed programmes: LEAPS, Focus West, Lift Off, Aspire North, Reach, Fife First Chances Programme, SWAP. Does not guarantee an offer.",
+     "programme": "Sutton Trust Summer School",
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+      "checked": "2026-10-21",
+      "evidence": "attend one of the following widening access programmes:"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course pages are labelled '2027 entry'); 2027 entry recorded",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects, so acceptance of Psychology and Geography is not confirmed",
+    "No separate joint-degree page: the offer is taken from the subject pages using the rule that the subject with the higher entry requirements sets the grades"
+   ],
+   "notes": "Joint degree. St Andrews has no separate page for joint degrees. Its course pages say the subject with the higher entry requirements sets the grades, so the offer here is taken from the two subject pages. Psychology BSc (C800) alone is AAB standard / ABB minimum, so Economics (AAA / ABB) is the higher requirement. Also offered as an MA (Hons), UCAS CL81."
+  },
+  {
+   "id": "st-andrews-economics-geography-bsc",
+   "name": "Economics and Geography",
+   "degree": "BSc (Hons)",
+   "ucasCode": "2A72",
+   "lengthYears": 4,
+   "lengthNote": "Four-year joint Honours degree (core modules in both subjects).",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-geography"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level for standard entry (Economics and Geography are both AAA). Minimum entry for widening access students: ABB.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+     "checked": "2026-10-21",
+     "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "Advanced school mathematics is an advantage (not a requirement) and an ability to learn mathematical skills is essential."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English language or English literature at grade 5. You also need grade 5 in one of Biology, Chemistry, Computing Science, Geography, Mathematics, Physics or Psychology."
+    }
+   ],
+   "gcseText": "All applicants: GCSE (5) in English language or English literature, and one GCSE (5) from the following: Biology, Chemistry, Computing Science, Geography, Mathematics, Physics, Psychology.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+    "checked": "2026-10-21",
+    "evidence": "No previous experience in this subject is required, but advanced school mathematics is an advantage, and an ability to learn mathematical skills is essential."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test for this course. St Andrews' list of what applicants need names an admissions test only for Medicine (UCAT), and St Andrews is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+     "checked": "2026-10-21",
+     "evidence": "sit an admissions test, the UCAT, for Medicine"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades apply if you are a widening access student, i.e. one or more of St Andrews' contextual indicators applies to you (low-participation postcode, school with low progression or attainment, listed access programme, care experienced, caring responsibilities, estranged, refugee or similar). It lowers the grades St Andrews will consider but does not guarantee an offer. The University's online entry indicator tells you which grades apply to you.",
+     "programme": null,
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+      "checked": "2026-10-21",
+      "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades also apply if you took part in a listed widening access programme, e.g. the Sutton Trust Summer School (open to Year 12 students in England and Wales). Other listed programmes: LEAPS, Focus West, Lift Off, Aspire North, Reach, Fife First Chances Programme, SWAP. Does not guarantee an offer.",
+     "programme": "Sutton Trust Summer School",
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+      "checked": "2026-10-21",
+      "evidence": "attend one of the following widening access programmes:"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course pages are labelled '2027 entry'); 2027 entry recorded",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects, so acceptance of Psychology and Geography is not confirmed",
+    "No separate joint-degree page: the offer is taken from the subject pages using the rule that the subject with the higher entry requirements sets the grades"
+   ],
+   "notes": "Joint degree. St Andrews has no separate page for joint degrees. Its course pages say the subject with the higher entry requirements sets the grades, so the offer here is taken from the two subject pages. Geography BSc (F800) is also AAA standard / ABB minimum. Also offered as an MA (Hons), UCAS LL17. The UCAS code 2A72 is as printed in the Economics and Geography pages' joint degree tables."
+  },
+  {
+   "id": "st-andrews-economics-mathematics-bsc",
+   "name": "Economics and Mathematics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "GLC1",
+   "lengthYears": 4,
+   "lengthNote": "Four-year joint Honours degree (core modules in both subjects).",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*A*A",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*A*A including A* in Mathematics for standard entry (Mathematics sets the grades). Minimum entry for widening access students: A*AB including A* in Mathematics.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/mathematics/mathematics-bsc/",
+     "checked": "2026-10-21",
+     "evidence": "GCE A-Levels Standard entry grades: A*A*A, including A* in Mathematics. Minimum entry grades: A*AB, including A* in Mathematics."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A-level Mathematics is expected, and the offer needs A* in Mathematics (A*A*A standard, A*AB minimum) because the joint degree takes the higher requirement, which is Mathematics."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Further Mathematics"
+     ],
+     "note": "Mathematics page: typical successful applicants have studied Mathematics at Advanced Higher or Further Mathematics at A-level. Not stated as a requirement."
+    }
+   ],
+   "furtherMaths": "preferred",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English language or English literature at grade 5. You also need grade 5 in one of Biology, Chemistry, Computing Science, Geography, Mathematics, Physics or Psychology."
+    }
+   ],
+   "gcseText": "All applicants: GCSE (5) in English language or English literature, and one GCSE (5) from the following: Biology, Chemistry, Computing Science, Geography, Mathematics, Physics, Psychology.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.st-andrews.ac.uk/subjects/mathematics/mathematics-bsc/",
+    "checked": "2026-10-21",
+    "evidence": "Yes, applicants are expected to have studied Mathematics at SQA Higher, GCE A-Level, or equivalent."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test for this course. St Andrews' list of what applicants need names an admissions test only for Medicine (UCAT), and St Andrews is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+     "checked": "2026-10-21",
+     "evidence": "sit an admissions test, the UCAT, for Medicine"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "Minimum entry grades apply if you are a widening access student, i.e. one or more of St Andrews' contextual indicators applies to you (low-participation postcode, school with low progression or attainment, listed access programme, care experienced, caring responsibilities, estranged, refugee or similar). It lowers the grades St Andrews will consider but does not guarantee an offer. The University's online entry indicator tells you which grades apply to you.",
+     "programme": null,
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/mathematics/mathematics-bsc/",
+      "checked": "2026-10-21",
+      "evidence": "GCE A-Levels Standard entry grades: A*A*A, including A* in Mathematics. Minimum entry grades: A*AB, including A* in Mathematics."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "Minimum entry grades also apply if you took part in a listed widening access programme, e.g. the Sutton Trust Summer School (open to Year 12 students in England and Wales). Other listed programmes: LEAPS, Focus West, Lift Off, Aspire North, Reach, Fife First Chances Programme, SWAP. Does not guarantee an offer.",
+     "programme": "Sutton Trust Summer School",
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+      "checked": "2026-10-21",
+      "evidence": "attend one of the following widening access programmes:"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.st-andrews.ac.uk/subjects/economics/economics-bsc/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course pages are labelled '2027 entry'); 2027 entry recorded",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects, so acceptance of Psychology and Geography is not confirmed",
+    "No separate joint-degree page: the offer is taken from the subject pages using the rule that the subject with the higher entry requirements sets the grades"
+   ],
+   "notes": "Joint degree. St Andrews has no separate page for joint degrees. Its course pages say the subject with the higher entry requirements sets the grades, so the offer here is taken from the two subject pages. Economics alone is AAA / ABB, but Mathematics BSc (G101) is A*A*A / A*AB with A* in Mathematics, so those grades apply. Also offered as an MA (Hons), UCAS GL11."
+  },
+  {
+   "id": "st-andrews-management-bsc",
+   "name": "Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N201",
+   "lengthYears": 4,
+   "lengthNote": "Four-year Scottish Honours degree. First two years (sub-honours) combine Management with at least one other subject.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level for standard entry. Minimum entry for widening access students: ABB.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/management/management-bsc/",
+     "checked": "2026-10-21",
+     "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English language or English literature at grade 5. You also need grade 5 in one of Biology, Chemistry, Computing Science, Geography, Mathematics, Physics or Psychology."
+    }
+   ],
+   "gcseText": "All applicants: GCSE (5) in English language or English literature, and one GCSE (5) from the following: Biology, Chemistry, Computing Science, Geography, Mathematics, Physics, Psychology.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.st-andrews.ac.uk/subjects/management/management-bsc/",
+    "checked": "2026-10-21",
+    "evidence": "No previous knowledge of this subject is required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test for this course. St Andrews' list of what applicants need names an admissions test only for Medicine (UCAT), and St Andrews is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+     "checked": "2026-10-21",
+     "evidence": "sit an admissions test, the UCAT, for Medicine"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades apply if you are a widening access student, i.e. one or more of St Andrews' contextual indicators applies to you (low-participation postcode, school with low progression or attainment, listed access programme, care experienced, caring responsibilities, estranged, refugee or similar). It lowers the grades St Andrews will consider but does not guarantee an offer. The University's online entry indicator tells you which grades apply to you.",
+     "programme": null,
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/management/management-bsc/",
+      "checked": "2026-10-21",
+      "evidence": "GCE A-Levels Standard entry grades: AAA Minimum entry grades: ABB"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry grades also apply if you took part in a listed widening access programme, e.g. the Sutton Trust Summer School (open to Year 12 students in England and Wales). Other listed programmes: LEAPS, Focus West, Lift Off, Aspire North, Reach, Fife First Chances Programme, SWAP. Does not guarantee an offer.",
+     "programme": "Sutton Trust Summer School",
+     "source": {
+      "url": "https://www.st-andrews.ac.uk/subjects/entry/academic-entry-explained/",
+      "checked": "2026-10-21",
+      "evidence": "attend one of the following widening access programmes:"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.st-andrews.ac.uk/subjects/management/management-bsc/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course pages are labelled '2027 entry'); 2027 entry recorded",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects, so acceptance of Psychology and Geography is not confirmed"
+   ],
+   "notes": "Run by the Department of Management in the Business School, with an emphasis on responsible enterprise. Also offered as an MA (Hons). Economics and Management can be taken as a joint degree (LNC2)."
+  }
+ ],
+ "notes": [
+  "St Andrews is in Scotland, so Honours degrees are four years. Both MA (Hons) and BSc (Hons) are undergraduate degrees; Economics has the same content either way.",
+  "Course pages show 'Standard' and 'Minimum' entry grades. Minimum applies to widening access students identified by the University's online entry indicator (see the contextual admissions page).",
+  "Taking part in the Sutton Trust Summer School counts as a widening access indicator, so those students are considered against the Minimum grades (recorded as an alternative offer on each course).",
+  "Joint degrees have no page of their own: the subject with the higher entry requirements sets the grades.",
+  "No admissions test for these courses; St Andrews is not on UAT-UK's official TMUA list for 2027 entry.",
+  "Gateway and Supported Pathways programmes are for Home Funded applicants in Scotland, so they are not recorded as options for students from England.",
+  "The 'academic entry explained' page lists 14 January as the application deadline for UK applicants (all courses except Medicine); the page does not say which entry year it applies to.",
+  "Economics BA (International Honours) with the College of William & Mary (two years at each) is listed, but its page says entry requirements 'have not been finalised', so it is not recorded as a course."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet (course pages are labelled '2027 entry'); 2027 entry recorded for all courses",
+  "2027/28 tuition fee of £10,050 is 'yet to be confirmed by the UK Government'; the fee for years 2 to 4 is not stated (the fees page says fees may increase annually)",
+  "Accommodation prices are the 2026-27 fees on the page; 2027/28 prices not published",
+  "Exact thresholds for the school progression and attainment indicators are not published on the contextual data policy page",
+  "A-level subjects: no required, preferred or excluded A-level subjects are listed on the Economics, Financial Economics or Management pages"
+ ]
+}

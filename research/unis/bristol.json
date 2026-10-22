@@ -1,0 +1,2078 @@
+{
+  "id": "bristol",
+  "name": "University of Bristol",
+  "shortName": "Bristol",
+  "aliases": [
+    "Bristol",
+    "Bristol Uni",
+    "Bristol University",
+    "University of Bristol",
+    "UoBristol"
+  ],
+  "city": "Bristol",
+  "region": "South West",
+  "country": "England",
+  "setting": "city",
+  "settingEvidence": {
+    "url": "https://www.bristol.ac.uk/accommodation/about/locations/",
+    "checked": "2026-10-20",
+    "evidence": "Our residences are within a walk or bus journey to the city centre."
+  },
+  "location": {
+    "postcode": "BS8 1TU",
+    "postcodeSource": "https://www.bristol.ac.uk/economics/contact-us/",
+    "lat": null,
+    "lng": null,
+    "coordsSource": "https://api.postcodes.io/postcodes/BS81TU",
+    "checked": "2026-10-20"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK students (2027/28, confirmed). The same page estimates £10,316 for 2028/29, but that is not confirmed.",
+    "source": {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/fees-funding/",
+      "checked": "2026-10-20",
+      "evidence": "2027/28: £10,050 (confirmed) ... 2028/29: £10,316 (estimate)"
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 136.5,
+    "amountHigh": 322.0,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "University undergraduate rooms cost about £136.50 to £322.00 a week in 2026/27 (tenancies run 38 to 42 weeks, so about £5,187 to £12,236 for the year). Catered rooms cost an extra £2,731.06 a year for meals.",
+    "source": {
+      "url": "https://www.bristol.ac.uk/accommodation/about/costs/cost-by-residence/",
+      "checked": "2026-10-20",
+      "evidence": "Clifton Hill House | Twin room | Standard | Catered | 6 | Undergraduate | 38 | £136.50 ... Wills Hall | 1-bed flat | Standard | Self-catered | 1 | Undergraduate | 38 | £322.00"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-10-31",
+        "endDate": null,
+        "label": "Undergraduate open day",
+        "format": "in person",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next undergraduate open day: Saturday 31 October 2026 (no later dates listed yet)",
+    "url": "https://www.bristol.ac.uk/study/undergraduate/visits/open-days/",
+    "source": {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/visits/open-days/",
+      "checked": "2026-10-20",
+      "evidence": "Our next open day will take place on Saturday 31 October 2026."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Bristol makes contextual offers of up to two grades below the standard entry requirements to eligible home applicants who attended an aspiring state school or college, live in an IMD quintile 1 or 2 area, completed a Bristol widening participation programme, spent three months or more in care, or were eligible for free school meals.",
+    "typicalReduction": "Up to two grades below the standard entry requirements",
+    "criteria": [
+      {
+        "key": "school",
+        "detail": "Attended an 'aspiring' state school or college, meaning one with low average attainment and low progression to higher education, as shown on Bristol's published lists of aspiring schools and colleges for the 2027 cycle (England and Wales, Scotland, Northern Ireland, Isle of Man)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Live in a home postcode in an IMD quintile 1 or 2 area (the 40% most deprived neighbourhoods), based on the home address on your UCAS form",
+        "measure": "IMD",
+        "quintiles": [
+          1,
+          2
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Completed a University of Bristol widening participation programme: Access to Bristol, Discover Bristol, Insight into Bristol summer school, Next Step Bristol or Virtual Summer School (Bristol Scholars get a tailored offer rather than a contextual one)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Spent three months or more in local authority care",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "Been eligible for free school meals during your secondary education",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "Contextual offers are only made to applicants with home fee status who are studying A-levels and/or the International Baccalaureate and apply through UCAS (not for CertHE Foundation or Gateway courses). You may be eligible if one of the listed statements applies to you; eligibility is worked out from your UCAS application and you are automatically considered.",
+    "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/contextual-offers/",
+    "source": {
+      "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/contextual-offers/",
+      "checked": "2026-10-20",
+      "evidence": "Our contextual offer is a grade reduction of up to two grades below the standard entry requirements."
+    }
+  },
+  "programmes": [
+    {
+      "provider": "University of Bristol",
+      "providerType": "university",
+      "uniIds": [
+        "bristol"
+      ],
+      "notConfirmed": [
+        "cost: the page doesn't say whether the scheme is free",
+        "2027-28 dates and deadline aren't published"
+      ],
+      "id": "bristol-access-to-bristol",
+      "name": "Access to Bristol",
+      "summary": "A scheme for local state-educated students to experience Bristol through study-skills, subject sessions and on-campus afternoons; completers are guaranteed a contextual offer or interview.",
+      "whoCanApply": "Home-fee students at a state school or college who live in a BA, BS or other local postcode within an hour's journey of Bristol (including south Wales) and are in the first or second year of A-level study (or equivalent).",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other"
+      ],
+      "eligibilityDetail": "Open only to students who meet all of: home fee student; currently attend a state school or college; live in a BA, BS or other local postcode within an hour's journey of the University (including south Wales); in the first or second year of A-level study (or equivalent); have the academic ability to study at Bristol (meeting the GCSE entry requirements for the subject stream and studying any required Level 3 subjects). If a stream is oversubscribed, priority goes to students who are or have been eligible for free school meals, live in an IMD quintile 1 or 2 area, are mature students, are Black, Asian or of mixed background featuring one of these groups, have spent three months or more in care, are estranged, are from Gypsy, Traveller, Roma, Showmen and Boater communities, attend an aspiring state school or college, are from another minority ethnic background, are the first in their family to go to university, have caring responsibilities, have refugee status, have a disability or have a parent or carer who serves or has served in the UK Armed Forces.",
+      "benefits": [
+        "Guaranteed contextual offer (typically two A-level grades below standard entry requirements) for courses that don't routinely interview, if you successfully complete the scheme and meet the course requirements",
+        "Subject sessions with academics and current students, plus tailored information, advice and guidance on higher education"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "bristol"
+      ],
+      "offerReduction": "Typically two A-level grades below standard entry requirements",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "Subject streams; Economics runs as an autumn stream (Year 13 and Access to HE; Year 12 by invitation only), and Business management and Social sciences run as spring streams for Year 12",
+      "yearGroup": "Year 12 (spring streams) or Year 13 (autumn streams)",
+      "runs": {
+        "text": "2026-27 programme: Wednesday afternoons, 28 October to 2 December 2026 (autumn) and 20 January to 3 March 2027 (spring), with an online study-skills session at the start of each term and five on-campus sessions",
+        "start": "2026-10-28",
+        "end": "2027-03-03",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Applications for 2026-27 are closed; Bristol says it will open 2027-28 applications 'next September' (so around September 2027)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not published (2026-27 applications are closed)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Details are for the 2026-27 programme, whose applications have closed. The 2027-28 programme is expected to open in September 2027.",
+      "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+      "source": {
+        "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+        "checked": "2026-10-20",
+        "evidence": "Applications for Access to Bristol 2026-27 are now closed. We will open applications for Access to Bristol 2027-28 next September."
+      }
+    },
+    {
+      "provider": "University of Bristol",
+      "providerType": "university",
+      "uniIds": [
+        "bristol"
+      ],
+      "notConfirmed": [
+        "cost: the page doesn't say whether the programme is free",
+        "runs/deadline: 2027-28 session dates and the application deadline aren't published yet"
+      ],
+      "id": "bristol-discover-bristol",
+      "name": "Discover Bristol",
+      "summary": "A Year 13 programme of five online sessions (Bristol overview, UCAS and personal statement guidance, funding, study skills, careers) for state-school students from lower socio-economic groups; completers are guaranteed a contextual offer or interview.",
+      "whoCanApply": "Home-fee students at a state school or college in their final year of A-level study who will apply to Bristol through UCAS and are eligible for free school meals or live in an IMD quintile 1 or 2 area.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "area"
+      ],
+      "eligibilityDetail": "Must be a home fee student; currently attend a state school or college; be in the final year of A-level study (or equivalent); have the academic ability to study at Bristol (including GCSE entry requirements and required Level 3 subjects) and the potential to meet the contextual entry requirements; have applied or will apply to Bristol through UCAS by the deadline; and be eligible for free school meals OR live in an IMD quintile 1 or 2 postcode area. Open to students who have not already taken part in another Bristol widening participation programme (Access to Bristol, Bristol Scholars, Insight into Bristol, Next Step Bristol, Virtual Summer School). If oversubscribed, priority goes to applicants who meet further widening participation criteria (for example mature students, some ethnic groups, care experienced, estranged, first generation, caring responsibilities, refugees, disabled). No late applications are accepted.",
+      "benefits": [
+        "Guaranteed contextual offer (typically two A-level grades below standard entry requirements) for courses that don't routinely interview, if you successfully complete the programme and meet the course requirements",
+        "Sessions on Bristol, UCAS and personal statements, funding, study skills and careers, plus 'Discovery Sessions' for parents and carers"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "bristol"
+      ],
+      "offerReduction": "Typically two A-level grades below standard entry requirements",
+      "cost": null,
+      "isFree": null,
+      "format": "online",
+      "subjects": "All subjects",
+      "yearGroup": "Year 13 (final year of A-level study)",
+      "runs": {
+        "text": "Five online sessions from October to November; provisional 2027-28 dates will be published when applications open",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Summer 2027 (2027-28 applications reopen; exact date not announced; an expression-of-interest form is available)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not announced yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "Based on the page's 2027-28 plans (applications for 2026-27 are closed). Dates are provisional until applications open in Summer 2027.",
+      "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+      "source": {
+        "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+        "checked": "2026-10-20",
+        "evidence": "Discover Bristol is a Year 13 programme for students from lower socio-economic groups to experience the University of Bristol through a series of online sessions."
+      }
+    },
+    {
+      "provider": "University of Bristol",
+      "providerType": "university",
+      "uniIds": [
+        "bristol"
+      ],
+      "notConfirmed": [
+        "opens/deadline: application dates for the 2027 summer school aren't published",
+        "streams: the 2027 subject streams aren't listed (the page lists the 2026 streams)"
+      ],
+      "id": "bristol-insight-into-bristol",
+      "name": "Insight into Bristol",
+      "summary": "A free residential summer school on the Bristol campus in July 2027 for Year 12 students of colour, with academic sessions in a subject stream (including Economics and Finance in 2026), accommodation provided and a guaranteed contextual offer on completion.",
+      "whoCanApply": "Year 12 home-fee students at a state school or college who identify as Asian, Black or of mixed heritage featuring one of these groups, can meet the entry requirements for their stream and have not taken part in another Bristol outreach programme.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other"
+      ],
+      "eligibilityDetail": "Essential: eligible for home fee status; currently attend a state (non fee-paying) school, sixth form or college; in Year 12 (or equivalent) and under 18 during the summer school; the academic ability to study at Bristol, including meeting or having the potential to meet entry requirements for the chosen stream (GCSE and contextual requirements where applicable); have not taken part in another Bristol outreach programme; identify as Asian, Black or of mixed heritage featuring one of these groups (other Mixed or Multiple backgrounds considered if they meet multiple priority criteria). Often oversubscribed: priority goes to applicants who meet more of the additional criteria (certain underrepresented ethnic groups, first generation, IMD quintile 1 or 2, free school meals, aspiring school or college, care, estranged, GTRSB, young carer, refugee, disability).",
+      "benefits": [
+        "Stay in student accommodation on campus and attend academic sessions in a subject stream with Bristol academics",
+        "Guaranteed contextual offer (typically two A-level grades below standard entry requirements) for courses that don't routinely interview, if you successfully complete the programme and meet the course requirements"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "bristol"
+      ],
+      "offerReduction": "Typically two A-level grades below standard entry requirements",
+      "cost": "Free",
+      "isFree": true,
+      "format": "residential",
+      "subjects": "Subject streams (2026) include Economics and Finance and Law, Social and Political Sciences, among others",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "July 2027 on the Bristol campus (exact dates not published)",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "The 2026/27 expression-of-interest form is live on the page; the application opening date isn't published",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "Dates (July 2027) and the 2026/27 expression-of-interest form are for the 2027 summer school. The stream list on the page is the 2026 list, and the eligibility wording still refers to the 2025-26 academic year.",
+      "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+      "source": {
+        "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+        "checked": "2026-10-20",
+        "evidence": "Insight into Bristol is a free Summer School that provides Year 12 students of colour the opportunity to experience life as a student at the University of Bristol."
+      }
+    },
+    {
+      "provider": "University of Bristol",
+      "providerType": "university",
+      "uniIds": [
+        "bristol"
+      ],
+      "notConfirmed": [
+        "cost: the page doesn't say whether the programme is free",
+        "opens: the page says both that 2026-27 applications are closed and that they are open; treated as closed",
+        "2027-28 dates and deadline aren't published"
+      ],
+      "id": "bristol-next-step-bristol",
+      "name": "Next Step Bristol",
+      "summary": "A Year 13 programme of virtual events (about five online sessions plus one on-campus event with a travel bursary) for Asian, Black or mixed-heritage students; completers are guaranteed a contextual offer or interview.",
+      "whoCanApply": "Year 13 home-fee students at a state school or college who identify as Asian, Black or of mixed heritage featuring one of these groups and will apply to Bristol through UCAS.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other"
+      ],
+      "eligibilityDetail": "Essential: eligible for home fee status; currently attend a state (non fee-paying) school, sixth form or college; in the final year of A-level study (or equivalent); have applied or will apply to Bristol through UCAS; have the academic ability to study at Bristol (entry, GCSE and contextual requirements); have not taken part in another Bristol outreach programme; identify as Asian, Black or of mixed heritage featuring one of these groups. Often oversubscribed: priority to applicants meeting more additional criteria (first generation, IMD quintile 1 or 2, free school meals, aspiring school or college, care, estranged, GTRSB, young carer, refugee, disability and others).",
+      "benefits": [
+        "Guaranteed contextual offer (typically two A-level grades below standard entry requirements) for courses that don't routinely interview, if you successfully complete the programme and meet the course requirements",
+        "Advice and support with UCAS and student finance applications, student-led events, and a travel bursary for one on-campus event"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "bristol"
+      ],
+      "offerReduction": "Typically two A-level grades below standard entry requirements",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 13",
+      "runs": {
+        "text": "Around five online sessions through the year plus one on-campus event; exact dates confirmed on joining (example given: enrolment event on 29 October, 5:00-6:30pm)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Applications for 2026-27 are closed; Bristol invites expressions of interest for 2027-28 (dates not announced)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not announced yet (no late applications are considered)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Details are for the 2026-27 programme. The page also says applications are 'now Open for 2026-27' further down, which conflicts with its closed notice at the top.",
+      "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+      "source": {
+        "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+        "checked": "2026-10-20",
+        "evidence": "Applications for Next Step Bristol 2026-27 are now closed. We are unable to consider late applications under any circumstances."
+      }
+    },
+    {
+      "provider": "University of Bristol",
+      "providerType": "university",
+      "uniIds": [
+        "bristol"
+      ],
+      "notConfirmed": [
+        "cost: the page doesn't say whether the programme is free",
+        "runs/deadline: 2027 dates and the application deadline aren't announced"
+      ],
+      "id": "bristol-virtual-summer-school",
+      "name": "Virtual Summer School",
+      "summary": "A three-day online event for Year 12 students with academic talks, social sessions and advice on higher education; subject streams have included Economics and Finance, and completers are guaranteed a contextual offer or interview.",
+      "whoCanApply": "Year 12 home-fee students at a non-fee-paying state school or college who can meet the entry requirements for their stream.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other"
+      ],
+      "eligibilityDetail": "Must be eligible for home fee status; attend a non-fee-paying state school or college; be in the first year of A-level study (or equivalent) and under 18; have the academic ability to study at Bristol (GCSE entry requirements for the stream and any required Level 3 subjects) and the potential to meet the contextual entry requirements where eligible. If a stream is oversubscribed, priority goes to applicants who meet widening participation criteria (for example free school meals, IMD quintile 1 area, Black or Asian or mixed backgrounds, care, estranged, GTRSB, carers, refugees).",
+      "benefits": [
+        "Guaranteed contextual offer (typically two A-level grades below standard entry requirements) for courses that don't routinely interview, if you successfully complete the programme and meet the course requirements",
+        "Online talks with academics, student ambassadors and other prospective students"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "bristol"
+      ],
+      "offerReduction": "Typically two A-level grades below standard entry requirements",
+      "cost": null,
+      "isFree": null,
+      "format": "online",
+      "subjects": "Subject streams in the past have included Economics and Finance, Law, Social and Political Sciences, Psychology and others",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Expected late May 2027 (the page gives 26-28 May, 10am-5pm, which is the 2026 programme; 2027 dates not announced)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Early 2027 (Bristol will contact people who register interest when 2027 applications open)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not announced yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Dates are from the 2026 programme (applications closed). The 2027 programme opens in early 2027; the late May 2027 timing is an expectation based on the 2026 dates.",
+      "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+      "source": {
+        "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+        "checked": "2026-10-20",
+        "evidence": "If you are interested in the 2027 program please complete this expression of interest form and we will contact you when applications open in early 2027."
+      }
+    },
+    {
+      "provider": "University of Bristol",
+      "providerType": "university",
+      "uniIds": [
+        "bristol"
+      ],
+      "notConfirmed": [
+        "offerReduction: the tailored offer's grades aren't published",
+        "cost: the page doesn't state a cost"
+      ],
+      "id": "bristol-bristol-scholars",
+      "name": "Bristol Scholars",
+      "summary": "A nomination-only scheme for Year 13 students at schools and colleges in the City of Bristol, giving a guaranteed tailored offer, e-mentoring and support from a Bristol Scholars Adviser.",
+      "whoCanApply": "Year 13 (or Access to HE) home-fee students at an institution in the City of Bristol, nominated by their headteacher or Head of Post-16.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other"
+      ],
+      "eligibilityDetail": "Headteachers and Heads of Post-16 nominate students based on their individual circumstances and academic potential. Nominations are open between September and January and are only accepted for students at an institution in the City of Bristol who are in Year 13 or taking an Access to HE qualification. Students must qualify for Home Fees status.",
+      "benefits": [
+        "Guaranteed tailored offer or interview (a tailored offer rather than a contextual offer)",
+        "E-mentoring from a current Bristol student before arrival",
+        "Named Bristol Scholars Adviser, a residential conference and a week-long Building Up to Bristol course"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "bristol"
+      ],
+      "offerReduction": "Tailored offer (not a fixed reduction)",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 13",
+      "runs": {
+        "text": "Year 13 pre-entry support, then support during the degree; no fixed dates",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Nominations open between September and January",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not published (nominations run to January)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Page isn't year-specific. Only for students at institutions in the City of Bristol, so students elsewhere (for example Bournemouth) are not eligible.",
+      "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+      "source": {
+        "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+        "checked": "2026-10-20",
+        "evidence": "If eligible for the programme, these students will receive a guaranteed, tailored offer from the University of Bristol."
+      }
+    },
+    {
+      "provider": "University of Bristol",
+      "providerType": "university",
+      "uniIds": [
+        "bristol"
+      ],
+      "notConfirmed": [
+        "cost: the page doesn't state a cost",
+        "the conference isn't listed among the Bristol programmes that give a guaranteed contextual offer"
+      ],
+      "id": "bristol-destinations-conference",
+      "name": "Destinations Conference",
+      "summary": "A one-off online conference where Year 12 students from Black or mixed-heritage (featuring Black) backgrounds hear from Bristol students about life at the University and in the city.",
+      "whoCanApply": "Year 12 (or first-year college) UK students who identify as Black or of mixed heritage featuring Black.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other"
+      ],
+      "eligibilityDetail": "For Year 12 students (or students in their first year of college) from the UK who identify as Black (or mixed heritage featuring Black). A sign-up form will be available on the page in Autumn 2026.",
+      "benefits": [
+        "Hear from current students of colour about their experiences, meet student societies and ask questions about Bristol and the city"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "online",
+      "subjects": "All subjects",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "March 2027 (online)",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Sign-up form available on the page in Autumn 2026",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": null,
+      "url": "https://www.bristol.ac.uk/study/outreach/post-16/destinations-conference/",
+      "source": {
+        "url": "https://www.bristol.ac.uk/study/outreach/post-16/destinations-conference/",
+        "checked": "2026-10-20",
+        "evidence": "The next conference will take place in March 2027."
+      }
+    },
+    {
+      "provider": "University of Bristol",
+      "providerType": "university",
+      "uniIds": [
+        "bristol"
+      ],
+      "notConfirmed": [
+        "cost: the page doesn't state a cost",
+        "dates: no specific dates are published for the taster sessions or the summer programmes",
+        "a school or college has to arrange the sessions; individual students can't sign up directly"
+      ],
+      "id": "bristol-discover-economics",
+      "name": "Discover Economics (School of Economics outreach)",
+      "summary": "The School of Economics' outreach programme of events with schools, from half-day taster sessions to week-long summer programmes, including one-hour in-school economics tasters delivered by Bristol economics students.",
+      "whoCanApply": "Schools and colleges can arrange in-school taster sessions for Year 10 or Year 12 students who are not currently studying economics.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "The one-off in-school sessions (about an hour) are aimed at GCSE or A-level students (Year 10 or 12) who are not currently studying economics, are delivered by Bristol economics students, and can be scheduled at any time during the academic year. Bookings go through the School of Economics' outreach contact.",
+      "benefits": [
+        "Find out what economics is and what it's like to study it at university",
+        "Information on degrees, apprenticeships and careers"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "day",
+      "subjects": "Economics",
+      "yearGroup": "Year 10 or Year 12",
+      "runs": {
+        "text": "Scheduled with your school at any time during the academic year; week-long summer programmes also mentioned (no dates published)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Booked through your school; no application window published",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "None published",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "Page isn't dated; it describes the programme as ongoing.",
+      "url": "https://www.bristol.ac.uk/economics/widening-participation-and-outreach/",
+      "source": {
+        "url": "https://www.bristol.ac.uk/economics/widening-participation-and-outreach/",
+        "checked": "2026-10-20",
+        "evidence": "Our economics outreach programme, Discover Economics, provides students the opportunity to find out what economics is about and what it's like to study economics at university."
+      }
+    }
+  ],
+  "links": {
+    "home": "https://www.bristol.ac.uk/",
+    "courses": "https://www.bristol.ac.uk/study/undergraduate/search/",
+    "economics": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/",
+    "openDays": "https://www.bristol.ac.uk/study/undergraduate/visits/open-days/",
+    "fees": "https://www.bristol.ac.uk/study/undergraduate/fees-funding/",
+    "contextual": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/contextual-offers/",
+    "accommodation": "https://www.bristol.ac.uk/accommodation/"
+  },
+  "courses": [
+    {
+      "id": "bristol-economics-bsc",
+      "name": "Economics",
+      "degree": "BSc",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "4 years with study abroad (UCAS L105, or L101 for study abroad in a modern language)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "unknown",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA at A-level including Mathematics. Contextual offer: AAB including Mathematics. No specific GCSE subjects required.",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics/",
+          "checked": "2026-10-20",
+          "evidence": "A-level standard offer: A*AA ... A-level contextual offer: AAB"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics is required as part of the offer (A*AA including Mathematics). The course is designed for students with a suitable A-level Mathematics qualification or accepted equivalent."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": "No specific subjects required.",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics/",
+        "checked": "2026-10-20",
+        "evidence": "A*AA including Mathematics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for Economics. Bristol's page on admissions tests only covers the UCAT (medicine and dentistry) and the LNAT (law).",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/",
+          "checked": "2026-10-20",
+          "evidence": "You need to take the UCAT test (formerly UKCAT) if you are applying for a medical or dental degree at Bristol. ... You need to take the LNAT test if you are applying for a Law LLB course."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer (up to two grades below the standard offer) if you have home fee status, are studying A-levels and/or the IB, apply through UCAS and meet one of Bristol's criteria: attended an aspiring state school or college; live in an IMD quintile 1 or 2 area; completed a Bristol widening participation programme; spent three months or more in local authority care; or were eligible for free school meals.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics/",
+            "checked": "2026-10-20",
+            "evidence": "A-level contextual offer: AAB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Access to Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Access to Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+            "checked": "2026-10-20",
+            "evidence": "you'll be guaranteed a contextual offer (typically two A-level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Discover Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Discover Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Insight into Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Insight into Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Next Step Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Next Step Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer, typically two A-level grades below standard entry requirements"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Virtual Summer School, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Virtual Summer School",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed tailored offer (not a contextual offer) for Year 13 students nominated by their headteacher or Head of Post-16 at a school or college in the City of Bristol.",
+          "programme": "Bristol Scholars",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+            "checked": "2026-10-20",
+            "evidence": "If eligible for the programme, these students will receive a guaranteed, tailored offer from the University of Bristol."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so 2027 entry is used",
+        "ucas: the UCAS course page sits behind a bot check, so no UCAS link is recorded",
+        "options.foundationYear: the course page doesn't mention a foundation-year route",
+        "admissionsTest: the course page doesn't mention a test; none is assumed (Bristol's list of admissions tests only covers the UCAT and LNAT)",
+        "options.placement: the course page doesn't mention a placement year"
+      ],
+      "notes": "Technically rigorous, econometrics-centred degree. Bristol recommends it if you have A-level Mathematics (or equivalent); the BA Economics (L150) is for students with strong numerical and data skills who haven't studied A-level Maths. BTEC route: D*DD plus an A in A-level Maths. Accredited by CIMA. Teaching is at Clifton campus. Bristol doesn't accept General Studies, Global Perspectives or Critical Thinking as A-levels (UK qualifications page: https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/uk-qualifications/). Core Maths isn't accepted in place of A-level Mathematics."
+    },
+    {
+      "id": "bristol-economics-ba",
+      "name": "Economics",
+      "degree": "BA",
+      "ucasCode": "L150",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "unknown",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA at A-level with no required A-level subjects. Contextual offer: AAB. Needs grade 7 (or A) in GCSE Mathematics.",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/ba-economics/",
+          "checked": "2026-10-20",
+          "evidence": "A-level standard offer: A*AA ... A-level contextual offer: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Advanced numeracy requirement: 7 or A in GCSE Mathematics or equivalent"
+        }
+      ],
+      "gcseText": "Advanced Numeracy requirement (7 or A in GCSE Mathematics or equivalent)",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/uk-qualifications/",
+        "checked": "2026-10-20",
+        "evidence": "We do not accept General Studies, Global Perspectives or Critical Thinking as part of your A-level offering"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for Economics. Bristol's page on admissions tests only covers the UCAT (medicine and dentistry) and the LNAT (law).",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/",
+          "checked": "2026-10-20",
+          "evidence": "You need to take the UCAT test (formerly UKCAT) if you are applying for a medical or dental degree at Bristol. ... You need to take the LNAT test if you are applying for a Law LLB course."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer (up to two grades below the standard offer) if you have home fee status, are studying A-levels and/or the IB, apply through UCAS and meet one of Bristol's criteria: attended an aspiring state school or college; live in an IMD quintile 1 or 2 area; completed a Bristol widening participation programme; spent three months or more in local authority care; or were eligible for free school meals.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/ba-economics/",
+            "checked": "2026-10-20",
+            "evidence": "A-level contextual offer: AAB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Access to Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Access to Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+            "checked": "2026-10-20",
+            "evidence": "you'll be guaranteed a contextual offer (typically two A-level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Discover Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Discover Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Insight into Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Insight into Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Next Step Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Next Step Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer, typically two A-level grades below standard entry requirements"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Virtual Summer School, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Virtual Summer School",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed tailored offer (not a contextual offer) for Year 13 students nominated by their headteacher or Head of Post-16 at a school or college in the City of Bristol.",
+          "programme": "Bristol Scholars",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+            "checked": "2026-10-20",
+            "evidence": "If eligible for the programme, these students will receive a guaranteed, tailored offer from the University of Bristol."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/ba-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so 2027 entry is used",
+        "ucas: the UCAS course page sits behind a bot check, so no UCAS link is recorded",
+        "options.foundationYear: the course page doesn't mention a foundation-year route",
+        "admissionsTest: the course page doesn't mention a test; none is assumed (Bristol's list of admissions tests only covers the UCAT and LNAT)",
+        "options.placement: the course page doesn't mention a placement year",
+        "options.yearAbroad: the course page doesn't mention a year abroad version of this degree",
+        "subjects: the course page lists no required, preferred or excluded A-level subjects; Psychology and Geography are marked as accepted because Bristol's UK qualifications page only excludes General Studies, Global Perspectives and Critical Thinking"
+      ],
+      "notes": "Quantitative degree that builds in teaching of the maths and statistics economists need, aimed at students with strong numerical and data skills who haven't formally studied A-level Maths; Bristol normally recommends the BSc (L100) if you have A-level Maths. The page lists no required or preferred A-level subjects. Teaching is at Clifton campus. Bristol doesn't accept General Studies, Global Perspectives or Critical Thinking as A-levels (UK qualifications page: https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/uk-qualifications/). Core Maths isn't accepted in place of A-level Mathematics."
+    },
+    {
+      "id": "bristol-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BSc",
+      "ucasCode": "LN13",
+      "lengthYears": 3,
+      "lengthNote": "4 years with study abroad (UCAS LN15)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "unknown",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level including Mathematics. Contextual offer: ABB including Mathematics. No specific GCSE subjects required.",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-finance/",
+          "checked": "2026-10-20",
+          "evidence": "A-level standard offer: AAA ... A-level contextual offer: ABB"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics is required as part of the offer (AAA including Mathematics)."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": "No specific subjects required.",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-finance/",
+        "checked": "2026-10-20",
+        "evidence": "AAA including Mathematics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for Economics. Bristol's page on admissions tests only covers the UCAT (medicine and dentistry) and the LNAT (law).",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/",
+          "checked": "2026-10-20",
+          "evidence": "You need to take the UCAT test (formerly UKCAT) if you are applying for a medical or dental degree at Bristol. ... You need to take the LNAT test if you are applying for a Law LLB course."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer (up to two grades below the standard offer) if you have home fee status, are studying A-levels and/or the IB, apply through UCAS and meet one of Bristol's criteria: attended an aspiring state school or college; live in an IMD quintile 1 or 2 area; completed a Bristol widening participation programme; spent three months or more in local authority care; or were eligible for free school meals.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-finance/",
+            "checked": "2026-10-20",
+            "evidence": "A-level contextual offer: ABB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Access to Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Access to Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+            "checked": "2026-10-20",
+            "evidence": "you'll be guaranteed a contextual offer (typically two A-level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Discover Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Discover Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Insight into Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Insight into Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Next Step Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Next Step Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer, typically two A-level grades below standard entry requirements"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Virtual Summer School, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Virtual Summer School",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed tailored offer (not a contextual offer) for Year 13 students nominated by their headteacher or Head of Post-16 at a school or college in the City of Bristol.",
+          "programme": "Bristol Scholars",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+            "checked": "2026-10-20",
+            "evidence": "If eligible for the programme, these students will receive a guaranteed, tailored offer from the University of Bristol."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so 2027 entry is used",
+        "ucas: the UCAS course page sits behind a bot check, so no UCAS link is recorded",
+        "options.foundationYear: the course page doesn't mention a foundation-year route",
+        "admissionsTest: the course page doesn't mention a test; none is assumed (Bristol's list of admissions tests only covers the UCAT and LNAT)",
+        "options.placement: the course page doesn't mention a placement year"
+      ],
+      "notes": "The first two years are at Clifton campus; from year three some units may be taught at the Temple Quarter Enterprise Campus. Accredited by CIMA. BTEC route: DDD plus an A in A-level Maths. Bristol doesn't accept General Studies, Global Perspectives or Critical Thinking as A-levels (UK qualifications page: https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/uk-qualifications/). Core Maths isn't accepted in place of A-level Mathematics."
+    },
+    {
+      "id": "bristol-economics-accounting",
+      "name": "Economics and Accounting",
+      "degree": "BSc",
+      "ucasCode": "LN14",
+      "lengthYears": 3,
+      "lengthNote": "4 years with study abroad (UCAS LN16); a 4-year version with professional placement exists but you transfer onto it from LN14 (you can't apply for it directly)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-accounting"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level including Mathematics, or A*AB including an A in Mathematics. Contextual offer: ABB including Mathematics. No specific GCSE subjects required.",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting/",
+          "checked": "2026-10-20",
+          "evidence": "A-level standard offer: AAA ... A-level contextual offer: ABB"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics is required as part of the offer (AAA including Mathematics, or A*AB including an A in Mathematics)."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": "No specific subjects required.",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting/",
+        "checked": "2026-10-20",
+        "evidence": "AAA including Mathematics, or A*AB including A in Mathematics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for Economics. Bristol's page on admissions tests only covers the UCAT (medicine and dentistry) and the LNAT (law).",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/",
+          "checked": "2026-10-20",
+          "evidence": "You need to take the UCAT test (formerly UKCAT) if you are applying for a medical or dental degree at Bristol. ... You need to take the LNAT test if you are applying for a Law LLB course."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer (up to two grades below the standard offer) if you have home fee status, are studying A-levels and/or the IB, apply through UCAS and meet one of Bristol's criteria: attended an aspiring state school or college; live in an IMD quintile 1 or 2 area; completed a Bristol widening participation programme; spent three months or more in local authority care; or were eligible for free school meals.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting/",
+            "checked": "2026-10-20",
+            "evidence": "A-level contextual offer: ABB"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "A*AB",
+          "tariff": null,
+          "conditions": "Alternative standard offer: A*AB including an A in Mathematics (instead of AAA including Mathematics).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting/",
+            "checked": "2026-10-20",
+            "evidence": "A*AB including A in Mathematics"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Access to Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Access to Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+            "checked": "2026-10-20",
+            "evidence": "you'll be guaranteed a contextual offer (typically two A-level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Discover Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Discover Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Insight into Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Insight into Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Next Step Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Next Step Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer, typically two A-level grades below standard entry requirements"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Virtual Summer School, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Virtual Summer School",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed tailored offer (not a contextual offer) for Year 13 students nominated by their headteacher or Head of Post-16 at a school or college in the City of Bristol.",
+          "programme": "Bristol Scholars",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+            "checked": "2026-10-20",
+            "evidence": "If eligible for the programme, these students will receive a guaranteed, tailored offer from the University of Bristol."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bristol.ac.uk/study/undergraduate/2027/accounting-finance/bsc-economics-and-accounting/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so 2027 entry is used",
+        "ucas: the UCAS course page sits behind a bot check, so no UCAS link is recorded",
+        "options.foundationYear: the course page doesn't mention a foundation-year route",
+        "admissionsTest: the course page doesn't mention a test; none is assumed (Bristol's list of admissions tests only covers the UCAT and LNAT)"
+      ],
+      "notes": "Accredited by ACCA, CIPFA, ICAEW, ICAS and CIMA. The Professional Placement version (paid placement in year three) is reached by transfer after the first year, based on first-year exam results and an offer of employment; Bristol's page says it can't be applied for as an external candidate. The first two years are at Clifton campus; from year three some units may be taught at the Temple Quarter Enterprise Campus. Bristol doesn't accept General Studies, Global Perspectives or Critical Thinking as A-levels (UK qualifications page: https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/uk-qualifications/). Core Maths isn't accepted in place of A-level Mathematics."
+    },
+    {
+      "id": "bristol-economics-management",
+      "name": "Economics and Management",
+      "degree": "BSc",
+      "ucasCode": "LN12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with study abroad (UCAS LN17)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "unknown",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level including Mathematics. Contextual offer: ABB including Mathematics. No specific GCSE subjects required.",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-economics-and-management/",
+          "checked": "2026-10-20",
+          "evidence": "A-level standard offer: AAA ... A-level contextual offer: ABB"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics is required as part of the offer (AAA including Mathematics)."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": "No specific subjects required.",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-economics-and-management/",
+        "checked": "2026-10-20",
+        "evidence": "AAA including Mathematics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for Economics. Bristol's page on admissions tests only covers the UCAT (medicine and dentistry) and the LNAT (law).",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/",
+          "checked": "2026-10-20",
+          "evidence": "You need to take the UCAT test (formerly UKCAT) if you are applying for a medical or dental degree at Bristol. ... You need to take the LNAT test if you are applying for a Law LLB course."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer (up to two grades below the standard offer) if you have home fee status, are studying A-levels and/or the IB, apply through UCAS and meet one of Bristol's criteria: attended an aspiring state school or college; live in an IMD quintile 1 or 2 area; completed a Bristol widening participation programme; spent three months or more in local authority care; or were eligible for free school meals.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-economics-and-management/",
+            "checked": "2026-10-20",
+            "evidence": "A-level contextual offer: ABB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Access to Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Access to Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+            "checked": "2026-10-20",
+            "evidence": "you'll be guaranteed a contextual offer (typically two A-level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Discover Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Discover Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Insight into Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Insight into Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Next Step Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Next Step Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer, typically two A-level grades below standard entry requirements"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Virtual Summer School, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Virtual Summer School",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed tailored offer (not a contextual offer) for Year 13 students nominated by their headteacher or Head of Post-16 at a school or college in the City of Bristol.",
+          "programme": "Bristol Scholars",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+            "checked": "2026-10-20",
+            "evidence": "If eligible for the programme, these students will receive a guaranteed, tailored offer from the University of Bristol."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bristol.ac.uk/study/undergraduate/2027/business-and-management/bsc-economics-and-management/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so 2027 entry is used",
+        "ucas: the UCAS course page sits behind a bot check, so no UCAS link is recorded",
+        "options.foundationYear: the course page doesn't mention a foundation-year route",
+        "admissionsTest: the course page doesn't mention a test; none is assumed (Bristol's list of admissions tests only covers the UCAT and LNAT)",
+        "options.placement: the course page doesn't mention a placement year"
+      ],
+      "notes": "Accredited by ICAEW and CIMA. The first two years are at Clifton campus; from year three some units may be taught at the Temple Quarter Enterprise Campus. BTEC route: DDD plus an A in A-level Maths. Bristol doesn't accept General Studies, Global Perspectives or Critical Thinking as A-levels (UK qualifications page: https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/uk-qualifications/). Core Maths isn't accepted in place of A-level Mathematics."
+    },
+    {
+      "id": "bristol-economics-politics",
+      "name": "Economics and Politics",
+      "degree": "BSc",
+      "ucasCode": "LL12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with study abroad (UCAS LL14)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "unknown",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level including Mathematics and an essay-based subject (Geography and Psychology both count). Contextual offer: ABB including Mathematics and an essay-based subject. No specific GCSE subjects required.",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-politics/",
+          "checked": "2026-10-20",
+          "evidence": "A-level standard offer: AAA ... A-level contextual offer: ABB"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics is required as part of the offer."
+        },
+        {
+          "subjects": [
+            "Ancient History",
+            "Anthropology",
+            "Archaeology",
+            "Art and Design (all pathways)",
+            "Business Studies",
+            "Chinese",
+            "Classical Civilisation",
+            "Classics",
+            "Drama",
+            "Economics",
+            "English Language",
+            "English Language and Literature",
+            "English Literature",
+            "Environmental Science",
+            "Environmental Studies",
+            "Film",
+            "French",
+            "Geography",
+            "German",
+            "Government and Politics",
+            "Greek",
+            "Health and Social Care",
+            "History",
+            "History of Art",
+            "Italian",
+            "Latin",
+            "Law",
+            "Media Studies",
+            "Music",
+            "Performance",
+            "Philosophy",
+            "Politics",
+            "Portuguese",
+            "Psychology",
+            "Religious Studies",
+            "Russian",
+            "Social Care",
+            "Social Policy",
+            "Sociology",
+            "Spanish",
+            "Theatre Studies",
+            "Welsh"
+          ],
+          "minGrade": null,
+          "note": "One essay-based A-level subject is needed as part of the offer. The list includes Geography and Psychology."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": "No specific subjects required.",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-politics/",
+        "checked": "2026-10-20",
+        "evidence": "AAA including Mathematics and an essay-based subject ... Geography ... Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for Economics. Bristol's page on admissions tests only covers the UCAT (medicine and dentistry) and the LNAT (law).",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/",
+          "checked": "2026-10-20",
+          "evidence": "You need to take the UCAT test (formerly UKCAT) if you are applying for a medical or dental degree at Bristol. ... You need to take the LNAT test if you are applying for a Law LLB course."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer (up to two grades below the standard offer) if you have home fee status, are studying A-levels and/or the IB, apply through UCAS and meet one of Bristol's criteria: attended an aspiring state school or college; live in an IMD quintile 1 or 2 area; completed a Bristol widening participation programme; spent three months or more in local authority care; or were eligible for free school meals.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-politics/",
+            "checked": "2026-10-20",
+            "evidence": "A-level contextual offer: ABB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Access to Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Access to Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+            "checked": "2026-10-20",
+            "evidence": "you'll be guaranteed a contextual offer (typically two A-level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Discover Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Discover Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Insight into Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Insight into Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Next Step Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Next Step Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer, typically two A-level grades below standard entry requirements"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Virtual Summer School, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Virtual Summer School",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed tailored offer (not a contextual offer) for Year 13 students nominated by their headteacher or Head of Post-16 at a school or college in the City of Bristol.",
+          "programme": "Bristol Scholars",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+            "checked": "2026-10-20",
+            "evidence": "If eligible for the programme, these students will receive a guaranteed, tailored offer from the University of Bristol."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-politics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so 2027 entry is used",
+        "ucas: the UCAS course page sits behind a bot check, so no UCAS link is recorded",
+        "options.foundationYear: the course page doesn't mention a foundation-year route",
+        "admissionsTest: the course page doesn't mention a test; none is assumed (Bristol's list of admissions tests only covers the UCAT and LNAT)",
+        "options.placement: the course page doesn't mention a placement year"
+      ],
+      "notes": "Needs Mathematics plus one essay-based A-level; Geography and Psychology are both on Bristol's essay-based list, so Maths, Geography and Psychology would satisfy the subject requirement. Accredited by CIMA. Teaching is at Clifton campus. Bristol doesn't accept General Studies, Global Perspectives or Critical Thinking as A-levels (UK qualifications page: https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/uk-qualifications/). Core Maths isn't accepted in place of A-level Mathematics."
+    },
+    {
+      "id": "bristol-ppe",
+      "name": "Politics, Philosophy and Economics",
+      "degree": "BA",
+      "ucasCode": "VL20",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "unknown",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level including an essay-based subject (Geography and Psychology both count); no A-level Mathematics required. Contextual offer: ABB including an essay-based subject. Needs grade 7 (or A) in GCSE Mathematics.",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/ba-politics-philosophy-and-economics/",
+          "checked": "2026-10-20",
+          "evidence": "A-level standard offer: AAA ... A-level contextual offer: ABB"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Ancient History",
+            "Anthropology",
+            "Archaeology",
+            "Art and Design (all pathways)",
+            "Business Studies",
+            "Chinese",
+            "Classical Civilisation",
+            "Classics",
+            "Drama",
+            "Economics",
+            "English Language",
+            "English Language and Literature",
+            "English Literature",
+            "Environmental Science",
+            "Environmental Studies",
+            "Film",
+            "French",
+            "Geography",
+            "German",
+            "Government and Politics",
+            "Greek",
+            "Health and Social Care",
+            "History",
+            "History of Art",
+            "Italian",
+            "Latin",
+            "Law",
+            "Media Studies",
+            "Music",
+            "Performance",
+            "Philosophy",
+            "Politics",
+            "Portuguese",
+            "Psychology",
+            "Religious Studies",
+            "Russian",
+            "Social Care",
+            "Social Policy",
+            "Sociology",
+            "Spanish",
+            "Theatre Studies",
+            "Welsh"
+          ],
+          "minGrade": null,
+          "note": "One essay-based A-level subject is needed as part of the offer. The list includes Geography and Psychology."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Advanced numeracy requirement: 7 or A in GCSE Mathematics or equivalent"
+        }
+      ],
+      "gcseText": "Advanced numeracy requirement (7 or A in GCSE Mathematics or equivalent)",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/ba-politics-philosophy-and-economics/",
+        "checked": "2026-10-20",
+        "evidence": "AAA including an essay-based subject ... Geography ... Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for Economics. Bristol's page on admissions tests only covers the UCAT (medicine and dentistry) and the LNAT (law).",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/",
+          "checked": "2026-10-20",
+          "evidence": "You need to take the UCAT test (formerly UKCAT) if you are applying for a medical or dental degree at Bristol. ... You need to take the LNAT test if you are applying for a Law LLB course."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer (up to two grades below the standard offer) if you have home fee status, are studying A-levels and/or the IB, apply through UCAS and meet one of Bristol's criteria: attended an aspiring state school or college; live in an IMD quintile 1 or 2 area; completed a Bristol widening participation programme; spent three months or more in local authority care; or were eligible for free school meals.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/ba-politics-philosophy-and-economics/",
+            "checked": "2026-10-20",
+            "evidence": "A-level contextual offer: ABB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Access to Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Access to Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+            "checked": "2026-10-20",
+            "evidence": "you'll be guaranteed a contextual offer (typically two A-level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Discover Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Discover Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Insight into Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Insight into Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Next Step Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Next Step Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer, typically two A-level grades below standard entry requirements"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Virtual Summer School, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Virtual Summer School",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed tailored offer (not a contextual offer) for Year 13 students nominated by their headteacher or Head of Post-16 at a school or college in the City of Bristol.",
+          "programme": "Bristol Scholars",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+            "checked": "2026-10-20",
+            "evidence": "If eligible for the programme, these students will receive a guaranteed, tailored offer from the University of Bristol."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bristol.ac.uk/study/undergraduate/2027/philosophy/ba-politics-philosophy-and-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so 2027 entry is used",
+        "ucas: the UCAS course page sits behind a bot check, so no UCAS link is recorded",
+        "options.foundationYear: the course page doesn't mention a foundation-year route",
+        "admissionsTest: the course page doesn't mention a test; none is assumed (Bristol's list of admissions tests only covers the UCAT and LNAT)",
+        "options.placement: the course page doesn't mention a placement year",
+        "options.yearAbroad: the course page doesn't mention a year abroad version of this degree"
+      ],
+      "notes": "A-level Mathematics isn't required, but grade 7 in GCSE Mathematics is. Geography and Psychology are both on Bristol's essay-based subject list. Teaching is at Clifton campus. Bristol doesn't accept General Studies, Global Perspectives or Critical Thinking as A-levels (UK qualifications page: https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/uk-qualifications/). Core Maths isn't accepted in place of A-level Mathematics."
+    },
+    {
+      "id": "bristol-economics-mathematics",
+      "name": "Economics and Mathematics",
+      "degree": "BSc",
+      "ucasCode": "LG11",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "unknown",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*A*A",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*A*A at A-level including A* in Mathematics and an A in another mathematics-related subject; or A*AA including A*A (in any order) in Mathematics and Further Mathematics. Contextual offer: AAA including Mathematics and another mathematics-related subject, or AAB including AA in Mathematics and Further Mathematics. No specific GCSE subjects required.",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-mathematics/",
+          "checked": "2026-10-21",
+          "evidence": "BSc Economics and Mathematics (LG11) 2027 entry ... A-level standard offer: A*A*A ... A*A*A including A* in Mathematics and A in another mathematics-related subject, or A*AA including A*A (in any order) in Mathematics and Further Mathematics. Mathematics-related subjects include Biology; Chemistry; Computer Science; Economics; and Physics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A*",
+          "note": "A* in Mathematics on the A*A*A route. On the Further Maths route the A*A can be in either Maths or Further Maths."
+        },
+        {
+          "subjects": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Physics"
+          ],
+          "minGrade": "A",
+          "note": "An A in another mathematics-related subject is needed on the A*A*A route. The page's list says 'include' and names Biology, Chemistry, Computer Science, Economics and Physics; Psychology and Geography aren't named."
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Further Mathematics"
+          ],
+          "note": "Not required. With Mathematics and Further Mathematics the standard offer is A*AA including A*A in those two subjects."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [],
+      "gcseText": "No specific subjects required.",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-mathematics/",
+        "checked": "2026-10-20",
+        "evidence": "A*A*A including A* in Mathematics and A in another mathematics-related subject ... Mathematics-related subjects include Biology; Chemistry; Computer Science; Economics; and Physics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for Economics. Bristol's page on admissions tests only covers the UCAT (medicine and dentistry) and the LNAT (law).",
+        "source": {
+          "url": "https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/",
+          "checked": "2026-10-20",
+          "evidence": "You need to take the UCAT test (formerly UKCAT) if you are applying for a medical or dental degree at Bristol. ... You need to take the LNAT test if you are applying for a Law LLB course."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Contextual offer (up to two grades below the standard offer) if you have home fee status, are studying A-levels and/or the IB, apply through UCAS and meet one of Bristol's criteria: attended an aspiring state school or college; live in an IMD quintile 1 or 2 area; completed a Bristol widening participation programme; spent three months or more in local authority care; or were eligible for free school meals.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-mathematics/",
+            "checked": "2026-10-20",
+            "evidence": "A-level contextual offer: AAA"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "A*AA",
+          "tariff": null,
+          "conditions": "Alternative standard offer if you take both Mathematics and Further Mathematics: A*AA including A*A (in any order) in those two subjects. The contextual version is AAB including AA in Maths and Further Maths.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-mathematics/",
+            "checked": "2026-10-20",
+            "evidence": "A*AA including A*A (in any order) in Mathematics and Further Mathematics"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Access to Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Access to Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/access/",
+            "checked": "2026-10-20",
+            "evidence": "you'll be guaranteed a contextual offer (typically two A-level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Discover Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Discover Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/discover-bristol/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Insight into Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Insight into Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/insight/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Next Step Bristol, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Next Step Bristol",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/nextstep/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer, typically two A-level grades below standard entry requirements"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Guaranteed contextual offer if you successfully complete Virtual Summer School, are studying any specified A-level subjects and meet any additional requirements for the course (typically two A-level grades below the standard offer). Applies to courses that don't routinely interview.",
+          "programme": "Virtual Summer School",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/virtual-summer-school/",
+            "checked": "2026-10-20",
+            "evidence": "you will be guaranteed a contextual offer (typically two A-Level grades below standard entry requirements)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed tailored offer (not a contextual offer) for Year 13 students nominated by their headteacher or Head of Post-16 at a school or college in the City of Bristol.",
+          "programme": "Bristol Scholars",
+          "source": {
+            "url": "https://www.bristol.ac.uk/study/outreach/post-16/scholars/",
+            "checked": "2026-10-20",
+            "evidence": "If eligible for the programme, these students will receive a guaranteed, tailored offer from the University of Bristol."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bristol.ac.uk/study/undergraduate/2027/economics/bsc-economics-and-mathematics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so 2027 entry is used",
+        "ucas: the UCAS course page sits behind a bot check, so no UCAS link is recorded",
+        "options.foundationYear: the course page doesn't mention a foundation-year route",
+        "admissionsTest: the course page doesn't mention a test; none is assumed (Bristol's list of admissions tests only covers the UCAT and LNAT)",
+        "options.placement: the course page doesn't mention a placement year",
+        "options.yearAbroad: the course page doesn't mention a year abroad version of this degree",
+        "alternativeOffers: the page says STEP achievement may be part of an alternative offer but gives no grades",
+        "subjects: the page's list of mathematics-related subjects says 'include', so it may not be complete; whether Psychology or Geography could count as the second mathematics-related subject isn't stated"
+      ],
+      "notes": "Accredited by IFoA. Psychology and Geography are not excluded subjects, but they aren't named as mathematics-related subjects, so a student with Maths, Geography and Psychology would not clearly meet the A*A*A route (ask Bristol whether other subjects can count). STEP may be included as part of an alternative offer. Teaching is at Clifton campus. Bristol doesn't accept General Studies, Global Perspectives or Critical Thinking as A-levels (UK qualifications page: https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/uk-qualifications/). Core Maths isn't accepted in place of A-level Mathematics."
+    }
+  ],
+  "notes": [
+    "All course facts are for September 2027 entry. Bristol hasn't published 2028-entry course pages yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so check again before applying.",
+    "The BSc courses recorded here need A-level Mathematics. BA Economics (L150) and Politics, Philosophy and Economics (VL20) don't need A-level Maths but ask for grade 7 in GCSE Mathematics (the advanced numeracy requirement).",
+    "Study-abroad versions (4 years, own UCAS codes): Economics L105 (L101 with a modern language), Economics and Finance LN15, Economics and Accounting LN16, Economics and Management LN17, Economics and Politics LL14. Economics and Accounting with Professional Placement can't be applied for directly; students transfer from LN14.",
+    "Home students on a full-year study or work placement pay 15% of the full tuition fee and those on a whole-year industrial placement pay 20% (2026/27 figures).",
+    "Not added, to keep to 8 courses: Economics and Econometrics BSc (L140, A*AA including Mathematics), Economics and Data Science BSc (L1G1, A*AA including Mathematics), Philosophy and Economics BSc (VL51, AAA including Mathematics) and MSci Economics with Innovation.",
+    "EPQ: accepted to meet standard literacy conditions but not in place of an A-level. Core Maths isn't accepted in place of A-level Mathematics. General Studies, Global Perspectives and Critical Thinking aren't accepted as A-levels, and there is no preference for four A-levels or AS-levels.",
+    "Guaranteed offers are a separate scheme from contextual offers: applicants with a BS, BA1, BA2, BA3, BA5, BA14 or BA15 home postcode at a state school, Access to HE applicants, completers of Bristol widening participation programmes and applicants eligible for free school meals may be considered for one (https://www.bristol.ac.uk/study/undergraduate/entry-requirements-qualifications/guaranteed-offers/).",
+    "Bristol delivered its own Sutton Trust Summer School for the last time in 2024, so there's no current Sutton Trust offer at Bristol to record.",
+    "Bristol's own living-costs survey says undergraduates spent an average of £1,401 a month in 2025/26, including about £775.78 a month on rent or mortgage (https://www.bristol.ac.uk/students/support/finances/advice/set-up-finances/living-expenses/).",
+    "Bristol's 2027 admissions statements for the courses recorded here (PDFs linked from https://www.bristol.ac.uk/study/undergraduate/apply/admissions-statements/: Economics, Accounting and Finance, and Politics) say applications are scored on GCSE results (20%) and A-level results (80%), the personal statement is not normally considered (it may be used to separate applicants with the same academic score), and applicants are not routinely interviewed."
+  ],
+  "notConfirmed": [
+    "entryYear: 2028-entry pages aren't published yet (checked 2026-10-20: the 2028 address of the BSc Economics course page returned 'Not Found'), so 2027 entry is used for every course",
+    "ucas: UCAS course pages sit behind a bot check, so no UCAS links are recorded",
+    "fees: the page gives £10,316 for 2028/29 only as an estimate; £10,050 (2027/28) is the latest confirmed fee",
+    "livingCosts: hall rents are for 2026/27; rents for 2027/28 and 2028/29 aren't published, and catered rooms cost extra for meals",
+    "openDays: only the 31 October 2026 open day is listed; later undergraduate open days aren't announced yet",
+    "contextual: the rules are for 2027 entry and 2028-entry rules aren't published; the aspiring schools and colleges lists are PDFs that can't be read here, so whether a particular school is on them isn't recorded",
+    "competition: Bristol doesn't publish offer rates or applications per place on the course pages",
+    "programmes: the pages don't say whether Access to Bristol, Discover Bristol, Next Step Bristol or the Virtual Summer School are free; 2027 dates and deadlines for most programmes aren't announced yet",
+    "foundationYear: Bristol's CertHE Foundation in Arts and Social Sciences page doesn't say whether it leads to Economics, so no foundation-year route is recorded",
+    "admissions statement: Bristol's admissions statements are PDFs that the quote checker can't read, so the GCSE 20% / A-level 80% weighting and 'not routinely interviewed' notes are not machine-checked"
+  ]
+}

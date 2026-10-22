@@ -1,0 +1,1646 @@
+{
+  "id": "sheffield",
+  "name": "University of Sheffield",
+  "shortName": "Sheffield",
+  "aliases": [
+    "Sheffield",
+    "Sheffield Uni",
+    "Sheffield University",
+    "UoS",
+    "TUoS",
+    "Sheff Uni"
+  ],
+  "city": "Sheffield",
+  "region": "North",
+  "country": "England",
+  "setting": "mixed",
+  "settingEvidence": {
+    "url": "https://sheffield.ac.uk/sheffield-guide",
+    "checked": "2026-10-17",
+    "evidence": "You’re never far from anything at a compact campus in the heart of the city."
+  },
+  "location": {
+    "postcode": "S10 2TN",
+    "postcodeSource": "https://sheffield.ac.uk/contact",
+    "lat": 53.381381,
+    "lng": -1.48853,
+    "coordsSource": "https://api.postcodes.io/postcodes/S102TN",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK (home) students starting in September 2027; fees may rise each year in line with inflation (RPIX) and can be reduced for a year abroad or year in industry.",
+    "source": {
+      "url": "https://sheffield.ac.uk/undergraduate/tuition-fees-2027",
+      "checked": "2026-10-17",
+      "evidence": "The standard annual undergraduate tuition fee for home fee-paying students starting their course in 2027 is £10,050."
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 151.41,
+    "amountHigh": 240.38,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "University halls for undergraduates cost about £151-£240 a week in 2026/27 (most rooms are 42-week contracts; Laddow Studios are 51 weeks). Rent includes utility bills, contents insurance and internet.",
+    "source": {
+      "url": "https://sheffield.ac.uk/accommodation/rents",
+      "checked": "2026-10-17",
+      "evidence": "Laddow Studios | Studio | 51 weeks | £240.38 ... Crescent Flats | Shared Bathroom | 42 weeks | £151.41"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-10-17",
+        "endDate": null,
+        "label": "Undergraduate open day",
+        "format": "in person",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2026-11-21",
+        "endDate": null,
+        "label": "Undergraduate open day",
+        "format": "in person",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Autumn open days: Saturday 17 October 2026 and Saturday 21 November 2026 (booking open). 2027 open day dates haven't been announced yet.",
+    "url": "https://sheffield.ac.uk/undergraduate/visit/open-days",
+    "source": {
+      "url": "https://sheffield.ac.uk/undergraduate/visit/open-days",
+      "checked": "2026-10-17",
+      "evidence": "Booking is now open for our autumn open days ... Saturday 17 October 2026 ... Saturday 21 November 2026"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Sheffield's Access Sheffield policies can give you a lower 'contextual offer' (shown as the 'Access Sheffield offer' on each course page) if you meet one or more criteria, such as living in a lower-participation area, free school meals or care experience.",
+    "typicalReduction": "One, two or three grades below the standard A Level requirements (Access+ criteria and access programmes: up to two grades below)",
+    "criteria": [
+      {
+        "key": "area",
+        "detail": "Live in a neighbourhood in IMD 2019 quintile 1 or 2 (check with Sheffield's Access+ postcode checker); assessed automatically from your UCAS application",
+        "measure": "IMD",
+        "quintiles": [
+          1,
+          2
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "Entitled to free school meals at some point in the six years before your final KS4 year (the year you were aged 15-16); checked automatically from the National Pupil Database",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Care experienced (lived in public care or as a looked-after child at any stage up to age 18), or a care leaver recognised by your local authority",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "carer",
+        "detail": "Young carer: responsible for providing unpaid care to someone with, for example, a long-term illness, disability, mental health condition or addiction",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged from your family: no relationship with, or support from, your parent(s) or carer(s) (for example no communication for 12 months and the situation is irreconcilable)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "Forced migrant: asylum seeker, refugee or granted humanitarian protection",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "Parenting responsibilities: a parent of, or responsible for the care and wellbeing of, a child aged 17 or under",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Took part in Access to Sheffield (Y12-13), the Access to Sheffield Summer School, Sheffield's Sutton Trust Summer School or the national Realising Opportunities programme: contextual offer up to two A Level grades below the standard entry requirements (the Access to Sheffield Summer School page says up to three)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "Taking an EPQ on a topic relevant to your degree, Core Maths or Further Maths alongside three A Levels: contextual offer one A Level grade below the standard requirements, subject to a specific grade in that qualification (only on courses that list it)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "If you meet one or more of the Access Sheffield criteria you could get a contextual offer. You need home fee status (separate terms apply to forced migrants). For the Access+ criteria (area, free school meals, care, carer, estranged, parenting, forced migrant) Sheffield must also be your Firm choice with UCAS for the contextual offer to apply when results are released; for the Access to Sheffield (Y12-13) programme the offer applies whether Sheffield is your Firm or Insurance choice (except Medicine). Admissions decisions are not made on contextual data alone.",
+    "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+    "source": {
+      "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+      "checked": "2026-10-17",
+      "evidence": "If you meet one or more of the Access Sheffield criteria set out below, you could get a contextual offer."
+    }
+  },
+  "programmes": [
+    {
+      "id": "sheffield-access-to-sheffield-y12-13",
+      "name": "Access to Sheffield (Y12-13): Arts & Humanities and Social Sciences",
+      "provider": "University of Sheffield",
+      "providerType": "university",
+      "uniIds": [
+        "sheffield"
+      ],
+      "summary": "An 18-month widening-access programme for Year 12 and 13 students (welcome event, intro day, taster sessions, a three-day residential summer school and Year 13 UCAS support); Economics, Accounting and Financial Management and Business Management are among the subjects covered.",
+      "whoCanApply": "Year 12 students from groups under-represented in higher education who meet at least one of: free school meals, living in an area of disadvantage (IMD), care experienced, care leaver, young carer, estranged or forced migrant. You also need 5 GCSEs at grades 9-6 (plus grade 4 in English), at least 3 A levels (two on Sheffield's acceptable subject list), home fee status, and to live within commuting distance of Sheffield.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "area",
+        "care",
+        "carer",
+        "estranged",
+        "refugee"
+      ],
+      "eligibilityDetail": "Meet one or more of: eligible for free school meals; live in an area of disadvantage measured by IMD; care experienced; a care leaver; young carers; experiencing estrangement; a forced migrant. Plus: a minimum of five GCSEs at grade 9-6 and at least grade 4 in English; studying at least 3 A levels or equivalent, at least two on the University's acceptable subject list; expect to be a home fee paying student unless identified as a forced migrant; living within commutable distance for 9am arrivals. You can only apply at the start of Year 12; students cannot apply in Year 13.",
+      "benefits": [
+        "Contextual offer from Sheffield if you complete the programme (Sheffield's Access Sheffield policy says up to two A Level grades below the standard entry requirements)",
+        "Guaranteed bursary and an Access to Sheffield Scholarship worth £3,600 if you choose to study at Sheffield and meet the eligibility criteria",
+        "Optional 1:1 mentoring from a Sheffield student and a free UpLearn licence (economics is one of six subjects)",
+        "Three-day residential summer school in an en-suite room at Endcliffe Student Village"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "sheffield"
+      ],
+      "offerReduction": "Up to two A Level grades below the standard entry requirements (Access Sheffield policy page)",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "Arts & Humanities and Social Sciences (includes Economics, Accounting and Financial Management, Business Management, Geography, Politics and Sociology; Psychology is in the STEM programme)",
+      "yearGroup": "Year 12 (continues into Year 13)",
+      "runs": {
+        "text": "Starts in Year 12 and runs to the end of Year 13; the residential summer school is part of the Year 12 programme. Exact dates aren't published.",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "September (applications open at the start of Year 12)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Early November (applications close in early November; no exact date on the page)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "The page isn't dated to a specific year: it says applications open in September and close in early November, and only at the start of Year 12, so for students now in Year 12 (2026/27) the window closes in early November 2026. Dates shown are the page's standing pattern, not confirmed 2026/27 dates.",
+      "url": "https://sheffield.ac.uk/schools/programmes/years12-13/arts",
+      "source": {
+        "url": "https://sheffield.ac.uk/schools/programmes/years12-13/arts",
+        "checked": "2026-10-17",
+        "evidence": "Applications open in September and close in early November."
+      },
+      "notConfirmed": [
+        "cost: the page doesn't say whether the programme is free or give a price",
+        "deadline/opens: the page gives only the usual months (September to early November), not exact dates for this year",
+        "runs: dates of the Year 12 events and the residential summer school aren't published on the page"
+      ]
+    },
+    {
+      "id": "sheffield-access-to-sheffield-summer-school",
+      "name": "Access to Sheffield Summer School",
+      "provider": "University of Sheffield",
+      "providerType": "university",
+      "uniIds": [
+        "sheffield"
+      ],
+      "summary": "A four-day residential summer school at Sheffield for Year 12 students from under-represented groups, covering academic skills and student life (it is not subject-based); activities, accommodation, meals and travel are covered.",
+      "whoCanApply": "Year 12 students in England or Wales (no older than 17 on 1 September of the year) who meet at least one of: free school meals, living in an IMD area of disadvantage, care experienced, care leaver, young carer, estranged or forced migrant. You need 5 GCSEs at grades 9-6 plus grade 4 in English and Maths, at least 3 A levels (or equivalent), home fee status, and you can't be on Access to Sheffield (Y12-13).",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "area",
+        "care",
+        "carer",
+        "estranged",
+        "refugee"
+      ],
+      "eligibilityDetail": "Studying in Year 12 in England or Wales (Year 13 in Northern Ireland, S5 in Scotland); no older than 17 on 1 September 2026; expect to be home fee paying unless a forced migrant; meet one or more of: free school meals, IMD area of disadvantage, care experienced, care leaver, young carers, estrangement, forced migrant; at least five GCSEs at grade 9-6 plus grade 4 in English and Maths; studying at least 3 A levels or equivalent. Can't apply if currently on the Access to Sheffield (Y12-13) programme.",
+      "benefits": [
+        "Contextual offer after completing it: the summer school page says up to three A Level grades below the standard entry requirements, but Sheffield's Access Sheffield policy page says up to two grades",
+        "Guaranteed bursary and an Access to Sheffield Scholarship if you study at Sheffield and meet their criteria",
+        "Everything included: activities, equipment, overnight accommodation in Endcliffe residences, meals and refreshments, plus funded travel",
+        "Joins you to the Access to Sheffield (Y13 to Uni) programme in Year 13 (information sessions and tutoring support)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "sheffield"
+      ],
+      "offerReduction": "Up to two A Level grades below the standard entry requirements on Sheffield's Access Sheffield policy page; the summer school page itself says up to three grades",
+      "cost": "Free (activities, accommodation, meals and travel are covered)",
+      "isFree": true,
+      "format": "residential",
+      "subjects": "All subjects (not subject-based)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "3-6 August 2026 (2027 dates not announced yet)",
+        "start": "2026-08-03",
+        "end": "2026-08-06",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "2026 applications have closed; you can register interest in the 2027 summer schools (opening date not announced)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "The 2026 deadline has passed; the 2027 deadline hasn't been announced",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2026 summer school (3-6 August 2026). 2027 dates and deadlines haven't been announced; the page lets you register interest in the 2027 summer schools.",
+      "url": "https://sheffield.ac.uk/schools/summer-schools/access-sheffield",
+      "source": {
+        "url": "https://sheffield.ac.uk/schools/summer-schools/access-sheffield",
+        "checked": "2026-10-17",
+        "evidence": "The Access to Sheffield Summer School will take place on Monday 3 August - Thursday 6 August 2026."
+      },
+      "notConfirmed": [
+        "offerReduction: the summer school page says up to three grades below the standard offer but Sheffield's Access Sheffield policy page says up to two grades",
+        "opens/deadline: the 2026 application dates aren't shown on the page and 2027 dates haven't been announced"
+      ]
+    },
+    {
+      "id": "sheffield-subject-tasters",
+      "name": "Sheffield subject taster sessions (online and on campus)",
+      "provider": "University of Sheffield",
+      "providerType": "university",
+      "uniIds": [
+        "sheffield"
+      ],
+      "summary": "Interactive lecture, seminar or workshop sessions for Year 12 and 13 students to try a subject; Economics is among the online Social Sciences sessions listed.",
+      "whoCanApply": "Year 12 and 13 students considering their post-16 options (also mature learners returning to education); no eligibility criteria are listed.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Open to Year 12 and 13 students; book through the individual taster listing for each subject area.",
+      "benefits": [
+        "Experience a university lecture or seminar and speak to academic and teaching staff"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "Many subjects; the online Social Sciences sessions listed include Economics, Management and Politics",
+      "yearGroup": "Year 12 and 13",
+      "runs": {
+        "text": "Session dates are on each subject's booking page; none are shown on the overview pages",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Not stated on the overview page",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not stated on the overview page",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the online Social Sciences sessions Sheffield listed in October 2026. Its only listed Economics session (Environmental Economics) was on 13 October 2026, so it has already taken place; check Sheffield's Social Sciences taster page for new dates.",
+      "url": "https://sheffield.ac.uk/undergraduate/visit/subject-tasters",
+      "source": {
+        "url": "https://sheffield.ac.uk/undergraduate/visit/subject-tasters/social-sciences",
+        "checked": "2026-10-20",
+        "evidence": "Economics: Environmental Economics - What is the right amount of pollution? ... Date: Tuesday 13 October 2026"
+      },
+      "notConfirmed": [
+        "cost: the overview pages don't say whether the sessions are free",
+        "runs/opens/deadline: the overview pages give no dates; the Social Sciences listing shows one Economics session (13 October 2026, already passed), no booking deadline and no 2027 dates",
+        "format: the on-campus sessions page could not be read, so on-campus subject availability wasn't checked"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.sheffield.ac.uk/",
+    "courses": "https://sheffield.ac.uk/undergraduate/courses/2027",
+    "economics": "https://sheffield.ac.uk/economics",
+    "openDays": "https://sheffield.ac.uk/undergraduate/visit/open-days",
+    "fees": "https://sheffield.ac.uk/undergraduate/tuition-fees-2027",
+    "contextual": "https://sheffield.ac.uk/study/policies/access-sheffield",
+    "accommodation": "https://sheffield.ac.uk/accommodation/rents"
+  },
+  "courses": [
+    {
+      "id": "sheffield-economics-bsc",
+      "name": "Economics (BSc)",
+      "degree": "BSc",
+      "ucasCode": "L101",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an optional placement year; an optional year abroad is also available (usually between the second and third year)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level including Maths. The contextual 'Access Sheffield offer' is ABB including Maths. With a fourth Level 3 qualification: ABB including Maths plus grade B in the EPQ.",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-bsc",
+          "checked": "2026-10-17",
+          "evidence": "Standard offer The A Level entry requirements for this course are: AAB including Maths"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths must be one of your A levels ('including Maths'); the page doesn't give a separate minimum grade for Maths within AAB"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Listed as the English language requirement (alternatives: IELTS 6.5 with at least 6.0 in each component, or an equivalent qualification)"
+        }
+      ],
+      "gcseText": "GCSE English Language at grade 4/C (English language requirement); no GCSE Maths grade is listed",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://sheffield.ac.uk/undergraduate/apply/a-levels",
+        "checked": "2026-10-17",
+        "evidence": "For your other A Levels, or where courses have no subject requirements, we accept A Levels in any subject"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page doesn't mention an admissions test or interview. Sheffield says interviews aren't needed for most courses (they are used for Medicine, Dentistry, Nursing, Orthoptics, Pharmacy and Speech and Language Therapy, and other schools may also interview).",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/apply/assess",
+          "checked": "2026-10-17",
+          "evidence": "For most courses interviews aren't a prerequisite for admission, but some academic schools interview to further assess the motivation and personal qualities of applicants."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "The 'Access Sheffield offer' shown on the course page, for applicants who meet an Access Sheffield (Access+) criterion such as living in an IMD quintile 1-2 area, free school meals, care experience, being a young carer, estranged or a forced migrant. You need home fee status and, for most criteria, Sheffield must be your Firm choice for the offer to apply when results are released.",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Access Sheffield offer The A Level entry requirements for this course are: ABB including Maths"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB (including Maths) plus grade B in the EPQ, instead of AAB",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "A Levels + a fourth Level 3 qualification ABB, including Maths + B in the EPQ"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the programme and meet its participation benchmark. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield (Y12-13)",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield (Y12-13) programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the Access to Sheffield Summer School (the summer school page itself says up to three grades). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in Sheffield's Sutton Trust Summer School. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Sutton Trust Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Sutton Trust Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you complete the national Realising Opportunities programme (applies for up to two years after completing it, up to and including Cohort 16). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in the Realising Opportunities programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (the 2028 course URLs redirect to the general course list), so 2027 entry is used",
+        "admissionsTest: the course page doesn't mention an admissions test or interview, so none is assumed",
+        "foundationYear: the course page doesn't list a foundation-year route for UK applicants",
+        "alternativeOffers: exact grades for the programme-based offers (Access to Sheffield, summer schools, Realising Opportunities) aren't given per course, only 'up to two A Level grades below'",
+        "gcse: no GCSE Maths grade is listed (A-level Maths is required); only GCSE English Language 4/C appears, as the English language requirement"
+      ],
+      "notes": "Needs A-level Maths. The BSc is the quantitative/methodological route; years 1 and 2 share the same core modules as the BA Economics, and the page says you choose the methodological (BSc) or applied (BA) pathway at the end of year 2. Optional placement year (4 years in total) and optional year abroad."
+    },
+    {
+      "id": "sheffield-economics-ba",
+      "name": "Economics (BA)",
+      "degree": "BA",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an optional placement year; an optional year abroad is also available (usually between the second and third year)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level with no A-level subject requirements; GCSE Maths grade 6 is needed. The contextual 'Access Sheffield offer' is ABB. With a fourth Level 3 qualification: ABB plus grade B in the EPQ, or ABB plus grade A in Core Maths.",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-ba",
+          "checked": "2026-10-17",
+          "evidence": "Standard offer The A Level entry requirements for this course are: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Listed as the English language requirement (alternatives: IELTS 6.5 with at least 6.0 in each component, or an equivalent qualification)"
+        }
+      ],
+      "gcseText": "GCSE Maths grade 6/B (listed under other requirements); GCSE English Language at grade 4/C (English language requirement)",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://sheffield.ac.uk/undergraduate/apply/a-levels",
+        "checked": "2026-10-17",
+        "evidence": "For your other A Levels, or where courses have no subject requirements, we accept A Levels in any subject"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page doesn't mention an admissions test or interview. Sheffield says interviews aren't needed for most courses (they are used for Medicine, Dentistry, Nursing, Orthoptics, Pharmacy and Speech and Language Therapy, and other schools may also interview).",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/apply/assess",
+          "checked": "2026-10-17",
+          "evidence": "For most courses interviews aren't a prerequisite for admission, but some academic schools interview to further assess the motivation and personal qualities of applicants."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "The 'Access Sheffield offer' shown on the course page, for applicants who meet an Access Sheffield (Access+) criterion such as living in an IMD quintile 1-2 area, free school meals, care experience, being a young carer, estranged or a forced migrant. You need home fee status and, for most criteria, Sheffield must be your Firm choice for the offer to apply when results are released.",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Access Sheffield offer The A Level entry requirements for this course are: ABB"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade B in the EPQ, instead of AAB",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "A Levels + a fourth Level 3 qualification ABB + B in the EPQ; ABB + A in Core Maths"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade A in Core Maths (taken alongside three A levels), instead of AAB",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "A Levels + a fourth Level 3 qualification ABB + B in the EPQ; ABB + A in Core Maths"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the programme and meet its participation benchmark. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield (Y12-13)",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield (Y12-13) programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the Access to Sheffield Summer School (the summer school page itself says up to three grades). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in Sheffield's Sutton Trust Summer School. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Sutton Trust Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Sutton Trust Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you complete the national Realising Opportunities programme (applies for up to two years after completing it, up to and including Cohort 16). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in the Realising Opportunities programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-ba",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (the 2028 course URLs redirect to the general course list), so 2027 entry is used",
+        "admissionsTest: the course page doesn't mention an admissions test or interview, so none is assumed",
+        "foundationYear: the course page doesn't list a foundation-year route for UK applicants",
+        "alternativeOffers: exact grades for the programme-based offers (Access to Sheffield, summer schools, Realising Opportunities) aren't given per course, only 'up to two A Level grades below'"
+      ],
+      "notes": "No A-level subject requirements, but GCSE Maths grade 6 is needed. The BA is the applied-economics route (the BSc version needs A-level Maths). Optional placement year (4 years in total) and optional year abroad."
+    },
+    {
+      "id": "sheffield-economics-finance",
+      "name": "Economics with Finance (BSc)",
+      "degree": "BSc",
+      "ucasCode": "L1N3",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an optional placement year; an optional year abroad is also available (usually between the second and third year)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A level including Maths. The contextual 'Access Sheffield offer' is AAB including Maths. With a fourth Level 3 qualification: AAB including Maths plus grade A in the EPQ.",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-finance-bsc",
+          "checked": "2026-10-17",
+          "evidence": "Standard offer The A Level entry requirements for this course are: AAA including Maths"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Maths required as part of AAA, so at least grade A on the standard route"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Listed as the English language requirement (alternatives: IELTS 6.5 with at least 6.0 in each component, or an equivalent qualification)"
+        }
+      ],
+      "gcseText": "GCSE English Language at grade 4/C (English language requirement); no GCSE Maths grade is listed",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://sheffield.ac.uk/undergraduate/apply/a-levels",
+        "checked": "2026-10-17",
+        "evidence": "For your other A Levels, or where courses have no subject requirements, we accept A Levels in any subject"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page doesn't mention an admissions test or interview. Sheffield says interviews aren't needed for most courses (they are used for Medicine, Dentistry, Nursing, Orthoptics, Pharmacy and Speech and Language Therapy, and other schools may also interview).",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/apply/assess",
+          "checked": "2026-10-17",
+          "evidence": "For most courses interviews aren't a prerequisite for admission, but some academic schools interview to further assess the motivation and personal qualities of applicants."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "The 'Access Sheffield offer' shown on the course page, for applicants who meet an Access Sheffield (Access+) criterion such as living in an IMD quintile 1-2 area, free school meals, care experience, being a young carer, estranged or a forced migrant. You need home fee status and, for most criteria, Sheffield must be your Firm choice for the offer to apply when results are released.",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Access Sheffield offer The A Level entry requirements for this course are: AAB including Maths"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB (including Maths) plus grade A in the EPQ, instead of AAA",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "A Levels + a fourth Level 3 qualification AAB, including Maths + A in the EPQ"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the programme and meet its participation benchmark. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield (Y12-13)",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield (Y12-13) programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the Access to Sheffield Summer School (the summer school page itself says up to three grades). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in Sheffield's Sutton Trust Summer School. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Sutton Trust Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Sutton Trust Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you complete the national Realising Opportunities programme (applies for up to two years after completing it, up to and including Cohort 16). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in the Realising Opportunities programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-finance-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (the 2028 course URLs redirect to the general course list), so 2027 entry is used",
+        "admissionsTest: the course page doesn't mention an admissions test or interview, so none is assumed",
+        "foundationYear: the course page doesn't list a foundation-year route for UK applicants",
+        "alternativeOffers: exact grades for the programme-based offers (Access to Sheffield, summer schools, Realising Opportunities) aren't given per course, only 'up to two A Level grades below'",
+        "gcse: no GCSE Maths grade is listed (A-level Maths is required); only GCSE English Language 4/C appears, as the English language requirement"
+      ],
+      "notes": "Needs A-level Maths and AAA, one grade higher than BSc Economics. Optional placement year (4 years in total) and optional year abroad."
+    },
+    {
+      "id": "sheffield-economics-mathematics",
+      "name": "Economics and Mathematics (BSc)",
+      "degree": "BSc",
+      "ucasCode": "LG11",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an optional placement year; an optional year abroad is also available (usually between the second and third year)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A level including Maths. The contextual 'Access Sheffield offer' is AAB including Maths. With a fourth Level 3 qualification: AAB including grade A in Maths plus grade A in the EPQ.",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-mathematics-bsc",
+          "checked": "2026-10-17",
+          "evidence": "Standard offer The A Level entry requirements for this course are: AAA including Maths"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Maths required as part of AAA, so at least grade A on the standard route"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Listed as the English language requirement (alternatives: IELTS 6.5 with at least 6.0 in each component, or an equivalent qualification)"
+        }
+      ],
+      "gcseText": "GCSE English Language at grade 4/C (English language requirement); no GCSE Maths grade is listed",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://sheffield.ac.uk/undergraduate/apply/a-levels",
+        "checked": "2026-10-17",
+        "evidence": "For your other A Levels, or where courses have no subject requirements, we accept A Levels in any subject"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page doesn't mention an admissions test or interview. Sheffield says interviews aren't needed for most courses (they are used for Medicine, Dentistry, Nursing, Orthoptics, Pharmacy and Speech and Language Therapy, and other schools may also interview).",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/apply/assess",
+          "checked": "2026-10-17",
+          "evidence": "For most courses interviews aren't a prerequisite for admission, but some academic schools interview to further assess the motivation and personal qualities of applicants."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "The 'Access Sheffield offer' shown on the course page, for applicants who meet an Access Sheffield (Access+) criterion such as living in an IMD quintile 1-2 area, free school meals, care experience, being a young carer, estranged or a forced migrant. You need home fee status and, for most criteria, Sheffield must be your Firm choice for the offer to apply when results are released.",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-mathematics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Access Sheffield offer The A Level entry requirements for this course are: AAB including Maths"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB including grade A in Maths, plus grade A in the EPQ, instead of AAA",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-mathematics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "A Levels + a fourth Level 3 qualification AAB, including A in Maths + A in the EPQ"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the programme and meet its participation benchmark. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield (Y12-13)",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield (Y12-13) programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the Access to Sheffield Summer School (the summer school page itself says up to three grades). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in Sheffield's Sutton Trust Summer School. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Sutton Trust Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Sutton Trust Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you complete the national Realising Opportunities programme (applies for up to two years after completing it, up to and including Cohort 16). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in the Realising Opportunities programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-mathematics-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (the 2028 course URLs redirect to the general course list), so 2027 entry is used",
+        "admissionsTest: the course page doesn't mention an admissions test or interview, so none is assumed",
+        "foundationYear: the course page doesn't list a foundation-year route for UK applicants",
+        "alternativeOffers: exact grades for the programme-based offers (Access to Sheffield, summer schools, Realising Opportunities) aren't given per course, only 'up to two A Level grades below'",
+        "gcse: no GCSE Maths grade is listed (A-level Maths is required); only GCSE English Language 4/C appears, as the English language requirement"
+      ],
+      "notes": "Joint course with Mathematics and Statistics; needs A-level Maths and AAA. The page doesn't mention Further Maths. Optional placement year (4 years in total) and optional year abroad."
+    },
+    {
+      "id": "sheffield-economics-politics",
+      "name": "Economics and Politics (BA)",
+      "degree": "BA",
+      "ucasCode": "LL12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an optional placement year; an optional year abroad is also available (usually between the second and third year)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level with no A-level subject requirements; GCSE Maths grade 6 is needed. The contextual 'Access Sheffield offer' is ABB. With a fourth Level 3 qualification: ABB plus grade B in the EPQ, or ABB plus grade A in Core Maths.",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-politics-ba",
+          "checked": "2026-10-17",
+          "evidence": "Standard offer The A Level entry requirements for this course are: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Listed as the English language requirement (alternatives: IELTS 6.5 with at least 6.0 in each component, or an equivalent qualification)"
+        }
+      ],
+      "gcseText": "GCSE Maths grade 6/B (listed under other requirements); GCSE English Language at grade 4/C (English language requirement)",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://sheffield.ac.uk/undergraduate/apply/a-levels",
+        "checked": "2026-10-17",
+        "evidence": "For your other A Levels, or where courses have no subject requirements, we accept A Levels in any subject"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page doesn't mention an admissions test or interview. Sheffield says interviews aren't needed for most courses (they are used for Medicine, Dentistry, Nursing, Orthoptics, Pharmacy and Speech and Language Therapy, and other schools may also interview).",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/apply/assess",
+          "checked": "2026-10-17",
+          "evidence": "For most courses interviews aren't a prerequisite for admission, but some academic schools interview to further assess the motivation and personal qualities of applicants."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "The 'Access Sheffield offer' shown on the course page, for applicants who meet an Access Sheffield (Access+) criterion such as living in an IMD quintile 1-2 area, free school meals, care experience, being a young carer, estranged or a forced migrant. You need home fee status and, for most criteria, Sheffield must be your Firm choice for the offer to apply when results are released.",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-politics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Access Sheffield offer The A Level entry requirements for this course are: ABB"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade B in the EPQ, instead of AAB",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-politics-ba",
+            "checked": "2026-10-17",
+            "evidence": "A Levels + a fourth Level 3 qualification ABB + B in the EPQ; ABB + A in Core Maths"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade A in Core Maths (taken alongside three A levels), instead of AAB",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-politics-ba",
+            "checked": "2026-10-17",
+            "evidence": "A Levels + a fourth Level 3 qualification ABB + B in the EPQ; ABB + A in Core Maths"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the programme and meet its participation benchmark. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield (Y12-13)",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield (Y12-13) programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the Access to Sheffield Summer School (the summer school page itself says up to three grades). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in Sheffield's Sutton Trust Summer School. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Sutton Trust Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Sutton Trust Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you complete the national Realising Opportunities programme (applies for up to two years after completing it, up to and including Cohort 16). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in the Realising Opportunities programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://sheffield.ac.uk/undergraduate/courses/2027/economics-and-politics-ba",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (the 2028 course URLs redirect to the general course list), so 2027 entry is used",
+        "admissionsTest: the course page doesn't mention an admissions test or interview, so none is assumed",
+        "foundationYear: the course page doesn't list a foundation-year route for UK applicants",
+        "alternativeOffers: exact grades for the programme-based offers (Access to Sheffield, summer schools, Realising Opportunities) aren't given per course, only 'up to two A Level grades below'"
+      ],
+      "notes": "No A-level subject requirements, but GCSE Maths grade 6 is needed. Optional placement year (4 years in total) and optional year abroad."
+    },
+    {
+      "id": "sheffield-ppe",
+      "name": "Philosophy, Politics and Economics (BA)",
+      "degree": "BA",
+      "ucasCode": "L200",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an optional placement year; an optional year abroad is also available (usually between the second and third year)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A level with no A-level subject requirements; GCSE Maths grade 6 is needed. The contextual 'Access Sheffield offer' is AAB. With a fourth Level 3 qualification: AAB plus grade B in the EPQ.",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-politics-and-economics-ba",
+          "checked": "2026-10-17",
+          "evidence": "Standard offer The A Level entry requirements for this course are: AAA"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Listed as the English language requirement (alternatives: IELTS 6.5 with at least 6.0 in each component, or an equivalent qualification)"
+        }
+      ],
+      "gcseText": "GCSE Maths grade 6/B (listed under other requirements); GCSE English Language at grade 4/C (English language requirement)",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://sheffield.ac.uk/undergraduate/apply/a-levels",
+        "checked": "2026-10-17",
+        "evidence": "For your other A Levels, or where courses have no subject requirements, we accept A Levels in any subject"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page doesn't mention an admissions test or interview. Sheffield says interviews aren't needed for most courses (they are used for Medicine, Dentistry, Nursing, Orthoptics, Pharmacy and Speech and Language Therapy, and other schools may also interview).",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/apply/assess",
+          "checked": "2026-10-17",
+          "evidence": "For most courses interviews aren't a prerequisite for admission, but some academic schools interview to further assess the motivation and personal qualities of applicants."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "The 'Access Sheffield offer' shown on the course page, for applicants who meet an Access Sheffield (Access+) criterion such as living in an IMD quintile 1-2 area, free school meals, care experience, being a young carer, estranged or a forced migrant. You need home fee status and, for most criteria, Sheffield must be your Firm choice for the offer to apply when results are released.",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-politics-and-economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Access Sheffield offer The A Level entry requirements for this course are: AAB"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB plus grade B in an EPQ, instead of AAA",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-politics-and-economics-ba",
+            "checked": "2026-10-22",
+            "evidence": "A Levels + a fourth Level 3 qualification AAB + B in the EPQ"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the programme and meet its participation benchmark. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield (Y12-13)",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield (Y12-13) programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the Access to Sheffield Summer School (the summer school page itself says up to three grades). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in Sheffield's Sutton Trust Summer School. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Sutton Trust Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Sutton Trust Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you complete the national Realising Opportunities programme (applies for up to two years after completing it, up to and including Cohort 16). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in the Realising Opportunities programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://sheffield.ac.uk/undergraduate/courses/2027/philosophy-politics-and-economics-ba",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (the 2028 course URLs redirect to the general course list), so 2027 entry is used",
+        "admissionsTest: the course page doesn't mention an admissions test or interview, so none is assumed",
+        "foundationYear: the course page doesn't list a foundation-year route for UK applicants",
+        "alternativeOffers: exact grades for the programme-based offers (Access to Sheffield, summer schools, Realising Opportunities) aren't given per course, only 'up to two A Level grades below'"
+      ],
+      "notes": "The highest standard offer of the Economics courses here (AAA) with no A-level subject requirements; GCSE Maths grade 6 is needed. Optional placement year (4 years in total) and optional year abroad."
+    },
+    {
+      "id": "sheffield-business-management-economics",
+      "name": "Business Management and Economics (BA)",
+      "degree": "BA",
+      "ucasCode": "NL21",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an optional placement year; an optional year abroad is also available (usually between the second and third year)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level with no A-level subject requirements; GCSE Maths grade 6 is needed. The contextual 'Access Sheffield offer' is ABB. With a fourth Level 3 qualification: ABB plus grade A in the EPQ, or ABB plus grade A in Core Maths.",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-economics-ba",
+          "checked": "2026-10-17",
+          "evidence": "Standard offer The A Level entry requirements for this course are: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Listed as the English language requirement (alternatives: IELTS 6.5 with at least 6.0 in each component, or an equivalent qualification)"
+        }
+      ],
+      "gcseText": "GCSE Maths grade 6/B (listed under other requirements); GCSE English Language at grade 4/C (English language requirement)",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://sheffield.ac.uk/undergraduate/apply/a-levels",
+        "checked": "2026-10-17",
+        "evidence": "For your other A Levels, or where courses have no subject requirements, we accept A Levels in any subject"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page doesn't mention an admissions test or interview. Sheffield says interviews aren't needed for most courses (they are used for Medicine, Dentistry, Nursing, Orthoptics, Pharmacy and Speech and Language Therapy, and other schools may also interview).",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/apply/assess",
+          "checked": "2026-10-17",
+          "evidence": "For most courses interviews aren't a prerequisite for admission, but some academic schools interview to further assess the motivation and personal qualities of applicants."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "The 'Access Sheffield offer' shown on the course page, for applicants who meet an Access Sheffield (Access+) criterion such as living in an IMD quintile 1-2 area, free school meals, care experience, being a young carer, estranged or a forced migrant. You need home fee status and, for most criteria, Sheffield must be your Firm choice for the offer to apply when results are released.",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Access Sheffield offer The A Level entry requirements for this course are: ABB"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade A in an EPQ, instead of AAB",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-economics-ba",
+            "checked": "2026-10-22",
+            "evidence": "A Levels + a fourth Level 3 qualification ABB + A in the EPQ; ABB + A in Core Maths"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade A in Core Maths (taken alongside three A levels), instead of AAB",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-economics-ba",
+            "checked": "2026-10-22",
+            "evidence": "A Levels + a fourth Level 3 qualification ABB + A in the EPQ; ABB + A in Core Maths"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the programme and meet its participation benchmark. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield (Y12-13)",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield (Y12-13) programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the Access to Sheffield Summer School (the summer school page itself says up to three grades). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in Sheffield's Sutton Trust Summer School. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Sutton Trust Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Sutton Trust Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you complete the national Realising Opportunities programme (applies for up to two years after completing it, up to and including Cohort 16). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in the Realising Opportunities programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://sheffield.ac.uk/undergraduate/courses/2027/business-management-and-economics-ba",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (the 2028 course URLs redirect to the general course list), so 2027 entry is used",
+        "admissionsTest: the course page doesn't mention an admissions test or interview, so none is assumed",
+        "foundationYear: the course page doesn't list a foundation-year route for UK applicants",
+        "alternativeOffers: exact grades for the programme-based offers (Access to Sheffield, summer schools, Realising Opportunities) aren't given per course, only 'up to two A Level grades below'",
+        "modules: the course page says the curriculum is being revised for this year of entry and the modules are still being confirmed"
+      ],
+      "notes": "Dual honours with the Management School. The page says the curriculum is being revised for 2027 entry and modules are still being confirmed. GCSE Maths grade 6 is needed. Optional placement year (4 years in total) and optional year abroad."
+    },
+    {
+      "id": "sheffield-accounting-financial-management-economics",
+      "name": "Accounting and Financial Management and Economics (BA)",
+      "degree": "BA",
+      "ucasCode": "NL41",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an optional placement year; an optional year abroad is also available (usually between the second and third year)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-accounting"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level with no A-level subject requirements; GCSE Maths grade 6 is needed. The contextual 'Access Sheffield offer' is ABB. With a fourth Level 3 qualification: ABB plus grade A in the EPQ, or ABB plus grade A in Core Maths.",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-and-economics-ba",
+          "checked": "2026-10-17",
+          "evidence": "Standard offer The A Level entry requirements for this course are: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Listed as the English language requirement (alternatives: IELTS 6.5 with at least 6.0 in each component, or an equivalent qualification)"
+        }
+      ],
+      "gcseText": "GCSE Maths grade 6/B (listed under other requirements); GCSE English Language at grade 4/C (English language requirement)",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://sheffield.ac.uk/undergraduate/apply/a-levels",
+        "checked": "2026-10-17",
+        "evidence": "For your other A Levels, or where courses have no subject requirements, we accept A Levels in any subject"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page doesn't mention an admissions test or interview. Sheffield says interviews aren't needed for most courses (they are used for Medicine, Dentistry, Nursing, Orthoptics, Pharmacy and Speech and Language Therapy, and other schools may also interview).",
+        "source": {
+          "url": "https://sheffield.ac.uk/undergraduate/apply/assess",
+          "checked": "2026-10-17",
+          "evidence": "For most courses interviews aren't a prerequisite for admission, but some academic schools interview to further assess the motivation and personal qualities of applicants."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "The 'Access Sheffield offer' shown on the course page, for applicants who meet an Access Sheffield (Access+) criterion such as living in an IMD quintile 1-2 area, free school meals, care experience, being a young carer, estranged or a forced migrant. You need home fee status and, for most criteria, Sheffield must be your Firm choice for the offer to apply when results are released.",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-and-economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Access Sheffield offer The A Level entry requirements for this course are: ABB"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade A in an EPQ, instead of AAB",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-and-economics-ba",
+            "checked": "2026-10-22",
+            "evidence": "A Levels + a fourth Level 3 qualification ABB + A in the EPQ; ABB + A in Core Maths"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade A in Core Maths (taken alongside three A levels), instead of AAB",
+          "programme": null,
+          "source": {
+            "url": "https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-and-economics-ba",
+            "checked": "2026-10-22",
+            "evidence": "A Levels + a fourth Level 3 qualification ABB + A in the EPQ; ABB + A in Core Maths"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the programme and meet its participation benchmark. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield (Y12-13)",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield (Y12-13) programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in the Access to Sheffield Summer School (the summer school page itself says up to three grades). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Access to Sheffield Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Access to Sheffield Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you take part in Sheffield's Sutton Trust Summer School. Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Sutton Trust Summer School",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in our Sutton Trust Summer School ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer up to two A Level grades below the standard entry requirements if you complete the national Realising Opportunities programme (applies for up to two years after completing it, up to and including Cohort 16). Other requirements (subjects, GCSEs, pre-entry tests) still apply, and you need home fee status.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://sheffield.ac.uk/study/policies/access-sheffield",
+            "checked": "2026-10-17",
+            "evidence": "Participants in the Realising Opportunities programme ... You'll be eligible for a contextual offer equivalent to up to two A Level grades below the standard entry requirements for your course"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://sheffield.ac.uk/undergraduate/courses/2027/accounting-and-financial-management-and-economics-ba",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry course pages aren't published yet (the 2028 course URLs redirect to the general course list), so 2027 entry is used",
+        "admissionsTest: the course page doesn't mention an admissions test or interview, so none is assumed",
+        "foundationYear: the course page doesn't list a foundation-year route for UK applicants",
+        "alternativeOffers: exact grades for the programme-based offers (Access to Sheffield, summer schools, Realising Opportunities) aren't given per course, only 'up to two A Level grades below'"
+      ],
+      "notes": "Dual honours: time is evenly divided between the Management School and the School of Economics. The page says the course is accredited by professional accounting bodies for exemption from some professional exams. GCSE Maths grade 6 is needed. Optional placement year (4 years in total) and optional year abroad."
+    }
+  ],
+  "notes": [
+    "All course facts are for September 2027 entry: Sheffield hasn't published 2028-entry course pages yet (the 2028 course URLs redirect to the general course list).",
+    "Sheffield has two main Economics degrees: Economics BSc (L101, AAB including A-level Maths) and Economics BA (L100, AAB with no A-level subject requirement but GCSE Maths grade 6). Years 1 and 2 share the same core modules.",
+    "Every course page shows a standard offer and an 'Access Sheffield offer' (the contextual offer). Sheffield's policy page says contextual offers are one, two or three grades below the standard requirements.",
+    "Sheffield also gives contextual offers (up to two A Level grades below) to people who complete the Sutton Trust Summer School at Sheffield, Realising Opportunities, Access to Sheffield (Y12-13) or the Access to Sheffield Summer School; these are recorded as alternative offers on every course.",
+    "Every course here has an optional placement year (four years in total) and an optional year abroad.",
+    "Joint courses are split between schools: for example Accounting and Financial Management and Economics spends half its time in the Management School and half in the School of Economics. The School of Economics is in the Elmfield Building, Northumberland Road, S10 2TU; the coordinates are for the University's main address.",
+    "The Access+ Travel Bursary helps eligible students with travel costs to open days and offer holder days.",
+    "Not added, to keep to 8 courses: Business Management BA (N200), Accounting and Financial Management BA (N420) and Financial Mathematics BSc."
+  ],
+  "notConfirmed": [
+    "entryYear: 2028-entry course pages aren't published yet, so 2027 entry is used for every course",
+    "fees: the fee for September 2028 entry isn't published; £10,050 is the figure for 2027 entry",
+    "livingCosts: rents are 2026/27; 2027/28 rents haven't been published",
+    "openDays: only the autumn 2026 dates (17 October and 21 November 2026) are published; 2027 open days haven't been announced",
+    "contextual: the policy page lists no school-based, household-income or first-in-family criteria; reductions quoted for the Access to Sheffield Summer School differ between pages (two grades on the policy page, three on the summer school page)",
+    "competition: Sheffield doesn't publish offer rates or applications per place on the course pages",
+    "programmes: Access to Sheffield (Y12-13) gives no year-specific dates; 2027 summer school dates aren't announced; subject taster dates and cost aren't on the overview pages"
+  ]
+}

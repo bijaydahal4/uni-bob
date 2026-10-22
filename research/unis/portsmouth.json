@@ -1,0 +1,670 @@
+{
+ "id": "portsmouth",
+ "name": "University of Portsmouth",
+ "shortName": "Portsmouth",
+ "aliases": [
+  "Portsmouth",
+  "Portsmouth Uni",
+  "Uni of Portsmouth",
+  "UoP",
+  "Port Uni",
+  "Pompey"
+ ],
+ "city": "Portsmouth",
+ "region": "South East",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.port.ac.uk/study/open-days/open-experience-days-for-applicants",
+  "checked": "2026-10-21",
+  "evidence": "It's a great way to see the university located in the heart of our city."
+ },
+ "location": {
+  "postcode": "PO1 2EG",
+  "postcodeSource": "https://www.port.ac.uk/about-us/contact-us",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/PO12EG",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 a year for UK students starting in 2027/28 (the 2026/27 fee is £9,790). Portsmouth says fees may increase each year, and its course pages say 2027 course fees will be confirmed soon.",
+  "source": {
+   "url": "https://www.port.ac.uk/study/undergraduate/undergraduate-fees-and-student-finance/tuition-fees-living-costs-and-other-study-costs",
+   "checked": "2026-10-21",
+   "evidence": "tuition fees in 2026/27 for all full-time undergraduate courses are £9,790 a year and £10,050 for 2027/28."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 120,
+  "amountHigh": 208,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University halls cost about £120–£208 a week in 2026/27 (bills included; the standard contract is 40 weeks). Catered halls start at £175 a week. Final 2027/28 hall prices are confirmed by March 2027.",
+  "source": {
+   "url": "https://www.port.ac.uk/student-life/accommodation/our-halls-of-residence",
+   "checked": "2026-10-21",
+   "evidence": "Trust Hall, from £120 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-24",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-15",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-12-05",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days: Saturday 24 October, Sunday 15 November and Saturday 5 December 2026. The smaller Open Experience Days (13 February, 13 March and 17 April 2027) are for applicants and offer holders only. No later open days are listed yet.",
+  "url": "https://www.port.ac.uk/study/open-days/undergraduate-open-days",
+  "source": {
+   "url": "https://www.port.ac.uk/study/open-days/undergraduate-open-days",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 24 October 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Portsmouth may give an adjusted (lower) offer to applicants identified through widening participation data; it does not publish the criteria or how much lower the offer is.",
+  "typicalReduction": "Lower than the typical course offer (the size of the reduction is not published)",
+  "criteria": [],
+  "minCriteria": null,
+  "rulesText": "We also consider personal circumstances and experiences that may have affected their ability to demonstrate their true academic potential at school or college. This is identified using established widening participation data and may result in an adjusted offer. The adjusted offer will be lower than the typical course offer and will be signposted in the offer email.",
+  "url": "https://www.port.ac.uk/study/undergraduate/after-you-apply/getting-your-offers-and-results/how-we-make-an-offer",
+  "source": {
+   "url": "https://www.port.ac.uk/study/undergraduate/after-you-apply/getting-your-offers-and-results/how-we-make-an-offer",
+   "checked": "2026-10-21",
+   "evidence": "may result in an adjusted offer. The adjusted offer will be lower than the typical course offer and will be signposted in the offer email."
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.port.ac.uk/",
+  "courses": "https://www.port.ac.uk/study/courses/undergraduate",
+  "economics": "https://www.port.ac.uk/study/subject-area/accounting-economics-and-finance",
+  "openDays": "https://www.port.ac.uk/study/open-days/undergraduate-open-days",
+  "fees": "https://www.port.ac.uk/study/undergraduate/undergraduate-fees-and-student-finance/tuition-fees-living-costs-and-other-study-costs",
+  "contextual": "https://www.port.ac.uk/study/undergraduate/after-you-apply/getting-your-offers-and-results/how-we-make-an-offer",
+  "accommodation": "https://www.port.ac.uk/student-life/accommodation/our-halls-of-residence"
+ },
+ "courses": [
+  {
+   "id": "portsmouth-economics",
+   "name": "Economics",
+   "degree": "BSc (Econ) (Hons)",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a work placement (UCAS code L100)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "ABB",
+    "low": "BBC",
+    "tariff": 128,
+    "tariffLow": 112,
+    "text": "112–128 UCAS points from 3 A levels, or equivalent (A levels ABB–BBC)",
+    "source": {
+     "url": "https://www.port.ac.uk/study/courses/undergraduate/bsc-econ-hons-economics",
+     "checked": "2026-10-21",
+     "evidence": "A levels - ABB-BBC\nUCAS points - 112-128 points from 3 A levels, or equivalent"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English at grade C/4 or above"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade 6/B or above, or grade 4/C if you are studying a relevant A level (accounting, business, chemistry, economics, maths, physics or psychology). Level 3 Core Maths at grade B, the LIBF Diploma in financial studies and AAT accounting qualifications are also acceptable."
+    }
+   ],
+   "gcseText": "GCSE English at grade C/4 or above. GCSE mathematics at grade 6/B or above, or grade 4/C if studying a relevant A level subject. Relevant A level subjects: accounting, business, chemistry, economics, maths, physics, psychology. LIBF Diploma in financial studies, Level 3 Certificate in core maths (grade B), and AAT accounting qualifications are also acceptable.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://student-system.port.ac.uk/ipp/U1824PYCPORT~2027.HTML",
+    "checked": "2026-10-21",
+    "evidence": "grade 4/C if studying a relevant A level subject. Relevant A level subjects: accounting, business, chemistry, economics, maths, physics, psychology."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. Portsmouth's full entry requirements page says an admissions test is not required, and Portsmouth is not on UAT-UK's list of TMUA universities for 2027 entry.",
+    "source": {
+     "url": "https://student-system.port.ac.uk/ipp/U1824PYCPORT~2027.HTML",
+     "checked": "2026-10-21",
+     "evidence": "Admissions Test Required?\n| No"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.port.ac.uk/study/courses/undergraduate/bsc-econ-hons-economics",
+    "ucas": "https://www.ucas.com/explore/courses/665f31dc-f82b-b9b9-66dd-ac8d260e5d4a/course?campus=Main%20Site&optionId=7c9a657f-fa95-45c9-a12a-1a290808509b&studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start only; the 2028 entry-requirements page returns 404); 2027 entry used",
+    "Course page says 2027 course fees will be confirmed soon (the university's fees page states £10,050 for 2027/28)",
+    "The entry requirements page names no required or excluded A level subjects (points from any 3 A levels), so Geography is not explicitly confirmed as accepted"
+   ],
+   "notes": "No required A level subject. GCSE maths needs grade 6, or grade 4 if you study a relevant A level (Maths and Psychology are both on the list). Optional study abroad year (between years 2 and 3) and paid placement year. Shares most first-year modules with Economics, Finance and Banking, so you can swap at the end of year 1."
+  },
+  {
+   "id": "portsmouth-economics-finance-banking",
+   "name": "Economics, Finance and Banking",
+   "degree": "BSc (Econ) (Hons)",
+   "ucasCode": "LN15",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a work placement (UCAS code LN13)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BCC",
+    "tariff": 120,
+    "tariffLow": 104,
+    "text": "104–120 UCAS points from 3 A levels, or equivalent (A levels BBB–BCC)",
+    "source": {
+     "url": "https://www.port.ac.uk/study/courses/undergraduate/bsc-econ-hons-economics-finance-and-banking",
+     "checked": "2026-10-21",
+     "evidence": "A levels - BBB-BCC\nUCAS points - 104-120 points from 3 A levels, or equivalent"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE English and mathematics at grade C/4 or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://student-system.port.ac.uk/ipp/U1826PYCPORT~2027.HTML",
+    "checked": "2026-10-21",
+    "evidence": "GCSE English and mathematics at grade C/4 or above"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. Portsmouth's full entry requirements page says an admissions test is not required, and Portsmouth is not on UAT-UK's list of TMUA universities for 2027 entry.",
+    "source": {
+     "url": "https://student-system.port.ac.uk/ipp/U1826PYCPORT~2027.HTML",
+     "checked": "2026-10-21",
+     "evidence": "Admissions Test Required?\n| No"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.port.ac.uk/study/courses/undergraduate/bsc-econ-hons-economics-finance-and-banking",
+    "ucas": "https://www.ucas.com/explore/courses/98f83f09-c9d8-bc7f-ca69-cddf09793653/course?campus=Main%20Site&optionId=cb31e1ae-91a1-4698-8a87-7e9c84ee6c93&studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start only; the 2028 entry-requirements page returns 404); 2027 entry used",
+    "Course page says 2027 course fees will be confirmed soon (the university's fees page states £10,050 for 2027/28)",
+    "The entry requirements page names no required or excluded A level subjects (points from any 3 A levels), so Psychology and Geography are not explicitly confirmed as accepted"
+   ],
+   "notes": "No required A level subject. Optional study abroad year (between years 2 and 3) and paid placement year. A foundation year with ICP (4 years, UCAS code LN10, 32 tariff points) gives a guaranteed place on this degree if you pass."
+  },
+  {
+   "id": "portsmouth-economics-management",
+   "name": "Economics and Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "L1N0",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a work placement (UCAS code L1N1)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BCC",
+    "tariff": 120,
+    "tariffLow": 104,
+    "text": "104–120 UCAS points from 3 A levels, or equivalent (A levels BBB–BCC)",
+    "source": {
+     "url": "https://www.port.ac.uk/study/courses/undergraduate/ba-hons-economics-and-management",
+     "checked": "2026-10-21",
+     "evidence": "A levels – BBB–BCC\nUCAS points – 104-120 points from 3 A levels, or equivalent"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE English and mathematics at grade C/4 or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://student-system.port.ac.uk/ipp/U2413PYCPORT~2027.HTML",
+    "checked": "2026-10-21",
+    "evidence": "GCSE English and mathematics at grade C/4 or above"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. Portsmouth's full entry requirements page says an admissions test is not required, and Portsmouth is not on UAT-UK's list of TMUA universities for 2027 entry.",
+    "source": {
+     "url": "https://student-system.port.ac.uk/ipp/U2413PYCPORT~2027.HTML",
+     "checked": "2026-10-21",
+     "evidence": "Admissions Test Required?\n| No"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.port.ac.uk/study/courses/undergraduate/ba-hons-economics-and-management",
+    "ucas": "https://www.ucas.com/explore/courses/7912f7c9-ac57-a387-ae24-ab0bef3475f8/course?campus=Main%20Site&optionId=80253ce7-2d5c-4502-888b-015b6a1e4f6d&studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start only; the 2028 entry-requirements page returns 404); 2027 entry used",
+    "Course page says 2027 course fees will be confirmed soon (the university's fees page states £10,050 for 2027/28)",
+    "The entry requirements page names no required or excluded A level subjects (points from any 3 A levels), so Psychology and Geography are not explicitly confirmed as accepted"
+   ],
+   "notes": "No required A level subject. Optional study abroad year and paid placement year. A foundation year with ICP (4 years, UCAS code L1N3, 32 tariff points) gives a guaranteed place on this degree if you pass."
+  },
+  {
+   "id": "portsmouth-accounting-finance",
+   "name": "Accounting with Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N4N5",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a work placement (UCAS code N4N4)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BCC",
+    "tariff": 120,
+    "tariffLow": 104,
+    "text": "104–120 UCAS points from 3 A levels, or equivalent (A levels BBB–BCC)",
+    "source": {
+     "url": "https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-accounting-with-finance",
+     "checked": "2026-10-21",
+     "evidence": "A levels – BBB–BCC\nUCAS points – 104-120 points from 3 A levels, or equivalent"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE English and mathematics at grade C/4 or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://student-system.port.ac.uk/ipp/U3904PYCPORT~2027.HTML",
+    "checked": "2026-10-21",
+    "evidence": "GCSE English and mathematics at grade C/4 or above"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. Portsmouth's full entry requirements page says an admissions test is not required, and Portsmouth is not on UAT-UK's list of TMUA universities for 2027 entry.",
+    "source": {
+     "url": "https://student-system.port.ac.uk/ipp/U3904PYCPORT~2027.HTML",
+     "checked": "2026-10-21",
+     "evidence": "Admissions Test Required?\n| No"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-accounting-with-finance",
+    "ucas": "https://www.ucas.com/explore/courses/10fbcd3b-834c-4772-9bf1-f38e45f5b0d5/course?campus=Main%20Site&optionId=5f3a1067-706b-454c-b476-be4e33d6674e&studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start only; the 2028 entry-requirements page returns 404); 2027 entry used",
+    "Course page says 2027 course fees will be confirmed soon (the university's fees page states £10,050 for 2027/28)",
+    "The entry requirements page names no required or excluded A level subjects (points from any 3 A levels), so Psychology and Geography are not explicitly confirmed as accepted"
+   ],
+   "notes": "No required A level subject. The course page says it is accredited by ACCA, CIMA, ICAEW and CIPFA (exemptions from professional exams). Optional study abroad year and paid placement year. A foundation year with ICP (4 years, UCAS code N4N6, 32 tariff points) gives a guaranteed place on this degree if you pass."
+  },
+  {
+   "id": "portsmouth-business-management",
+   "name": "Business and Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN23",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a work placement (UCAS code NN21)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BCC",
+    "tariff": 120,
+    "tariffLow": 104,
+    "text": "104–120 UCAS points from 3 A levels, or equivalent (A levels BBB–BCC)",
+    "source": {
+     "url": "https://www.port.ac.uk/study/courses/undergraduate/ba-hons-business-and-management",
+     "checked": "2026-10-21",
+     "evidence": "A levels - BBB-BCC\nUCAS points - 104-120 points from 3 A levels, or equivalent"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE English and mathematics at grade C/4 or above",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://student-system.port.ac.uk/ipp/U2439PYCPORT~2027.HTML",
+    "checked": "2026-10-21",
+    "evidence": "GCSE English and mathematics at grade C/4 or above"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. Portsmouth's full entry requirements page says an admissions test is not required, and Portsmouth is not on UAT-UK's list of TMUA universities for 2027 entry.",
+    "source": {
+     "url": "https://student-system.port.ac.uk/ipp/U2439PYCPORT~2027.HTML",
+     "checked": "2026-10-21",
+     "evidence": "Admissions Test Required?\n| No"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.port.ac.uk/study/courses/undergraduate/ba-hons-business-and-management",
+    "ucas": "https://www.ucas.com/explore/courses/27cd24ce-49e5-80db-af15-9061fc651b2e/course?campus=Main%20Site&optionId=06c1a779-97d5-437d-949e-f038e0a7c4ea&studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start only; the 2028 entry-requirements page returns 404); 2027 entry used",
+    "Course page says 2027 course fees will be confirmed soon (the university's fees page states £10,050 for 2027/28)",
+    "The entry requirements page names no required or excluded A level subjects (points from any 3 A levels), so Psychology and Geography are not explicitly confirmed as accepted"
+   ],
+   "notes": "No required A level subject. Broad first year, then specialist pathways (including Financial Management). Optional study abroad year and paid placement year. A foundation year with ICP (4 years, 32 tariff points) gives a guaranteed place on this degree if you pass."
+  },
+  {
+   "id": "portsmouth-real-estate",
+   "name": "Real Estate and Property Development",
+   "degree": "BSc (Hons)",
+   "ucasCode": "K250",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a work placement (UCAS code K251)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "real-estate"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": null,
+    "tariff": 120,
+    "tariffLow": 104,
+    "text": "104–120 UCAS points to include a minimum of 2 A levels. The course page quotes A levels as BBB–BBC but the entry requirements page says BBB–BCC, so only the top grades (BBB) are recorded.",
+    "source": {
+     "url": "https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-real-estate-and-property-development",
+     "checked": "2026-10-21",
+     "evidence": "UCAS points - 104-120 points to include a minimum of 2 A levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE English and mathematics at grade C/4 or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://student-system.port.ac.uk/ipp/U3958PYCPORT~2027.HTML",
+    "checked": "2026-10-21",
+    "evidence": "GCSE English and mathematics at grade C/4 or above"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. Portsmouth's full entry requirements page says an admissions test is not required, and Portsmouth is not on UAT-UK's list of TMUA universities for 2027 entry.",
+    "source": {
+     "url": "https://student-system.port.ac.uk/ipp/U3958PYCPORT~2027.HTML",
+     "checked": "2026-10-21",
+     "evidence": "Admissions Test Required?\n| No"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-real-estate-and-property-development",
+    "ucas": "https://www.ucas.com/explore/courses/3464fce5-3728-4c85-9b88-b4e8d572cd26/course?campus=Main%20Site&optionId=40315c3a-fc22-42c3-8ec4-04186192ffa0&studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start only; the 2028 entry-requirements page returns 404); 2027 entry used",
+    "Course page says 2027 course fees will be confirmed soon (the university's fees page states £10,050 for 2027/28)",
+    "A level grade equivalents differ between Portsmouth pages (course page BBB-BBC, entry requirements page BBB-BCC); both give 104-120 points, so the points range is recorded",
+    "The entry requirements page names no required or excluded A level subjects (points from any 3 A levels), so Psychology and Geography are not explicitly confirmed as accepted"
+   ],
+   "notes": "No required A level subject; points must include at least 2 A levels. If you do not meet the entry requirements you may be able to join after a foundation year (the page points to Engineering and Technology with Foundation Year)."
+  },
+  {
+   "id": "portsmouth-maths-finance-management",
+   "name": "Mathematics for Finance and Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "G160",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a work placement (UCAS code G161)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BBC",
+    "tariff": 120,
+    "tariffLow": 112,
+    "text": "112–120 UCAS points to include a minimum of 2 A levels, including 40 points (grade B) from mathematics (A levels BBB–BBC)",
+    "source": {
+     "url": "https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-mathematics-for-finance-and-management",
+     "checked": "2026-10-21",
+     "evidence": "UCAS points - 112-120 points to include a minimum of 2 A levels, including 40 points from mathematics."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Further Mathematics",
+      "Statistics"
+     ],
+     "minGrade": "B",
+     "note": "The 112–120 points must include 40 points (grade B) from A level mathematics, further mathematics or statistics, within at least 2 A levels."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE English and mathematics at grade C/4 or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://student-system.port.ac.uk/ipp/U0092PYCPORT~2027.HTML",
+    "checked": "2026-10-21",
+    "evidence": "including 40 points from mathematics.\nRelevant subjects: mathematics, further mathematics, statistics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. Portsmouth's full entry requirements page says an admissions test is not required, and Portsmouth is not on UAT-UK's list of TMUA universities for 2027 entry.",
+    "source": {
+     "url": "https://student-system.port.ac.uk/ipp/U0092PYCPORT~2027.HTML",
+     "checked": "2026-10-21",
+     "evidence": "Admissions Test Required?\n| No"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.port.ac.uk/study/courses/undergraduate/bsc-hons-mathematics-for-finance-and-management",
+    "ucas": "https://www.ucas.com/explore/courses/eb2bc0e7-6caa-81ce-899c-f276cd164098/mathematics-for-finance-and-management?campus=Main%20Site&optionId=2a250372-14b3-4534-8989-82c4de07eecd&studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows a September 2027 start only; the 2028 entry-requirements page returns 404); 2027 entry used",
+    "Course page says 2027 course fees will be confirmed soon (the university's fees page states £10,050 for 2027/28)",
+    "The entry requirements page names no other required or excluded A level subjects, so Psychology and Geography are not explicitly confirmed as accepted (they can make up the remaining points)"
+   ],
+   "notes": "A maths degree with a finance and management focus, not an Economics degree. T Levels are not accepted for this course. The course page mentions an optional placement year or study abroad year and a possible route in through a foundation year (Engineering and Technology with Foundation Year)."
+  }
+ ],
+ "notes": [
+  "All courses use September 2027 entry: Portsmouth's course pages show a 2027 start only and the 2028 entry-requirements page returns 404 (checked 2026-10-21).",
+  "Portsmouth publishes offers as a UCAS points range with A level grade equivalents (for example 112-128 points = ABB-BBC for Economics), so the exact offer within the range is not stated.",
+  "No admissions test: Portsmouth is not on UAT-UK's TMUA list for 2027 entry and its entry requirements pages say an admissions test is not required.",
+  "Open Experience Days (13 February, 13 March and 17 April 2027) are only for applicants and offer holders.",
+  "Portsmouth's Access and Participation Plan 2025/26 to 2028/29 mentions Compact Agreements with partner colleges (adjusted offers and a GBP 1,000 scholarship for eligible widening participation students); no public criteria or college list was found.",
+  "Economics, Finance and Banking, Economics and Management, Accounting with Finance and Business and Management also have a foundation-year route through ICP (32 tariff points) with a guaranteed place on the degree if you pass."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2027/28 tuition fee: the fees page states £10,050 but course pages say 2027 course fees will be confirmed soon",
+  "Contextual (adjusted) offers: the criteria and the size of the reduction are not published",
+  "No Year 12 summer school, access programme or Economics/business taster day for individual students found (subject taster days are booked by schools and colleges and the 2026/27 list was not visible)",
+  "Open days after 5 December 2026 for prospective students are not listed yet",
+  "Halls prices for 2027/28 and 2028/29 are not published (2026/27 prices recorded)"
+ ]
+}

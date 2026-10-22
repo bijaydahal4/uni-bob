@@ -1,0 +1,1528 @@
+{
+  "id": "nottingham",
+  "name": "University of Nottingham",
+  "shortName": "Nottingham",
+  "aliases": [
+    "UoN",
+    "Nottingham Uni",
+    "Notts",
+    "Uni of Nottingham"
+  ],
+  "city": "Nottingham",
+  "region": "Midlands",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-BSc-Hons.html",
+    "checked": "2026-10-17",
+    "evidence": "At University Park, nature, architecture and student life come together on one unforgettable campus."
+  },
+  "location": {
+    "postcode": "NG7 2RD",
+    "postcodeSource": "https://www.nottingham.ac.uk/contact/",
+    "lat": 52.940393,
+    "lng": -1.189663,
+    "coordsSource": "https://api.postcodes.io/postcodes/NG72RD",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK students (2027/28); 2028/29 fee not confirmed yet",
+    "source": {
+      "url": "https://www.nottingham.ac.uk/fees/tuitionfees/202728/undergraduate.aspx",
+      "checked": "2026-10-17",
+      "evidence": "The UK Government has confirmed that the maximum tuition fee for full time UK undergraduate and Initial Teacher Training students studying in England will increase to £10,050 for the 2027/28 academic year."
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 99,
+    "amountHigh": 302,
+    "period": "week",
+    "academicYear": null,
+    "text": "University halls start from about £99 to £302 a week depending on the hall (these are 'from' prices; the year isn't stated)",
+    "source": {
+      "url": "https://www.nottingham.ac.uk/student-living/options/index.aspx",
+      "checked": "2026-10-17",
+      "evidence": "from £302.00 per week ... Cavendish Hall ... from £99.00 per week ... Raleigh Park & The Village"
+    }
+  },
+  "openDays": {
+    "events": [],
+    "text": "2027 open day dates not announced yet (no more 2026 open days listed); you can register interest for 2027.",
+    "url": "https://www.nottingham.ac.uk/study/campus-visit/open-days.html",
+    "source": {
+      "url": "https://www.nottingham.ac.uk/study/campus-visit/open-days.html",
+      "checked": "2026-10-17",
+      "evidence": "Want to be the first to hear about our 2027 Open Days? Register your interest and we’ll be in touch when bookings open."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Nottingham makes a standard contextual offer (usually one grade lower) or an enhanced contextual offer (usually two grades lower) to Home students at UK non-fee-paying schools who meet one criterion; it's applied automatically from your UCAS form.",
+    "typicalReduction": "Standard contextual: usually one grade lower; enhanced contextual: usually two grades lower (subject grades generally stay). Business School courses: standard contextual offer ABB.",
+    "criteria": [
+      {
+        "key": "area",
+        "detail": "Live in an area with high levels of deprivation (University postcode checker) - standard offer",
+        "measure": "other",
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "Refugee status from the Home Office - standard offer",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Spent more than three months in care - standard offer",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "Completed a Sutton Trust post-16 programme not hosted by Nottingham (including Sutton Trust Online) - standard offer",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "Received free school meals on any census day in the 6 years up to the end of key stage 4 (verified via UCAS) - enhanced offer",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Completed a Nottingham outreach programme: Sutton Trust Summer School at Nottingham, Sutton Trust Pathways to Medicine or Veterinary Medicine at Nottingham, Ambition 16-18 (Tier 1 / Tier 1+), or Realising Opportunities (Cohort 15 - 2024/25 and Cohort 16 - 2025/26 completers only) - enhanced offer",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "You must have Home-UK fee status and your current or most recent school/college must be in the UK and not independent (fee-paying), except refugees and care leavers. 'One of the following must also apply' for a standard offer; for an enhanced offer 'You must also meet one of the following'. Young carers and disability are not contextual criteria.",
+    "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+    "source": {
+      "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+      "checked": "2026-10-17",
+      "evidence": "To qualify for a standard contextual offer, you must have Home-UK fee status and your current or most recent school/college must be in the UK and cannot be an independent (fee-paying) school/college. ... One of the following must also apply:"
+    }
+  },
+  "programmes": [
+    {
+      "id": "nottingham-ambition-16-18",
+      "name": "Ambition Nottingham: 16-18",
+      "provider": "University of Nottingham",
+      "providerType": "university",
+      "uniIds": [
+        "nottingham"
+      ],
+      "summary": "A free two-year, mostly online programme for Year 12 students anywhere in the UK, with subject tasters, application advice and a VIP open day; Tier 1 members can get an enhanced contextual offer at Nottingham.",
+      "whoCanApply": "Year 12 students (first term of Level 3 study: A levels, BTEC, IB or equivalent) from anywhere in the UK. Places are allocated to Tier 1 or Tier 2; only Tier 1 brings the offer and bursary benefits.",
+      "eligibility": "open",
+      "eligibilityCriteria": [
+        "area",
+        "fsm",
+        "income",
+        "carer",
+        "other",
+        "firstGen",
+        "estranged",
+        "refugee",
+        "care"
+      ],
+      "eligibilityDetail": "Tier 1 (needed for the enhanced contextual offer): UK Home fee status, a state-funded non-fee-paying school and GCSE English grade 4, plus one of: living in a high-deprivation area; free school meals in the 6 years up to the end of Year 11; or 'a number of' these: means-tested benefit or household income under £35,000, caring responsibilities, military family, disability, first generation, estranged. Gypsy/Roma/Traveller, refugee or care-experienced students also qualify (with discretion on school type and GCSEs). Tier 1 members must complete 8 live sessions.",
+      "benefits": [
+        "Tier 1: enhanced contextual offer at Nottingham (usually two grades lower)",
+        "Tier 1: Nottingham Potential bursary if you enrol",
+        "Online subject tasters, Q&As with students, application and personal statement guidance",
+        "VIP open day visit"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "nottingham"
+      ],
+      "offerReduction": "Enhanced contextual offer, usually two grades lower than the advertised entry requirements (Tier 1 / Tier 1+ only)",
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "All subjects (some subject-focused sessions)",
+      "yearGroup": "Year 12 (runs into Year 13)",
+      "runs": {
+        "text": "Two years, starting in Year 12 (2026/27 intake)",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Open now (applications usually open September-November)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Sunday 6 December 2026 (from the 2026 application form)",
+        "date": "2026-12-06",
+        "status": "Confirmed",
+        "source": {
+          "url": "https://app.geckoform.com/public/#/modern/21FO00rwtkqmjd00068x6qlyiu",
+          "checked": "2026-10-17",
+          "evidence": "Ambition Nottingham: 16-18 Application Form 2026 ... Applications close Sunday 6th December"
+        }
+      },
+      "infoYear": 2026,
+      "infoNote": "The current (2026) intake is for students starting Year 12 in autumn 2026; you can only join in the first term of Year 12.",
+      "url": "https://www.nottingham.ac.uk/schoolsliaison/services/ambition-16-18.aspx",
+      "source": {
+        "url": "https://www.nottingham.ac.uk/schoolsliaison/services/ambition-16-18.aspx",
+        "checked": "2026-10-17",
+        "evidence": "Applications for Ambition Nottingham 16-18 are now open. ... Ambition is a free, two-year scheme for all Year 12 students and Year 1 vocational students from anywhere in the UK. ... Tier 1 participants may also be eligible for the additional benefits of an enhanced contextual offer should you apply to the University of Nottingham"
+      },
+      "notConfirmed": [
+        "deadline: taken from the University's online application form (hosted on Gecko); the form shows '6th December' under 'Application Form 2026' without printing the year next to the date"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.nottingham.ac.uk/",
+    "courses": "https://www.nottingham.ac.uk/studywithus/ugstudy/find-uon.html",
+    "economics": "https://www.nottingham.ac.uk/economics/study/undergraduate/index.aspx",
+    "openDays": "https://www.nottingham.ac.uk/study/campus-visit/open-days.html",
+    "fees": "https://www.nottingham.ac.uk/fees/tuitionfees/202728/undergraduate.aspx",
+    "contextual": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+    "accommodation": "https://www.nottingham.ac.uk/student-living/accommodation/index.aspx"
+  },
+  "courses": [
+    {
+      "id": "nottingham-economics",
+      "name": "Economics",
+      "degree": "BSc Hons",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "Optional study abroad (length not stated) and optional placement year, both subject to meeting requirements",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA or A*A*B; if you take A-level Maths the offer is AAA or A*AB",
+        "source": {
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-BSc-Hons.html",
+          "checked": "2026-10-17",
+          "evidence": "A*AA / A*A*B (AAA / A*AB including mathematics)"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Not needed if you take A-level Maths"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "Maths grade 7 (A) or above, unless taking it at A level; and English grade 4 (C) or above",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-BSc-Hons.html",
+        "checked": "2026-10-17",
+        "evidence": "In year one, our courses offer a choice of quantitative pathways, which differ in their level of mathematical difficulty (for example, there is a separate stream for students without maths A level)"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "other",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Lower offer if one of your A levels is Mathematics: AAA (or A*AB).",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-BSc-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "A*AA / A*A*B (AAA / A*AB including mathematics)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "One grade reduced offer if you get grade A in an EPQ (or Core Maths if you're not taking A-level Maths/Further Maths, or an additional AS level). The reduction doesn't apply to subject-specific requirements, never goes below BBC, and isn't combined with an enhanced contextual offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-BSc-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve a grade A in an EPQ, Core Maths*, IB Extended Essay or additional AS level qualification* then you will receive a one grade reduced offer for this course."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Standard contextual offer, usually one grade lower (subject grades generally stay). For Home students at a UK non-fee-paying school who live in a high-deprivation postcode area, have refugee status, have spent more than three months in care, or completed a Sutton Trust post-16 programme not hosted by Nottingham.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-BSc-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer is usually one grade lower than the advertised entry requirements, and our enhanced contextual offer is usually two grades lower than the advertised entry requirements."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Enhanced contextual offer, usually two grades lower (subject grades generally stay). For Home students at a UK non-fee-paying school who received free school meals (any census day in the 6 years up to the end of Year 11) or completed a qualifying Nottingham outreach programme.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "These offers are usually two grades lower than the entry requirements on our course pages, however this can vary for some courses."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Ambition Nottingham 16-18 Tier 1 / Tier 1+ members who complete the programme qualify for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Ambition Nottingham 16-18",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Ambition 16-18 at the University of Nottingham as a Tier 1 / Tier 1+ member"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing the Sutton Trust Summer School at the University of Nottingham qualifies for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Sutton Trust Summer School at the University of Nottingham",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Sutton Trust Summer School at the University of Nottingham"
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing a Sutton Trust post-16 programme not hosted by Nottingham (including Sutton Trust Online) qualifies for the standard contextual offer.",
+          "programme": "Sutton Trust (post-16 programmes)",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Realising Opportunities completers qualify for the enhanced contextual offer, but the page currently lists only Cohort 15 (2024/25) and Cohort 16 (2025/26) completers.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities (Cohort 15 - 2024/25 and Cohort 16 - 2025/26 completers only)"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-BSc-Hons.html",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: course page offers only a September 2027 start date; 2028 entry not published yet",
+        "acceptsPsychology/acceptsGeography: course page doesn't list accepted or excluded A-level subjects",
+        "ucas: no UCAS link on the course page and UCAS blocks automated reading"
+      ],
+      "notes": "A-level Maths isn't required, but taking it lowers the offer from A*AA to AAA."
+    },
+    {
+      "id": "nottingham-economics-econometrics",
+      "name": "Economics and Econometrics",
+      "degree": "BSc Hons",
+      "ucasCode": "L140",
+      "lengthYears": 3,
+      "lengthNote": "Optional study abroad (length not stated) and optional placement year, both subject to meeting requirements",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA or A*AB, including Mathematics",
+        "source": {
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-and-Econometrics-BSc-Hons.html",
+          "checked": "2026-10-17",
+          "evidence": "AAA/A*AB including mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths required (grade not stated separately)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": null
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE maths grade 7 (A) or above, and GCSE English grade 4 (C) or above",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-and-Econometrics-BSc-Hons.html",
+        "checked": "2026-10-17",
+        "evidence": "AAA/A*AB including mathematics ... Required subjects ... Mathematics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "One grade reduced offer if you get grade A in an EPQ (or Core Maths if you're not taking A-level Maths/Further Maths, or an additional AS level). The reduction doesn't apply to subject-specific requirements, never goes below BBC, and isn't combined with an enhanced contextual offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-and-Econometrics-BSc-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve a grade A in an EPQ, Core Maths*, IB Extended Essay or additional AS level qualification* then you will receive a one grade reduced offer for this course."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Standard contextual offer, usually one grade lower (subject grades generally stay). For Home students at a UK non-fee-paying school who live in a high-deprivation postcode area, have refugee status, have spent more than three months in care, or completed a Sutton Trust post-16 programme not hosted by Nottingham.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-and-Econometrics-BSc-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer is usually one grade lower than the advertised entry requirements, and our enhanced contextual offer is usually two grades lower than the advertised entry requirements."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Enhanced contextual offer, usually two grades lower (subject grades generally stay). For Home students at a UK non-fee-paying school who received free school meals (any census day in the 6 years up to the end of Year 11) or completed a qualifying Nottingham outreach programme.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "These offers are usually two grades lower than the entry requirements on our course pages, however this can vary for some courses."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Ambition Nottingham 16-18 Tier 1 / Tier 1+ members who complete the programme qualify for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Ambition Nottingham 16-18",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Ambition 16-18 at the University of Nottingham as a Tier 1 / Tier 1+ member"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing the Sutton Trust Summer School at the University of Nottingham qualifies for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Sutton Trust Summer School at the University of Nottingham",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Sutton Trust Summer School at the University of Nottingham"
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing a Sutton Trust post-16 programme not hosted by Nottingham (including Sutton Trust Online) qualifies for the standard contextual offer.",
+          "programme": "Sutton Trust (post-16 programmes)",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Realising Opportunities completers qualify for the enhanced contextual offer, but the page currently lists only Cohort 15 (2024/25) and Cohort 16 (2025/26) completers.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities (Cohort 15 - 2024/25 and Cohort 16 - 2025/26 completers only)"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Economics-and-Econometrics-BSc-Hons.html",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: course page offers only a September 2027 start date; 2028 entry not published yet",
+        "acceptsPsychology/acceptsGeography: course page doesn't list accepted or excluded A-level subjects",
+        "ucas: no UCAS link on the course page and UCAS blocks automated reading",
+        "subjectRequirements: minimum grade in Maths not stated separately"
+      ],
+      "notes": null
+    },
+    {
+      "id": "nottingham-politics-economics",
+      "name": "Politics and Economics",
+      "degree": "BA Jt Hons",
+      "ucasCode": "LL21",
+      "lengthYears": 3,
+      "lengthNote": "Optional study abroad (length not stated) and optional placement year, both subject to meeting requirements",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA (no specific A-level subjects listed)",
+        "source": {
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Politics-and-Economics-BA-Jt-Hons.html",
+          "checked": "2026-10-17",
+          "evidence": "A levels ... AAA ... IB ... 34 points overall"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": null
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE maths grade 7 (A) or above, and GCSE English grade 4 (C) or above",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Politics-and-Economics-BA-Jt-Hons.html",
+        "checked": "2026-10-17",
+        "evidence": "GCSE maths grade 7 (A) or above, and GCSE English grade 4 (C) or above"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "One grade reduced offer if you get grade A in an EPQ (or Core Maths if you're not taking A-level Maths/Further Maths, or an additional AS level). The reduction doesn't apply to subject-specific requirements, never goes below BBC, and isn't combined with an enhanced contextual offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Politics-and-Economics-BA-Jt-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve a grade A in an EPQ, Core Maths*, IB Extended Essay or additional AS level qualification* then you will receive a one grade reduced offer for this course."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Standard contextual offer, usually one grade lower (subject grades generally stay). For Home students at a UK non-fee-paying school who live in a high-deprivation postcode area, have refugee status, have spent more than three months in care, or completed a Sutton Trust post-16 programme not hosted by Nottingham.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Politics-and-Economics-BA-Jt-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer is usually one grade lower than the advertised entry requirements, and our enhanced contextual offer is usually two grades lower than the advertised entry requirements."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Enhanced contextual offer, usually two grades lower (subject grades generally stay). For Home students at a UK non-fee-paying school who received free school meals (any census day in the 6 years up to the end of Year 11) or completed a qualifying Nottingham outreach programme.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "These offers are usually two grades lower than the entry requirements on our course pages, however this can vary for some courses."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Ambition Nottingham 16-18 Tier 1 / Tier 1+ members who complete the programme qualify for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Ambition Nottingham 16-18",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Ambition 16-18 at the University of Nottingham as a Tier 1 / Tier 1+ member"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing the Sutton Trust Summer School at the University of Nottingham qualifies for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Sutton Trust Summer School at the University of Nottingham",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Sutton Trust Summer School at the University of Nottingham"
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing a Sutton Trust post-16 programme not hosted by Nottingham (including Sutton Trust Online) qualifies for the standard contextual offer.",
+          "programme": "Sutton Trust (post-16 programmes)",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Realising Opportunities completers qualify for the enhanced contextual offer, but the page currently lists only Cohort 15 (2024/25) and Cohort 16 (2025/26) completers.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities (Cohort 15 - 2024/25 and Cohort 16 - 2025/26 completers only)"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Politics-and-Economics-BA-Jt-Hons.html",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: course page offers only a September 2027 start date; 2028 entry not published yet",
+        "acceptsPsychology/acceptsGeography: course page doesn't list accepted or excluded A-level subjects",
+        "ucas: no UCAS link on the course page and UCAS blocks automated reading"
+      ],
+      "notes": "Applicants are not typically interviewed."
+    },
+    {
+      "id": "nottingham-ppe",
+      "name": "Philosophy, Politics and Economics",
+      "degree": "BA Hons",
+      "ucasCode": "VLL5",
+      "lengthYears": 3,
+      "lengthNote": "Optional study abroad (length not stated) and optional placement year, both subject to meeting requirements",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA or A*A*B; if you take A-level Maths the offer is AAA or A*AB",
+        "source": {
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Philosophy-Politics-and-Economics-BA-Hons.html",
+          "checked": "2026-10-17",
+          "evidence": "A*AA / A*A*B (AAA / A*AB including mathematics)"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Not needed if you take A-level Maths"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE maths grade 7 (A) or above, unless taking it at A level; and GCSE English grade 4 (C) or above",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Philosophy-Politics-and-Economics-BA-Hons.html",
+        "checked": "2026-10-17",
+        "evidence": "GCSE maths grade 7 (A) or above, unless taking it at A level; and GCSE English grade 4 (C) or above"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "other",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Lower offer if one of your A levels is Mathematics: AAA (or A*AB).",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Philosophy-Politics-and-Economics-BA-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "A*AA / A*A*B (AAA / A*AB including mathematics)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "One grade reduced offer if you get grade A in an EPQ (or Core Maths if you're not taking A-level Maths/Further Maths, or an additional AS level). The reduction doesn't apply to subject-specific requirements, never goes below BBC, and isn't combined with an enhanced contextual offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Philosophy-Politics-and-Economics-BA-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve a grade A in an EPQ, Core Maths*, IB Extended Essay or additional AS level qualification* then you will receive a one grade reduced offer for this course."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Standard contextual offer, usually one grade lower (subject grades generally stay). For Home students at a UK non-fee-paying school who live in a high-deprivation postcode area, have refugee status, have spent more than three months in care, or completed a Sutton Trust post-16 programme not hosted by Nottingham.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Philosophy-Politics-and-Economics-BA-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer is usually one grade lower than the advertised entry requirements, and our enhanced contextual offer is usually two grades lower than the advertised entry requirements."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Enhanced contextual offer, usually two grades lower (subject grades generally stay). For Home students at a UK non-fee-paying school who received free school meals (any census day in the 6 years up to the end of Year 11) or completed a qualifying Nottingham outreach programme.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "These offers are usually two grades lower than the entry requirements on our course pages, however this can vary for some courses."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Ambition Nottingham 16-18 Tier 1 / Tier 1+ members who complete the programme qualify for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Ambition Nottingham 16-18",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Ambition 16-18 at the University of Nottingham as a Tier 1 / Tier 1+ member"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing the Sutton Trust Summer School at the University of Nottingham qualifies for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Sutton Trust Summer School at the University of Nottingham",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Sutton Trust Summer School at the University of Nottingham"
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing a Sutton Trust post-16 programme not hosted by Nottingham (including Sutton Trust Online) qualifies for the standard contextual offer.",
+          "programme": "Sutton Trust (post-16 programmes)",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Realising Opportunities completers qualify for the enhanced contextual offer, but the page currently lists only Cohort 15 (2024/25) and Cohort 16 (2025/26) completers.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities (Cohort 15 - 2024/25 and Cohort 16 - 2025/26 completers only)"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Philosophy-Politics-and-Economics-BA-Hons.html",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: course page offers only a September 2027 start date; 2028 entry not published yet",
+        "acceptsPsychology/acceptsGeography: course page doesn't list accepted or excluded A-level subjects",
+        "ucas: no UCAS link on the course page and UCAS blocks automated reading"
+      ],
+      "notes": "Taking A-level Maths lowers the offer from A*AA to AAA."
+    },
+    {
+      "id": "nottingham-mathematics-economics",
+      "name": "Mathematics and Economics",
+      "degree": "BSc Jt Hons",
+      "ucasCode": "GL11",
+      "lengthYears": 3,
+      "lengthNote": "Opportunities to study abroad or take an optional placement year in industry",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": "AAA",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including A* in Maths; or AAA including A in Maths and Further Maths; or AAA including A in Maths plus A in AS Further Maths",
+        "source": {
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Mathematics-and-Economics-BSc-Jt-Hons.html",
+          "checked": "2026-10-17",
+          "evidence": "A*AA including A* in mathematics ... AAA including A in mathematics and further mathematics ... AAA including A in mathematics, plus A in AS further mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A*",
+          "note": "A* in Maths if you don't take Further Maths; A in Maths if you have A-level or AS Further Maths at A"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Further Mathematics"
+          ],
+          "note": "Not required, but A-level Further Maths at A (or AS Further Maths at A) brings the offer down to AAA with A in Maths"
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "English 4 (C) or equivalent",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Mathematics-and-Economics-BSc-Jt-Hons.html",
+        "checked": "2026-10-17",
+        "evidence": "At least A level mathematics. Offer conditions will depend on whether applicants have A level or AS level further mathematics."
+      },
+      "admissionsTest": {
+        "status": "optional",
+        "name": "TMUA (also STEP/MAT)",
+        "effect": "Not used when making offers, but a score may be considered when A-level results come out",
+        "source": {
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Mathematics-and-Economics-BSc-Jt-Hons.html",
+          "checked": "2026-10-17",
+          "evidence": "Tests such as STEP/MAT/TMUA are not factored into the offer-making process. However, they may be considered on the release of A level results."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "One grade reduced offer if you get grade A in an EPQ (or Core Maths if you're not taking A-level Maths/Further Maths, or an additional AS level). The reduction doesn't apply to subject-specific requirements, never goes below BBC, and isn't combined with an enhanced contextual offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Mathematics-and-Economics-BSc-Jt-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve a grade A in an EPQ, Core Maths*, IB Extended Essay or additional AS level qualification* then you will receive a one grade reduced offer for this course."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Standard contextual offer, usually one grade lower (subject grades generally stay). For Home students at a UK non-fee-paying school who live in a high-deprivation postcode area, have refugee status, have spent more than three months in care, or completed a Sutton Trust post-16 programme not hosted by Nottingham.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Mathematics-and-Economics-BSc-Jt-Hons.html",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer is usually one grade lower than the advertised entry requirements, and our enhanced contextual offer is usually two grades lower than the advertised entry requirements."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Enhanced contextual offer, usually two grades lower (subject grades generally stay). For Home students at a UK non-fee-paying school who received free school meals (any census day in the 6 years up to the end of Year 11) or completed a qualifying Nottingham outreach programme.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "These offers are usually two grades lower than the entry requirements on our course pages, however this can vary for some courses."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Ambition Nottingham 16-18 Tier 1 / Tier 1+ members who complete the programme qualify for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Ambition Nottingham 16-18",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Ambition 16-18 at the University of Nottingham as a Tier 1 / Tier 1+ member"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing the Sutton Trust Summer School at the University of Nottingham qualifies for the enhanced contextual offer (usually two grades lower).",
+          "programme": "Sutton Trust Summer School at the University of Nottingham",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Sutton Trust Summer School at the University of Nottingham"
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing a Sutton Trust post-16 programme not hosted by Nottingham (including Sutton Trust Online) qualifies for the standard contextual offer.",
+          "programme": "Sutton Trust (post-16 programmes)",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Realising Opportunities completers qualify for the enhanced contextual offer, but the page currently lists only Cohort 15 (2024/25) and Cohort 16 (2025/26) completers.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities (Cohort 15 - 2024/25 and Cohort 16 - 2025/26 completers only)"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Mathematics-and-Economics-BSc-Jt-Hons.html",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: course page offers only a September 2027 start date; 2028 entry not published yet",
+        "acceptsPsychology/acceptsGeography: course page doesn't list accepted or excluded A-level subjects",
+        "ucas: no UCAS link on the course page and UCAS blocks automated reading"
+      ],
+      "notes": "Without Further Maths the offer is A*AA with A* in Maths."
+    },
+    {
+      "id": "nottingham-industrial-economics",
+      "name": "Industrial Economics",
+      "degree": "BSc Hons",
+      "ucasCode": "L1N2",
+      "lengthYears": 3,
+      "lengthNote": "4 years with the integrated placement year version (L1ND); optional study abroad; optional Year in Data Analytics and AI",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA, A*AB or A*A*C; GCSE Maths grade 6",
+        "source": {
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Industrial-Economics-BSc-Hons.html",
+          "checked": "2026-10-17",
+          "evidence": "AAA / A*AB / A*A*C"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE maths grade 6 (B), English grade 4 (C)",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Industrial-Economics-BSc-Hons.html",
+        "checked": "2026-10-17",
+        "evidence": "GCSE maths grade 6 (B), English grade 4 (C)"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "One grade reduced offer if you get grade A in an EPQ (or Core Maths if you're not taking A-level Maths/Further Maths, or an additional AS level). The reduction doesn't apply to subject-specific requirements, never goes below BBC, and isn't combined with an enhanced contextual offer. (Scheme isn't mentioned on this course page; the University-wide rule says it covers most undergraduate courses.)",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/applying/entry-requirements.html",
+            "checked": "2026-10-17",
+            "evidence": "We are able to make one grade reduced offers to applicants with grade A in one of the following qualifications for most undergraduate courses (excluding medicine, veterinary medicine and physiotherapy courses):"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer for Business School courses: ABB (two grades lower). Eligibility: Home student at a UK non-fee-paying school living in a high-deprivation postcode area, with refugee status, more than three months in care, or a completed non-Nottingham Sutton Trust post-16 programme.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "We make standard contextual offers to our courses at ABB, which is two grades lower than the standard requirements."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Enhanced contextual offer, usually two grades lower (subject grades generally stay). For Home students at a UK non-fee-paying school who received free school meals (any census day in the 6 years up to the end of Year 11) or completed a qualifying Nottingham outreach programme. The enhanced offer level for Business School courses isn't stated (standard contextual is already ABB).",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "These offers are usually two grades lower than the entry requirements on our course pages, however this can vary for some courses."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Ambition Nottingham 16-18 Tier 1 / Tier 1+ members who complete the programme qualify for the enhanced contextual offer (usually two grades lower). (Business School page gives ABB for standard contextual offers but doesn't state the enhanced offer level.)",
+          "programme": "Ambition Nottingham 16-18",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Ambition 16-18 at the University of Nottingham as a Tier 1 / Tier 1+ member"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing the Sutton Trust Summer School at the University of Nottingham qualifies for the enhanced contextual offer (usually two grades lower). (Business School page gives ABB for standard contextual offers but doesn't state the enhanced offer level.)",
+          "programme": "Sutton Trust Summer School at the University of Nottingham",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Sutton Trust Summer School at the University of Nottingham"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Completing a Sutton Trust post-16 programme not hosted by Nottingham (including Sutton Trust Online) qualifies for the standard contextual offer.",
+          "programme": "Sutton Trust (post-16 programmes)",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Realising Opportunities completers qualify for the enhanced contextual offer, but the page currently lists only Cohort 15 (2024/25) and Cohort 16 (2025/26) completers.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities (Cohort 15 - 2024/25 and Cohort 16 - 2025/26 completers only)"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Industrial-Economics-BSc-Hons.html",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: course page offers only a September 2027 start date; 2028 entry not published yet",
+        "acceptsPsychology/acceptsGeography: course page doesn't list accepted or excluded A-level subjects",
+        "ucas: no UCAS link on the course page and UCAS blocks automated reading"
+      ],
+      "notes": "Business School course taught at Jubilee Campus (Nottingham), not University Park."
+    },
+    {
+      "id": "nottingham-finance-accounting-management",
+      "name": "Finance, Accounting and Management",
+      "degree": "BSc Hons",
+      "ucasCode": "NN34",
+      "lengthYears": 3,
+      "lengthNote": "4 years with the placement year version (NN3D); optional study abroad at the China or Malaysia campuses; optional Year in Data Analytics and AI",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA; GCSE Maths grade 6",
+        "source": {
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Finance-Accounting-and-Management-BSc-Hons.html",
+          "checked": "2026-10-17",
+          "evidence": "A levels ... AAA ... IB ... 34 points overall"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "English grade 4/C and maths grade 6 (B)",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Finance-Accounting-and-Management-BSc-Hons.html",
+        "checked": "2026-10-17",
+        "evidence": "English grade 4/C and maths grade 6 (B)"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "One grade reduced offer if you get grade A in an EPQ (or Core Maths if you're not taking A-level Maths/Further Maths, or an additional AS level). The reduction doesn't apply to subject-specific requirements, never goes below BBC, and isn't combined with an enhanced contextual offer. (Scheme isn't mentioned on this course page; the University-wide rule says it covers most undergraduate courses.)",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/applying/entry-requirements.html",
+            "checked": "2026-10-17",
+            "evidence": "We are able to make one grade reduced offers to applicants with grade A in one of the following qualifications for most undergraduate courses (excluding medicine, veterinary medicine and physiotherapy courses):"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer for Business School courses: ABB (two grades lower). Eligibility: Home student at a UK non-fee-paying school living in a high-deprivation postcode area, with refugee status, more than three months in care, or a completed non-Nottingham Sutton Trust post-16 programme.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "We make standard contextual offers to our courses at ABB, which is two grades lower than the standard requirements."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Enhanced contextual offer, usually two grades lower (subject grades generally stay). For Home students at a UK non-fee-paying school who received free school meals (any census day in the 6 years up to the end of Year 11) or completed a qualifying Nottingham outreach programme. The enhanced offer level for Business School courses isn't stated (standard contextual is already ABB).",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "These offers are usually two grades lower than the entry requirements on our course pages, however this can vary for some courses."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Ambition Nottingham 16-18 Tier 1 / Tier 1+ members who complete the programme qualify for the enhanced contextual offer (usually two grades lower). (Business School page gives ABB for standard contextual offers but doesn't state the enhanced offer level.)",
+          "programme": "Ambition Nottingham 16-18",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Ambition 16-18 at the University of Nottingham as a Tier 1 / Tier 1+ member"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing the Sutton Trust Summer School at the University of Nottingham qualifies for the enhanced contextual offer (usually two grades lower). (Business School page gives ABB for standard contextual offers but doesn't state the enhanced offer level.)",
+          "programme": "Sutton Trust Summer School at the University of Nottingham",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Sutton Trust Summer School at the University of Nottingham"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Completing a Sutton Trust post-16 programme not hosted by Nottingham (including Sutton Trust Online) qualifies for the standard contextual offer.",
+          "programme": "Sutton Trust (post-16 programmes)",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Realising Opportunities completers qualify for the enhanced contextual offer, but the page currently lists only Cohort 15 (2024/25) and Cohort 16 (2025/26) completers.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities (Cohort 15 - 2024/25 and Cohort 16 - 2025/26 completers only)"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Finance-Accounting-and-Management-BSc-Hons.html",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: course page offers only a September 2027 start date; 2028 entry not published yet",
+        "acceptsPsychology/acceptsGeography: course page doesn't list accepted or excluded A-level subjects",
+        "ucas: no UCAS link on the course page and UCAS blocks automated reading"
+      ],
+      "notes": "Business School course taught at Jubilee Campus (Nottingham), not University Park."
+    },
+    {
+      "id": "nottingham-business-management",
+      "name": "Business and Management",
+      "degree": "BSc Hons",
+      "ucasCode": "N200",
+      "lengthYears": 3,
+      "lengthNote": "Can extend to 4 years with a placement year or a full year abroad (or study abroad for one semester within 3 years)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA, A*AB or A*A*C; GCSE Maths grade 6",
+        "source": {
+          "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Business-and-Management-BSc-Hons.html",
+          "checked": "2026-10-17",
+          "evidence": "AAA / A*AB / A*A*C"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "GCSE English grade 4 (C); GCSE maths grade 6 (B)",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Business-and-Management-BSc-Hons.html",
+        "checked": "2026-10-17",
+        "evidence": "GCSE English grade 4 (C) ... GCSE maths grade 6 (B)"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "One grade reduced offer if you get grade A in an EPQ (or Core Maths if you're not taking A-level Maths/Further Maths, or an additional AS level). The reduction doesn't apply to subject-specific requirements, never goes below BBC, and isn't combined with an enhanced contextual offer. (Scheme isn't mentioned on this course page; the University-wide rule says it covers most undergraduate courses.)",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/studywithus/ugstudy/applying/entry-requirements.html",
+            "checked": "2026-10-17",
+            "evidence": "We are able to make one grade reduced offers to applicants with grade A in one of the following qualifications for most undergraduate courses (excluding medicine, veterinary medicine and physiotherapy courses):"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer for Business School courses: ABB (two grades lower). Eligibility: Home student at a UK non-fee-paying school living in a high-deprivation postcode area, with refugee status, more than three months in care, or a completed non-Nottingham Sutton Trust post-16 programme.",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "We make standard contextual offers to our courses at ABB, which is two grades lower than the standard requirements."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Enhanced contextual offer, usually two grades lower (subject grades generally stay). For Home students at a UK non-fee-paying school who received free school meals (any census day in the 6 years up to the end of Year 11) or completed a qualifying Nottingham outreach programme. The enhanced offer level for Business School courses isn't stated (standard contextual is already ABB).",
+          "programme": null,
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "These offers are usually two grades lower than the entry requirements on our course pages, however this can vary for some courses."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Ambition Nottingham 16-18 Tier 1 / Tier 1+ members who complete the programme qualify for the enhanced contextual offer (usually two grades lower). (Business School page gives ABB for standard contextual offers but doesn't state the enhanced offer level.)",
+          "programme": "Ambition Nottingham 16-18",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Ambition 16-18 at the University of Nottingham as a Tier 1 / Tier 1+ member"
+          }
+        },
+        {
+          "type": "summerSchool",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing the Sutton Trust Summer School at the University of Nottingham qualifies for the enhanced contextual offer (usually two grades lower). (Business School page gives ABB for standard contextual offers but doesn't state the enhanced offer level.)",
+          "programme": "Sutton Trust Summer School at the University of Nottingham",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Sutton Trust Summer School at the University of Nottingham"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Completing a Sutton Trust post-16 programme not hosted by Nottingham (including Sutton Trust Online) qualifies for the standard contextual offer.",
+          "programme": "Sutton Trust (post-16 programmes)",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Realising Opportunities completers qualify for the enhanced contextual offer, but the page currently lists only Cohort 15 (2024/25) and Cohort 16 (2025/26) completers.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities (Cohort 15 - 2024/25 and Cohort 16 - 2025/26 completers only)"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Business-and-Management-BSc-Hons.html",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: course page offers only a September 2027 start date; 2028 entry not published yet",
+        "acceptsPsychology/acceptsGeography: course page doesn't list accepted or excluded A-level subjects",
+        "ucas: no UCAS link on the course page and UCAS blocks automated reading"
+      ],
+      "notes": "Business School course taught at Jubilee Campus (Nottingham), not University Park."
+    }
+  ],
+  "notes": [
+    "Nottingham gives contextual offers for national programmes: a completed Sutton Trust post-16 programme not hosted by Nottingham (incl. Sutton Trust Online) qualifies for a standard contextual offer; the Sutton Trust Summer School at Nottingham and Realising Opportunities (only 2024/25 and 2025/26 completers listed) qualify for an enhanced contextual offer.",
+    "School of Economics courses don't require A-level Maths for Economics or PPE, but taking Maths lowers the offer from A*AA to AAA.",
+    "Additional Qualifications Offer Reduction Scheme: grade A in an EPQ (or eligible Core Maths / extra AS level) gives a one grade reduced offer; it never goes below the University minimum of BBC and doesn't combine with an enhanced contextual offer.",
+    "Business School courses (Industrial Economics, Finance Accounting and Management, Business and Management) are taught at Jubilee Campus in Nottingham, not University Park.",
+    "Also offered but not recorded: Economics and International Economics BSc (L160), A*AA or AAA with A-level Maths.",
+    "Young carers and disabled applicants aren't covered by contextual offers; Nottingham asks them to use its extenuating circumstances form instead."
+  ],
+  "notConfirmed": [
+    "entry year: course pages offer only a September 2027 start; 2028 entry not published yet",
+    "A-level subject exclusions: course pages don't list accepted/excluded A-level subjects, so Psychology/Geography acceptance is recorded as unknown",
+    "open days: no 2027 dates published yet",
+    "livingCosts: hall listing shows 'from' prices without the academic year",
+    "contextual area measure: the postcode checker's data source (e.g. IMD/POLAR) isn't named",
+    "UCAS course pages: not linked from the course pages and blocked to automated reading"
+  ]
+}

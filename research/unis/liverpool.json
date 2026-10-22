@@ -1,0 +1,1176 @@
+{
+  "id": "liverpool",
+  "name": "University of Liverpool",
+  "shortName": "Liverpool",
+  "aliases": [
+    "Liverpool",
+    "Liverpool Uni",
+    "Liverpool University",
+    "Uni of Liverpool",
+    "UoL",
+    "UoLiverpool"
+  ],
+  "city": "Liverpool",
+  "region": "North",
+  "country": "England",
+  "setting": "city",
+  "settingEvidence": {
+    "url": "https://www.liverpool.ac.uk/undergraduate/open-days-and-visits/on-campus-events/",
+    "checked": "2026-10-21",
+    "evidence": "Our student-led tours provide an overview of our city-centre campus"
+  },
+  "location": {
+    "postcode": "L69 7ZX",
+    "postcodeSource": "https://www.liverpool.ac.uk/undergraduate/applying/policies-and-statements/contextual-data/contextual-admissions/",
+    "lat": null,
+    "lng": null,
+    "coordsSource": "https://api.postcodes.io/postcodes/L697ZX",
+    "checked": "2026-10-21"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK students on full-time courses (2027/28). Liverpool says fees may increase each year, subject to the government's regulated fee limits. A year in industry costs £2,010.",
+    "source": {
+      "url": "https://www.liverpool.ac.uk/courses/economics-bsc-hons",
+      "checked": "2026-10-21",
+      "evidence": "Full-time place, per year - £10,050 ... The fees shown are for the academic year 2027/28"
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 181.93,
+    "amountHigh": 265.93,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "University halls cost about £182–£266 a week for self-catered rooms (from £181.93 for a single room at Melville Grove to £265.93 for a studio apartment at Greenbank or Philharmonic Court); a catered room at Vine Court is £274.68. Rent includes all fuel bills and WiFi; laundry is paid separately. Prices are from Liverpool's accommodation finder (2026 entry).",
+    "source": {
+      "url": "https://www.liverpool.ac.uk/accommodation/finder/",
+      "checked": "2026-10-21",
+      "evidence": "Greenbank Student Village / Premier studio apartment ... £265.93 ... Melville Grove / Single room ... £181.93"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-11-02",
+        "endDate": "2026-11-06",
+        "label": "Online Open Week (online sessions on student support and your subject)",
+        "format": "online",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2027-06-25",
+        "endDate": null,
+        "label": "Undergraduate Open Day (for 2028 entry)",
+        "format": "in person",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2027-06-26",
+        "endDate": null,
+        "label": "Undergraduate Open Day (for 2028 entry)",
+        "format": "in person",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Online Open Week 2–6 November 2026. In-person Open Days for 2028 entry are on Friday 25 and Saturday 26 June 2027, with two more autumn dates still to be announced; booking is not open yet.",
+    "url": "https://www.liverpool.ac.uk/undergraduate/open-days-and-visits/on-campus-events/open-day-interest/",
+    "source": {
+      "url": "https://www.liverpool.ac.uk/undergraduate/open-days-and-visits/on-campus-events/open-day-interest/",
+      "checked": "2026-10-21",
+      "evidence": "Our 2027 Open Days are taking place on ... Friday 25 June ... Saturday 26 June ... we still have our Online Open Week taking place 2-6 November"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "If your home postcode is in the most deprived IMD group (IMD deciles 1 and 2, which Liverpool calls Quintile 1) or you have spent any time in care, Liverpool automatically gives you a reduced offer of up to two grades below the standard offer.",
+    "typicalReduction": "Up to two grades below the standard offer (exceptions may apply; not Medicine, Dental Sciences or Foundation programmes)",
+    "criteria": [
+      {
+        "key": "area",
+        "detail": "Home postcode on your UCAS application is in IMD Decile 1 or 2 (Liverpool's 'Quintile 1', the most deprived group). The scheme is for UK students; the postcode is checked automatically.",
+        "measure": "IMD",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Care experienced: you have spent any amount of time in Local Authority care before your 18th birthday and meet the nationally used eligibility criteria (UK students).",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "Reduced offers are automatic (no extra form): you get an offer of up to two grades below the standard offer if your postcode is in IMD Quintile 1 or you have spent any time in social care. Where a range is used, the standard offer is the upper grade profile. If you qualify for a reduction for more than one reason, it stays at a maximum of two grades. Other contextual indicators (for example disability, disrupted studies, UCAS MEM data) are used for additional consideration, such as at interview or on results day, not for an automatic reduced offer.",
+    "url": "https://www.liverpool.ac.uk/undergraduate/applying/policies-and-statements/contextual-data/contextual-admissions/",
+    "source": {
+      "url": "https://www.liverpool.ac.uk/undergraduate/applying/policies-and-statements/contextual-data/contextual-admissions/",
+      "checked": "2026-10-21",
+      "evidence": "up to a 2-grade reduction* from the standard offer ... Index of Multiple Deprivation (IMD) Deciles 1 and 2 ... UK Care Experienced students"
+    }
+  },
+  "programmes": [
+    {
+      "id": "liverpool-pathways-banking-finance",
+      "name": "Pathways to Banking and Finance",
+      "provider": "University of Liverpool (with the Sutton Trust)",
+      "providerType": "university",
+      "uniIds": [
+        "liverpool"
+      ],
+      "summary": "Free 2-year project for Year 12 students from widening participation backgrounds, with taster sessions at Liverpool, banking and finance work experience, a 3-day residential at the University of Warwick and A-level tutoring in Year 13.",
+      "whoCanApply": "Current Year 12 students who have always attended a state-funded, non-fee-paying school or college, have at least 5 GCSEs at grade 9-4 including Maths at grade 5, meet at least one widening participation criterion and can commute to the University of Liverpool.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "firstGen",
+        "fsm",
+        "school",
+        "area",
+        "care"
+      ],
+      "eligibilityDetail": "Students must: have always attended a state-funded, non-fee-paying school or college; be a current Year 12 student; have at least 5 GCSEs at grade 9-4 including GCSE Maths at grade 5; be able to commute to the University of Liverpool. They should also meet at least one of: parents have not attended university; receiving or eligible for free school meals at secondary school; attend a school or college with a below-average A-level or Higher point score and/or a low rate of progression to higher education; live in a neighbourhood with a low rate of progression to higher education and/or high socio-economic deprivation; have been looked after or in care. Meeting more criteria makes a place more likely.",
+      "benefits": [
+        "Free: travel, accommodation, food and activities are paid for by the Sutton Trust and the University of Liverpool",
+        "University taster sessions on campus and work experience placements in banking and finance",
+        "3-day residential conference at the University of Warwick",
+        "A-level tutoring in Year 13 and advice on UCAS and Student Finance",
+        "Further on-course support if you go on to study at Liverpool"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "Business-related degrees and careers in banking and finance (including Economics, Accounting and Finance, Business Management, Finance and Data Analytics)",
+      "yearGroup": "Year 12 (a 2-year project that continues into Year 13)",
+      "runs": {
+        "text": "2-year project for current Year 12 students, running into Year 13 (session dates not published)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Applications are open now (no opening date stated)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "2 November 2026",
+        "date": "2026-11-02",
+        "status": "Confirmed"
+      },
+      "infoYear": 2026,
+      "infoNote": "Details are for the current Year 12 round (applications close 2 November 2026). The page does not say when the next round opens. The project is run with the Sutton Trust.",
+      "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/pathways/banking/",
+      "source": {
+        "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/pathways/banking/",
+        "checked": "2026-10-21",
+        "evidence": "Pathways to Banking and Finance is a 2 year project ... Applications are open now and will close on 2nd November 2026"
+      },
+      "notConfirmed": [
+        "Dates of the sessions and the residential conference are not published on the page",
+        "The page does not say whether completing the project lowers a Liverpool offer",
+        "The page does not define 'able to commute to University of Liverpool'"
+      ]
+    },
+    {
+      "id": "liverpool-scholars",
+      "name": "Liverpool Scholars Programme",
+      "provider": "University of Liverpool",
+      "providerType": "university",
+      "uniIds": [
+        "liverpool"
+      ],
+      "summary": "Year 12 programme of application masterclasses, lectures and academic skills workshops; completing it gives a guaranteed conditional offer from Liverpool and an offer reduced by up to 2 A level grades.",
+      "whoCanApply": "Year 12 students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside who are Home (UK) students and meet at least two of the listed widening participation criteria (or one of the alternative criteria).",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area",
+        "firstGen",
+        "fsm",
+        "other",
+        "care",
+        "carer",
+        "estranged",
+        "access"
+      ],
+      "eligibilityDetail": "Step 1 (all of): study at one of the Widening Participation and Outreach partner schools or colleges in Greater Merseyside; ideally at least five GCSEs at grade 9-6 (grade 4 or above in English Language and Maths if these are not among them); be a Home (UK) registered student or expect to be by the time you apply for higher education. Step 2 (at least two of): live in a neighbourhood with a low progression rate to higher education or high deprivation (POLAR4 quintile 1-2, or the 40% most deprived IMD wards); neither parent attended university; receive or be entitled to discretionary payments, a 16-19 bursary or Pupil Premium; receive or be entitled to free school meals (or have been in the last six years). Or alternatively: live or have lived in local authority care, be a young carer, or be estranged/living independently from your family; or have completed earlier Widening Participation and Outreach programmes (e.g. Merseyside Young Medics, Fast-trackers). Applications not meeting the criteria cannot normally be considered.",
+      "benefits": [
+        "A guaranteed conditional offer of a place at the University of Liverpool (not necessarily your first-choice course)",
+        "An offer reduced by up to 2 A level grades or equivalent",
+        "Application guidance masterclasses, lectures and academic key skills workshops"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "liverpool"
+      ],
+      "offerReduction": "An offer reduced by up to 2 A level grades or equivalent",
+      "cost": null,
+      "isFree": null,
+      "format": null,
+      "subjects": "All subjects",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Session dates not published on the page",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Applications are open now (no opening date stated)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not published on the page",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "The page says applications are open but gives no dates, deadline or cost. Only students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside are eligible.",
+      "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+      "source": {
+        "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+        "checked": "2026-10-21",
+        "evidence": "The Liverpool Scholars programme offers Year 12 students the chance to take part in a range of activities ... An offer reduced by up to 2 A Level grades or equivalent"
+      },
+      "notConfirmed": [
+        "Programme dates, application deadline and cost are not published on the page",
+        "Format (online, day or residential) is not stated on the page",
+        "Eligibility is limited to partner schools and colleges in Greater Merseyside"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.liverpool.ac.uk/",
+    "courses": "https://www.liverpool.ac.uk/courses/undergraduate",
+    "economics": "https://www.liverpool.ac.uk/courses/economics-bsc-hons",
+    "openDays": "https://www.liverpool.ac.uk/undergraduate/open-days-and-visits/on-campus-events/open-day-interest/",
+    "fees": "https://www.liverpool.ac.uk/study/fees-and-funding/tuition-fees/",
+    "contextual": "https://www.liverpool.ac.uk/undergraduate/applying/policies-and-statements/contextual-data/contextual-admissions/",
+    "accommodation": "https://www.liverpool.ac.uk/accommodation/find-accommodation/"
+  },
+  "courses": [
+    {
+      "id": "liverpool-economics",
+      "name": "Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "Optional extra year: a year in industry (the page says you can transfer to Economics with a Year in Industry BSc during your studies) or a year abroad after year 2.",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level, including Mathematics at minimum grade A",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/economics-bsc-hons",
+          "checked": "2026-10-21",
+          "evidence": "A level: AAB ... including Mathematics minimum grade A"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A level Mathematics minimum grade A is required (within the AAB offer)."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade 5/C"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade 4/C"
+        }
+      ],
+      "gcseText": "GCSE Mathematics at grade 5/C and GCSE English at grade 4/C required.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.liverpool.ac.uk/courses/economics-bsc-hons",
+        "checked": "2026-10-21",
+        "evidence": "including Mathematics minimum grade A ... A level Mathematics minimum grade A required"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is named in the entry requirements for this course. Liverpool is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/economics-bsc-hons",
+          "checked": "2026-10-21",
+          "evidence": "The qualifications and exam results you'll need to apply for this course"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB from A levels, with grade A in the EPQ. The page lists A level Mathematics minimum grade A as a subject requirement and does not say whether the EPQ offer changes this.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/economics-bsc-hons",
+            "checked": "2026-10-21",
+            "evidence": "For this course, the offer is ABB from A levels, with A in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a two-grade reduction in the entry requirements, applied automatically if you qualify under Liverpool's contextual offers scheme (the university's contextual admissions page names home postcodes in IMD Quintile 1 and care-experienced applicants). No separate application is needed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/economics-bsc-hons",
+            "checked": "2026-10-21",
+            "evidence": "you may automatically qualify for up to a two-grade reduction in the entry requirements needed for this course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A guaranteed conditional offer and an offer reduced by up to 2 A level grades (or equivalent) after successfully completing the Liverpool Scholars programme. Only open to Year 12 students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside who meet the eligibility criteria. The place is not guaranteed on your first-choice course.",
+          "programme": "Liverpool Scholars Programme",
+          "source": {
+            "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+            "checked": "2026-10-21",
+            "evidence": "An offer reduced by up to 2 A Level grades or equivalent"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.liverpool.ac.uk/courses/economics-bsc-hons",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet; this course page is for entry in September 2027 (starts 27 September 2027), so 2027 entry is recorded",
+        "Only Mathematics is named as a required A level subject; accepted or excluded A level subjects (e.g. Psychology, Geography) are not listed, so their acceptance is not confirmed"
+      ],
+      "notes": "Liverpool also offers a separate BA Economics (L102) with different GCSE Maths and A level subject requirements."
+    },
+    {
+      "id": "liverpool-economics-ba",
+      "name": "Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "L102",
+      "lengthYears": 3,
+      "lengthNote": "Optional extra year: a year in industry (a 'with a Year in Industry' version is listed) or a year abroad after year 2.",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level (no required A level subject is listed); GCSE Mathematics grade 7 required",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/economics-ba",
+          "checked": "2026-10-21",
+          "evidence": "A level: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "grade 7/A"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade 4/C"
+        }
+      ],
+      "gcseText": "GCSE Mathematics at grade 7/A and GCSE English at grade 4/C required.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.liverpool.ac.uk/courses/economics-ba",
+        "checked": "2026-10-21",
+        "evidence": "A level: AAB"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is named in the entry requirements for this course. Liverpool is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/economics-ba",
+          "checked": "2026-10-21",
+          "evidence": "The qualifications and exam results you'll need to apply for this course"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB from A levels, with grade A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/economics-ba",
+            "checked": "2026-10-21",
+            "evidence": "For this course, the offer is ABB from A levels, with A in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a two-grade reduction in the entry requirements, applied automatically if you qualify under Liverpool's contextual offers scheme (the university's contextual admissions page names home postcodes in IMD Quintile 1 and care-experienced applicants). No separate application is needed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/economics-ba",
+            "checked": "2026-10-21",
+            "evidence": "you may automatically qualify for up to a two-grade reduction in the entry requirements needed for this course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A guaranteed conditional offer and an offer reduced by up to 2 A level grades (or equivalent) after successfully completing the Liverpool Scholars programme. Only open to Year 12 students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside who meet the eligibility criteria. The place is not guaranteed on your first-choice course.",
+          "programme": "Liverpool Scholars Programme",
+          "source": {
+            "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+            "checked": "2026-10-21",
+            "evidence": "An offer reduced by up to 2 A Level grades or equivalent"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.liverpool.ac.uk/courses/economics-ba",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet; this course page is for entry in September 2027 (starts 27 September 2027), so 2027 entry is recorded",
+        "No required or excluded A level subjects are listed on the course page (only grades), so Psychology and Geography acceptance is not confirmed",
+        "No required A level subject is listed for the A level offer, but GCSE Mathematics grade 7 is required and the International Baccalaureate row asks for 6 in HL Mathematics: check with the university whether A level Mathematics is expected"
+      ],
+      "notes": "Separate from the BSc Economics (L100), which asks for A level Mathematics at grade A and GCSE Maths grade 5."
+    },
+    {
+      "id": "liverpool-business-economics",
+      "name": "Business Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "LN11",
+      "lengthYears": 3,
+      "lengthNote": "Optional extra year: a year in industry (a 'with a Year in Industry' version is listed) or a year abroad after year 2.",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level (no required A level subject is listed); GCSE Mathematics grade 7 required",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/business-economics-ba-hons",
+          "checked": "2026-10-21",
+          "evidence": "A level: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "grade 7/A"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade 4/C"
+        }
+      ],
+      "gcseText": "GCSE Mathematics at grade 7/A and GCSE English at grade 4/C required.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.liverpool.ac.uk/courses/business-economics-ba-hons",
+        "checked": "2026-10-21",
+        "evidence": "A level: AAB"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is named in the entry requirements for this course. Liverpool is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/business-economics-ba-hons",
+          "checked": "2026-10-21",
+          "evidence": "The qualifications and exam results you'll need to apply for this course"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB from A levels, with grade A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/business-economics-ba-hons",
+            "checked": "2026-10-21",
+            "evidence": "For this course, the offer is ABB from A levels, with A in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a two-grade reduction in the entry requirements, applied automatically if you qualify under Liverpool's contextual offers scheme (the university's contextual admissions page names home postcodes in IMD Quintile 1 and care-experienced applicants). No separate application is needed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/business-economics-ba-hons",
+            "checked": "2026-10-21",
+            "evidence": "you may automatically qualify for up to a two-grade reduction in the entry requirements needed for this course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A guaranteed conditional offer and an offer reduced by up to 2 A level grades (or equivalent) after successfully completing the Liverpool Scholars programme. Only open to Year 12 students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside who meet the eligibility criteria. The place is not guaranteed on your first-choice course.",
+          "programme": "Liverpool Scholars Programme",
+          "source": {
+            "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+            "checked": "2026-10-21",
+            "evidence": "An offer reduced by up to 2 A Level grades or equivalent"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.liverpool.ac.uk/courses/business-economics-ba-hons",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet; this course page is for entry in September 2027 (starts 27 September 2027), so 2027 entry is recorded",
+        "No required or excluded A level subjects are listed on the course page (only grades), so Psychology and Geography acceptance is not confirmed"
+      ],
+      "notes": null
+    },
+    {
+      "id": "liverpool-maths-economics",
+      "name": "Mathematics and Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "GL11",
+      "lengthYears": 3,
+      "lengthNote": "Optional year abroad after year 2 (extra year). A foundation year (4-year route with Carmel College) is available if you do not meet the entry requirements.",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "unknown",
+        "foundationYear": "available"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB at A level, including Mathematics at grade A",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/mathematics-and-economics-bsc-hons",
+          "checked": "2026-10-21",
+          "evidence": "A level: ABB ... including Mathematics A level grade A"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A level Mathematics grade A is required (within the ABB offer). Applicants must also have studied Mathematics at Level 3 within 2 years of the start date."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "grade 4/C"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade 4/C"
+        }
+      ],
+      "gcseText": "4/C in English and 4/C in Mathematics",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.liverpool.ac.uk/courses/mathematics-and-economics-bsc-hons",
+        "checked": "2026-10-21",
+        "evidence": "including Mathematics A level grade A ... Applicants must have studied Mathematics at Level 3 within 2 years of the start date of their course"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is named in the entry requirements for this course. Liverpool is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/mathematics-and-economics-bsc-hons",
+          "checked": "2026-10-21",
+          "evidence": "The qualifications and exam results you'll need to apply for this course"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABC",
+          "tariff": null,
+          "conditions": "ABC from A levels, with grade A in the EPQ. The page does not say whether the grade A in Mathematics still applies with the EPQ offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/mathematics-and-economics-bsc-hons",
+            "checked": "2026-10-21",
+            "evidence": "For this course, the offer is ABC from A levels, with A in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a two-grade reduction in the entry requirements, applied automatically if you qualify under Liverpool's contextual offers scheme (the university's contextual admissions page names home postcodes in IMD Quintile 1 and care-experienced applicants). No separate application is needed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/mathematics-and-economics-bsc-hons",
+            "checked": "2026-10-21",
+            "evidence": "you may automatically qualify for up to a two-grade reduction in the entry requirements needed for this course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A guaranteed conditional offer and an offer reduced by up to 2 A level grades (or equivalent) after successfully completing the Liverpool Scholars programme. Only open to Year 12 students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside who meet the eligibility criteria. The place is not guaranteed on your first-choice course.",
+          "programme": "Liverpool Scholars Programme",
+          "source": {
+            "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+            "checked": "2026-10-21",
+            "evidence": "An offer reduced by up to 2 A Level grades or equivalent"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.liverpool.ac.uk/courses/mathematics-and-economics-bsc-hons",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet; this course page is for entry in September 2027 (starts 27 September 2027), so 2027 entry is recorded",
+        "Only Mathematics is named as a required A level subject; accepted or excluded A level subjects (e.g. Psychology, Geography) are not listed, so their acceptance is not confirmed",
+        "The page does not mention a year-in-industry option for this course"
+      ],
+      "notes": "Further Mathematics is not mentioned on the course page."
+    },
+    {
+      "id": "liverpool-ppe",
+      "name": "Philosophy, Politics and Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "L0V0",
+      "lengthYears": 3,
+      "lengthNote": "Also offered over 4 years with a salaried work-placement year in year 3 (UCAS code L0V1); optional year abroad after year 2.",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level (no required A level subject is listed); GCSE Mathematics grade 7 required",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/philosophy-politics-and-economics-ba-hons",
+          "checked": "2026-10-21",
+          "evidence": "A level: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "grade 7/A"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade 4/C"
+        }
+      ],
+      "gcseText": "GCSE Mathematics at grade 7/A and GCSE English at grade 4/C required.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.liverpool.ac.uk/courses/philosophy-politics-and-economics-ba-hons",
+        "checked": "2026-10-21",
+        "evidence": "A level: AAB"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is named in the entry requirements for this course. Liverpool is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/philosophy-politics-and-economics-ba-hons",
+          "checked": "2026-10-21",
+          "evidence": "The qualifications and exam results you'll need to apply for this course"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a two-grade reduction in the entry requirements, applied automatically if you qualify under Liverpool's contextual offers scheme (the university's contextual admissions page names home postcodes in IMD Quintile 1 and care-experienced applicants). No separate application is needed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/philosophy-politics-and-economics-ba-hons",
+            "checked": "2026-10-21",
+            "evidence": "you may automatically qualify for up to a two-grade reduction in the entry requirements needed for this course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A guaranteed conditional offer and an offer reduced by up to 2 A level grades (or equivalent) after successfully completing the Liverpool Scholars programme. Only open to Year 12 students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside who meet the eligibility criteria. The place is not guaranteed on your first-choice course.",
+          "programme": "Liverpool Scholars Programme",
+          "source": {
+            "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+            "checked": "2026-10-21",
+            "evidence": "An offer reduced by up to 2 A Level grades or equivalent"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.liverpool.ac.uk/courses/philosophy-politics-and-economics-ba-hons",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet; this course page is for entry in September 2027 (starts 27 September 2027), so 2027 entry is recorded",
+        "No required or excluded A level subjects are listed on the course page (only grades), so Psychology and Geography acceptance is not confirmed",
+        "No EPQ offer is mentioned on the course page"
+      ],
+      "notes": null
+    },
+    {
+      "id": "liverpool-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "N400",
+      "lengthYears": 3,
+      "lengthNote": "Optional extra year: a year in industry (a 'with a Year in Industry' version is listed) or a year abroad after year 2.",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level (no required A level subject is listed)",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/accounting-and-finance-bsc-hons",
+          "checked": "2026-10-21",
+          "evidence": "A level: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade 5/C"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade 4/C"
+        }
+      ],
+      "gcseText": "GCSE Mathematics at grade 5/C and GCSE English at grade 4/C required. Applicants with equivalent qualifications and applicants who do not meet the GCSE English requirements will be considered on an individual basis according to their circumstances.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.liverpool.ac.uk/courses/accounting-and-finance-bsc-hons",
+        "checked": "2026-10-21",
+        "evidence": "A level: AAB"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is named in the entry requirements for this course. Liverpool is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/accounting-and-finance-bsc-hons",
+          "checked": "2026-10-21",
+          "evidence": "The qualifications and exam results you'll need to apply for this course"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB from A levels, with grade A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/accounting-and-finance-bsc-hons",
+            "checked": "2026-10-21",
+            "evidence": "For this course, the offer is ABB from A levels, with A in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a two-grade reduction in the entry requirements, applied automatically if you qualify under Liverpool's contextual offers scheme (the university's contextual admissions page names home postcodes in IMD Quintile 1 and care-experienced applicants). No separate application is needed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/accounting-and-finance-bsc-hons",
+            "checked": "2026-10-21",
+            "evidence": "you may automatically qualify for up to a two-grade reduction in the entry requirements needed for this course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A guaranteed conditional offer and an offer reduced by up to 2 A level grades (or equivalent) after successfully completing the Liverpool Scholars programme. Only open to Year 12 students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside who meet the eligibility criteria. The place is not guaranteed on your first-choice course.",
+          "programme": "Liverpool Scholars Programme",
+          "source": {
+            "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+            "checked": "2026-10-21",
+            "evidence": "An offer reduced by up to 2 A Level grades or equivalent"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.liverpool.ac.uk/courses/accounting-and-finance-bsc-hons",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet; this course page is for entry in September 2027 (starts 27 September 2027), so 2027 entry is recorded",
+        "No required or excluded A level subjects are listed on the course page (only grades), so Psychology and Geography acceptance is not confirmed"
+      ],
+      "notes": "The page says the course is accredited by professional accountancy bodies (ACCA, CIMA, ICAEW and others)."
+    },
+    {
+      "id": "liverpool-finance-data-analytics",
+      "name": "Finance and Data Analytics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "N3I2",
+      "lengthYears": 3,
+      "lengthNote": "Optional extra year: a year in industry (the page says you can transfer to Finance and Data Analytics with a Year in Industry BSc during your studies) or a year abroad after year 2.",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level (no required A level subject is listed); GCSE Mathematics grade 6 required",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/finance-and-data-analytics-bsc-hons",
+          "checked": "2026-10-21",
+          "evidence": "A level: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "grade 6"
+        }
+      ],
+      "gcseText": "GCSE Mathematics at grade 6 required.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.liverpool.ac.uk/courses/finance-and-data-analytics-bsc-hons",
+        "checked": "2026-10-21",
+        "evidence": "A level: AAB"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is named in the entry requirements for this course. Liverpool is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/finance-and-data-analytics-bsc-hons",
+          "checked": "2026-10-21",
+          "evidence": "The qualifications and exam results you'll need to apply for this course"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB from A levels, with grade A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/finance-and-data-analytics-bsc-hons",
+            "checked": "2026-10-21",
+            "evidence": "For this course, the offer is ABB from A levels, with A in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to 2 grades below the standard offer if your home postcode is in IMD Quintile 1 or you have spent any time in social care. This course page does not mention contextual offers; this is the university-wide policy, which applies to all courses except Medicine, Dental Sciences and Foundation programmes (exceptions may apply).",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/undergraduate/applying/policies-and-statements/contextual-data/",
+            "checked": "2026-10-21",
+            "evidence": "you will be made a reduced offer of up to 2 grades below the standard University of Liverpool offer ... except Medicine, Dental Sciences or Foundation programmes"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A guaranteed conditional offer and an offer reduced by up to 2 A level grades (or equivalent) after successfully completing the Liverpool Scholars programme. Only open to Year 12 students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside who meet the eligibility criteria. The place is not guaranteed on your first-choice course.",
+          "programme": "Liverpool Scholars Programme",
+          "source": {
+            "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+            "checked": "2026-10-21",
+            "evidence": "An offer reduced by up to 2 A Level grades or equivalent"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.liverpool.ac.uk/courses/finance-and-data-analytics-bsc-hons",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet; this course page is for entry in September 2027 (starts 27 September 2027), so 2027 entry is recorded",
+        "No required or excluded A level subjects are listed on the course page (only grades), so Psychology and Geography acceptance is not confirmed",
+        "No GCSE English requirement is listed on the course page"
+      ],
+      "notes": null
+    },
+    {
+      "id": "liverpool-business-management",
+      "name": "Business Management",
+      "degree": "BA (Hons)",
+      "ucasCode": "N100",
+      "lengthYears": 3,
+      "lengthNote": "Optional extra year: a year in industry (the page says you can transfer to Business Management with a Year in Industry BA during your studies) or a year abroad after year 2.",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A level (no required A level subject is listed)",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/business-management-ba-hons",
+          "checked": "2026-10-21",
+          "evidence": "A level: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade 5/C"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade 4/C"
+        }
+      ],
+      "gcseText": "GCSE Mathematics at grade 5/C and GCSE English at grade 4/C required.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.liverpool.ac.uk/courses/business-management-ba-hons",
+        "checked": "2026-10-21",
+        "evidence": "A level: AAB"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is named in the entry requirements for this course. Liverpool is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": {
+          "url": "https://www.liverpool.ac.uk/courses/business-management-ba-hons",
+          "checked": "2026-10-21",
+          "evidence": "The qualifications and exam results you'll need to apply for this course"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB from A levels, with grade A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/business-management-ba-hons",
+            "checked": "2026-10-21",
+            "evidence": "For this course, the offer is ABB from A levels, with A in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a two-grade reduction in the entry requirements, applied automatically if you qualify under Liverpool's contextual offers scheme (the university's contextual admissions page names home postcodes in IMD Quintile 1 and care-experienced applicants). No separate application is needed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.liverpool.ac.uk/courses/business-management-ba-hons",
+            "checked": "2026-10-21",
+            "evidence": "you may automatically qualify for up to a two-grade reduction in the entry requirements needed for this course"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A guaranteed conditional offer and an offer reduced by up to 2 A level grades (or equivalent) after successfully completing the Liverpool Scholars programme. Only open to Year 12 students at Widening Participation and Outreach partner schools or colleges in Greater Merseyside who meet the eligibility criteria. The place is not guaranteed on your first-choice course.",
+          "programme": "Liverpool Scholars Programme",
+          "source": {
+            "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/scholars/",
+            "checked": "2026-10-21",
+            "evidence": "An offer reduced by up to 2 A Level grades or equivalent"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.liverpool.ac.uk/courses/business-management-ba-hons",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not published yet; this course page is for entry in September 2027 (starts 27 September 2027), so 2027 entry is recorded",
+        "No required or excluded A level subjects are listed on the course page (only grades), so Psychology and Geography acceptance is not confirmed"
+      ],
+      "notes": null
+    }
+  ],
+  "notes": [
+    "Course pages are for entry in September 2027 (UCAS deadline for UK applicants 13 January 2027). No 2028-entry requirements are published yet (checked 2026-10-21), so 2027 entry is recorded.",
+    "Liverpool is not on UAT-UK's official TMUA list for 2027 entry, and no course page names an admissions test.",
+    "Liverpool offers both a BSc Economics (L100) and a BA Economics (L102). The BSc page asks for A level Mathematics at grade A with GCSE Maths grade 5; the BA page lists GCSE Maths grade 7 and no A level subject.",
+    "Time-sensitive: applications for Pathways to Banking and Finance (current Year 12 students who can commute to Liverpool) close on 2 November 2026. Liverpool Scholars is open only to students at partner schools and colleges in Greater Merseyside."
+  ],
+  "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+    "fees: the 2027/28 UK fee (£10,050) may increase each year within the government's regulated limits; the 2028/29 fee is not published",
+    "livingCosts: hall prices come from the accommodation finder, which does not state the academic year (treated as 2026/27 because the accommodation pages refer to 2026 entry); no official living-cost estimate was found",
+    "openDays: the Online Open Week dates (2-6 November) do not show the year on the page, so they are read as 2026; two further autumn on-campus Open Day dates are still 'to be announced' and booking is not open",
+    "contextual: only IMD Quintile 1 postcodes and care-experienced applicants are stated to get an automatic reduced offer (up to two grades, exceptions may apply); other indicators give additional consideration only",
+    "programmes: Liverpool Scholars dates, deadline, cost and format are not published on its page; Pathways to Banking and Finance session dates are not published",
+    "competition: Liverpool does not publish offer rates or applications per place on these course pages"
+  ]
+}

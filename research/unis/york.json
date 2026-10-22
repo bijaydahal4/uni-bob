@@ -1,0 +1,1371 @@
+{
+  "id": "york",
+  "name": "University of York",
+  "shortName": "York",
+  "aliases": [
+    "York",
+    "UoY",
+    "York Uni",
+    "Uni of York"
+  ],
+  "city": "York",
+  "region": "North",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.york.ac.uk/study/accommodation/rooms-prices/",
+    "checked": "2026-10-17",
+    "evidence": "Our compact campus means that all colleges are a short walk from departments and teaching buildings."
+  },
+  "location": {
+    "postcode": "YO10 5DD",
+    "postcodeSource": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics/",
+    "lat": 53.948437,
+    "lng": -1.053553,
+    "coordsSource": "https://api.postcodes.io/postcodes/YO105DD",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK (home) students starting in 2027/28",
+    "source": {
+      "url": "https://www.york.ac.uk/study/undergraduate/fees-funding/uk/",
+      "checked": "2026-10-17",
+      "evidence": "Our 2027/28 tuition fees are £10,050 per year for UK (home) students."
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 149,
+    "amountHigh": 269,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "University campus rooms cost £149–£269 a week in 2026/27 (about £5,960–£11,044 for the year, bills included)",
+    "source": {
+      "url": "https://www.york.ac.uk/study/accommodation/rooms-prices/",
+      "checked": "2026-10-17",
+      "evidence": "The prices and room availability shown below are for the 2026/27 academic year only. ... £149 ... £5,960 ... £269 ... £11,044"
+    }
+  },
+  "openDays": {
+    "events": [],
+    "text": "York's 2026 open days have finished; its main undergraduate open days are in June and July (2027 dates not announced yet)",
+    "url": "https://www.york.ac.uk/study/undergraduate/visits/",
+    "source": {
+      "url": "https://www.york.ac.uk/study/undergraduate/visits/",
+      "checked": "2026-10-17",
+      "evidence": "Our Open Days have now finished for 2026."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "York automatically checks UCAS applications from Home-fee students at UK state schools and may make an offer up to two grades lower if your postcode (or refugee/humanitarian protection status, care experience or estrangement) qualifies; completing a York access programme can mean up to three grades lower.",
+    "typicalReduction": "Up to two grades below the standard offer (up to three grades below after completing Next Step York, Black Access or Realising Opportunities)",
+    "criteria": [
+      {
+        "key": "school",
+        "detail": "Must have attended a UK state-funded school, college or sixth form and pay UK (Home) fees — required for every contextual route",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "area",
+        "detail": "Home postcode is eligible under York's postcode data (a postcode checker for 2027 entry is on the page; the measure used is not named)",
+        "measure": "other",
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "Residential status of 'refugee' or 'humanitarian protection'",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Experience of being in local authority care — tell York via the Additional Information Form (deadline Friday 28 May 2027)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged from your family — tell York via the Additional Information Form",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Successfully completing Next Step York, Black Access or Realising Opportunities (and meeting subject criteria) gives an alternative offer up to three grades below the standard offer",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": null,
+    "rulesText": "If you meet the criteria for one of York's contextual-admissions routes (plus any subject requirements), you may get a lower offer. For every route you must have attended a UK state-funded school, college or sixth form and pay Home fees. Postcode eligibility is assessed automatically from UCAS; care-experienced and estranged applicants use the Additional Information Form.",
+    "url": "https://www.york.ac.uk/study/undergraduate/applying/entry/contextual-offers/",
+    "source": {
+      "url": "https://www.york.ac.uk/study/undergraduate/applying/entry/contextual-offers/",
+      "checked": "2026-10-17",
+      "evidence": "have attended a UK state-funded school, college or sixth form ... pay UK (Home) fees if you go to uni. ... we use postcode data alongside your UCAS application ... may be able to provide an offer up to two grades below our standard offer"
+    }
+  },
+  "programmes": [
+    {
+      "id": "york-next-step-york",
+      "name": "Next Step York",
+      "provider": "University of York",
+      "providerType": "university",
+      "uniIds": [
+        "york"
+      ],
+      "summary": "Two-year access programme for Year 12 students in England, mixing online and on-campus events, a July summer residential and support with choosing and applying to university.",
+      "whoCanApply": "Year 12 students at English state schools or colleges (state school from Year 7 to 11), living in the UK for at least three years, with the potential to get BCC or above, who meet at least one of the widening-participation criteria.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "school",
+        "area",
+        "fsm",
+        "firstGen",
+        "care",
+        "estranged",
+        "carer",
+        "refugee",
+        "other"
+      ],
+      "eligibilityDetail": "Essential: potential to achieve BCC+ at A-level (or equivalent); in your first year of post-16 study at an English state school, sixth form or college; attended a state school from Year 7 to Year 11; UK resident for the last three years. Plus at least one of: Black or South Asian background; Gypsy, Roma, Traveller, Showmen or Boater background; care experience; estranged; seeking asylum or refugee status; free school meals or discretionary payments; disability or long-term health condition; military/service family; parents didn't go to university (or went as mature students during your secondary education); young carer; living in a priority neighbourhood (postcode checker on the page).",
+      "benefits": [
+        "Alternative Widening Participation offer up to three grades below the standard offer (conditional on completing the YorJourney module; e.g. Economics BBC instead of AAB)",
+        "Could be considered for a guaranteed interview or offer at York",
+        "Summer residential in July",
+        "Guidance from current York students"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "york"
+      ],
+      "offerReduction": "Up to three grades below the standard offer",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 12 (two-year programme into Year 13)",
+      "runs": {
+        "text": "Starts January 2027 with an online launch; events January–July 2027 (including a July summer residential), then Year 2 support through Year 13",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "9am Monday 28 September 2026",
+        "date": "2026-09-28",
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "9am Wednesday 18 November 2026 (parent/carer permissions and school statements by 9am Monday 23 November 2026)",
+        "date": "2026-11-18",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "The page gives the application dates without a year, but Monday 28 September and Wednesday 18 November only match 2026, so this is the window for the cohort starting January 2027. The timeline table on the page still shows the previous cohort; 2027 programme dates are expected to follow the same pattern.",
+      "url": "https://www.york.ac.uk/schools-and-colleges/post-16/next-step-york/",
+      "source": {
+        "url": "https://www.york.ac.uk/schools-and-colleges/post-16/next-step-york/",
+        "checked": "2026-10-17",
+        "evidence": "Next Step York is a personalised two year programme for Year 12 students in England. ... Applications will open at 9am on Monday 28 September and are due to close at 9am on Wednesday 18 November. ... the alternative Widening Participation alternative offer which is up to three grades below the standard offer published in our prospectus."
+      },
+      "notConfirmed": [
+        "cost: page doesn't say whether it is free",
+        "runs: exact 2027 event and residential dates not published"
+      ]
+    },
+    {
+      "id": "york-black-access",
+      "name": "Black Access",
+      "provider": "University of York",
+      "providerType": "university",
+      "uniIds": [
+        "york"
+      ],
+      "summary": "Student-led programme of online and in-person events, mentoring and support for Black sixth-form and college students, designed with current Black students at York.",
+      "whoCanApply": "Year 12 students from a Black background at English state schools or colleges (state school from Year 7 to 11), living in the UK for at least three years, with the potential to get BCC or above.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other",
+        "school",
+        "area",
+        "fsm",
+        "firstGen",
+        "care",
+        "estranged",
+        "carer",
+        "refugee"
+      ],
+      "eligibilityDetail": "Essential: Black background (including mixed heritage); potential to achieve BCC+ (or equivalent); in your first year of post-16 study at an English state school, sixth form or college; attended a state school from Year 7 to Year 11; UK resident for the last three years. If places are limited, priority goes to students with care experience, estrangement, asylum/refugee status, free school meals, disability, military family, parents without a degree, young carers or a priority-neighbourhood postcode.",
+      "benefits": [
+        "Alternative Widening Participation offer up to three grades below the standard offer (conditional on completing the YorJourney module)",
+        "Could be considered for a guaranteed interview or offer at York",
+        "Tailored support and mentoring from current Black students"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "york"
+      ],
+      "offerReduction": "Up to three grades below the standard offer",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Online and in-person events (programme dates not published)",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "9am Monday 28 September 2026",
+        "date": "2026-09-28",
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "9am Wednesday 18 November 2026 (parent/carer permissions and school statements by 9am Monday 23 November 2026)",
+        "date": "2026-11-18",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "The page gives the application dates without a year; the weekdays match 2026, so this is the current window for Year 12 students in 2026/27.",
+      "url": "https://www.york.ac.uk/schools-and-colleges/post-16/black-access/",
+      "source": {
+        "url": "https://www.york.ac.uk/schools-and-colleges/post-16/black-access/",
+        "checked": "2026-10-17",
+        "evidence": "the alternative Widening Participation alternative offer which is up to three grades below the standard offer published in our prospectus. ... Applications open at 9am on Monday 28 September and are due to close at 9am on Wednesday 18 November"
+      },
+      "notConfirmed": [
+        "cost: page doesn't say whether it is free",
+        "runs: programme dates not published"
+      ]
+    },
+    {
+      "id": "york-aspire-together",
+      "name": "Aspire Together",
+      "provider": "University of York",
+      "providerType": "university",
+      "uniIds": [
+        "york"
+      ],
+      "summary": "Mostly online programme with a campus visit for Year 12 students of South Asian background in Bradford and Kirklees.",
+      "whoCanApply": "Year 12 students from a South Asian background at English state schools or colleges in the Bradford or Kirklees area, with the potential to get BCC or above and UK residence for at least three years.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other",
+        "school"
+      ],
+      "eligibilityDetail": "Essential: South Asian background (including mixed heritage); in your first year of post-16 study at an English state school, sixth form or college in Bradford/Kirklees; potential to achieve BCC+ (or equivalent); attended a state school from Year 7 to Year 11; UK resident for the last three years.",
+      "benefits": [
+        "Contextual offer up to two grades below the standard offer on successful completion",
+        "Could be considered for a guaranteed interview or offer at York"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "york"
+      ],
+      "offerReduction": "Up to two grades below the standard offer (not including subject-specific requirements)",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 12 (continues into Year 13)",
+      "runs": {
+        "text": "Online launch February 2027; online events February–June 2027; campus visit April 2027; Year 2 events September 2027–January 2028",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "9am Monday 12 October 2026",
+        "date": "2026-10-12",
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "9am Wednesday 6 January 2027 (permissions and school statements by 9am Wednesday 13 January 2027)",
+        "date": "2027-01-06",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": null,
+      "url": "https://www.york.ac.uk/schools-and-colleges/partnerships/aspire-together/",
+      "source": {
+        "url": "https://www.york.ac.uk/schools-and-colleges/partnerships/aspire-together/",
+        "checked": "2026-10-17",
+        "evidence": "Aspire Together is a personalised programme for Year 12 students in the Bradford and Kirklees area ... Participants who successfully complete the programme could receive a contextual offer up to two grades below our standard offer ... Applications will open at 9am on Monday 12 October 2026 and will close at 9am on Wednesday 6 January 2027."
+      },
+      "notConfirmed": [
+        "cost: page doesn't say whether it is free"
+      ]
+    },
+    {
+      "id": "york-moocs",
+      "name": "York free online courses (MOOCs)",
+      "provider": "University of York",
+      "providerType": "university",
+      "uniIds": [
+        "york"
+      ],
+      "summary": "Free self-paced online short courses (2–4 weeks) designed by York academics; completing the relevant one can earn a lower alternative offer for some York courses.",
+      "whoCanApply": "Anyone — there are no entry requirements.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Open to everyone; the alternative offer is only for courses that list a MOOC in their entry requirements, and York decides eligibility when you apply.",
+      "benefits": [
+        "Alternative offer up to one A-level grade below the typical offer for some York courses (e.g. 'Power in crisis' for Economics and Politics; 'Logic: the language of truth' for PPE; 'Tackling environmental challenges' for Environment, Economics and Ecology)",
+        "Taste of university-level study"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "york"
+      ],
+      "offerReduction": "Up to one A level grade (or equivalent) below the typical offer, for courses that list a MOOC",
+      "cost": "Free (no need to pay for the certificate)",
+      "isFree": true,
+      "format": "online",
+      "subjects": "Various, including politics, philosophy/logic and the environment",
+      "yearGroup": "Any (open to everyone)",
+      "runs": {
+        "text": "Self-guided — can be taken at any time",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "Available now",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": null,
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2026,
+      "infoNote": "Self-paced courses available now; the MOOC alternative offers are listed on York's 2027-entry course pages.",
+      "url": "https://www.york.ac.uk/study/moocs/",
+      "source": {
+        "url": "https://www.york.ac.uk/study/moocs/alternative-offers/",
+        "checked": "2026-10-17",
+        "evidence": "If you successfully complete the relevant MOOC, as outlined in your offer letter, you may be eligible for a reduction of up to one A level grade (or equivalent) below the typical offer."
+      },
+      "notConfirmed": []
+    }
+  ],
+  "links": {
+    "home": "https://www.york.ac.uk/",
+    "courses": "https://www.york.ac.uk/study/undergraduate/courses/all/",
+    "economics": "https://www.york.ac.uk/economics/study/undergraduate/",
+    "openDays": "https://www.york.ac.uk/study/undergraduate/visits/",
+    "fees": "https://www.york.ac.uk/study/undergraduate/fees-funding/uk/",
+    "contextual": "https://www.york.ac.uk/study/undergraduate/applying/entry/contextual-offers/",
+    "accommodation": "https://www.york.ac.uk/study/accommodation/rooms-prices/"
+  },
+  "courses": [
+    {
+      "id": "york-economics",
+      "name": "Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "4 years if you add a year abroad or a placement year",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB; A-level Maths is preferred but not essential (without it you need GCSE Maths grade 7)",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics/",
+          "checked": "2026-10-17",
+          "evidence": "AAB. A level Mathematics is a preferred subject, but not essential. If you do not have an A level in Mathematics then GCSE Mathematics Grade 7(A) is essential."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "note": "A-level Maths preferred but not essential"
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Only if you don't have A-level Maths"
+        }
+      ],
+      "gcseText": "If you do not have an A level in Mathematics then GCSE Mathematics Grade 7(A) is essential.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics/",
+        "checked": "2026-10-17",
+        "evidence": "AAB. A level Mathematics is a preferred subject, but not essential."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "accessProgramme",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "Widening participation offer if you successfully complete Next Step York or Black Access (including the YorJourney module) or Realising Opportunities (GCSE Maths 7 needed if no A-level Maths)",
+          "programme": "Next Step York; Black Access; Realising Opportunities (each followed by the YorJourney module where required)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics/",
+            "checked": "2026-10-17",
+            "evidence": "Widening participation ... BBC. A-Level Mathematics is a preferred subject, but not essential. ... This is conditional upon successful completion of the WP programme including the YorJourney module (Black Access Programme, Next Step York) or successful completion of Realising Opportunities"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you meet York's contextual criteria (UK state school, Home fees, plus an eligible postcode or other route) (GCSE Maths 7 needed if no A-level Maths)",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ... BBB. A-Level Mathematics is a preferred subject, but not essential."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you get A or higher in the EPQ",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve A or higher in the EPQ, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "subjects: York's course pages don't list any excluded A-level subjects, so whether Psychology/Geography count is not stated (they are not excluded anywhere seen)",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "Students with A-level Maths take Mathematics for Economists and Probability and Statistics in Year 1; others take Quantitative Methods instead. Year abroad and placement year options are described on the Economics department page."
+    },
+    {
+      "id": "york-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L112",
+      "lengthYears": 3,
+      "lengthNote": "4 years if you add a year abroad or a placement year",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB including Mathematics",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-finance/",
+          "checked": "2026-10-17",
+          "evidence": "AAB including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths required as part of AAB (no specific Maths grade given)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-finance/",
+        "checked": "2026-10-17",
+        "evidence": "AAB including Mathematics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-finance/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "accessProgramme",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "Widening participation offer if you successfully complete Next Step York or Black Access (including the YorJourney module) or Realising Opportunities (including B in Maths)",
+          "programme": "Next Step York; Black Access; Realising Opportunities (each followed by the YorJourney module where required)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Widening participation ... BBC including B in Mathematics ... This is conditional upon successful completion of the WP programme including the YorJourney module (Black Access Programme, Next Step York) or successful completion of Realising Opportunities"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you meet York's contextual criteria (UK state school, Home fees, plus an eligible postcode or other route) (including Maths)",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ... BBB including Mathematics"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you get A or higher in the EPQ",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-finance/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve A or higher in the EPQ, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: York's course pages don't list any excluded A-level subjects, so whether Psychology/Geography count is not stated (they are not excluded anywhere seen)",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": null
+    },
+    {
+      "id": "york-economics-management",
+      "name": "Economics and Management",
+      "degree": "BSc (Hons)",
+      "ucasCode": "LN12",
+      "lengthYears": 3,
+      "lengthNote": "4 years if you add a year abroad or a placement year",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB; A-level Maths is preferred but not essential (without it you need GCSE Maths grade 7)",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-and-management/",
+          "checked": "2026-10-17",
+          "evidence": "AAB. A level Mathematics is a preferred subject, but not essential. If you do not have an A level in Mathematics then GCSE Mathematics Grade 7(A) is essential."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "note": "A-level Maths preferred but not essential"
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Only if you don't have A-level Maths"
+        }
+      ],
+      "gcseText": "If you do not have an A level in Mathematics then GCSE Mathematics Grade 7(A) is essential.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-and-management/",
+        "checked": "2026-10-17",
+        "evidence": "AAB. A level Mathematics is a preferred subject, but not essential."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-and-management/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "accessProgramme",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "Widening participation offer if you successfully complete Next Step York or Black Access (including the YorJourney module) or Realising Opportunities (GCSE Maths 7 needed if no A-level Maths)",
+          "programme": "Next Step York; Black Access; Realising Opportunities (each followed by the YorJourney module where required)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-and-management/",
+            "checked": "2026-10-17",
+            "evidence": "Widening participation ... BBC. A-Level Mathematics is a preferred subject, but not essential. ... This is conditional upon successful completion of the WP programme including the YorJourney module (Black Access Programme, Next Step York) or successful completion of Realising Opportunities"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you meet York's contextual criteria (UK state school, Home fees, plus an eligible postcode or other route) (GCSE Maths 7 needed if no A-level Maths)",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-and-management/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ... BBB. A-Level Mathematics is a preferred subject, but not essential."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you get A or higher in the EPQ",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-and-management/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve A or higher in the EPQ, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-and-management/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "subjects: York's course pages don't list any excluded A-level subjects, so whether Psychology/Geography count is not stated (they are not excluded anywhere seen)",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "Taught by the Department of Economics and Related Studies with the School for Business and Society."
+    },
+    {
+      "id": "york-economics-politics",
+      "name": "Economics and Politics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "LL21",
+      "lengthYears": 3,
+      "lengthNote": "4 years if you add a year abroad or a placement year",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB including Mathematics",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-politics/",
+          "checked": "2026-10-17",
+          "evidence": "AAB including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths required as part of AAB (no specific Maths grade given)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-politics/",
+        "checked": "2026-10-17",
+        "evidence": "AAB including Mathematics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-politics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "accessProgramme",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "Widening participation offer if you successfully complete Next Step York or Black Access (including the YorJourney module) or Realising Opportunities (including B in Maths)",
+          "programme": "Next Step York; Black Access; Realising Opportunities (each followed by the YorJourney module where required)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-politics/",
+            "checked": "2026-10-17",
+            "evidence": "Widening participation ... BBC including B in Mathematics ... This is conditional upon successful completion of the WP programme including the YorJourney module (Black Access Programme, Next Step York) or successful completion of Realising Opportunities"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you meet York's contextual criteria (UK state school, Home fees, plus an eligible postcode or other route) (including Maths)",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-politics/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ... BBB including Mathematics"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you get A or higher in the EPQ",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-politics/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve A or higher in the EPQ, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you complete York's free online course 'Power in crisis: Politics in the 21st century' (no need to pay for the certificate)",
+          "programme": "Power in crisis: Politics in the 21st century (York free online course)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-politics/",
+            "checked": "2026-10-17",
+            "evidence": "If you successfully complete our online course Power in crisis: Politics in the 21st century, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-politics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: York's course pages don't list any excluded A-level subjects, so whether Psychology/Geography count is not stated (they are not excluded anywhere seen)",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": null
+    },
+    {
+      "id": "york-ppe",
+      "name": "Philosophy, Politics and Economics (PPE)",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L0V5",
+      "lengthYears": 3,
+      "lengthNote": "4 years if you add a year abroad or a placement year",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB including A-level Mathematics",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-philosophy-politics-economics-ppe/",
+          "checked": "2026-10-17",
+          "evidence": "AAB including Mathematics A Level"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths required as part of AAB (no specific Maths grade given)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-philosophy-politics-economics-ppe/",
+        "checked": "2026-10-17",
+        "evidence": "AAB including Mathematics A Level"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-philosophy-politics-economics-ppe/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "accessProgramme",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "Widening participation offer if you successfully complete Next Step York or Black Access (including the YorJourney module) or Realising Opportunities (including B in Maths)",
+          "programme": "Next Step York; Black Access; Realising Opportunities (each followed by the YorJourney module where required)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-philosophy-politics-economics-ppe/",
+            "checked": "2026-10-17",
+            "evidence": "Widening participation ... BBC including B in Mathematics ... This is conditional upon successful completion of the WP programme including the YorJourney module (Black Access Programme, Next Step York) or successful completion of Realising Opportunities"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you meet York's contextual criteria (UK state school, Home fees, plus an eligible postcode or other route) (including Maths)",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-philosophy-politics-economics-ppe/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ... BBB including Mathematics"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you get A or higher in the EPQ",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-philosophy-politics-economics-ppe/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve A or higher in the EPQ, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you complete York's free online course 'Logic: the language of truth' (no need to pay for the certificate)",
+          "programme": "Logic: the language of truth (York free online course)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-philosophy-politics-economics-ppe/",
+            "checked": "2026-10-17",
+            "evidence": "If you successfully complete our online course Logic: the language of truth, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.york.ac.uk/study/undergraduate/courses/bsc-philosophy-politics-economics-ppe/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: York's course pages don't list any excluded A-level subjects, so whether Psychology/Geography count is not stated (they are not excluded anywhere seen)",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "The BSc focuses more on economics. York also offers a BA PPE (L0V0): AAB plus GCSE Maths grade 7, with no A-level Maths needed."
+    },
+    {
+      "id": "york-environment-economics-ecology",
+      "name": "Environment, Economics and Ecology",
+      "degree": "BSc (Hons)",
+      "ucasCode": "F7M0",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a year abroad (Year 3) or a placement year (separate 'with a placement year' version)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-geography"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB including one of Biology, Business Studies, Chemistry, Economics, Environmental Science, Geography, Geology, Mathematics, Physics or Psychology",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+          "checked": "2026-10-17",
+          "evidence": "ABB including one of the following subjects: Biology, Business Studies, Chemistry, Economics, Environmental Science, Geography, Geology, Mathematics, Physics or Psychology"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Biology",
+            "Business Studies",
+            "Chemistry",
+            "Economics",
+            "Environmental Science",
+            "Geography",
+            "Geology",
+            "Mathematics",
+            "Physics",
+            "Psychology"
+          ],
+          "minGrade": null,
+          "note": "One of these A-levels as part of ABB"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": null
+        }
+      ],
+      "gcseText": "You should also have GCSE Mathematics at grade 4 (C) or above, or equivalent.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+        "checked": "2026-10-17",
+        "evidence": "ABB including one of the following subjects: Biology, Business Studies, Chemistry, Economics, Environmental Science, Geography, Geology, Mathematics, Physics or Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "accessProgramme",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "Widening participation offer if you successfully complete Next Step York or Black Access (including the YorJourney module) or Realising Opportunities (including B in one of the listed subjects)",
+          "programme": "Next Step York; Black Access; Realising Opportunities (each followed by the YorJourney module where required)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+            "checked": "2026-10-17",
+            "evidence": "Widening participation ... BBC including B in one of the following subjects: Biology, Business Studies, Chemistry, Economics, Environmental Science, Geography, Geology, Mathematics, Physics or Psychology. ... This is conditional upon successful completion of the WP programme including the YorJourney module (Black Access Programme, Next Step York) or successful completion of Realising Opportunities"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you meet York's contextual criteria (UK state school, Home fees, plus an eligible postcode or other route) (including one of the listed subjects)",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ... BBB including one of the following subjects: Biology, Business Studies, Chemistry, Economics, Environmental Science, Geography, Geology, Mathematics, Physics or Psychology."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you get C or higher in the EPQ",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve C or higher in the EPQ, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer with a Distinction or higher in the OCR Level 3 Certificate in Sustainability",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve a Distinction or higher in the OCR Level 3 Certificate in Sustainability, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer with grade B or higher in Core Maths",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve B or higher in Core Maths, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you complete York's free online course 'Tackling environmental challenges for a sustainable future' (no need to pay for the certificate)",
+          "programme": "Tackling environmental challenges for a sustainable future (York free online course)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+            "checked": "2026-10-17",
+            "evidence": "If you successfully complete our online course Tackling environmental challenges for a sustainable future, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.york.ac.uk/study/undergraduate/courses/bsc-environment-economics-ecology/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "Run by the Department of Environment and Geography. Geography and Psychology both count towards the subject requirement."
+    },
+    {
+      "id": "york-economics-econometrics",
+      "name": "Economics and Econometrics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L144",
+      "lengthYears": 3,
+      "lengthNote": "4 years if you add a year abroad or a placement year",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB including Mathematics",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-econometrics/",
+          "checked": "2026-10-17",
+          "evidence": "AAB including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths required as part of AAB (no specific Maths grade given)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-econometrics/",
+        "checked": "2026-10-17",
+        "evidence": "AAB including Mathematics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-econometrics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "accessProgramme",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "Widening participation offer if you successfully complete Next Step York or Black Access (including the YorJourney module) or Realising Opportunities (including B in Maths)",
+          "programme": "Next Step York; Black Access; Realising Opportunities (each followed by the YorJourney module where required)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-econometrics/",
+            "checked": "2026-10-17",
+            "evidence": "Widening participation ... BBC including B in Mathematics ... This is conditional upon successful completion of the WP programme including the YorJourney module (Black Access Programme, Next Step York) or successful completion of Realising Opportunities"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you meet York's contextual criteria (UK state school, Home fees, plus an eligible postcode or other route) (including Maths)",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-econometrics/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ... BBB including Mathematics"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you get A or higher in the EPQ",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-econometrics/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve A or higher in the EPQ, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.york.ac.uk/study/undergraduate/courses/bsc-economics-econometrics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: York's course pages don't list any excluded A-level subjects, so whether Psychology/Geography count is not stated (they are not excluded anywhere seen)",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "Further Maths is not mentioned. York's Economics and Mathematics (LG11) asks for AAA including Maths."
+    },
+    {
+      "id": "york-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "NN43",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a year in industry (separate 'with a year in industry' version)",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB, plus GCSE Maths grade 5 (B)",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+          "checked": "2026-10-17",
+          "evidence": "A levels ... AAB ... We also require GCSE Mathematics at grade 5 (B) or equivalent."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "Adult numeracy not accepted instead of GCSE Maths"
+        }
+      ],
+      "gcseText": "We also require GCSE Mathematics at grade 5 (B) or equivalent. We do not accept adult numeracy in lieu of GCSE Maths.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+        "checked": "2026-10-17",
+        "evidence": "We also require GCSE Mathematics at grade 5 (B) or equivalent."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": {
+          "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Widening participation offer if you successfully complete Next Step York or Black Access (including the YorJourney module) or Realising Opportunities",
+          "programme": "Next Step York; Black Access; Realising Opportunities (each followed by the YorJourney module where required)",
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Widening participation ... BBB ... This is conditional upon successful completion of the WP programme including the YorJourney module (Black Access Programme, Next Step York) or successful completion of Realising Opportunities"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you meet York's contextual criteria (UK state school, Home fees, plus an eligible postcode or other route)",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ... BBB"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer if you get B or higher in the EPQ",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve B or higher in the EPQ, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        },
+        {
+          "type": "other",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Possible alternative offer up to one A-level grade below the typical offer with grade B or higher in Core Maths",
+          "programme": null,
+          "source": {
+            "url": "https://www.york.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+            "checked": "2026-10-17",
+            "evidence": "If you achieve B or higher in Core Maths, you may be eligible for an alternative offer up to one A level grade (or equivalent) below our typical offer."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.york.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "yearAbroad: page only says there are opportunities to spend time abroad",
+        "subjects: York's course pages don't list any excluded A-level subjects, so whether Psychology/Geography count is not stated (they are not excluded anywhere seen)",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "Run by the School for Business and Society."
+    }
+  ],
+  "notes": [
+    "All course pages are for 2027/28 entry; no 2028-entry pages were published when checked (2026-10-17).",
+    "No admissions test (such as the TMUA) is listed for any of these courses.",
+    "Many York courses give an alternative offer up to one A-level grade lower for a good EPQ grade (the grade needed varies by course), and some for Core Maths or completing a free York online course (MOOC).",
+    "York gives an alternative Widening Participation offer (up to three grades below the standard offer) to students who complete Realising Opportunities, as well as its own Next Step York and Black Access programmes.",
+    "Economics department page: 'There are opportunities for you to spend time abroad during your course. You'll also have the chance to take a placement year.' York also lists a four-year 'Economics with a year abroad' route.",
+    "York's main undergraduate open days take place in June and July (post-16 outreach page).",
+    "York offers a guaranteed offer (or interview) to applicants living in Yorkshire, the Humber or Tees Valley who are on course to meet the entry requirements.",
+    "Other relevant York courses not recorded here: Business and Management (BA/BSc), Economics and Mathematics (AAA including Maths), Economics and Philosophy, Economics, Econometrics and Finance, History/Economics and BA PPE."
+  ],
+  "notConfirmed": [
+    "openDays: 2027 open day dates not announced yet",
+    "contextual: the postcode measure York uses (e.g. IMD or ACORN) is not named on the current contextual offers page",
+    "subjects: York doesn't publish a list of excluded A-level subjects on its course or entry pages",
+    "programmes: costs of Next Step York, Black Access and Aspire Together are not stated",
+    "courses: UCAS course pages not checked because UCAS search blocked automated access"
+  ]
+}

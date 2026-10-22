@@ -1,0 +1,908 @@
+{
+ "id": "essex",
+ "name": "University of Essex",
+ "shortName": "Essex",
+ "aliases": [
+  "Essex",
+  "Essex Uni",
+  "Essex University",
+  "Uni of Essex",
+  "UoEssex"
+ ],
+ "city": "Colchester",
+ "region": "East of England",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.essex.ac.uk/life/colchester-campus",
+  "checked": "2026-10-21",
+  "evidence": "Set within 200 acres of award-winning parkland - Wivenhoe Park and located two miles from the historic city centre of Colchester"
+ },
+ "location": {
+  "postcode": "CO4 3SQ",
+  "postcodeSource": "https://www.essex.ac.uk/visit-us/open-days",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/CO43SQ",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027-28",
+  "text": "£10,050 per year for new Home (UK) and Channel Islands students starting in 2027-28. A study abroad year costs 15% and a placement year 20% of the standard fee for that year, and fees increase for each academic year of study.",
+  "source": {
+   "url": "https://www.essex.ac.uk/undergraduate/fees-and-funding/home-uk-fees",
+   "checked": "2026-10-21",
+   "evidence": "Following the UK Government's recent decision to increase fees for the academic year 2027-28, our tuition fee for new Home, UK and Channel Islands students is £10,050 per year."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 127.89,
+  "amountHigh": 257.88,
+  "period": "week",
+  "academicYear": "2026-27",
+  "text": "On-campus single rooms and studios cost about £127.89 to £257.88 a week in 2026-27 (rent includes bills and Wi-Fi; undergraduate contracts are normally 39 weeks). Shared twin en suite rooms are £82.88 to £92.89 per person a week.",
+  "source": {
+   "url": "https://www.essex.ac.uk/accommodation/colchester/rent-charges",
+   "checked": "2026-10-21",
+   "evidence": "North Towers - single room with shared facilities - £127.89 per week...The Copse - self-contained studio - £257.88 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "November Open Day (Colchester Campus, 9am to 4pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next open day: Saturday 7 November 2026 at the Colchester Campus. No later dates are published yet.",
+  "url": "https://www.essex.ac.uk/visit-us/open-days",
+  "source": {
+   "url": "https://www.essex.ac.uk/visit-us/open-days",
+   "checked": "2026-10-21",
+   "evidence": "Our next Open Day - 7 November 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Essex may make UK-resident applicants who meet one of its listed criteria (for example free school meals, POLAR4 quintiles 1-2, care experience or young carer) a contextual offer of up to two A-level grades below the standard offer.",
+  "typicalReduction": "Up to two A-level grades, or equivalent, below the standard conditional offer. Course pages show 120 instead of 128 tariff points for BSc Economics and 96 instead of 112 for BA Economics.",
+  "criteria": [
+   {
+    "key": "estranged",
+    "detail": "Students residing in the UK who are estranged from their parents.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Young carer: students residing in the UK who helped to look after someone in their family who is ill, disabled, has a mental health condition.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Military families: students residing in the UK who have a parent or carer serving in the Armed Forces.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Where residing in the UK, students with 'refugee status' or 'Humanitarian Protection', and asylum seekers.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "Students residing in the UK, who are (or have been) eligible or receiving free school meals during their secondary education.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Students residing in the UK where there is low progression to Higher Education, defined as Quintiles 1 and 2 from OfS POLAR4 data.",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Students residing in the UK who have experience of care, for example foster care, residential care, being looked after at home under a supervision order, or kinship care (officially or informally).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Disability: students residing in the UK who have declared one or more disability type on their application.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "Applicants who apply in the 2027 cycle may be made a contextual offer based on one of the listed criteria. You do not need to do anything: apply as normal and, if you are eligible, your offer letter will tell you. Contextual offers are available for most but not all courses (not for degrees with a foundation year, among others). Not eligible: second/final year entrants, recognised transfer programme applicants, applicants taking vocational or work-based learning qualifications, and applicants taking qualifications graded pass or fail. Your offer may still include specific subject or GCSE conditions.",
+  "url": "https://www.essex.ac.uk/-/media/documents/admissions/contextual-offers-policy.pdf",
+  "source": {
+   "url": "https://www.essex.ac.uk/-/media/documents/admissions/contextual-offers-policy.pdf",
+   "checked": "2026-10-21",
+   "evidence": "Applicants who apply in the 2027 cycle may be made a contextual offer based on one of the following criteria:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "essex-insight-days",
+   "name": "Insight Days (Winter, Spring and Summer)",
+   "provider": "University of Essex",
+   "providerType": "university",
+   "uniIds": [
+    "essex"
+   ],
+   "summary": "Day events at the Colchester campus (9.45am to 2.15pm) with a welcome talk, academic taster sessions and a campus tour.",
+   "whoCanApply": "Students in Years 10 to 13; the Winter Insight Day is for Year 12 and Year 13 only. No other eligibility criteria are listed.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Open to students in Years 10 to 13. The Winter Insight Day is open to Year 12 and Year 13 students only.",
+   "benefits": [
+    "Taster sessions across subjects (the Winter day lists Psychology, Business, Law, Sociology, Government and more; no Economics taster is listed), a welcome talk and a campus tour",
+    "Essex offers a Taster Day Bursary for school groups attending (ask Essex for details)"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "day",
+   "subjects": "Mixed subjects across Essex's faculties (no Economics taster listed for the Winter day)",
+   "yearGroup": "Year 12 and 13 (Winter); Years 10 to 13 (Spring and Summer)",
+   "runs": {
+    "text": "Winter Insight Day: Wednesday 11 November 2026 (Year 12-13 only). Spring Insight Day: Wednesday 14 April 2027. Summer Insight Day: Tuesday 6 July (the page does not print the year).",
+    "start": "2027-07-06",
+    "end": "2027-07-06",
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Bookings are open now",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "The Summer date is shown as 'Tuesday 6 July' with no year; it fits 2027 (the Spring day is listed as 14 April 2027 and 6 July 2027 is a Tuesday). Spring and Summer details are still being finalised.",
+   "url": "https://www.essex.ac.uk/schools-and-colleges/events/insight-days",
+   "source": {
+    "url": "https://www.essex.ac.uk/schools-and-colleges/events/insight-days",
+    "checked": "2026-10-21",
+    "evidence": "Our Winter Insight Day is open to students in Year 12 and Year 13."
+   },
+   "notConfirmed": [
+    "Cost of attending is not stated on the page",
+    "Summer Insight Day year is not printed (page says 'Tuesday 6 July'); date recorded as Expected",
+    "Spring and Summer taster sessions (including any Economics or Business sessions) not announced yet"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.essex.ac.uk/",
+  "courses": "https://www.essex.ac.uk/undergraduate/our-courses",
+  "economics": "https://www.essex.ac.uk/departments/economics",
+  "openDays": "https://www.essex.ac.uk/visit-us/open-days",
+  "fees": "https://www.essex.ac.uk/undergraduate/fees-and-funding/home-uk-fees",
+  "contextual": "https://www.essex.ac.uk/-/media/documents/admissions/contextual-offers-policy.pdf",
+  "accommodation": "https://www.essex.ac.uk/accommodation/colchester/rent-charges"
+ },
+ "courses": [
+  {
+   "id": "essex-economics-bsc",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with an optional placement year or year abroad",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": null,
+    "text": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels (plus GCSE Mathematics B/5)",
+    "source": {
+     "url": "https://www.essex.ac.uk/courses/UG00103/3/BSc-Economics",
+     "checked": "2026-10-21",
+     "evidence": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Essex writes this as grade B/5"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics B/5.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.essex.ac.uk/courses/UG00103/3/BSc-Economics",
+    "checked": "2026-10-21",
+    "evidence": "We accept A-levels, AAQs, BTECs, Access to HE Diploma, T-levels and most other qualifications that hold UCAS tariff points."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Essex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 120,
+     "conditions": "If you qualify for a contextual offer: GCSE Mathematics B/5 plus 120 UCAS tariff points from a minimum of 2 full A-levels. Essex says a contextual offer may be up to two A-level grades, or equivalent, below the standard conditional offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.essex.ac.uk/courses/UG00103/3/BSc-Economics",
+      "checked": "2026-10-21",
+      "evidence": "120 UCAS tariff points from a minimum of 2 full A-levels."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.essex.ac.uk/courses/UG00103/3/BSc-Economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows an October 2027 start); 2027 entry recorded",
+    "Essex gives the offer in UCAS tariff points only and publishes no A-level grade equivalent, so no typical grades are recorded",
+    "No A-level subject requirements or excluded subjects are listed on the course page (only GCSE Mathematics is named)"
+   ],
+   "notes": "The page says strong quantitative skills and confidence with numbers are essential, but it lists no A-level Mathematics requirement. Essex also offers BSc Economics (Including Foundation Year) on its own page; its contextual offers policy says contextual offers are not available for degrees with a foundation year."
+  },
+  {
+   "id": "essex-economics-ba",
+   "name": "Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with an optional placement year or year abroad",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from a minimum of the equivalent of 2 full A-levels (plus GCSE Mathematics B/5)",
+    "source": {
+     "url": "https://www.essex.ac.uk/courses/UG00103/1/BA-Economics",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points from a minimum of the equivalent of 2 full A-levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Essex writes this as grade B/5"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics B/5.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.essex.ac.uk/courses/UG00103/1/BA-Economics",
+    "checked": "2026-10-21",
+    "evidence": "We accept A-levels, AAQs, BTECs, Access to HE Diploma, T-levels and most other qualifications that hold UCAS tariff points."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Essex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "If you qualify for a contextual offer: GCSE Mathematics B/5 plus 96 UCAS tariff points from a minimum of 2 full A-levels. Essex says a contextual offer may be up to two A-level grades, or equivalent, below the standard conditional offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.essex.ac.uk/courses/UG00103/1/BA-Economics",
+      "checked": "2026-10-21",
+      "evidence": "96 UCAS tariff points from a minimum of 2 full A-levels."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.essex.ac.uk/courses/UG00103/1/BA-Economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows an October 2027 start); 2027 entry recorded",
+    "Essex gives the offer in UCAS tariff points only and publishes no A-level grade equivalent, so no typical grades are recorded",
+    "No A-level subject requirements or excluded subjects are listed on the course page (only GCSE Mathematics is named)"
+   ],
+   "notes": "Same department as the BSc Economics (L101) but with a lower tariff-point offer."
+  },
+  {
+   "id": "essex-business-economics",
+   "name": "Business Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "LN10",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with an optional placement year or year abroad",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from a minimum of the equivalent of 2 full A-levels (plus GCSE Mathematics C/4)",
+    "source": {
+     "url": "https://www.essex.ac.uk/courses/UG01297/1/BA-Business-Economics",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points from a minimum of the equivalent of 2 full A-levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Essex writes this as grade C/4"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.essex.ac.uk/courses/UG01297/1/BA-Business-Economics",
+    "checked": "2026-10-21",
+    "evidence": "We accept A-levels, AAQs, BTECs, Access to HE Diploma, T-levels and most other qualifications that hold UCAS tariff points."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Essex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "If you qualify for a contextual offer: GCSE Mathematics C/4 plus 96 UCAS tariff points from a minimum of 2 full A-levels. Essex says a contextual offer may be up to two A-level grades, or equivalent, below the standard conditional offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.essex.ac.uk/courses/UG01297/1/BA-Business-Economics",
+      "checked": "2026-10-21",
+      "evidence": "96 UCAS tariff points from a minimum of 2 full A-levels."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.essex.ac.uk/courses/UG01297/1/BA-Business-Economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows an October 2027 start); 2027 entry recorded",
+    "Essex gives the offer in UCAS tariff points only and publishes no A-level grade equivalent, so no typical grades are recorded",
+    "No A-level subject requirements or excluded subjects are listed on the course page (only GCSE Mathematics is named)"
+   ],
+   "notes": "Delivered jointly by the Department of Economics and Essex Business School."
+  },
+  {
+   "id": "essex-financial-economics",
+   "name": "Financial Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L114",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with an optional placement year or year abroad",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": null,
+    "text": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels (plus GCSE Mathematics B/5)",
+    "source": {
+     "url": "https://www.essex.ac.uk/courses/UG00172/3/BSc-Financial-Economics",
+     "checked": "2026-10-21",
+     "evidence": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Essex writes this as grade B/5"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics B/5.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.essex.ac.uk/courses/UG00172/3/BSc-Financial-Economics",
+    "checked": "2026-10-21",
+    "evidence": "We accept A-levels, AAQs, BTECs, Access to HE Diploma, T-levels and most other qualifications that hold UCAS tariff points."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Essex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 120,
+     "conditions": "If you qualify for a contextual offer: GCSE Mathematics B/5 plus 120 UCAS tariff points from a minimum of 2 full A-levels. Essex says a contextual offer may be up to two A-level grades, or equivalent, below the standard conditional offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.essex.ac.uk/courses/UG00172/3/BSc-Financial-Economics",
+      "checked": "2026-10-21",
+      "evidence": "120 UCAS tariff points from a minimum of 2 full A-levels."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.essex.ac.uk/courses/UG00172/3/BSc-Financial-Economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows an October 2027 start); 2027 entry recorded",
+    "Essex gives the offer in UCAS tariff points only and publishes no A-level grade equivalent, so no typical grades are recorded",
+    "No A-level subject requirements or excluded subjects are listed on the course page (only GCSE Mathematics is named)"
+   ],
+   "notes": "The page says no prior study of economics is required but a strong foundation in mathematics is necessary; it lists no A-level Mathematics requirement."
+  },
+  {
+   "id": "essex-financial-economics-accounting",
+   "name": "Financial Economics and Accounting",
+   "degree": "BA (Hons)",
+   "ucasCode": "L148",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with an optional placement year or year abroad",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-accounting",
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from a minimum of the equivalent of 2 full A-levels (plus GCSE Mathematics C/4)",
+    "source": {
+     "url": "https://www.essex.ac.uk/courses/UG01018/1/BA-Financial-Economics-and-Accounting",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points from a minimum of the equivalent of 2 full A-levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Essex writes this as grade C/4"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.essex.ac.uk/courses/UG01018/1/BA-Financial-Economics-and-Accounting",
+    "checked": "2026-10-21",
+    "evidence": "We accept A-levels, AAQs, BTECs, Access to HE Diploma, T-levels and most other qualifications that hold UCAS tariff points."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Essex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "If you qualify for a contextual offer: GCSE Mathematics C/4 plus 96 UCAS tariff points from a minimum of 2 full A-levels. Essex says a contextual offer may be up to two A-level grades, or equivalent, below the standard conditional offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.essex.ac.uk/courses/UG01018/1/BA-Financial-Economics-and-Accounting",
+      "checked": "2026-10-21",
+      "evidence": "96 UCAS tariff points from a minimum of 2 full A-levels."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.essex.ac.uk/courses/UG01018/1/BA-Financial-Economics-and-Accounting",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows an October 2027 start); 2027 entry recorded",
+    "Essex gives the offer in UCAS tariff points only and publishes no A-level grade equivalent, so no typical grades are recorded",
+    "No A-level subject requirements or excluded subjects are listed on the course page (only GCSE Mathematics is named)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "essex-economics-politics",
+   "name": "Economics and Politics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LL2F",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with an optional placement year or year abroad",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": null,
+    "text": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels (plus GCSE Mathematics C/4)",
+    "source": {
+     "url": "https://www.essex.ac.uk/courses/UG00106/1/BSc-Economics-and-Politics",
+     "checked": "2026-10-21",
+     "evidence": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Essex writes this as grade C/4"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.essex.ac.uk/courses/UG00106/1/BSc-Economics-and-Politics",
+    "checked": "2026-10-21",
+    "evidence": "We accept A-levels, AAQs, BTECs, Access to HE Diploma, T-levels and most other qualifications that hold UCAS tariff points."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Essex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 120,
+     "conditions": "If you qualify for a contextual offer: GCSE Mathematics C/4 plus 120 UCAS tariff points from a minimum of 2 full A-levels. Essex says a contextual offer may be up to two A-level grades, or equivalent, below the standard conditional offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.essex.ac.uk/courses/UG00106/1/BSc-Economics-and-Politics",
+      "checked": "2026-10-21",
+      "evidence": "120 UCAS tariff points from a minimum of 2 full A-levels."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.essex.ac.uk/courses/UG00106/1/BSc-Economics-and-Politics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows an October 2027 start); 2027 entry recorded",
+    "Essex gives the offer in UCAS tariff points only and publishes no A-level grade equivalent, so no typical grades are recorded",
+    "No A-level subject requirements or excluded subjects are listed on the course page (only GCSE Mathematics is named)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "essex-ppe",
+   "name": "Philosophy, Politics and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L0V0",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with an optional placement year or year abroad",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": null,
+    "text": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels (plus GCSE Mathematics C/4)",
+    "source": {
+     "url": "https://www.essex.ac.uk/courses/UG00334/1/BA-Philosophy-Politics-and-Economics",
+     "checked": "2026-10-21",
+     "evidence": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Essex writes this as grade C/4"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.essex.ac.uk/courses/UG00334/1/BA-Philosophy-Politics-and-Economics",
+    "checked": "2026-10-21",
+    "evidence": "We accept A-levels, AAQs, BTECs, Access to HE Diploma, T-levels and most other qualifications that hold UCAS tariff points."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Essex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 120,
+     "conditions": "If you qualify for a contextual offer: GCSE Mathematics C/4 plus 120 UCAS tariff points from a minimum of 2 full A-levels. Essex says a contextual offer may be up to two A-level grades, or equivalent, below the standard conditional offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.essex.ac.uk/courses/UG00334/1/BA-Philosophy-Politics-and-Economics",
+      "checked": "2026-10-21",
+      "evidence": "120 UCAS tariff points from a minimum of 2 full A-levels."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.essex.ac.uk/courses/UG00334/1/BA-Philosophy-Politics-and-Economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows an October 2027 start); 2027 entry recorded",
+    "Essex gives the offer in UCAS tariff points only and publishes no A-level grade equivalent, so no typical grades are recorded",
+    "No A-level subject requirements or excluded subjects are listed on the course page (only GCSE Mathematics is named)"
+   ],
+   "notes": null
+  },
+  {
+   "id": "essex-economics-data-science",
+   "name": "Economics with Data Science",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LG01",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with an optional placement year or year abroad",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": null,
+    "text": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels (plus GCSE Mathematics B/5)",
+    "source": {
+     "url": "https://www.essex.ac.uk/courses/UG01265/1/BSc-Economics-with-Data-Science",
+     "checked": "2026-10-21",
+     "evidence": "128 UCAS tariff points from a minimum of the equivalent of 2 full A-levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Essex writes this as grade B/5"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics B/5.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.essex.ac.uk/courses/UG01265/1/BSc-Economics-with-Data-Science",
+    "checked": "2026-10-21",
+    "evidence": "We accept A-levels, AAQs, BTECs, Access to HE Diploma, T-levels and most other qualifications that hold UCAS tariff points."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Essex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 120,
+     "conditions": "If you qualify for a contextual offer: GCSE Mathematics B/5 plus 120 UCAS tariff points from a minimum of 2 full A-levels. Essex says a contextual offer may be up to two A-level grades, or equivalent, below the standard conditional offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.essex.ac.uk/courses/UG01265/1/BSc-Economics-with-Data-Science",
+      "checked": "2026-10-21",
+      "evidence": "120 UCAS tariff points from a minimum of 2 full A-levels."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.essex.ac.uk/courses/UG01265/1/BSc-Economics-with-Data-Science",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows an October 2027 start); 2027 entry recorded",
+    "Essex gives the offer in UCAS tariff points only and publishes no A-level grade equivalent, so no typical grades are recorded",
+    "No A-level subject requirements or excluded subjects are listed on the course page (only GCSE Mathematics is named)"
+   ],
+   "notes": "Delivered jointly by the Department of Economics and the School of Computer Science and Electronic Engineering."
+  }
+ ],
+ "notes": [
+  "Essex's course pages show an October 2027 start and no 2028-entry pages are published yet (checked 2026-10-21), so all courses use 2027 entry.",
+  "Essex states offers as UCAS tariff points from a minimum of the equivalent of 2 full A-levels (for example 128 points for BSc Economics), not as A-level grades. The only subject requirement listed is GCSE Mathematics (grade 4 or 5 depending on the course).",
+  "Essex is not on UAT-UK's official TMUA list for 2027 entry, and the course pages name no admissions test.",
+  "Courses recorded are from Essex's Economics subject area. Not recorded (course limit): BA and BSc Management Economics, BA Financial Economics, BA Social Sciences, BSc Actuarial Science, Integrated Master in Economics, BA International Affairs and Economics (final-year entry for transfer students) and BSc Economics (Including Foundation Year).",
+  "Essex says UK students from a household income of up to £35,000 may be eligible for its Essex Futures Bursary, a support package worth up to £3,000 (https://www.essex.ac.uk/life/cost-of-living-support).",
+  "Essex says it guarantees accommodation for the duration of your course (terms and conditions apply)."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "Essex publishes no A-level grade equivalent for its UCAS tariff-point offers",
+  "Open days after 7 November 2026 are not published yet",
+  "2027-28 accommodation rents are not published yet; 2026-27 rents recorded",
+  "Insight Days: cost is not stated, and the Summer Insight Day year is not printed on the page"
+ ]
+}

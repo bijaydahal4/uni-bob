@@ -1,0 +1,1051 @@
+{
+ "id": "oxford-brookes",
+ "name": "Oxford Brookes University",
+ "shortName": "Oxford Brookes",
+ "aliases": [
+  "Oxford Brookes",
+  "Brookes",
+  "OBU",
+  "Oxford Brookes Uni",
+  "Brookes Uni"
+ ],
+ "city": "Oxford",
+ "region": "South East",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.brookes.ac.uk/about-brookes/contacts-maps-and-campuses/headington-campus",
+  "checked": "2026-10-21",
+  "evidence": "Headington Campus sits one mile east of Oxford city centre and is made up of three sites:"
+ },
+ "location": {
+  "postcode": "OX3 0BP",
+  "postcodeSource": "https://www.brookes.ac.uk/about-brookes/contacts-maps-and-campuses/headington-campus",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/OX30BP",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (Home) students on full-time courses starting in 2027 (2027/28), as shown on the Brookes course pages; the placement year costs £2,010. The fee was £9,790 in 2026/27. Brookes says Home fees may rise in later years in line with inflation and that it intends to charge the maximum permitted level.",
+  "source": {
+   "url": "https://www.brookes.ac.uk/courses/undergraduate/economics",
+   "checked": "2026-10-21",
+   "evidence": "2027 / 28 Home (UK) full time £10,050"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 139,
+  "amountHigh": 255,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Undergraduate halls cost about £139-£255 a week for contracts starting September 2026 (2026/27), from Crescent Hall at £139.02 to the shared Westminster Studios at the Harcourt Hill campus at £255.43; New Clive Booth is from £231.70. Contracts are 38 or 50 weeks. Prices for 2027-28 are expected in January 2027. Brookes' general living-costs guide (no year given) estimates £323-£428 a week in total, or £12,274-£16,264 for a 38-week year.",
+  "source": {
+   "url": "https://www.brookes.ac.uk/student-life/accommodation/prospective-students/halls",
+   "checked": "2026-10-21",
+   "evidence": "£139.02 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-24",
+    "endDate": null,
+    "label": "Undergraduate open day (Oxford)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-14",
+    "endDate": null,
+    "label": "Undergraduate open day (Oxford)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days in Oxford: 24 October 2026 and 14 November 2026 (10.00am to 3.30pm, Headington Campus). 2027 dates are not announced yet.",
+  "url": "https://www.brookes.ac.uk/open-days/ug-oxford",
+  "source": {
+   "url": "https://www.brookes.ac.uk/open-days/ug-oxford",
+   "checked": "2026-10-21",
+   "evidence": "24 October 2026 - 24 October 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "UK applicants who meet one of Brookes' contextual criteria (for example lived in care, refugee status, free school meals, young carer under 25, or completed Brookes Engage), or a school-results plus area combination, can get a contextual offer shown on each course page.",
+  "typicalReduction": "Up to 3 grades below the standard entry requirements",
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "You have lived in local authority care.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Your residential status is 'refugee' or 'humanitarian protection'.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "access",
+    "detail": "You have participated in the Brookes Engage sustained outreach programmes.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "You are eligible for free school meals.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "You are under 25 and have caring responsibilities.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "school",
+    "detail": "You attend a school where average performance is below average at GCSE or in the bottom 40% nationally at A level (or equivalent). Listed as part of a combination with an area criterion.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   },
+   {
+    "key": "area",
+    "detail": "You live in an area of low participation in higher education, or in an area of higher socio-economic disadvantage. Listed as part of a combination with the school criterion; the page does not name the measure used.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   }
+  ],
+  "minCriteria": null,
+  "rulesText": "UK students applying for an undergraduate degree (excluding foundation years and foundation degrees) may be eligible for a contextual offer if ONE of these applies: lived in local authority care; refugee or humanitarian protection status; took part in the Brookes Engage sustained outreach programmes; eligible for free school meals; under 25 with caring responsibilities. You may also be eligible if you meet a combination of: attending a school where average performance is below average at GCSE or in the bottom 40% nationally at A level (or equivalent), AND living in an area of low participation in higher education OR living in an area of higher socio-economic disadvantage (the page does not say exactly how these three are grouped). There is no separate form: apply through UCAS and indicate your residential status or care history if relevant.",
+  "url": "https://www.brookes.ac.uk/study/how-to-apply/entry-requirements/contextual-admissions",
+  "source": {
+   "url": "https://www.brookes.ac.uk/study/how-to-apply/entry-requirements/contextual-admissions",
+   "checked": "2026-10-21",
+   "evidence": "Our contextual offer is a grade reduction of up to 3 grades below the standard entry requirements."
+  }
+ },
+ "programmes": [
+  {
+   "id": "oxford-brookes-brookes-engage",
+   "name": "Brookes Engage",
+   "provider": "Oxford Brookes University",
+   "providerType": "university",
+   "uniIds": [
+    "oxford-brookes"
+   ],
+   "summary": "Free national outreach programme for Year 12 students with masterclass days, online content, student mentoring and a summer school (including an Oxford Brookes Business School Experience stream); completing it gives access to a contextual (lower) offer at Brookes.",
+   "whoCanApply": "Students in the first year of a two-year Level 3 course (e.g. A levels or BTEC) at a non-selective state school or college in England, who live in England and are 16 or over, and who also meet at least one widening-participation criterion (for example free school meals or sixth form bursary, care experience, young carer, refugee or asylum seeker, minority ethnic background, or an area in IMD deciles 1-4).",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "fsm",
+    "care",
+    "carer",
+    "refugee",
+    "area",
+    "estranged",
+    "other"
+   ],
+   "eligibilityDetail": "Must meet ALL of: first year of a two-year Level 3 qualification; non-selective state school or college in England; live in England; aged 16 or over when starting. AND at least one of: currently eligible for free school meals or 6th form bursary; currently live in local authority care or have lived in care; young carer (under 18); of black or minority ethnic origin; official refugee status or asylum seeker; live in an area of higher socio-economic disadvantage (Index of Multiple Deprivation decile 1-4). Applications are also considered from students with a disability, mental health condition or specific learning difficulty; of minority ethnic origin; with a parent/carer who has served in the armed forces in the past six years; irreconcilably estranged from both birth parents; or from a traveller family.",
+   "benefits": [
+    "Free: travel and meals for in-person activities are provided at no cost",
+    "Access to a contextual offer at Oxford Brookes on reduced tariff points, usually around two grades lower (varies per course)",
+    "On-campus masterclass days, online content, mentoring from current Brookes students and a summer school (option to stay in halls)",
+    "UCAS personal statement support and a special invite to the Open Day and Applicant Days"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "oxford-brookes"
+   ],
+   "offerReduction": "Usually around two grades lower than the standard offer, but can vary per course",
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "Subject streams include the Oxford Brookes Business School Experience (Accounting and Finance, Business and Management); other streams include Law, Crime and Justice, Architecture, Urban Design and Planning, and Creative Industries",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Masterclass days from January (Saturday 16 and 30 January), Explore Oxford on Monday 15 February, online guidance on Saturday 20 March; Business School Experience summer school Tuesday 29 June to Thursday 1 July; Year 13 UCAS support from September; mini graduation Saturday 25 March 2028",
+    "start": "2027-06-29",
+    "end": "2027-07-01",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Not stated (the page has an 'Apply Now' link to the application form)",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published on the page",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "Dates are shown on the page without a year (only the graduation date, 25 March 2028, has one); they fit the cohort that is in Year 12 in 2026/27, so the summer school is summer 2027. The dates given are for the Business School Experience stream.",
+   "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+   "source": {
+    "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+    "checked": "2026-10-21",
+    "evidence": "Successful completion of the programme will give you access to a contextual offer to study at Oxford Brookes."
+   },
+   "notConfirmed": [
+    "Application opening date and deadline are not shown on the page",
+    "Whether staying in halls at the summer school is free is not stated"
+   ]
+  },
+  {
+   "id": "oxford-brookes-subject-taster-days",
+   "name": "Subject Taster Days 2027",
+   "provider": "Oxford Brookes University",
+   "providerType": "university",
+   "uniIds": [
+    "oxford-brookes"
+   ],
+   "summary": "Free on-campus taster days for first-year sixth form and college students, including an Economics, Accounting and Finance day and a Business, Marketing and Management day.",
+   "whoCanApply": "Students at UK schools or colleges in the first year (or repeating the first year) of a two-year Level 3 qualification (e.g. A Levels, BTEC or equivalent). You can apply as an individual or, if you are a teacher or adviser, for a school or college group.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Open to first-year Level 3 students. A travel bursary is paid to students who are eligible for free school meals or a 6th form bursary, live or have lived in local authority care, are young carers, are of black or minority ethnic origin, have refugee or asylum seeker status, or live in an area of higher socio-economic disadvantage (IMD decile 1-4).",
+   "benefits": [
+    "Lectures and interactive academic sessions, practical work, a campus tour and talks on career potential",
+    "Travel bursary for students who meet the widening-participation criteria"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "day",
+   "subjects": "Economics, Accounting and Finance; Business, Marketing and Management; plus other subject areas (e.g. Social Sciences, Law)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "2027 dates not announced yet (the page says they will be announced in September)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not announced yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not announced yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "2027 dates have not been published yet.",
+   "url": "https://www.brookes.ac.uk/outreach/post-16/subject-taster-days",
+   "source": {
+    "url": "https://www.brookes.ac.uk/outreach/post-16/subject-taster-days",
+    "checked": "2026-10-21",
+    "evidence": "Each Subject Taster Day is free to attend and will give insight into a range of courses within a subject area."
+   },
+   "notConfirmed": [
+    "2027 dates, booking opening date and deadline are not published yet"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.brookes.ac.uk/",
+  "courses": "https://www.brookes.ac.uk/study/courses",
+  "economics": "https://www.brookes.ac.uk/courses/undergraduate/economics",
+  "openDays": "https://www.brookes.ac.uk/open-days/ug-oxford",
+  "fees": "https://www.brookes.ac.uk/study/fees",
+  "contextual": "https://www.brookes.ac.uk/study/how-to-apply/entry-requirements/contextual-admissions",
+  "accommodation": "https://www.brookes.ac.uk/student-life/accommodation/prospective-students/halls"
+ },
+ "courses": [
+  {
+   "id": "oxford-brookes-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "4 years with an optional work placement (placement year after year 2); January starts are also offered",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "ABB",
+    "low": null,
+    "tariff": 128,
+    "tariffLow": null,
+    "text": "128 UCAS Tariff points (for example ABB at A level)",
+    "source": {
+     "url": "https://www.brookes.ac.uk/courses/undergraduate/economics",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff Points: 128 A Level: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE: Mathematics (grade 4 or above)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brookes.ac.uk/courses/undergraduate/economics",
+    "checked": "2026-10-21",
+    "evidence": "GCSE: Mathematics (grade 4 or above)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page, and Oxford Brookes is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": ""
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": 104,
+     "conditions": "Contextual offer: 104 UCAS Tariff points (BCC at A level) if you meet Brookes' contextual criteria (for example lived in care, free school meals, young carer, refugee status, or completed Brookes Engage). Brookes says contextual offers are up to 3 grades below the standard entry requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.brookes.ac.uk/courses/undergraduate/economics",
+      "checked": "2026-10-21",
+      "evidence": "UCAS Tariff Points: 104 A Level: BCC"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "BCC",
+     "tariff": 104,
+     "conditions": "Complete Brookes Engage (free Year 12 programme for students from widening-participation backgrounds). Brookes says this gives access to a contextual offer, usually around two grades lower but varying per course; the course's contextual offer is 104 points (BCC).",
+     "programme": "Brookes Engage",
+     "source": {
+      "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the programme will give you access to a contextual offer to study at Oxford Brookes."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brookes.ac.uk/courses/undergraduate/economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry used (the page lists September 2027 among its start dates but is not labelled by entry year)",
+    "A-level subjects: the page lists no required or excluded subjects, so it does not say whether Psychology or Geography count (offers are in UCAS Tariff points)",
+    "year abroad: the page mentions a study exchange (most in the second year) but not a full year abroad"
+   ],
+   "notes": "In years 2 and 3 you can specialise in finance, sustainability, or enterprise and innovation, or keep it general. Brookes makes offers in UCAS Tariff points wherever possible; the A-level grades shown are just one way to reach those points."
+  },
+  {
+   "id": "oxford-brookes-economics-finance",
+   "name": "Economics, Finance and International Business",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN13",
+   "lengthYears": 3,
+   "lengthNote": "4 years with an optional paid work placement in year 3; January starts are also offered",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS Tariff points (for example BBC at A level)",
+    "source": {
+     "url": "https://www.brookes.ac.uk/courses/undergraduate/economics-finance-and-international-business",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff Points: 112 A Level: BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE: Mathematics (grade 4 or above)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brookes.ac.uk/courses/undergraduate/economics-finance-and-international-business",
+    "checked": "2026-10-21",
+    "evidence": "GCSE: Mathematics (grade 4 or above)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page, and Oxford Brookes is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": ""
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Contextual offer: 88 UCAS Tariff points (CCD at A level) if you meet Brookes' contextual criteria (for example lived in care, free school meals, young carer, refugee status, or completed Brookes Engage). Brookes says contextual offers are up to 3 grades below the standard entry requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.brookes.ac.uk/courses/undergraduate/economics-finance-and-international-business",
+      "checked": "2026-10-21",
+      "evidence": "UCAS Tariff Points: 88 A Level: CCD"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Complete Brookes Engage (free Year 12 programme for students from widening-participation backgrounds). Brookes says this gives access to a contextual offer, usually around two grades lower but varying per course; the course's contextual offer is 88 points (CCD).",
+     "programme": "Brookes Engage",
+     "source": {
+      "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the programme will give you access to a contextual offer to study at Oxford Brookes."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brookes.ac.uk/courses/undergraduate/economics-finance-and-international-business",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry used (the page lists September 2027 among its start dates but is not labelled by entry year)",
+    "A-level subjects: the page lists no required or excluded subjects, so it does not say whether Psychology or Geography count (offers are in UCAS Tariff points)",
+    "year abroad: the page mentions a study exchange (most in the second year) but not a full year abroad"
+   ],
+   "notes": "Combines economics with finance and international business (international trade, international finance and international business strategy modules). Brookes makes offers in UCAS Tariff points wherever possible; the A-level grades shown are just one way to reach those points."
+  },
+  {
+   "id": "oxford-brookes-economics-politics",
+   "name": "Economics, Politics and International Relations",
+   "degree": "BA (Hons)",
+   "ucasCode": "LL21",
+   "lengthYears": 3,
+   "lengthNote": "4 years with an optional work placement after year 2; January starts are also offered",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS Tariff points (for example BBC at A level)",
+    "source": {
+     "url": "https://www.brookes.ac.uk/courses/undergraduate/economics-politics-and-international-relations",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff Points: 112 A Level: BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE: Mathematics (grade 4 or above)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brookes.ac.uk/courses/undergraduate/economics-politics-and-international-relations",
+    "checked": "2026-10-21",
+    "evidence": "GCSE: Mathematics (grade 4 or above)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page, and Oxford Brookes is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": ""
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Contextual offer: 88 UCAS Tariff points (CCD at A level) if you meet Brookes' contextual criteria (for example lived in care, free school meals, young carer, refugee status, or completed Brookes Engage). Brookes says contextual offers are up to 3 grades below the standard entry requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.brookes.ac.uk/courses/undergraduate/economics-politics-and-international-relations",
+      "checked": "2026-10-21",
+      "evidence": "UCAS Tariff Points: 88 A Level: CCD"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Complete Brookes Engage (free Year 12 programme for students from widening-participation backgrounds). Brookes says this gives access to a contextual offer, usually around two grades lower but varying per course; the course's contextual offer is 88 points (CCD).",
+     "programme": "Brookes Engage",
+     "source": {
+      "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the programme will give you access to a contextual offer to study at Oxford Brookes."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brookes.ac.uk/courses/undergraduate/economics-politics-and-international-relations",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry used (the page lists September 2027 among its start dates but is not labelled by entry year)",
+    "A-level subjects: the page lists no required or excluded subjects, so it does not say whether Psychology or Geography count (offers are in UCAS Tariff points)",
+    "year abroad: the page mentions a study exchange (most in the second year) but not a full year abroad"
+   ],
+   "notes": "You can lean more towards economics or towards politics and international relations as you progress; an optional dissertation is available. Brookes makes offers in UCAS Tariff points wherever possible; the A-level grades shown are just one way to reach those points."
+  },
+  {
+   "id": "oxford-brookes-ppe",
+   "name": "Philosophy, Politics and Economics (PPE)",
+   "degree": "BA (Hons) or BSc (Hons)",
+   "ucasCode": "V5L1",
+   "lengthYears": 3,
+   "lengthNote": "4 years with an optional year abroad (the course structure also shows an optional placement year); September 2027 is the only start date listed",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": null,
+    "tariff": 120,
+    "tariffLow": null,
+    "text": "120 UCAS Tariff points (for example BBB at A level)",
+    "source": {
+     "url": "https://www.brookes.ac.uk/courses/undergraduate/philosophy-politics-economics-ppe",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff Points: 120 A Level: BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brookes.ac.uk/courses/undergraduate/philosophy-politics-economics-ppe",
+    "checked": "2026-10-21",
+    "evidence": "Please also see the University's general entry requirements."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page, and Oxford Brookes is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": ""
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": 96,
+     "conditions": "Contextual offer: 96 UCAS Tariff points (CCC at A level) if you meet Brookes' contextual criteria (for example lived in care, free school meals, young carer, refugee status, or completed Brookes Engage). Brookes says contextual offers are up to 3 grades below the standard entry requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.brookes.ac.uk/courses/undergraduate/philosophy-politics-economics-ppe",
+      "checked": "2026-10-21",
+      "evidence": "UCAS Tariff Points: 96 A Level: CCC"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "CCC",
+     "tariff": 96,
+     "conditions": "Complete Brookes Engage (free Year 12 programme for students from widening-participation backgrounds). Brookes says this gives access to a contextual offer, usually around two grades lower but varying per course; the course's contextual offer is 96 points (CCC).",
+     "programme": "Brookes Engage",
+     "source": {
+      "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the programme will give you access to a contextual offer to study at Oxford Brookes."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brookes.ac.uk/courses/undergraduate/philosophy-politics-economics-ppe",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry used (the page lists September 2027 among its start dates but is not labelled by entry year)",
+    "A-level subjects: the page lists no required or excluded subjects, so it does not say whether Psychology or Geography count (offers are in UCAS Tariff points)",
+    "GCSE: the course page lists no specific GCSE requirement and only points to the university's general entry requirements"
+   ],
+   "notes": "Designed so you can focus on two or three of the subjects and graduate with a BA or BSc. Brookes makes offers in UCAS Tariff points wherever possible; the A-level grades shown are just one way to reach those points."
+  },
+  {
+   "id": "oxford-brookes-accounting-economics",
+   "name": "Accounting and Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NL41",
+   "lengthYears": 3,
+   "lengthNote": "4 years with an optional work placement (the optional year 3 can also be a full-year international study abroad); September starts only",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-accounting"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS Tariff points (for example BBC at A level)",
+    "source": {
+     "url": "https://www.brookes.ac.uk/courses/undergraduate/accounting-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff Points: 112 A Level: BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics (grade C/4 or above)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brookes.ac.uk/courses/undergraduate/accounting-and-economics",
+    "checked": "2026-10-21",
+    "evidence": "GCSE: Mathematics (grade C/4 or above)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page, and Oxford Brookes is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": ""
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Contextual offer: 88 UCAS Tariff points (CCD at A level) if you meet Brookes' contextual criteria (for example lived in care, free school meals, young carer, refugee status, or completed Brookes Engage). Brookes says contextual offers are up to 3 grades below the standard entry requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.brookes.ac.uk/courses/undergraduate/accounting-and-economics",
+      "checked": "2026-10-21",
+      "evidence": "UCAS Tariff Points: 88 A Level: CCD"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Complete Brookes Engage (free Year 12 programme for students from widening-participation backgrounds). Brookes says this gives access to a contextual offer, usually around two grades lower but varying per course; the course's contextual offer is 88 points (CCD).",
+     "programme": "Brookes Engage",
+     "source": {
+      "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the programme will give you access to a contextual offer to study at Oxford Brookes."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brookes.ac.uk/courses/undergraduate/accounting-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry used (the page lists September 2027 among its start dates but is not labelled by entry year)",
+    "A-level subjects: the page lists no required or excluded subjects, so it does not say whether Psychology or Geography count (offers are in UCAS Tariff points)"
+   ],
+   "notes": "In the final year you specialise in accounting, economics, or a blend of both. Brookes makes offers in UCAS Tariff points wherever possible; the A-level grades shown are just one way to reach those points."
+  },
+  {
+   "id": "oxford-brookes-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN43",
+   "lengthYears": 3,
+   "lengthNote": "4 years with an optional placement year after year 2; September starts only",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS Tariff points (for example BBC at A level)",
+    "source": {
+     "url": "https://www.brookes.ac.uk/courses/undergraduate/accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff Points: 112 A Level: BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics (grade C/4 or above)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brookes.ac.uk/courses/undergraduate/accounting-and-finance",
+    "checked": "2026-10-21",
+    "evidence": "GCSE: Mathematics (grade C/4 or above)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page, and Oxford Brookes is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": ""
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Contextual offer: 88 UCAS Tariff points (CCD at A level) if you meet Brookes' contextual criteria (for example lived in care, free school meals, young carer, refugee status, or completed Brookes Engage). Brookes says contextual offers are up to 3 grades below the standard entry requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.brookes.ac.uk/courses/undergraduate/accounting-and-finance",
+      "checked": "2026-10-21",
+      "evidence": "UCAS Tariff Points: 88 A Level: CCD"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Complete Brookes Engage (free Year 12 programme for students from widening-participation backgrounds). Brookes says this gives access to a contextual offer, usually around two grades lower but varying per course; the course's contextual offer is 88 points (CCD).",
+     "programme": "Brookes Engage",
+     "source": {
+      "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the programme will give you access to a contextual offer to study at Oxford Brookes."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brookes.ac.uk/courses/undergraduate/accounting-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry used (the page lists September 2027 among its start dates but is not labelled by entry year)",
+    "A-level subjects: the page lists no required or excluded subjects, so it does not say whether Psychology or Geography count (offers are in UCAS Tariff points)"
+   ],
+   "notes": "In the final year you can choose between a dissertation and an accounting synoptic. Brookes makes offers in UCAS Tariff points wherever possible; the A-level grades shown are just one way to reach those points."
+  },
+  {
+   "id": "oxford-brookes-business-finance",
+   "name": "Business and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN23",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a work placement; September starts only",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS Tariff points (for example BBC at A level)",
+    "source": {
+     "url": "https://www.brookes.ac.uk/courses/undergraduate/business-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff Points: 112 A Level: BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4/C"
+    }
+   ],
+   "gcseText": "GCSE: Mathematics GCSE Grade 4/C",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brookes.ac.uk/courses/undergraduate/business-and-finance",
+    "checked": "2026-10-21",
+    "evidence": "GCSE: Mathematics GCSE Grade 4/C"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page, and Oxford Brookes is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": ""
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Contextual offer: 88 UCAS Tariff points (CCD at A level) if you meet Brookes' contextual criteria (for example lived in care, free school meals, young carer, refugee status, or completed Brookes Engage). Brookes says contextual offers are up to 3 grades below the standard entry requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.brookes.ac.uk/courses/undergraduate/business-and-finance",
+      "checked": "2026-10-21",
+      "evidence": "UCAS Tariff Points: 88 A Level: CCD"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Complete Brookes Engage (free Year 12 programme for students from widening-participation backgrounds). Brookes says this gives access to a contextual offer, usually around two grades lower but varying per course; the course's contextual offer is 88 points (CCD).",
+     "programme": "Brookes Engage",
+     "source": {
+      "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the programme will give you access to a contextual offer to study at Oxford Brookes."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brookes.ac.uk/courses/undergraduate/business-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry used (the page lists September 2027 among its start dates but is not labelled by entry year)",
+    "A-level subjects: the page lists no required or excluded subjects, so it does not say whether Psychology or Geography count (offers are in UCAS Tariff points)"
+   ],
+   "notes": "Brookes makes offers in UCAS Tariff points wherever possible; the A-level grades shown are just one way to reach those points."
+  },
+  {
+   "id": "oxford-brookes-business-management",
+   "name": "Business and Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N200",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a work placement; January starts are also offered",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS Tariff points (for example BBC at A level)",
+    "source": {
+     "url": "https://www.brookes.ac.uk/courses/undergraduate/business-and-management",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff Points: 112 A Level: BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.brookes.ac.uk/courses/undergraduate/business-and-management",
+    "checked": "2026-10-21",
+    "evidence": "Please also see the University's general entry requirements."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page, and Oxford Brookes is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": ""
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Contextual offer: 88 UCAS Tariff points (CCD at A level) if you meet Brookes' contextual criteria (for example lived in care, free school meals, young carer, refugee status, or completed Brookes Engage). Brookes says contextual offers are up to 3 grades below the standard entry requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.brookes.ac.uk/courses/undergraduate/business-and-management",
+      "checked": "2026-10-21",
+      "evidence": "UCAS Tariff Points: 88 A Level: CCD"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "CCD",
+     "tariff": 88,
+     "conditions": "Complete Brookes Engage (free Year 12 programme for students from widening-participation backgrounds). Brookes says this gives access to a contextual offer, usually around two grades lower but varying per course; the course's contextual offer is 88 points (CCD).",
+     "programme": "Brookes Engage",
+     "source": {
+      "url": "https://www.brookes.ac.uk/outreach/post-16/brookes-engage",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the programme will give you access to a contextual offer to study at Oxford Brookes."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.brookes.ac.uk/courses/undergraduate/business-and-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry used (the page lists September 2027 among its start dates but is not labelled by entry year)",
+    "A-level subjects: the page lists no required or excluded subjects, so it does not say whether Psychology or Geography count (offers are in UCAS Tariff points)",
+    "GCSE: the course page lists no specific GCSE requirement and only points to the university's general entry requirements"
+   ],
+   "notes": "Brookes makes offers in UCAS Tariff points wherever possible; the A-level grades shown are just one way to reach those points."
+  }
+ ],
+ "notes": [
+  "Offers are set in UCAS Tariff points, with an A-level grade example (e.g. 128 points = ABB). Brookes says it makes conditional offers using the UCAS Tariff wherever possible, so AS levels, the Extended Project and other tariff qualifications can count towards the points.",
+  "No 2028-entry pages yet (checked 2026-10-21), so all courses use 2027 entry; the course pages list September 2027 among their start dates.",
+  "Oxford Brookes is not on UAT-UK's official TMUA list for 2027 entry, and none of the course pages mention an admissions test.",
+  "Every course here also has a 'with Foundation Year' version listed in Brookes' fee finder (https://www.brookes.ac.uk/study/fees).",
+  "Brookes' contextual offers are up to 3 grades below the standard requirements and are shown on each course page (for example 104 points instead of 128 for Economics).",
+  "Brookes also runs online Year 12 taster sessions (including Business) and recorded subject lectures on its Outreach Hub (https://www.brookes.ac.uk/outreach/post-16); the cost of the taster sessions is not stated on the page."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2027/28 fee: course pages show £10,050, but Brookes' tuition fee FAQ page still says 2027/28 fees will be published once confirmed",
+  "Hall prices for 2027-28 are not published yet (expected January 2027); 2026/27 prices recorded",
+  "Open days: 2027 dates not announced yet",
+  "Contextual admissions: the page does not say which area measure (e.g. POLAR or IMD) or which quintiles count, and does not say exactly how the school and area criteria group together",
+  "A-level subjects: no required or excluded subjects are listed on any course page, so it is not stated whether Psychology or Geography count (offers are in UCAS Tariff points)",
+  "Brookes Engage: application opening date and deadline not shown; Subject Taster Days 2027 dates not announced yet"
+ ]
+}

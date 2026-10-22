@@ -1,0 +1,1905 @@
+{
+  "checked": "2026-10-21",
+  "programmes": [
+    {
+      "id": "suttontrust-uk-summer-schools",
+      "name": "Sutton Trust UK Summer Schools",
+      "provider": "The Sutton Trust",
+      "providerType": "charity",
+      "uniIds": [
+        "durham",
+        "imperial",
+        "nottingham",
+        "sheffield",
+        "southampton",
+        "st-andrews",
+        "warwick",
+        "glasgow"
+      ],
+      "summary": "A free summer school of about a week at a leading university: undergraduate-level teaching in one subject, UCAS and personal statement help, and a lower offer from some host universities.",
+      "whoCanApply": "Year 12 students in England or Wales who attend, and have always attended, a state-funded, non-fee-paying school or college. The Sutton Trust looks for students who would be the first in their family to go to university, have had free school meals, attend a school with below-average results or low progression to university, live in a low-progression or deprived neighbourhood, or have been in care. Five GCSEs at grades 9-6 including English and Maths are desirable.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "firstGen",
+        "fsm",
+        "school",
+        "area",
+        "care"
+      ],
+      "eligibilityDetail": "Must always have attended a state-funded, non-fee-paying school/college and be in Year 12 in England or Wales (Year 13 in Northern Ireland, S5 in Scotland); generally you need to be under 18. Desirable: at least five GCSEs at grades 9-6 (A*-B) including English and Maths; universities may look at overall GCSE results and some courses have subject requirements. You don't need to meet every extra criterion, but the more you meet the more likely you are to get a place. Care-experienced applicants only need the age, school and academic requirements. You can apply for one course only and can't already be on another Sutton Trust programme, so it can't be combined with Pathways. 2026 course requirements: Durham Economics and Finance needs A-level Maths; Durham Accounting needs A-level Maths or GCSE Maths grade 6 or above; Durham Business needs GCSE Maths grade 6 or above (or Core Maths grade B); Imperial needs three A-levels including Maths and eight GCSEs with at least five at grades 7-9; Nottingham needs GCSE Maths grade 6; Southampton Economics needs GCSE English and Maths at grade 4 (Business: Maths grade 6, grade 5 accepted); Warwick PPE needs GCSE Maths grade 7; St Andrews needs a GCSE or National 5 in English and Maths; Sheffield and Glasgow have no extra subject requirements.",
+      "benefits": [
+        "Completely free; travel costs are covered",
+        "Over 15 hours of undergraduate-level teaching in your chosen subject",
+        "UCAS, personal statement and student finance workshops",
+        "Access to Sutton Trust Online and the Sutton Trust alumni network",
+        "A lower offer from some host universities (Durham, Nottingham, Sheffield, St Andrews, Southampton, Glasgow)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "durham",
+        "glasgow",
+        "nottingham",
+        "sheffield",
+        "southampton",
+        "st-andrews"
+      ],
+      "offerReduction": "Depends on the host university (Sutton Trust table, 2026). Durham: a guaranteed contextual offer, typically at least two grades below the standard offer (if you attend Durham's summer school). Nottingham: two grades off (one grade off if you attended another university's summer school); needs Home fee status and a most recent school that wasn't independent. Sheffield: up to three grades off, down to BBC (up to two grades off if you attended elsewhere and meet its Access+ criteria). St Andrews: you become eligible for its minimum entry requirements. Southampton: a lower offer for participants of its Experience UoS residential who meet its criteria. Glasgow: an adjusted offer if you meet its widening participation criteria (UK applicants from outside Scotland are usually offered the minimum grade requirement). Imperial and Warwick give no extra consideration for the summer school, and Edinburgh doesn't guarantee a contextual offer.",
+      "cost": "Free",
+      "isFree": true,
+      "format": "residential",
+      "subjects": "All subjects (40+ subject areas). Economics, business, finance and social science courses in 2026: Economics and Finance, Accounting and Business (Durham); Economics, Finance and Data Science (Imperial); Business, Maths and Economics (Nottingham); Management and Economics (Sheffield); Economics and Business (Southampton); Economics and Management (St Andrews); PPE (Warwick); Arts & Social Sciences (Glasgow)",
+      "yearGroup": "Year 12 (England and Wales); Year 13 in Northern Ireland; S5 in Scotland",
+      "runs": {
+        "text": "Expected June to August 2027 (the 2026 summer schools ran June to August 2026). Only Southampton has published 2027 dates so far: Tuesday 13 to Friday 16 July 2027",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "January 2027",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Expected early March 2027 (2026: applications closed 5 March 2026, or 12 February 2026 for Cambridge)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "These are the 2026 details. The 2027 courses and deadline aren't out yet (Southampton has listed 13 to 16 July 2027); the Sutton Trust says applications open in January 2027. You can only be on one Sutton Trust programme at a time (Sutton Trust Online is separate).",
+      "url": "https://summerschools.suttontrust.com/",
+      "source": {
+        "url": "https://summerschools.suttontrust.com/eligibility/",
+        "checked": "2026-10-21",
+        "evidence": "Attend, and have always attended, a state-funded, non-fee paying school/college"
+      },
+      "notConfirmed": [
+        "2027 courses, places, dates and deadline: not published yet (2026 details shown), apart from Southampton's 13 to 16 July 2027",
+        "Host-university offer reductions are from the Sutton Trust's 2026 table and may change for 2027",
+        "Southampton's own page says applications for its 2027 summer school open in the Autumn Term, but the Sutton Trust says UK Summer School applications open in January 2027"
+      ],
+      "extraSources": [
+        {
+          "url": "https://summerschools.suttontrust.com/eligibility/",
+          "checked": "2026-10-21",
+          "evidence": "Are studying in Year 12 in England or Wales, Year 13 in Northern Ireland, or S5 in Scotland (or equivalent)"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/eligibility/",
+          "checked": "2026-10-21",
+          "evidence": "Attend a school or college with below average attainment or a low rate of progression to the top third of higher education institutions"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/eligibility/",
+          "checked": "2026-10-21",
+          "evidence": "Live in a neighbourhood with a low rate of progression to higher education and/or a high level of socio-economic deprivation"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/eligibility/",
+          "checked": "2026-10-21",
+          "evidence": "Have achieved at least five GCSEs at grades 9 – 6 (or A*- B) or five A or B grades at National 5, including English and Maths. Universities may also consider your overall level of GCSE (or"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/eligibility/",
+          "checked": "2026-10-21",
+          "evidence": "Would be in the first generation of your family to attend university"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/eligibility/",
+          "checked": "2026-10-21",
+          "evidence": "The more criteria you meet, the more likely you are to secure a place. Not meeting all of these will not disqualify you"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/eligibility/",
+          "checked": "2026-10-21",
+          "evidence": "If you are (or have been) looked after, accommodated or in care, you only need to meet the age, school and academic requirements."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/eligibility/",
+          "checked": "2026-10-21",
+          "evidence": "*Generally, you will need to be under-18 in order to apply for our UK Summer Schools programmes. However, some of our partner universities do allow students in Year 12 (or equivalent) who are over"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/",
+          "checked": "2026-10-21",
+          "evidence": "Our Summer Schools are completely free so you can get to know your chosen university, no matter where in the country you’re from."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/how-to-apply/",
+          "checked": "2026-10-21",
+          "evidence": "You can only apply to for one course, so make sure you select your top choice and ensure you will be available on the dates. Remember all travel costs are covered by the programme, so you don’t need"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/how-to-apply/",
+          "checked": "2026-10-21",
+          "evidence": "Remember all travel costs are covered by the programme, so you don’t need to worry about the distance. Please check you meet the subject specific course requirements."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/how-to-apply/",
+          "checked": "2026-10-21",
+          "evidence": "have always attended a state-funded school, and are not enrolled on another Sutton Trust programme. Once you have entered your information, you will be sent a link to create a password – don’t forget"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/",
+          "checked": "2026-10-21",
+          "evidence": "With over 15 hours of teaching at undergraduate level, you will get the chance to explore the subjects that you are passionate about."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/",
+          "checked": "2026-10-21",
+          "evidence": "Applications for 2026 UK Summer Schools are now closed"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/university-partners/",
+          "checked": "2026-10-21",
+          "evidence": "Open Date: 12 January 2026 Close Date: 05 March 2026"
+        },
+        {
+          "url": "https://applicationsupport.suttontrust.com/support/home",
+          "checked": "2026-10-21",
+          "evidence": "When do UK Summer School applications open? January 2027."
+        },
+        {
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/pathways-to-banking-and-finance-london-years-12-13",
+          "checked": "2026-10-21",
+          "evidence": "You can only take part in one Sutton Trust programme. This includes the US programme, Access Apprenticeships, other Pathways programmes or UK Summer Schools."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "Guaranteed contextual offer The offer will typically be at least two grades below the standard offer."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "Two grade reduction on offers for all courses with the exception of Foundation courses."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "One grade reduction on offers for all courses with the exception of Foundation courses. Applicants must have Home UK fees status to receive a contextual offer and their most recent school must not"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "Applicants must have Home UK fees status to receive a contextual offer and their most recent school must not have been independent (except for care-experienced students)."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "Up to a three grade reduction down to BBC equivalence. Excludes Foundation Years."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "Only if students meet our Access+ eligibility Up to a two grade reduction down to BBC equivalence."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "Students are eligible for our minimum entry requirements."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "Experience UoS Residential participants may be eligible for a contextual offer, which is lower than the typical offer for that degree if:"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "Yes, provided students meet our Widening Participation criteria. Professional subjects are excluded from the Sutton Trust UKSS contextual offers (Medicine/Dentistry/Veterinary Medicine/Veterinary"
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "RUK applicants are usually made an offer at the minimum grade requirement."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "At present, they do not get any extra consideration for having participated in the summer school."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "Attendance at the Sutton Trust UK Summer Schools does not guarantee that a student’s application will be considered under a contextual offer scheme."
+        },
+        {
+          "url": "https://summerschools.suttontrust.com/contextual-admissions/",
+          "checked": "2026-10-21",
+          "evidence": "While attendance at the Sutton Trust Summer School does not guarantee a contextual offer, applicants may be eligible for an adjusted offer through our widening access offers scheme: Widening Access"
+        },
+        {
+          "url": "https://www.southampton.ac.uk/schools-colleges/experience-summer-event.page",
+          "checked": "2026-10-21",
+          "evidence": "University of Southampton and The Sutton Trust Summer School"
+        },
+        {
+          "url": "https://www.southampton.ac.uk/schools-colleges/experience-summer-event.page",
+          "checked": "2026-10-21",
+          "evidence": "Tuesday 13 to Friday 16 July 2027."
+        },
+        {
+          "url": "https://www.southampton.ac.uk/schools-colleges/experience-summer-event.page",
+          "checked": "2026-10-21",
+          "evidence": "Applications for the 2027 Summer School will open in the Autumn Term."
+        },
+        {
+          "url": "https://www.southampton.ac.uk/schools-colleges/experience-summer-event.page",
+          "checked": "2026-10-21",
+          "evidence": "The information on this page is for reference only."
+        }
+      ],
+      "relevantCourses": [
+        {
+          "uniId": "durham",
+          "course": "Economics and Finance",
+          "start": "2026-07-27",
+          "end": "2026-07-31",
+          "places": 20,
+          "requirements": "A levels must include Maths for this subject.",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/durham-university/economics-and-finance-2/",
+            "checked": "2026-10-21",
+            "evidence": "Durham University 27 July 2026 - 31 July 2026 20 programme places"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/durham-university/economics-and-finance-2/",
+            "checked": "2026-10-21",
+            "evidence": "A levels must include Maths for this subject."
+          }
+        },
+        {
+          "uniId": "durham",
+          "course": "Accounting",
+          "start": "2026-07-27",
+          "end": "2026-07-31",
+          "places": 20,
+          "requirements": "Students must either be taking Maths at A level OR have a grade 6 or above in Maths GCSE OR grade B or above in the Core Maths Qualification for this subject.",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/durham-university/accounting-2/",
+            "checked": "2026-10-21",
+            "evidence": "Durham University 27 July 2026 - 31 July 2026 20 programme places"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/durham-university/accounting-2/",
+            "checked": "2026-10-21",
+            "evidence": "Students must either be taking Maths at A level OR have a grade 6 or above in Maths GCSE OR grade B or above in the Core Maths Qualification for this subject."
+          }
+        },
+        {
+          "uniId": "durham",
+          "course": "Business (Marketing and Management)",
+          "start": "2026-07-27",
+          "end": "2026-07-31",
+          "places": 20,
+          "requirements": "Students must have a grade 6 or above in Maths GCSE OR grade B or above in the Core Maths Qualification for this subject, if Maths not taken at A Level.",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/durham-university/business-marketing-and-management-2/",
+            "checked": "2026-10-21",
+            "evidence": "Durham University 27 July 2026 - 31 July 2026 20 programme places"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/durham-university/business-marketing-and-management-2/",
+            "checked": "2026-10-21",
+            "evidence": "Students must have a grade 6 or above in Maths GCSE OR grade B or above in the Core Maths Qualification for this subject, if Maths not taken at A Level."
+          }
+        },
+        {
+          "uniId": "imperial",
+          "course": "Economics, Finance and Data Science",
+          "start": "2026-07-14",
+          "end": "2026-07-17",
+          "places": null,
+          "requirements": "GCSEs: Have achieved a minimum of eight GCSEs with at least five in grades 7-9 (including 7-9s in maths and sciences). Have achieved a minimum of grade 5 in GCSE English Language. A-levels: Be studying at least three A-levels, one of which must be Mathematics. Further Mathematics and/or Economics are useful but not required.",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/imperial-college-london/economics-finance-and-data-science/",
+            "checked": "2026-10-21",
+            "evidence": "Imperial College London 14 July 2026 - 17 July 2026"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/imperial-college-london/economics-finance-and-data-science/",
+            "checked": "2026-10-21",
+            "evidence": "A-levels: Be studying at least three A-levels, one of which must be Mathematics. Further Mathematics and/or Economics are useful but not required."
+          }
+        },
+        {
+          "uniId": "nottingham",
+          "course": "Business, Maths and Economics",
+          "start": "2026-07-05",
+          "end": "2026-07-10",
+          "places": 30,
+          "requirements": "Have achieved at least a 6 in GCSE Maths or equivalent.",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-nottingham/business-maths-and-economics-2/",
+            "checked": "2026-10-21",
+            "evidence": "University of Nottingham 5 July 2026 - 10 July 2026 30 programme places"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-nottingham/business-maths-and-economics-2/",
+            "checked": "2026-10-21",
+            "evidence": "Have achieved at least a 6 in GCSE Maths or equivalent."
+          }
+        },
+        {
+          "uniId": "sheffield",
+          "course": "Management and Economics",
+          "start": "2026-07-21",
+          "end": "2026-07-24",
+          "places": null,
+          "requirements": "There are no subject pre-requisites or specific entry requirements for this summer school course.",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-sheffield/management-and-economics/",
+            "checked": "2026-10-21",
+            "evidence": "University of Sheffield 21 July 2026 - 24 July 2026"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-sheffield/management-and-economics/",
+            "checked": "2026-10-21",
+            "evidence": "There are no subject pre-requisites or specific entry requirements for this summer school course."
+          }
+        },
+        {
+          "uniId": "southampton",
+          "course": "Economics",
+          "start": "2026-07-07",
+          "end": "2026-07-10",
+          "places": 10,
+          "requirements": "GCSE English Language (or GCSE English) (minimum grade 4/C) and Mathematics (minimum grade 4/C)",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-southampton/economics-6/",
+            "checked": "2026-10-21",
+            "evidence": "University of Southampton 7 July 2026 - 10 July 2026 10 programme places"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-southampton/economics-6/",
+            "checked": "2026-10-21",
+            "evidence": "GCSE English Language (or GCSE English) (minimum grade 4/C) and Mathematics (minimum grade 4/C)"
+          }
+        },
+        {
+          "uniId": "southampton",
+          "course": "Business",
+          "start": "2026-07-07",
+          "end": "2026-07-10",
+          "places": 10,
+          "requirements": "GCSE English Language (or GCSE English) (minimum grade 4/C) and Mathematics (minimum grade 6/B *) * We can accept a grade 5 in GCSE Mathematics if you achieve grade B in A-Level Maths, Physics, Economics, Geography, Psychology or Business",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-southampton/business/",
+            "checked": "2026-10-21",
+            "evidence": "University of Southampton 7 July 2026 - 10 July 2026 10 programme places"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-southampton/business/",
+            "checked": "2026-10-21",
+            "evidence": "GCSE English Language (or GCSE English) (minimum grade 4/C) and Mathematics (minimum grade 6/B *)"
+          }
+        },
+        {
+          "uniId": "st-andrews",
+          "course": "Economics and Management",
+          "start": "2026-07-05",
+          "end": "2026-07-10",
+          "places": null,
+          "requirements": "You should have a National 5 or a GCSE in English and Mathematics You are on track to achieve three A Levels or four Highers",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-st-andrews/economics-mathematics/",
+            "checked": "2026-10-21",
+            "evidence": "University of St Andrews 5 July 2026 - 10 July 2026"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-st-andrews/economics-mathematics/",
+            "checked": "2026-10-21",
+            "evidence": "You should have a National 5 or a GCSE in English and Mathematics"
+          }
+        },
+        {
+          "uniId": "warwick",
+          "course": "Philosophy, Politics & Economics (PPE)",
+          "start": "2026-07-28",
+          "end": "2026-07-31",
+          "places": 20,
+          "requirements": "Grade 7/ Grade A in GCSE Mathematics",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-warwick/philosophy-politics-economics-ppe/",
+            "checked": "2026-10-21",
+            "evidence": "University of Warwick 28 July 2026 - 31 July 2026 20 programme places"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-warwick/philosophy-politics-economics-ppe/",
+            "checked": "2026-10-21",
+            "evidence": "Grade 7/ Grade A in GCSE Mathematics"
+          }
+        },
+        {
+          "uniId": "glasgow",
+          "course": "Arts & Social Sciences",
+          "start": "2026-06-29",
+          "end": "2026-07-03",
+          "places": 20,
+          "requirements": "No additional academic requirements",
+          "source": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-glasgow/arts-humanities-2/",
+            "checked": "2026-10-21",
+            "evidence": "University of Glasgow 29 June 2026 - 3 July 2026 20 programme places"
+          },
+          "requirementSource": {
+            "url": "https://summerschools.suttontrust.com/course/university-of-glasgow/arts-humanities-2/",
+            "checked": "2026-10-21",
+            "evidence": "No additional academic requirements"
+          }
+        }
+      ]
+    },
+    {
+      "id": "suttontrust-pathways-banking-finance-online",
+      "name": "Pathways to Banking & Finance Online (Sutton Trust)",
+      "provider": "The Sutton Trust",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "A free online programme over Year 12 and 13 with banking and finance employer and university taster sessions, skills workshops, online work experience, mentoring and application support, open to students anywhere in the UK.",
+      "whoCanApply": "Year 12 students in England or Wales (Year 13 in Northern Ireland, S5 in Scotland) anywhere in the UK who have always attended a state-funded, non-fee-paying school or college. Selection also looks at five GCSEs at grades 9-6 including English and Maths, being first in the family to go to university, free school meals, a school with below-average results or low progression to university, a low-progression or deprived neighbourhood, and time in care.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "firstGen",
+        "fsm",
+        "school",
+        "area",
+        "care"
+      ],
+      "eligibilityDetail": "No commuting needed: the online programmes are open to anyone across the country (the in-person Pathways need you to live within 90 minutes of the host university). The application is a short form, mostly yes/no questions, plus a personal statement of no more than 300 words. Most sessions are recorded so you can watch later. You can only be on one Sutton Trust programme, so taking a Pathways place rules out a UK Summer School. The in-person Pathways to Banking & Finance programmes at LSE, Leicester, Liverpool and Warwick are listed under those universities.",
+      "benefits": [
+        "Employer- and university-led taster sessions, skills workshops and work placements with leading banking and finance employers (Year 12)",
+        "Online work experience placement(s), mentoring and networking with universities and professionals",
+        "Application support through Sutton Trust Online in Year 13, with a chance to graduate from the programme",
+        "Access to contextual offers at partner universities, subject to your programme engagement (the Sutton Trust page doesn't name them; LSE, Exeter, Cardiff, Nottingham and Leicester name it on their own pages, see Offer)",
+        "Can be added to your UCAS application and CV; Sutton Trust alumni community"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "cardiff",
+        "exeter",
+        "leicester",
+        "lse",
+        "nottingham"
+      ],
+      "offerReduction": "Depends on the university and none of these is guaranteed. LSE: you may be considered for a contextual offer, one or two grades lower. Exeter: up to a three-grade adjustment. Cardiff: you're classed as contextual (not for Medicine or Dentistry), which can mean an offer one or two grades lower, extra consideration or an interview. Nottingham: a standard contextual offer, usually one grade lower (needs Home fee status and a most recent school that wasn't independent). Leicester: a dual offer with reduced academic conditions (grades not stated). The Sutton Trust says it shares full details of each university's Pathways offers with participants over the summer.",
+      "cost": "Free",
+      "isFree": true,
+      "format": "online",
+      "subjects": "Banking and finance (careers and finance-related degrees)",
+      "yearGroup": "Year 12 (runs into Year 13)",
+      "runs": {
+        "text": "Launch expected December 2026 to January 2027; runs over two school years and finishes before the Year 13 exams",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Opened 1 September 2026 (open now)",
+        "date": "2026-09-01",
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "2 November 2026",
+        "date": "2026-11-02",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "Applications close on 2 November 2026. You can only be on one Sutton Trust programme at a time (Sutton Trust Online is separate).",
+      "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+      "source": {
+        "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+        "checked": "2026-10-21",
+        "evidence": "Pathways to Banking & Finance Online is a fully virtual programme hosted directly by The Sutton Trust. It has been designed utilising our 25 years of experience running programmes which support"
+      },
+      "notConfirmed": [
+        "Whether a particular university gives a lower offer for the online programme, and by how much: the Sutton Trust page names none; the five recorded here come from those universities' own contextual pages and none of the offers is guaranteed",
+        "Warwick's contextual page counts Pathways to Banking and Finance completed 'through Warwick or another university' but doesn't mention the online version",
+        "Exact launch date and the dates of the work experience: the page says launch is usually December to January",
+        "The Pathways page gives '1st September' and '2nd November' without a year; the Sutton Trust course list says Pathways applications are open now, and Liverpool's page confirms 2 November 2026"
+      ],
+      "extraSources": [
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+          "checked": "2026-10-21",
+          "evidence": "1st September Step 3 Applications close 2nd November"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/pathways-to-the-professions-course-list",
+          "checked": "2026-10-21",
+          "evidence": "Pathways to Banking and Finance Online – closing 2 November – click here to find out more"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/pathways-to-the-professions-course-list",
+          "checked": "2026-10-21",
+          "evidence": "Applications for Pathways are now open! Click here to apply now."
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+          "checked": "2026-10-21",
+          "evidence": "Attend, and have always attended, a state-funded school or college (non-fee paying) in the UK"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+          "checked": "2026-10-21",
+          "evidence": "Are studying in Year 12 in England or Wales, Year 13 in Northern Ireland, or S5 in Scotland (or equivalent)"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/am-i-eligible",
+          "checked": "2026-10-21",
+          "evidence": "Our online programmes (Banking and Finance, Law with The Sutton Trust) are open to anyone across the country."
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/am-i-eligible",
+          "checked": "2026-10-21",
+          "evidence": "Have achieved at least five GCSEs at grades 9 – 6 (or A*- B), including English and Maths. Universities may also consider your overall level of GCSE (or equivalent) attainment as part of the"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/am-i-eligible",
+          "checked": "2026-10-21",
+          "evidence": "Would be in the first generation of your family to attend university."
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+          "checked": "2026-10-21",
+          "evidence": "The Pathways to Banking & Finance Online programme is completely virtual and runs over two academic years, starting when you are just heading into Sixth Form/College and finishing before your exams"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+          "checked": "2026-10-21",
+          "evidence": "The Year 12 programme focuses primarily on offering exciting sector-specific insights, through employer- and university-led taster sessions, skills workshops, and work placements with leading"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+          "checked": "2026-10-21",
+          "evidence": "Dependent on each programme and university – usually around December"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+          "checked": "2026-10-21",
+          "evidence": "Access to contextual offers (subject to your programme engagement)"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/contextual-admissions",
+          "checked": "2026-10-21",
+          "evidence": "Participating in Pathways will increase your access to contextual offers at many of our partner universities. We’ll share full details of the Pathways offers available at each university with"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/contextual-admissions",
+          "checked": "2026-10-21",
+          "evidence": "full details of the Pathways offers available at each university with participants over the summer."
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance",
+          "checked": "2026-10-21",
+          "evidence": "Pathways to Banking and Finance is completely free (including travel) and provides support in accessing higher education, training in soft skills, and understanding careers in Banking and Finance"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance",
+          "checked": "2026-10-21",
+          "evidence": "Our work placements can take place in-person, hybrid or virtually and be between 3 and 5 days long. They’ll provide you with the opportunity to get a flavour of the day-to-day activities, projects"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+          "checked": "2026-10-21",
+          "evidence": "The majority of sessions on the Pathways to Banking & Finance Online programme are recorded, giving you the opportunity to take part in sessions online or to watch the recordings at your own"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/career-pathways/banking-finance/pathways-to-banking-finance-with-sutton-trust-online",
+          "checked": "2026-10-21",
+          "evidence": "Please give a brief personal statement (of no more than 300 words) explaining your suitability for the programme and why you would like to participate”"
+        },
+        {
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/pathways-to-banking-and-finance-london-years-12-13",
+          "checked": "2026-10-21",
+          "evidence": "You can only take part in one Sutton Trust programme. This includes the US programme, Access Apprenticeships, other Pathways programmes or UK Summer Schools."
+        },
+        {
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/prospective-students/how-to-apply/contextual-admissions-and-offers",
+          "checked": "2026-10-21",
+          "evidence": "You have completed any Sutton Trust Pathways programme at a UK university"
+        },
+        {
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/prospective-students/how-to-apply/contextual-admissions-and-offers",
+          "checked": "2026-10-21",
+          "evidence": "Pathways to Banking and Finance (in-person or online)"
+        },
+        {
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/prospective-students/how-to-apply/contextual-admissions-and-offers",
+          "checked": "2026-10-21",
+          "evidence": "your application may be considered for a contextual offer. This means, if you receive an offer, it will be one or two grades lower than the standard entry requirements"
+        },
+        {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+          "checked": "2026-10-21",
+          "evidence": "Sutton Trust Pathways to Banking & Finance (online), Mature Access Pathway. You can check details of these on the Exeter Scholars webpages. Applicants in this category who receive an offer will receive up to a three-grade adjustment."
+        },
+        {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+          "checked": "2026-10-21",
+          "evidence": "Excluding applicants to medicine and dentistry programmes, you will also be classed as contextual if you complete any of the following widening participation activities at other higher education"
+        },
+        {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+          "checked": "2026-10-21",
+          "evidence": "Sutton Trust Pathways to Banking and Finance (online)"
+        },
+        {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+          "checked": "2026-10-21",
+          "evidence": "be given an offer made at one or two grades lower than the standard offer (typically the middle to lower end of the advertised grade range)"
+        },
+        {
+          "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+          "checked": "2026-10-21",
+          "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+        },
+        {
+          "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+          "checked": "2026-10-21",
+          "evidence": "These offers are usually one grade lower than the entry requirements on our course pages, however this can vary for some courses."
+        },
+        {
+          "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+          "checked": "2026-10-21",
+          "evidence": "To qualify for a standard contextual offer, you must have Home-UK fee status and your current or most recent school/college must be in the UK and cannot be an independent (fee-paying) school/college."
+        },
+        {
+          "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+          "checked": "2026-10-21",
+          "evidence": "Sutton Trust Pathways Programmes"
+        },
+        {
+          "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+          "checked": "2026-10-21",
+          "evidence": "will be made a dual offer. One part will be the standard offer for that course, the other an offer with reduced academic conditions"
+        },
+        {
+          "url": "https://www.liverpool.ac.uk/study/widening-participation/post-16/pathways/banking/",
+          "checked": "2026-10-21",
+          "evidence": "Applications are open now and will close on 2nd November 2026. Click here to apply."
+        }
+      ]
+    },
+    {
+      "id": "suttontrust-sutton-trust-online",
+      "name": "Sutton Trust Online (STO)",
+      "provider": "The Sutton Trust",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "A free online programme of up to 18 months with university and apprenticeship guidance: personal statement tools and a mentor, webinars from Russell Group university staff and employers, and help with admissions tests and interviews.",
+      "whoCanApply": "Students in Year 12 (England and Wales) when applying who have always attended a state-funded, non-fee-paying school or college, have at least four GCSEs at grades 9-6, and meet one of: first in the family to gain a degree, free school meals at secondary school, looked after or in care, or live in a low-progression neighbourhood and attend a school with lower-than-average progression to higher education or more free-school-meal students.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "firstGen",
+        "fsm",
+        "care",
+        "area",
+        "school"
+      ],
+      "eligibilityDetail": "Always attended a state-funded, non-fee-paying school or college; in Year 12 (England and Wales) when applying (the year group is the one you are coming to the end of or have just finished); at least four GCSEs at 9-6; plus one of the social mobility criteria. Students who apply to UK Summer Schools, Pathways or Access Apprenticeships and meet the STO criteria are enrolled automatically.",
+      "benefits": [
+        "Detailed application and personal statement support, including a personal statement building tool and the opportunity for a mentor",
+        "Webinars and events with Russell Group university staff and top employers (student finance, applying to university and apprenticeships)",
+        "Support with admissions tests and interviews for competitive courses and universities",
+        "University and course specific content from university partners; chat with current undergraduates and alumni",
+        "A standard contextual offer at Nottingham (Nottingham's own page names Sutton Trust Online)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "nottingham"
+      ],
+      "offerReduction": "Nottingham: a standard contextual offer, usually one grade lower, for completing a Sutton Trust programme at post-16 not hosted by Nottingham (its page names Sutton Trust Online). You need Home fee status and a most recent school that wasn't independent. The Sutton Trust page itself doesn't mention offers.",
+      "cost": "Free",
+      "isFree": true,
+      "format": "online",
+      "subjects": "All subjects (university and apprenticeship applications)",
+      "yearGroup": "Year 12 (apply at the end of Year 12)",
+      "runs": {
+        "text": "Up to 18 months from joining",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "Expected mid-May 2027 (the 2026 round opened 14 May 2026)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Expected late August 2027 (the 2026 round closed 26 August 2026)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "These are the 2026 details (the round has closed); the Sutton Trust asks you to register your interest for 2027. You're signed up automatically if you apply to a Sutton Trust summer school, Pathways or Access Apprenticeships programme and meet the criteria.",
+      "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+      "source": {
+        "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+        "checked": "2026-10-21",
+        "evidence": "Applications open: 14th May 2026 Applications close: 26th August 2026"
+      },
+      "notConfirmed": [
+        "2027 application dates: not announced (registering interest only); the 2027 dates shown are based on the 2026 round",
+        "Cost: the page for STO doesn't say; the Sutton Trust's programmes page says all its programmes are completely free to attend"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+          "checked": "2026-10-21",
+          "evidence": "Register your interest in STO 2027"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+          "checked": "2026-10-21",
+          "evidence": "Duration: Up to 18 months"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+          "checked": "2026-10-21",
+          "evidence": "Attend, and have always attended, a state-funded, non fee-paying school/college."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+          "checked": "2026-10-21",
+          "evidence": "Please note our year group criteria refers to the year group the student is coming to the end of or has just finished, rather than the year group they are going into, with the exception of S6, where"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+          "checked": "2026-10-21",
+          "evidence": "Have achieved at least four GCSEs at grades 9 – 6 (A*-B) or achieved four A or B grades at National 5"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+          "checked": "2026-10-21",
+          "evidence": "Would be the first generation in their family to gain a degree/degree-level qualification."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+          "checked": "2026-10-21",
+          "evidence": "Students who apply to our Guided Programmes (Pathways to the Professions, Access Apprenticeships and UK Summer Schools) and meet the STO criteria, will be automatically enrolled in Sutton Trust"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+          "checked": "2026-10-21",
+          "evidence": "Including access to a personal statement building tool and the opportunity for a mentor."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/sutton-trust-online-sto/",
+          "checked": "2026-10-21",
+          "evidence": "On STO students have access to an extensive programme of webinars delivered by Russell Group university staff and top employers covering a range of topics including student finance, applying for"
+        },
+        {
+          "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+          "checked": "2026-10-21",
+          "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+        },
+        {
+          "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+          "checked": "2026-10-21",
+          "evidence": "These offers are usually one grade lower than the entry requirements on our course pages, however this can vary for some courses."
+        },
+        {
+          "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+          "checked": "2026-10-21",
+          "evidence": "To qualify for a standard contextual offer, you must have Home-UK fee status and your current or most recent school/college must be in the UK and cannot be an independent (fee-paying) school/college."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/",
+          "checked": "2026-10-21",
+          "evidence": "Our programmes are completely free to attend. All costs – including travel, accommodation, food and activities – are paid for by the Trust and our partners."
+        }
+      ]
+    },
+    {
+      "id": "suttontrust-access-apprenticeships",
+      "name": "Access Apprenticeships (Sutton Trust)",
+      "provider": "The Sutton Trust",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "A year-long programme about degree apprenticeships with employer insight days, a mentor, skills sessions and a 3 to 5 day work placement; the Banking and Finance strand is London based.",
+      "whoCanApply": "Year 12 students (England and Wales) who have always attended a state-funded, non-fee-paying school or college and live within 90 minutes of London (Banking and Finance, Law) or Manchester (Engineering, Law). Five GCSEs at grades 9-6 including English and Maths are looked for, as well as the usual Sutton Trust background criteria.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "firstGen",
+        "fsm",
+        "school",
+        "area",
+        "care",
+        "other"
+      ],
+      "eligibilityDetail": "Attend, and have always attended, a state-funded non-fee-paying school/college; be in Year 12 (England and Wales), Year 13 (Northern Ireland) or S5 (Scotland) at the start of the programme; live within 90 minutes of London for Banking and Finance and Law, or Manchester for Engineering and Law. Desirable: five GCSEs at 9-6 including English and Maths. The more criteria you meet the more likely you are to get a place. You can only take part in one Sutton Trust programme.",
+      "benefits": [
+        "Insight days (in person and virtual) run by leading employers",
+        "Tailored application support with a personal mentor",
+        "Apprenticeship skill sessions, including mock interviews and practice applications",
+        "Three to five days of work experience with one of the Sutton Trust's corporate partners",
+        "Meet peers from across the country who are interested in apprenticeships"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "Degree apprenticeships: Banking and Finance (London based), Engineering (Manchester based), Law (London and Manchester)",
+      "yearGroup": "Year 12 (England and Wales), Year 13 (Northern Ireland) or S5 (Scotland)",
+      "runs": {
+        "text": "A year-long programme; dates aren't published",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "Opened 1 September 2026 (open now)",
+        "date": "2026-09-01",
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "2 November 2026",
+        "date": "2026-11-02",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "About degree apprenticeships, not university offers. The Banking and Finance strand needs you to live within 90 minutes of London.",
+      "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+      "source": {
+        "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+        "checked": "2026-10-21",
+        "evidence": "The Sutton Trust Access Apprenticeships programme will allow students to meet leading employers and like-minded peers, and learn more about how to access top apprenticeships."
+      },
+      "notConfirmed": [
+        "Closing date for the Banking and Finance strand on its own: the programme page gives 2 November 2026 for the programme, and the Sutton Trust support site lists dates by strand but its text is cut off",
+        "Programme dates: not published; cost: only the Sutton Trust's general statement that its programmes are completely free to attend",
+        "Whether any university gives a lower offer for this programme: the Sutton Trust page says nothing, and Nottingham's contextual page counts 'a Sutton Trust programme at post-16 not hosted by the University of Nottingham' without naming this one"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "Applications open: 1st September 2026 Applications close: 2nd November 2026"
+        },
+        {
+          "url": "https://pathwaysprogrammes.suttontrust.com/pathways-to-the-professions-course-list",
+          "checked": "2026-10-21",
+          "evidence": "Access Apprenticeships are also open for applications."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "Over a year, we will be offering you the opportunity to learn more about three different apprenticeship sectors: Banking and Finance (London based), Engineering (Manchester based), and Law (London"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "Live within 90 minutes of London for our Banking and Finance and Law programmes or Manchester for our Engineering and Law programmes."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "Attend, and have always attended, a state-funded, non fee-paying school/college."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "Be in Year 12 (England and Wales), Year 13 (Northern Ireland) or S5 (Scotland) at the start of the programme."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "Have achieved at least five GCSEs at grades 9 – 6 (or A*- B), including English and Maths. We may also consider your overall level of GCSE (or equivalent) attainment as part of the selection process."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "The more criteria you meet, the more likely you are to get a place on the programme. Not meeting all of the additional criteria will not disqualify you."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "You will have the opportunity to gain three to five days of work experience during the programme with one of our corporate partners."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "You will attend in person and virtual days run by leading employers on:"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "personal mentor who will focus on supporting you in your applications."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/apprenticeship-summer-school/",
+          "checked": "2026-10-21",
+          "evidence": "You will attend skill development sessions, including mock interviews, practise applications, and the selection process."
+        },
+        {
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/pathways-to-banking-and-finance-london-years-12-13",
+          "checked": "2026-10-21",
+          "evidence": "You can only take part in one Sutton Trust programme. This includes the US programme, Access Apprenticeships, other Pathways programmes or UK Summer Schools."
+        },
+        {
+          "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+          "checked": "2026-10-21",
+          "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/",
+          "checked": "2026-10-21",
+          "evidence": "Our programmes are completely free to attend. All costs – including travel, accommodation, food and activities – are paid for by the Trust and our partners."
+        }
+      ]
+    },
+    {
+      "id": "suttontrust-fulbright-us-programme",
+      "name": "Sutton Trust Fulbright US Programme",
+      "provider": "The Sutton Trust with the US-UK Fulbright Commission",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "A two-year programme that helps students from low-income families explore studying in the USA, with UK residentials, virtual campus visits, mentoring and expert help applying to top US universities; all costs are paid.",
+      "whoCanApply": "Students currently in Year 12 (England and Wales), Year 13 (Northern Ireland) or S5 (Scotland) who have always attended a state-funded school or college in the UK, don't hold US citizenship, come from a low-income family (generally a household earning £50,000 or less) and are interested in US culture and higher education. Strong results are looked for: at least eight GCSEs at grade A or 7 or above, or near this level.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "income",
+        "firstGen",
+        "fsm",
+        "school",
+        "area",
+        "other"
+      ],
+      "eligibilityDetail": "Must be in Year 12 (England and Wales), Year 13 (Northern Ireland) or S5 (Scotland); always attended a state-funded school or college in the UK; not hold US citizenship; low-income family (generally household earning £50,000 or less); interested in US culture and higher education. Also looked for: first generation to attend university, free school meals, a school with below-average results or low progression, a low-progression neighbourhood, and excellent GCSE results (at least eight at A or 7 in England and Northern Ireland). The more criteria you meet the more likely you are to be accepted. You can only take part in one Sutton Trust programme.",
+      "benefits": [
+        "UK residentials in April and June plus a summer residential to learn about US admissions and meet programme alumni",
+        "Virtual visits to US campuses and help choosing a university that fits you",
+        "Expert guidance from the US-UK Fulbright Commission, interview preparation, mentors and help with financial aid applications",
+        "All costs, including travel, residential events and accommodation, are paid for by the programme",
+        "Support for families and schools; Sutton Trust alumni network"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "All subjects (about applying to universities in the USA, not UK offers)",
+      "yearGroup": "Year 12 (England and Wales), Year 13 (Northern Ireland) or S5 (Scotland)",
+      "runs": {
+        "text": "A two-year programme with UK residentials in April, June and the summer; 2027 dates aren't published",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "2027 programme: register your interest (dates aren't published)",
+        "date": null,
+        "status": null
+      },
+      "deadline": {
+        "text": "Not published for 2027",
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2026,
+      "infoNote": "These are the 2026 details (applications for 2026 have closed); register your interest for 2027. It is about applying to US universities, and no UK university names it for a lower offer.",
+      "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+      "source": {
+        "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+        "checked": "2026-10-21",
+        "evidence": "The Sutton Trust Fulbright US Programme is designed to support students to explore studying in America and access leading universities."
+      },
+      "notConfirmed": [
+        "2027 programme: application dates and any changes to the criteria aren't published (register interest only)",
+        "Whether any UK university gives a lower offer for this programme: the Sutton Trust page says nothing, and Nottingham's contextual page counts 'a Sutton Trust programme at post-16 not hosted by the University of Nottingham' without naming this one"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "Applications for the US Programme 2026 are now closed. Register your interest for the 2027 programme below."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "Duration: 2 years"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "At the April residential you’ll meet your cohort from across the UK. This action-packed residential will allow you to hear from current students, alumni of American universities and experts in the"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "All costs including travel, residential events and accommodation are paid for by the programme."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "Currently be in S5 (Scotland), Year 12 (England and Wales), or Year 13 (Northern Ireland)."
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "Attend, and have always attended, a state-funded school or college (non-fee paying) in the UK"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "Not hold US citizenship"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "Be from a low-income family (generally, this will mean a household earning £50,000 or less)"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "Be interested in US culture and higher education"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "For England and Northern Ireland: Have achieved at least eight GCSEs at grade A or 7 or above, or near this level"
+        },
+        {
+          "url": "https://www.suttontrust.com/our-programmes/us-programme/",
+          "checked": "2026-10-21",
+          "evidence": "The more of the above criteria you meet, the more likely you are to be accepted onto the programme."
+        },
+        {
+          "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/pathways-to-banking-and-finance-london-years-12-13",
+          "checked": "2026-10-21",
+          "evidence": "You can only take part in one Sutton Trust programme. This includes the US programme, Access Apprenticeships, other Pathways programmes or UK Summer Schools."
+        },
+        {
+          "url": "https://www.nottingham.ac.uk/ugstudy/applying/contextual-admissions-policy.aspx",
+          "checked": "2026-10-21",
+          "evidence": "You have completed a Sutton Trust programme at post-16 not hosted by the University of Nottingham (including Sutton Trust Online)"
+        }
+      ]
+    },
+    {
+      "id": "smf-aspiring-professionals-programme",
+      "name": "Aspiring Professionals Programme (Social Mobility Foundation)",
+      "provider": "Social Mobility Foundation",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "A free programme running from Year 12 to a first graduate job, with a mentor, skills sessions, university application help and work experience with top employers, including banking and finance, business, accountancy and politics.",
+      "whoCanApply": "Year 12 students (England and Wales) who have never attended a fee-paying school, have four GCSEs at grades 7-9 (A*-A in Wales), are studying at least one A-level and either have free school meals or are care experienced, or meet at least two of: first in family to go to university, household income below £45,000, highest-paid parent or guardian in a target occupation group (or unemployed).",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "care",
+        "firstGen",
+        "income",
+        "other"
+      ],
+      "eligibilityDetail": "England and Wales: in Year 12; four GCSEs at grades 7-9 (A*-A in Wales) and studying at least one A-level (the student page also says predicted ABB at A level); meet at least one of free school meals or care experienced, OR at least two of: first generation to attend university, household income lower than £45,000, highest-paid parent/guardian in the target occupation groups or unemployed. Never attended a fee-paying school. Exemptions for care-experienced students. Sector requirements: the APP J.P. Morgan Finance Programme needs Mathematics; Accountancy needs GCSE Maths grade 7. You can live anywhere in the UK.",
+      "benefits": [
+        "Mentoring with a volunteer working in your chosen sector",
+        "Skills sessions and career workshops",
+        "University application support, including UCAS help and a personal statement checking service",
+        "Work experience with top employers (past internships include J.P. Morgan, KPMG, PwC)",
+        "Outside the eight APP City areas you may join APP Reach (online resources, video tutorials, application support and a mentor); students outside London can put themselves forward for work experience residentials (Banking & Finance, Business, Politics and more) with travel, accommodation and meals covered",
+        "APP J.P. Morgan Finance Programme for students interested in banking and finance, investment banking, mathematics and economics (needs Maths)"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "Career sectors including banking and finance, business, accountancy and politics (or no preference)",
+      "yearGroup": "Year 12 (lower sixth)",
+      "runs": {
+        "text": "A five-year programme from Year 12; work experience placements take place in the summer and October school holidays",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Open now (applications open each September)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Friday 11 December 2026, 12 noon (the application form gives no year; the FAQ says applications usually close in December)",
+        "date": "2026-12-11",
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "The application form says the deadline is Friday 11 December at 12 noon but doesn't give the year, so the date is marked expected. Some older text on the student page is out of date.",
+      "url": "https://www.socialmobility.org.uk/programme",
+      "source": {
+        "url": "https://www.socialmobility.org.uk/programme",
+        "checked": "2026-10-21",
+        "evidence": "It's completely free of charge. We provide:"
+      },
+      "notConfirmed": [
+        "Exact deadline year: the application form page (not kept by the page cache) says 'Deadline: Friday 11th December, 12pm midday' with no year; 11 December is a Friday in 2026",
+        "Whether the J.P. Morgan Finance residential runs in 2026/27 and its dates: the student page lists 2024 employer partners",
+        "Eligibility wording differs slightly between parts of the student page; the application form checks eligibility",
+        "The pages don't mention any university offer reductions"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.socialmobility.org.uk/faqs",
+          "checked": "2026-10-21",
+          "evidence": "Applications open in September and usually close in December."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/programme",
+          "checked": "2026-10-21",
+          "evidence": "Students can check their eligibility and apply between September and December. Teachers can learn how to support applications from their school to help pupils reach their full potential."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/faqs",
+          "checked": "2026-10-21",
+          "evidence": "You can live anywhere in the UK. Our programme is mostly remote with a few in person opportunities, and so it's designed to give you everything you need from the comfort of your home."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/faqs",
+          "checked": "2026-10-21",
+          "evidence": "Yes. We also cover reasonable expenses related to attending programme events and work experience."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/programme",
+          "checked": "2026-10-21",
+          "evidence": "The Aspiring Professionals Programme supports students from Year 12, lower sixth or S5 through to their first graduate job."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "We only accept applications from young people who have not attended a fee-paying school at any point in their education."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "Four GCSEs at Grades 7-9 (England, NI), or four Nat5s at Grades A-B (Scotland), four GCSEs at A*-A (Wales). If applying from England, you must also be studying for at least one A-level. Some sectors"
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "Predicted ABB at A Level or equivalent"
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "Your household income is lower than £45,000"
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "You'll be the first generation of your family to attend university. (We still count you being the first generation if your parents/guardians went to university as a mature student, or abroad, and if"
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "Our five year programme supports students from aged 16/17 through higher education and into their first job."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "APP J.P. Morgan Finance Programme: for students interested in banking and finance, investment banking, mathematics and economics."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "Work experience residentials are for UK students living outside of London who want experience in specific sectors. Our employer partners are listed below. Work experience typically involves a"
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "We cover all travel, accommodation, and meals expenses."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/student",
+          "checked": "2026-10-21",
+          "evidence": "Accountancy | Banking & Finance | Biology & Chemistry| Business | Digital | Engineering & Physics | Law | Media & Communications | Medicine | Politics | No Preference"
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/sector-requirements",
+          "checked": "2026-10-21",
+          "evidence": "APP J.P. Morgan Finance Programme Studying Mathematics."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/specific-academic-requirements",
+          "checked": "2026-10-21",
+          "evidence": "Accountancy Minimum maths grade: 7 for GCSE"
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/teacher",
+          "checked": "2026-10-21",
+          "evidence": "Students who are unable to attend in-person workshops may be offered a place on APP Reach. They’ll get online resources and video tutorials to develop skills and career knowledge, university"
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/teacher",
+          "checked": "2026-10-21",
+          "evidence": "On their application, students outside London will be able to put themselves forward for one of our Residential Work Experiences. We currently have Residentials for students interested in Banking &"
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/teacher",
+          "checked": "2026-10-21",
+          "evidence": "These take place during the Summer and October school holidays. If we don’t have opportunities in your location, we provide support to help students find placements in their area."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/teacher",
+          "checked": "2026-10-21",
+          "evidence": "We share the outcome of applications from January each year."
+        },
+        {
+          "url": "https://www.socialmobility.org.uk/programme",
+          "checked": "2026-10-21",
+          "evidence": "University & Degree apprenticeship support"
+        }
+      ]
+    },
+    {
+      "id": "villierspark-future-leaders",
+      "name": "Future Leaders Programme (Villiers Park)",
+      "provider": "Villiers Park Educational Trust",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "A coaching-led programme with student-led projects, university and employer insight days and residentials, delivered through partner schools and colleges in regional hubs for young people from under-represented backgrounds.",
+      "whoCanApply": "Young people aged 11-19 from under-represented backgrounds (free school meals or pupil premium, special educational needs, young carers and care experienced, refugees and asylum seekers, Black and minority ethnic backgrounds, Roma, Gypsy and Traveller communities) at Villiers Park's partner schools and colleges in its hubs. No route for an individual student to apply is published.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "care",
+        "carer",
+        "refugee",
+        "other"
+      ],
+      "eligibilityDetail": "Villiers Park says it works in hubs with partner schools and colleges, in areas with historically low participation in higher education and high deprivation. The programme page lists the groups it supports; the website doesn't say how an individual student joins or whether a hub covers a given area.",
+      "benefits": [
+        "One-to-one coaching with a Progression Coach",
+        "University and employer insight days and residentials (for example a Year 12 Maths and Physics residential and a Year 12 Chemistry residential)",
+        "A social action project and skills-based support",
+        "Extra guidance for highly competitive courses such as Medicine, Dentistry, Veterinary Medicine and Oxford and Cambridge"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects (no Economics-specific strand published)",
+      "yearGroup": "Ages 11-19 (the site mentions Year 12 residentials)",
+      "runs": {
+        "text": "Not published for 2027",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "No application route published",
+        "date": null,
+        "status": null
+      },
+      "deadline": {
+        "text": "No application route published",
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2026,
+      "infoNote": "Villiers Park works through partner schools and colleges, and its website gives no application form, dates or cost. Ask your school or college whether it is a partner.",
+      "url": "https://www.villierspark.org.uk/futureleaders",
+      "source": {
+        "url": "https://www.villierspark.org.uk/parents",
+        "checked": "2026-10-21",
+        "evidence": "We work in hubs with our partner schools and colleges to deliver programmes that broaden young people's horizons and empower them plan pathways to their ambitions."
+      },
+      "notConfirmed": [
+        "How an individual student joins: the website describes delivery through partner schools and colleges and gives no application form",
+        "Cost, 2027 dates and which areas have a hub (the 'Where we work' page text doesn't list them)",
+        "No Economics, business or finance strand is published; no university offer reductions are mentioned"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.villierspark.org.uk/schools",
+          "checked": "2026-10-21",
+          "evidence": "Students who are receiving free school meals or eligible for pupil premium"
+        },
+        {
+          "url": "https://www.villierspark.org.uk/schools",
+          "checked": "2026-10-21",
+          "evidence": "Young carers and care experienced"
+        },
+        {
+          "url": "https://www.villierspark.org.uk/schools",
+          "checked": "2026-10-21",
+          "evidence": "Refugees and asylum seekers"
+        },
+        {
+          "url": "https://www.villierspark.org.uk/futureleaders",
+          "checked": "2026-10-21",
+          "evidence": "Through one-on-one coaching, student-led projects, immersive insight days, and tailored courses, our programme supports young people to gain essential personal and academic skills to realise their"
+        },
+        {
+          "url": "https://www.villierspark.org.uk/education-insights",
+          "checked": "2026-10-21",
+          "evidence": "Year 12 Maths and Physics Residential"
+        },
+        {
+          "url": "https://www.villierspark.org.uk/education-insights",
+          "checked": "2026-10-21",
+          "evidence": "Year 12 Chemistry Residential"
+        },
+        {
+          "url": "https://www.villierspark.org.uk/where-we-work",
+          "checked": "2026-10-21",
+          "evidence": "We work in areas with historically low participation in higher education and persistently high levels of deprivation, ensuring that young people aren’t disadvantaged by the postcode lottery."
+        }
+      ]
+    },
+    {
+      "id": "brilliantclub-uniprep",
+      "name": "UniPrep (The Brilliant Club)",
+      "provider": "The Brilliant Club",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "Online live and recorded webinars for Year 12 and 13 students (and parents/carers) on personal statements, student finance, study skills and life at university; students sign up themselves with a short form.",
+      "whoCanApply": "Year 12 and Year 13 (Key Stage 5) students who sign up with the online form. The sign-up form also asks for your postcode, school, whether you are first in your family to go to university and your free school meals history; the page doesn't say these decide who can join.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Students complete the UniPrep sign-up form and are emailed what they need to start. The form says the programme is exclusively for students in Year 12 or 13. Year 13 students also get information about the Join the Dots programme. Parents/carers can sign up separately for their own webinars.",
+      "benefits": [
+        "Live webinars all year round: personal statements, student finance, study skills and life at university",
+        "Hear from current university students and other experts; extra resources",
+        "If you go on to a Join the Dots partner university you may get 6 months of free support from a PhD coach there"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "online",
+      "subjects": "All subjects (university application and transition advice)",
+      "yearGroup": "Year 12 and 13 (Key Stage 5)",
+      "runs": {
+        "text": "Webinars run all year; upcoming sessions listed for Year 12 and 13 students: 9 February, 9 March and 27 April (years not shown, expected 2027)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Open now: sign up any time",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "No deadline published",
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2027,
+      "infoNote": "It is advice on applying to and starting university, not a summer school, and it doesn't lower offers. The page shows upcoming webinar dates without a year.",
+      "url": "https://thebrilliantclub.org/uniprep/",
+      "source": {
+        "url": "https://thebrilliantclub.org/uniprep/",
+        "checked": "2026-10-21",
+        "evidence": "UniPrep supports Key Stage 5 students and their parents/carers as they prepare to make the transition to university"
+      },
+      "notConfirmed": [
+        "Cost for students: the page doesn't say (it says schools can register for free)",
+        "Webinar years and times; which universities are Join the Dots partners"
+      ],
+      "extraSources": [
+        {
+          "url": "https://thebrilliantclub.org/uniprep/",
+          "checked": "2026-10-21",
+          "evidence": "Live webinars are conducted all year-round offering guidance such as writing personal statements, student finance, study skills support and information about life at university"
+        },
+        {
+          "url": "https://thebrilliantclub.org/uniprep/",
+          "checked": "2026-10-21",
+          "evidence": "In order to join UniPrep, you need to complete our sign-up form. It’ll only take a couple of minutes! Once the form is complete, you’ll receive an email from us with all you’ll need to get started"
+        },
+        {
+          "url": "https://thebrilliantclub.my.site.com/Forms/s/jtd-uniprep-student-registration?recordId=a4ON2000001U48r&logicalId=3e414958-58fe-43ac-59eb-97828c320ae8&hostUrl=https%3A%2F%2Fthebrilliantclub.org%2F",
+          "checked": "2026-10-21",
+          "evidence": "this programme is exclusively for students in these years."
+        },
+        {
+          "url": "https://thebrilliantclub.my.site.com/Forms/s/jtd-uniprep-student-registration?recordId=a4ON2000001U48r&logicalId=3e414958-58fe-43ac-59eb-97828c320ae8&hostUrl=https%3A%2F%2Fthebrilliantclub.org%2F",
+          "checked": "2026-10-21",
+          "evidence": "Are you the first person in your family (excluding siblings) to attend university?"
+        },
+        {
+          "url": "https://thebrilliantclub.my.site.com/Forms/s/jtd-uniprep-student-registration?recordId=a4ON2000001U48r&logicalId=3e414958-58fe-43ac-59eb-97828c320ae8&hostUrl=https%3A%2F%2Fthebrilliantclub.org%2F",
+          "checked": "2026-10-21",
+          "evidence": "Were you eligible for Free School meals at any time during key stage 3 or 4?"
+        },
+        {
+          "url": "https://thebrilliantclub.org/uniprep/",
+          "checked": "2026-10-21",
+          "evidence": "Key Stage 5 students: Managing Finances during University (9th February)"
+        },
+        {
+          "url": "https://thebrilliantclub.org/uniprep/",
+          "checked": "2026-10-21",
+          "evidence": "Key Stage 5 students: Hidden Curriculum 101 (9th March)"
+        },
+        {
+          "url": "https://thebrilliantclub.org/uniprep/",
+          "checked": "2026-10-21",
+          "evidence": "Key Stage 5 students and Parents/Carers: Life at Uni & the Smart use of Gen AI (27th April)"
+        },
+        {
+          "url": "https://thebrilliantclub.org/uniprep/",
+          "checked": "2026-10-21",
+          "evidence": "If you are accepted at one of our Join the Dots partner universities, you may be eligible to receive 6 months of free support from a PhD coach based at your university"
+        }
+      ]
+    },
+    {
+      "id": "res-annual-public-lecture-2026",
+      "name": "RES Annual Public Lecture 2026: Is Economics broken?",
+      "provider": "Royal Economic Society (Discover Economics)",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "A lecture by BBC deputy economics editor Dharshini David OBE for school students, mainly sixth formers; in-person places are closed but you can register to watch the live stream.",
+      "whoCanApply": "Open to school students, principally sixth form students; register to join the live stream.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Attendance in person is closed; students register to join the live stream on the day.",
+      "benefits": [
+        "Hear an economist talk about whether economics works and how it stays relevant",
+        "Counts as an economics taster for your personal statement (not an offer-lowering programme)"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "online",
+      "subjects": "Economics",
+      "yearGroup": "Sixth form (Year 12-13)",
+      "runs": {
+        "text": "Tuesday 3 November 2026, 14:00 to 15:30 (live stream; the lecture is at Kingston University)",
+        "start": "2026-11-03",
+        "end": "2026-11-03",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "RSVP open now on the Discover Economics page",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "No sign-up deadline published; the date of the lecture is shown",
+        "date": "2026-11-03",
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "A one-off lecture on 3 November 2026. No sign-up deadline is published, so the date of the lecture is shown. The Annual Public Lecture has run every year since 2001.",
+      "url": "https://res.org.uk/committees/pd-education-committee/annual-public-lecture/",
+      "source": {
+        "url": "https://res.org.uk/committees/pd-education-committee/annual-public-lecture/",
+        "checked": "2026-10-21",
+        "evidence": "Principally aimed at sixth form students, the APL has become an established part of the senior school calendar."
+      },
+      "notConfirmed": [
+        "Cost: the pages don't say",
+        "Sign-up deadline: not published",
+        "The 2027 lecture isn't announced"
+      ],
+      "extraSources": [
+        {
+          "url": "https://res.org.uk/committees/pd-education-committee/annual-public-lecture/",
+          "checked": "2026-10-21",
+          "evidence": "Attendance in person is closed, but you can join the live stream on the day by registering here."
+        },
+        {
+          "url": "https://res.org.uk/committees/pd-education-committee/annual-public-lecture/",
+          "checked": "2026-10-21",
+          "evidence": "The 2026 RES Annual Public Lecture will take place on 3 November 2026 at Kingston University and is titled: Is Economics broken?"
+        },
+        {
+          "url": "https://www.discovereconomics.co.uk/events/res-annual-public-lecture-2026",
+          "checked": "2026-10-21",
+          "evidence": "03 Nov 2026, 14:00 – 15:30"
+        }
+      ]
+    },
+    {
+      "id": "discover-economics-boe-economists-bristol",
+      "name": "Discover Economics with Bank of England economists (Bristol)",
+      "provider": "Royal Economic Society (Discover Economics)",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "An afternoon event in Bristol where Bank of England economists Jack Leslie and Rupal Patel discuss their book on money and inflation and students join facilitated discussions on the economy, energy, AI and the value of a degree.",
+      "whoCanApply": "A special event targeted at current GCSE and A-level students only.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "RSVP through the Discover Economics page.",
+      "benefits": [
+        "Meet Bank of England economists",
+        "Facilitated discussions on the UK economy, energy, AI and jobs, and the value of a degree"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "day",
+      "subjects": "Economics",
+      "yearGroup": "GCSE and A-level students",
+      "runs": {
+        "text": "Friday 13 November 2026, 15:30 to 17:30, Bristol",
+        "start": "2026-11-13",
+        "end": "2026-11-13",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "RSVP open now on the event page",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "No RSVP deadline published; the date of the event is shown",
+        "date": "2026-11-13",
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "A one-off event on 13 November 2026 in Bristol. No RSVP deadline is published, so the date of the event is shown.",
+      "url": "https://www.discovereconomics.co.uk/events/discover-economics-with-bank-of-england-economists-rupal-patel-and-jack-leslie",
+      "source": {
+        "url": "https://www.discovereconomics.co.uk/events/discover-economics-with-bank-of-england-economists-rupal-patel-and-jack-leslie",
+        "checked": "2026-10-21",
+        "evidence": "This is a special event targeted at current GCSE and A-Level students only."
+      },
+      "notConfirmed": [
+        "Cost, the exact venue in Bristol and the RSVP closing date: the page doesn't say"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.discovereconomics.co.uk/events/discover-economics-with-bank-of-england-economists-rupal-patel-and-jack-leslie",
+          "checked": "2026-10-21",
+          "evidence": "13 Nov 2026, 15:30 – 17:30"
+        },
+        {
+          "url": "https://www.discovereconomics.co.uk/events/discover-economics-with-bank-of-england-economists-rupal-patel-and-jack-leslie",
+          "checked": "2026-10-21",
+          "evidence": "Bristol, Bristol, UK"
+        },
+        {
+          "url": "https://www.discovereconomics.co.uk/events/discover-economics-with-bank-of-england-economists-rupal-patel-and-jack-leslie",
+          "checked": "2026-10-21",
+          "evidence": "Students will then take part in discussions, facilitated by academics and by Jack and Rupal, on a selection of the topics that will feature at the Festival of Economics, including: the state of the"
+        }
+      ]
+    },
+    {
+      "id": "discover-economics-res-conference-year12-session",
+      "name": "Discover Economics Year 12 session at the RES Annual Conference",
+      "provider": "Royal Economic Society (Discover Economics)",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "An interactive morning for Year 12 economics students at the RES Annual Conference with a keynote and Q&A, a panel of economics undergraduates and practical advice on applying to study economics.",
+      "whoCanApply": "Year 12 economics students (2026 session; registration is now closed).",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Registered attendance at the Discover Economics session; the 2026 registration has closed.",
+      "benefits": [
+        "Keynote talk with live Q&A",
+        "Panel of current economics undergraduates",
+        "Practical guidance on applying to study economics"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "day",
+      "subjects": "Economics",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "2026 session: 8 July 2026, 10:00 to 12:00, Newcastle University. The RES 2027 Annual Conference is 28 to 30 June 2027 at the University of Reading; no Year 12 session is announced yet",
+        "start": "2026-07-08",
+        "end": "2026-07-08",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "2027 session not announced",
+        "date": null,
+        "status": null
+      },
+      "deadline": {
+        "text": "2026 registration closed",
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2026,
+      "infoNote": "This is last year's session (8 July 2026). The RES 2027 conference is on 28 to 30 June 2027 but no Year 12 session is announced yet.",
+      "url": "https://www.discovereconomics.co.uk/events/discover-economics-royal-economic-society-annual-conference-2026",
+      "source": {
+        "url": "https://www.discovereconomics.co.uk/events/discover-economics-royal-economic-society-annual-conference-2026",
+        "checked": "2026-10-21",
+        "evidence": "Discover Economics will host an interactive session for Year 12 economics students as part of the RES 2026 Annual Conference."
+      },
+      "notConfirmed": [
+        "Whether Discover Economics will run a Year 12 session at RES 2027, and its cost"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.discovereconomics.co.uk/events/discover-economics-royal-economic-society-annual-conference-2026",
+          "checked": "2026-10-21",
+          "evidence": "08 Jul 2026, 10:00 – 12:00"
+        },
+        {
+          "url": "https://www.discovereconomics.co.uk/events/discover-economics-royal-economic-society-annual-conference-2026",
+          "checked": "2026-10-21",
+          "evidence": "Registration is closed"
+        },
+        {
+          "url": "https://www.discovereconomics.co.uk/events/discover-economics-royal-economic-society-annual-conference-2026",
+          "checked": "2026-10-21",
+          "evidence": "The event will feature a keynote talk with live Q&A, a panel of current economics undergraduates sharing their experiences, and practical guidance on applying to study economics at university."
+        },
+        {
+          "url": "https://res.org.uk/event-listing/res2027/",
+          "checked": "2026-10-21",
+          "evidence": "RES 2027 Annual Conference University of Reading Monday 28 – Wednesday 30 June 2027"
+        }
+      ]
+    },
+    {
+      "id": "discover-economics-webinar-recordings",
+      "name": "Discover Economics webinar recordings",
+      "provider": "Royal Economic Society (Discover Economics) with Bangor University",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "Recorded economics webinars for school students: a Bangor University series for Year 11 to 13 (why prices matter, interest rates, tariffs) and an International Women's Day session with economists for ages 14 to 18.",
+      "whoCanApply": "Open to school students: the Bangor series is for Year 11 to 13 and the International Women's Day webinar is designed for students aged 14 to 18.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Watch the recorded sessions on the Discover Economics events page.",
+      "benefits": [
+        "Real-world examples of price elasticity, interest rates and tariffs",
+        "Economists talk about their careers and what studying economics is like",
+        "A taster of economic thinking for your personal statement"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "online",
+      "subjects": "Economics",
+      "yearGroup": "Years 11-13 (ages 14-18)",
+      "runs": {
+        "text": "Sessions held in 2026 (the Bangor series started in February 2026); recordings listed on the events page",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "Open now: recordings are on the events page",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "No deadline",
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2027,
+      "infoNote": "These are recordings of 2026 sessions; no new live sessions are announced on the events page.",
+      "url": "https://www.discovereconomics.co.uk/event",
+      "source": {
+        "url": "https://www.discovereconomics.co.uk/event",
+        "checked": "2026-10-21",
+        "evidence": "Hosted by The Albert Gubay Business School at Bangor University, in partnership with the Welsh Government, the Discover Economics Webinars for Year 11–13 students is a series of engaging sessions"
+      },
+      "notConfirmed": [
+        "Cost, and whether new sessions are planned"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.discovereconomics.co.uk/event",
+          "checked": "2026-10-21",
+          "evidence": "Workshop 1, in February 2026, considered the question of why prices matter. Exploring real-world applications of price elasticity of demand, the webinar is a chance to understand how prices influence"
+        },
+        {
+          "url": "https://www.discovereconomics.co.uk/event",
+          "checked": "2026-10-21",
+          "evidence": "This session examines how tariffs shape global trade, influence prices, and impact businesses and consumers. Through real-world examples, students will gain a clearer understanding of trade barriers"
+        },
+        {
+          "url": "https://www.discovereconomics.co.uk/event",
+          "checked": "2026-10-21",
+          "evidence": "Designed for students aged 14–18, this webinar offers insight into studying economics and the many paths a career in the field can take."
+        }
+      ]
+    },
+    {
+      "id": "boe-mel-beaman-student-programme",
+      "name": "Mel Beaman Student Programme (Bank of England)",
+      "provider": "Bank of England",
+      "providerType": "charity",
+      "uniIds": [],
+      "summary": "Four days of hybrid work experience at the Bank of England's Leeds office, a year of professional mentoring and a chance of a bursary of up to £10,000, for Year 12 students in the Leeds area.",
+      "whoCanApply": "Year 12 students who live in the Leeds area (Leeds, Bradford, Kirklees, Calderdale, Wakefield, Selby, York, Harrogate and Craven), have always attended a state-funded school or college there, have at least five GCSEs at grade 4 including English and Maths, were eligible for free school meals or got the 16-19 bursary, and have a household income of £30,000 or less.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "income",
+        "other"
+      ],
+      "eligibilityDetail": "2026 round: live in the Leeds area; able to commute to the Bank's Leeds office at the end of July 2026 (expenses covered); Year 12 when applying and Year 13 from September 2026; five GCSEs at grade 4 including English and Maths; free school meals or the 16-19 bursary, with evidence; maximum household income £30,000. The bursary needs three Cs at A level.",
+      "benefits": [
+        "Four days of hybrid work experience (two in the Leeds office, two virtual)",
+        "Online monthly mentoring for 12 months with a Bank of England employee",
+        "One student from the cohort can receive a bursary of up to £10,000 for higher education costs or relocation for an apprenticeship"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "Finance and central banking (work experience)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "2026 round: work experience at the end of July 2026, then 12 months of mentoring (2027 not announced)",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "2027 round not announced",
+        "date": null,
+        "status": null
+      },
+      "deadline": {
+        "text": "2026 round closed Monday 18 May 2026, 10am",
+        "date": "2026-05-18",
+        "status": "Confirmed"
+      },
+      "infoYear": 2026,
+      "infoNote": "This is the 2026 round, which was only for students in the Leeds area and has closed. The 2027 round isn't announced.",
+      "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+      "source": {
+        "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+        "checked": "2026-10-21",
+        "evidence": "live in the Leeds area, ie the local authorities of Leeds, Bradford, Kirklees, Calderdale, Wakefield, Selby, York, Harrogate and Craven"
+      },
+      "notConfirmed": [
+        "Cost: the page says only that the Bank covers expenses for the Leeds office",
+        "2027 round, dates and whether the area changes"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+          "checked": "2026-10-21",
+          "evidence": "Applications are open until Monday 18 May at 10am."
+        },
+        {
+          "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+          "checked": "2026-10-21",
+          "evidence": "four days of hybrid work experience"
+        },
+        {
+          "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+          "checked": "2026-10-21",
+          "evidence": "a year of professional mentoring"
+        },
+        {
+          "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+          "checked": "2026-10-21",
+          "evidence": "an opportunity for one student from the cohort to receive a bursary of up to £10,000"
+        },
+        {
+          "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+          "checked": "2026-10-21",
+          "evidence": "have at least five GCSEs at grade 4 including English and Maths"
+        },
+        {
+          "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+          "checked": "2026-10-21",
+          "evidence": "be or have been eligible for free school meals, or have received the 16-19 bursary while at secondary school, and be able to evidence this"
+        },
+        {
+          "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+          "checked": "2026-10-21",
+          "evidence": "have a maximum household income of £30,000"
+        },
+        {
+          "url": "https://www.bankofengland.co.uk/about/corporate-responsibility/mel-beaman-student-programme",
+          "checked": "2026-10-21",
+          "evidence": "In 2026, we will again focus on students in the Leeds area who have recently taken their GCSEs and are coming to the end of their full-time education (ie currently in Year 12 and between 16 and 17"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    {
+      "text": "Realising Opportunities (RO) is not recruiting any new students and closes in July 2027, so it is not an option for 2028 entry. It is left out of the programmes list.",
+      "source": {
+        "url": "https://www.realisingopportunities.ac.uk/",
+        "checked": "2026-10-21",
+        "evidence": "Realising Opportunities (RO) will close in July 2027 and will not be recruiting any new students."
+      }
+    },
+    {
+      "text": "The Brilliant Club's Scholars Programme is delivered in schools and colleges (the school signs up), so it is not listed; only UniPrep, which students join themselves, is. Its Computer Science Scholars and Turing Careers Experience projects are not for Economics.",
+      "source": {
+        "url": "https://thebrilliantclub.org/",
+        "checked": "2026-10-21",
+        "evidence": "Our PhD tutors deliver The Scholars Programme in schools and colleges across the UK; sharing their subject knowledge and passion for learning with students aged 8-18."
+      }
+    },
+    {
+      "text": "Nuffield / STEM Learning Research Placements are for STEM subjects, so they are not listed.",
+      "source": {
+        "url": "https://www.stem.org.uk/placements",
+        "checked": "2026-10-21",
+        "evidence": "STEM Research Placements give talented Year 12 students (or equivalent) real-world experience at UK research organisations and industry, applying their skills to meaningful projects alongside STEM"
+      }
+    },
+    {
+      "text": "The in-person Pathways to Banking & Finance programmes at LSE, Leicester, Liverpool and Warwick are already recorded in those unis' own files (lse-, leicester-, liverpool- and warwick-pathways-banking-finance), so they are not repeated here; only the online version, which no university hosts, is listed.",
+      "source": {
+        "url": "https://pathwaysprogrammes.suttontrust.com/pathways-to-the-professions-course-list",
+        "checked": "2026-10-21",
+        "evidence": "Pathways to Banking and Finance at LSE – closing 19 October – click here to find out more"
+      }
+    },
+    {
+      "text": "Unis that count a completed Sutton Trust Pathways to Banking & Finance programme towards a contextual or alternative offer (from their own pages): LSE (any Sutton Trust Pathways programme, in person or online), Cardiff (at another uni, including online), Exeter (online version), Leicester ('Sutton Trust Pathways Programmes'), Warwick (at Warwick or another uni) and Nottingham (any Sutton Trust post-16 programme it doesn't host). The in-person programme records in the uni files only list their host uni in lowersOfferAt.",
+      "source": {
+        "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/prospective-students/how-to-apply/contextual-admissions-and-offers",
+        "checked": "2026-10-21",
+        "evidence": "You have completed any Sutton Trust Pathways programme at a UK university"
+      }
+    },
+    {
+      "text": "The Sutton Trust says you can only be on one of its programmes (Pathways, UK Summer Schools, US Programme, Access Apprenticeships); Sutton Trust Online is enrolled automatically if you meet its criteria.",
+      "source": {
+        "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/pathways-to-banking-and-finance-london-years-12-13",
+        "checked": "2026-10-21",
+        "evidence": "You can only take part in one Sutton Trust programme. This includes the US programme, Access Apprenticeships, other Pathways programmes or UK Summer Schools."
+      }
+    },
+    {
+      "text": "Access Apprenticeships and the US Programme are listed for completeness (Year 12s can apply); no university names either of them for a lower offer.",
+      "source": {
+        "url": "https://www.suttontrust.com/our-programmes/",
+        "checked": "2026-10-21",
+        "evidence": "Access Apprenticeships and Pathways to the Professions are open now!"
+      }
+    },
+    {
+      "text": "Discover Economics events not listed: the 'Does education pay?' webinar (21 October 2026, the day it was checked), the I-LEAD Economics Education Conference (for teachers) and the Frontier Economics apprenticeship open evening in London (2 November 2026, an apprenticeship route).",
+      "source": {
+        "url": "https://www.discovereconomics.co.uk/event",
+        "checked": "2026-10-21",
+        "evidence": "Are you curious about economics and considering an alternative to university? Join us at Frontier Economics for our apprenticeship open evening, where you’ll learn about an exciting opportunity to"
+      }
+    }
+  ]
+}

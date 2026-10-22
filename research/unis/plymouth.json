@@ -1,0 +1,657 @@
+{
+ "id": "plymouth",
+ "name": "University of Plymouth",
+ "shortName": "Plymouth",
+ "aliases": [
+  "Plymouth",
+  "Plymouth Uni",
+  "Uni of Plymouth",
+  "UoP",
+  "Plymouth University"
+ ],
+ "city": "Plymouth",
+ "region": "South West",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.plymouth.ac.uk/about-us/visit/getting-here",
+  "checked": "2026-10-21",
+  "evidence": "right at the heart of Plymouth, just across the street from the city"
+ },
+ "location": {
+  "postcode": "PL4 8AA",
+  "postcodeSource": "https://www.plymouth.ac.uk/about-us/visit/getting-here",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/PL48AA",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK students starting in 2027-28 (2026-27: £9,790). Plymouth says tuition fees from 2028/29 will rise automatically each year in line with inflation, so the fee for a September 2028 start is not published yet. An optional placement year costs £2,010 in the UK in 2027-28.",
+  "source": {
+   "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-economics",
+   "checked": "2026-10-21",
+   "evidence": "£10,050 per year"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 141,
+  "amountHigh": 233,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University halls cost about £141 (shared facilities) to £233 (en suite) a week, including all utility bills, WiFi and contents insurance (2026/27 prices; 2027/28 prices are not published yet).",
+  "source": {
+   "url": "https://www.plymouth.ac.uk/services/accommodation/halls",
+   "checked": "2026-10-21",
+   "evidence": "£209.50 - £233 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-14",
+    "endDate": null,
+    "label": "Undergraduate on-campus open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-04-24",
+    "endDate": null,
+    "label": "Undergraduate on-campus open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-06-19",
+    "endDate": null,
+    "label": "Undergraduate on-campus open day",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days (on campus, 9am to 3:30pm): 14 November 2026, 24 April 2027 and 19 June 2027.",
+  "url": "https://www.plymouth.ac.uk/study/open-days/ugopendays",
+  "source": {
+   "url": "https://www.plymouth.ac.uk/study/open-days/ugopendays",
+   "checked": "2026-10-21",
+   "evidence": "14Nov 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "If one or more of Plymouth's criteria apply to you (for example free school meals, time in care, an IMD Quintile 1 postcode or a listed South West/Wales school), a lower contextual offer may be applied automatically.",
+  "typicalReduction": "Typically 8 UCAS points below the advertised tariff on the business school courses; Plymouth says up to three grades below the standard offer",
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "You have spent three months or more in local authority care (tick the care question on your UCAS application).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "You attend a state secondary school and are or have been eligible for free school meals.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "You have refugee status or humanitarian protection.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You are from a military family: either or both of your parents have served in the UK Armed Forces.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You have ever served in the UK Armed Forces.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You are a member of the Gypsy, Traveller, Roma, Showmen or Boater communities.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "You are aged 18 to 24 and not communicating with, or supported by, either parent or carer because of an irreconcilable breakdown (this includes parents or carers who have died or can't be traced).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "school",
+    "detail": "You attend a non-selective state school or college in the South West/Wales region on Plymouth's list of schools.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "You come from an area in Indices of Multiple Deprivation (IMD) Quintile 1; the page has a postcode checker.",
+    "measure": "IMD",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "If one or more of the criteria applies to you, a contextual offer may automatically be applied by the Admissions team (you do not need to do anything else). Plymouth uses the widening access questions on the UCAS form. Meeting a criterion does not guarantee an offer. The page says contextual offers are not available for foundation year degrees or programmes with mandatory placements or capped numbers (including medicine and dentistry).",
+  "url": "https://www.plymouth.ac.uk/study/entry-requirements/contextual-offers",
+  "source": {
+   "url": "https://www.plymouth.ac.uk/study/entry-requirements/contextual-offers",
+   "checked": "2026-10-21",
+   "evidence": "If one or more of the following statements applies to you, a contextual offer may automatically be applied by our Admissions team:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "plymouth-extraordinary-challenges-enterprise",
+   "name": "Extraordinary Challenges: Enterprise",
+   "provider": "University of Plymouth",
+   "providerType": "university",
+   "uniIds": [
+    "plymouth"
+   ],
+   "summary": "One-day on-campus enterprise challenge where teams build a sustainable fashion brand and pitch it to a panel of experts.",
+   "whoCanApply": "Listed as an event for schools and colleges; students come with accompanying teachers, so ask your school or college to book. Year group not stated.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "No eligibility criteria are published on the page; places are booked through schools and colleges.",
+   "benefits": [
+    "Team enterprise challenge with an Apprentice-style pitch to a panel of experts",
+    "A day on Plymouth's campus; teachers can connect with Plymouth Business School"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated",
+   "isFree": null,
+   "format": "day",
+   "subjects": "Enterprise and business",
+   "yearGroup": "School and college students (year group not stated)",
+   "runs": {
+    "text": "Monday 23 November 2026 (time to be confirmed), on campus",
+    "start": "2026-11-23",
+    "end": "2026-11-23",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Open for booking now (opening date not stated)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Bookings close Monday 26 October 2026",
+    "date": "2026-10-26",
+    "status": "Confirmed"
+   },
+   "infoYear": 2026,
+   "infoNote": "One-off event in November 2026, not a summer 2027 programme. The page gives no year for the booking deadline; Monday 26 October falls in 2026.",
+   "url": "https://www.plymouth.ac.uk/study/outreach/whats-on-for-schools-and-colleges/extraordinary-challenges-enterprise",
+   "source": {
+    "url": "https://www.plymouth.ac.uk/study/outreach/whats-on-for-schools-and-colleges/extraordinary-challenges-enterprise",
+    "checked": "2026-10-21",
+    "evidence": "Bookings for the event close on Monday 26th October."
+   },
+   "notConfirmed": [
+    "Cost is not stated on the page",
+    "Year group is not stated on the page",
+    "Start time is shown as TBC"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.plymouth.ac.uk/",
+  "courses": "https://www.plymouth.ac.uk/courses",
+  "economics": "https://www.plymouth.ac.uk/schools/plymouth-business-school/economics",
+  "openDays": "https://www.plymouth.ac.uk/study/open-days/ugopendays",
+  "fees": "https://www.plymouth.ac.uk/study/fees",
+  "contextual": "https://www.plymouth.ac.uk/study/entry-requirements/contextual-offers",
+  "accommodation": "https://www.plymouth.ac.uk/services/accommodation/halls"
+ },
+ "courses": [
+  {
+   "id": "plymouth-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "3 years, plus an optional placement year (Plymouth lists it as '3 years (+ optional placement)')",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points, including a minimum of 2 A levels (no specific grades or subjects listed)",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-economics",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-economics",
+    "checked": "2026-10-21",
+    "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Plymouth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-economics",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "Typically 8 UCAS points below the advertised 112 points (so about 104 points) if you meet Plymouth's contextual criteria. Offers are personalised and meeting a criterion does not guarantee one.",
+     "programme": null,
+     "source": {
+      "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-economics",
+      "checked": "2026-10-21",
+      "evidence": "Typically, the contextual offer for this course is 8 points below the advertised tariff."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year: the course page does not state one; 2027 entry used (the page's UCAS link and fee table are for 2027). 2028 entry requirements are not published yet",
+    "Subjects: the entry requirements name no required or excluded A level subjects (points-based offer), so Psychology and Geography are not explicitly confirmed as accepted",
+    "GCSE: this course page does not list GCSE requirements"
+   ],
+   "notes": "Optional financial economics pathway. Optional placement year (2027-28 placement-year fee: £2,010 in the UK, £1,507 outside the UK). Foundation-year route: BSc (Hons) Economics with Foundation Year (L105), typical offer 32+ UCAS points."
+  },
+  {
+   "id": "plymouth-business-management-economics",
+   "name": "Business Management with Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N2L1",
+   "lengthYears": 3,
+   "lengthNote": "3 years, plus an optional placement year (Plymouth lists it as '3 years (+ optional placement)')",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-management",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points from a minimum of 2 A levels (no specific grades or subjects listed)",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-economics",
+     "checked": "2026-10-21",
+     "evidence": "112 points from a minimum of 2 A levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4/C or above (or equivalent)"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade 4/C or above (or equivalent)"
+    }
+   ],
+   "gcseText": "All applicants must have GCSE (or equivalent) mathematics and English at grade 4/C or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-economics",
+    "checked": "2026-10-21",
+    "evidence": "112 points from a minimum of 2 A levels."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Plymouth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-economics",
+     "checked": "2026-10-21",
+     "evidence": "112 points from a minimum of 2 A levels."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "Typically 8 UCAS points below the advertised 112 points (so about 104 points) if you meet Plymouth's contextual criteria. Offers are personalised and meeting a criterion does not guarantee one.",
+     "programme": null,
+     "source": {
+      "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-economics",
+      "checked": "2026-10-21",
+      "evidence": "Typically, the contextual offer for this course is 8 points below the advertised tariff."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year: the course page does not state one; 2027 entry used (the page's UCAS link and fee table are for 2027). 2028 entry requirements are not published yet",
+    "Subjects: the entry requirements name no required or excluded A level subjects (points-based offer), so Psychology and Geography are not explicitly confirmed as accepted"
+   ],
+   "notes": "Business management degree with economics modules (for example Business and Data Analytics and The Economics of Business Organisations). Foundation-year route: BSc (Hons) Business Management with Foundation Year (4 years + optional placement)."
+  },
+  {
+   "id": "plymouth-business-management-finance",
+   "name": "Business Management with Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N2N3",
+   "lengthYears": 3,
+   "lengthNote": "3 years, plus an optional placement year (Plymouth lists it as '3 years (+ optional placement)')",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points, including a minimum of 2 A levels (no specific grades or subjects listed)",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-finance",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-finance",
+    "checked": "2026-10-21",
+    "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Plymouth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-finance",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "Typically 8 UCAS points below the advertised 112 points (so about 104 points) if you meet Plymouth's contextual criteria. Offers are personalised and meeting a criterion does not guarantee one.",
+     "programme": null,
+     "source": {
+      "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-finance",
+      "checked": "2026-10-21",
+      "evidence": "Typically, the contextual offer for this course is 8 points below the advertised tariff."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management-with-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year: the course page does not state one; 2027 entry used (the page's UCAS link and fee table are for 2027). 2028 entry requirements are not published yet",
+    "Subjects: the entry requirements name no required or excluded A level subjects (points-based offer), so Psychology and Geography are not explicitly confirmed as accepted",
+    "GCSE: this course page does not list GCSE requirements"
+   ],
+   "notes": "Covers financial decision-making, economic analysis and globalisation, with Bloomberg Interactive Learning Suite access. Foundation-year route: BSc (Hons) Business Management with Foundation Year (4 years + optional placement)."
+  },
+  {
+   "id": "plymouth-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BA (Hons)",
+   "ucasCode": "N420",
+   "lengthYears": 3,
+   "lengthNote": "3 years, plus an optional placement year (Plymouth lists it as '3 years (+ optional placement)')",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points, including a minimum of 2 A levels (no specific grades or subjects listed)",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/ba-accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.plymouth.ac.uk/courses/undergraduate/ba-accounting-and-finance",
+    "checked": "2026-10-21",
+    "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Plymouth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/ba-accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "Typically 8 UCAS points below the advertised 112 points (so about 104 points) if you meet Plymouth's contextual criteria. Offers are personalised and meeting a criterion does not guarantee one.",
+     "programme": null,
+     "source": {
+      "url": "https://www.plymouth.ac.uk/courses/undergraduate/ba-accounting-and-finance",
+      "checked": "2026-10-21",
+      "evidence": "Typically, the contextual offer for this course is 8 points below the advertised tariff."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.plymouth.ac.uk/courses/undergraduate/ba-accounting-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year: the course page does not state one; 2027 entry used (the page's UCAS link and fee table are for 2027). 2028 entry requirements are not published yet",
+    "Subjects: the entry requirements name no required or excluded A level subjects (points-based offer), so Psychology and Geography are not explicitly confirmed as accepted",
+    "GCSE: this course page does not list GCSE requirements"
+   ],
+   "notes": "Gives credits towards ACCA, ICAEW or CIMA professional qualifications (as stated by Plymouth). Foundation-year route: BA (Hons) Accounting and Finance with Foundation Year."
+  },
+  {
+   "id": "plymouth-business-management",
+   "name": "Business Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N203",
+   "lengthYears": 3,
+   "lengthNote": "3 years, plus an optional placement year (Plymouth lists it as '3 years (+ optional placement)')",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points, including a minimum of 2 A levels (no specific grades or subjects listed)",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management",
+    "checked": "2026-10-21",
+    "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Plymouth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points, including a minimum of 2 A levels."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "Typically 8 UCAS points below the advertised 112 points (so about 104 points) if you meet Plymouth's contextual criteria. Offers are personalised and meeting a criterion does not guarantee one.",
+     "programme": null,
+     "source": {
+      "url": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management",
+      "checked": "2026-10-21",
+      "evidence": "Typically, the contextual offer for this course is 8 points below the advertised tariff."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.plymouth.ac.uk/courses/undergraduate/bsc-business-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Entry year: the course page does not state one; 2027 entry used (the page's UCAS link and fee table are for 2027). 2028 entry requirements are not published yet",
+    "Subjects: the entry requirements name no required or excluded A level subjects (points-based offer), so Psychology and Geography are not explicitly confirmed as accepted",
+    "GCSE: this course page does not list GCSE requirements"
+   ],
+   "notes": "General business management degree that also explores economics, marketing, sustainability and ethics. Foundation-year route: BSc (Hons) Business Management with Foundation Year (4 years + optional placement)."
+  }
+ ],
+ "notes": [
+  "All five courses have the same published offer: 112 UCAS tariff points from at least 2 A levels. Plymouth does not publish a grade equivalent.",
+  "No admissions test is named on any course page, and Plymouth is not on UAT-UK's TMUA list for 2027 entry.",
+  "BSc Financial Economics, BA Finance with Business Accounting and BA International Finance are one-year top-up courses for people who already hold a foundation degree, HND or Level 5 qualification, so they are not included.",
+  "The campus is in the middle of Plymouth city centre (PL4 8AA); halls are on campus or in the nearby Student Village."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses (course pages do not print an entry year; 2027 comes from their UCAS link and fee table, and the contextual page refers to September 2027 entry)",
+  "2028/29 tuition fee (the year a September 2028 start falls in) is not published; Plymouth says fees from 2028/29 will rise automatically with inflation",
+  "2027/28 halls prices not published (2026/27 prices recorded)",
+  "No Economics or business Year 12 taster day or summer school found (the taster days page lists no subjects or dates)",
+  "GCSE requirements are only listed on the Business Management with Economics page",
+  "UCAS course pages could not be opened (HTTP 403), so Plymouth's own course pages are the only source"
+ ]
+}

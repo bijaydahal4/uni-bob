@@ -1,0 +1,963 @@
+{
+  "id": "kcl",
+  "name": "King's College London",
+  "shortName": "King's",
+  "aliases": [
+    "KCL",
+    "Kings",
+    "King's",
+    "King's College",
+    "Kings College London",
+    "King's College London",
+    "KCL London"
+  ],
+  "city": "London",
+  "region": "London",
+  "country": "England",
+  "setting": "city",
+  "settingEvidence": {
+    "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc",
+    "checked": "2026-10-17",
+    "evidence": "Taught in a central London location to provide you with close links and excellent opportunities to engage with the city's business sectors."
+  },
+  "location": {
+    "postcode": "WC2R 2LS",
+    "postcodeSource": "https://www.kcl.ac.uk/visit/strand-campus",
+    "lat": 51.511613,
+    "lng": -0.116228,
+    "coordsSource": "https://api.postcodes.io/postcodes/WC2R2LS",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK students (2027/28), set at the UK Government's fee cap",
+    "source": {
+      "url": "https://self-service.kcl.ac.uk/article/KA-02161/en-us",
+      "checked": "2026-10-17",
+      "evidence": "increase in tuition fees for the year 2027/28, which will be an increase of 2.68% to £10,050 for home undergraduate students on full-time courses"
+    }
+  },
+  "livingCosts": {
+    "kind": "living cost estimate",
+    "amountLow": 1331,
+    "amountHigh": 2342,
+    "period": "month",
+    "academicYear": "2026/27",
+    "text": "King's estimates London student living costs (accommodation, food, travel and leisure) at about £1,331-£2,342 a month, average £1,770 (2026/27); accommodation averages £1,164 a month of that",
+    "source": {
+      "url": "https://www.kcl.ac.uk/study/student-experience/living-expenses",
+      "checked": "2026-10-17",
+      "evidence": "Range of costs of living in London as a student 2026-27 ... Lower range ... Higher range ... Monthly ... £1,331 ... £1,770 ... £2,342"
+    }
+  },
+  "openDays": {
+    "events": [],
+    "text": "2026 open days have passed; King's plans more open days in summer 2027 (dates not announced yet). Guided campus tours and virtual tours run year-round.",
+    "url": "https://www.kcl.ac.uk/study/undergraduate/events/open-days",
+    "source": {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/events/open-days",
+      "checked": "2026-10-17",
+      "evidence": "Our 2026 undergraduate open days have now passed. We will be running more open days in summer 2027."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "King's makes contextual offers of up to two A-level grades below the advertised offer to UK-based applicants who completed K+, received free school meals, or are care-experienced/care leavers or estranged.",
+    "typicalReduction": "Up to two A-level grades lower than the advertised entry requirements (AAB instead of A*AA on the courses recorded here)",
+    "criteria": [
+      {
+        "key": "access",
+        "detail": "Successfully completed King's Social Mobility and Widening Participation programme K+",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "Have been in receipt of free school meals (FSM)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Care-experienced / care leaver",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged from your family",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "Applicants must meet at least one of the criteria ('And/Or') to be considered for a contextual offer; contextual admissions are only for UK-based applicants and an offer is not guaranteed. A separate 'additional consideration' route (not a reduced offer) covers applicants who completed a qualifying King's widening participation programme, attended King's College London Maths School, took a qualifying IntoUniversity course, or have forced displacement or are young adult carers. The page states it applies to September 2026 entry.",
+    "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/contextualised-admissions",
+    "source": {
+      "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/contextualised-admissions",
+      "checked": "2026-10-17",
+      "evidence": "Applicants must meet at least one of the criteria outlined below to be considered for a contextual offer: Have successfully completed King's College London's Social Mobility and Widening Participation programme K+"
+    }
+  },
+  "programmes": [
+    {
+      "id": "kcl-k-plus",
+      "name": "K+",
+      "provider": "King's College London",
+      "providerType": "university",
+      "uniIds": [
+        "kcl"
+      ],
+      "summary": "King's flagship two-year widening participation programme for sixth-form students, with pathways by subject area (including Business, and Social Science & Public Policy covering Economics, PPE, Political Economy and Politics).",
+      "whoCanApply": "Year 12 students at non-selective state schools or colleges in Greater London or one of King's target regions, with 8 GCSEs at grades 4-9 (including English and Maths, at least five at 6-9) and no parent/carer who has completed university.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "school",
+        "firstGen",
+        "care",
+        "estranged",
+        "refugee",
+        "other"
+      ],
+      "eligibilityDetail": "Currently in Year 12; live or attend a school in Greater London or one of King's target regions; attend a non-selective state school; 8 GCSEs at grades 4-9 (including English and Maths) with at least five at grades 6-9; no parent/carer who has completed university (still considered if a parent/carer is studying their first degree, graduated in the last ten years or completed a degree in another country). Some pathways have extra subject and grade requirements. Grade requirements may be waived for care-experienced, estranged, forced migrant, Gypsy/Roma/Traveller and homeless or sofa-surfing students.",
+      "benefits": [
+        "Two-grade reduced offer for most courses at King's after successfully completing K+",
+        "£1,000 bursary in the first year if you come to King's",
+        "Academic taster sessions, study skills, UCAS and student finance guidance, and a spring or summer school",
+        "King's can cover travel costs to K+ events for participants living outside London"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "kcl"
+      ],
+      "offerReduction": "Two-grade reduced offer for most courses (the K+ variable offer is worth up to two A-level grades lower than the standard offer)",
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "Pathways by subject area, e.g. Business (Accounting, Business, Finance or Management) and Social Science & Public Policy (Economics, PPE, Political Economy, Politics)",
+      "yearGroup": "Year 12 (two-year programme running into Year 13)",
+      "runs": {
+        "text": "2026 dates (2025-27 cohort): Business spring school 7-11 April 2026; Social Science & Public Policy summer school 10-14 August 2026 (summer induction 18 July 2026). 2027 dates not announced.",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Spring pathways (including Business) reopen in late 2026; summer pathways (including Social Science & Public Policy) reopen in 2027. No exact dates given.",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not announced yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2025-27 cohort's published dates. The page says to complete an expression-of-interest form if you are in Year 12 (as of September 2026) to be told when applications open. It also says 'Applications for our Summer Pathways will open on 5 May' without giving a year.",
+      "url": "https://www.kcl.ac.uk/study/social-mobility/projects/prospective-students/k-plus",
+      "source": {
+        "url": "https://www.kcl.ac.uk/study/social-mobility/projects/prospective-students/k-plus",
+        "checked": "2026-10-17",
+        "evidence": "Students who successfully complete K+ also get a two-grade reduced offer for most courses at King's College London and a £1000 bursary in the first year if they decide to come to us."
+      },
+      "notConfirmed": [
+        "cost: the page doesn't say whether K+ is free",
+        "deadline and 2027 programme dates: not announced",
+        "which regions count as King's 'target regions': only shown on an interactive map, not in the page text"
+      ]
+    },
+    {
+      "id": "kcl-pre-university-summer-school",
+      "name": "Pre-University Summer School",
+      "provider": "King's College London",
+      "providerType": "university",
+      "uniIds": [
+        "kcl"
+      ],
+      "summary": "One-week subject courses in central London for 16-17 year olds (with an optional residential package), including Business Management, Accounting and Finance, Politics and International Relations.",
+      "whoCanApply": "Academically motivated students aged 16 or 17 who are about to start or are in their final three years of high school (you must turn 16 before the start date and not turn 18 until after the programme ends).",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Open to students aged 16-17 (not 18 before the programme ends); applicants must be independent, mature and motivated. No widening participation criteria; a paid programme.",
+      "benefits": [
+        "King's Certificate of Participation on completion",
+        "A taste of university life and study at King's"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "£3,295 for one week of tuition (£3,195 if applied by 29 January 2027); residential package from £4,095 a week (£3,995 early); £65 application fee",
+      "isFree": false,
+      "format": "mixed",
+      "subjects": "Business Management; Accounting and Finance; Politics; International Relations; Marketing; Data Analytics; Law; Psychology and others (no Economics course listed)",
+      "yearGroup": "Ages 16-17",
+      "runs": {
+        "text": "Four one-week sessions in July 2027: 5-9, 12-16, 19-23 and 26-30 July 2027",
+        "start": "2027-07-05",
+        "end": "2027-07-30",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Early November 2026 (the Summer Programmes page gives 9 November 2026 for the King's Summer School)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "No closing date published; lower price if you apply by 29 January 2027",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": null,
+      "url": "https://www.kcl.ac.uk/summer/summer-on-campus/pre-university-summer-school",
+      "source": {
+        "url": "https://www.kcl.ac.uk/summer/summer-on-campus/pre-university-summer-school",
+        "checked": "2026-10-17",
+        "evidence": "Session 1: 5 July - 09 July 2027 ... £3,295 (£3,195 if applied by 29th January 2027)"
+      },
+      "notConfirmed": [
+        "deadline: no closing date is published (the page only says courses fill quickly)",
+        "offer: the page doesn't say that completing the summer school lowers any offer"
+      ]
+    },
+    {
+      "id": "kcl-undergraduate-taster-sessions",
+      "name": "Undergraduate Taster Sessions",
+      "provider": "King's College London",
+      "providerType": "university",
+      "uniIds": [
+        "kcl"
+      ],
+      "summary": "Online and on-campus subject taster sessions for Year 12 and Year 13 students, with a taster lecture and a chance to chat to current students and teaching staff.",
+      "whoCanApply": "Year 12 and Year 13 students",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Open to Year 12 and Year 13 students; sessions are subject-specific and booked event by event.",
+      "benefits": [
+        "Sample a taster lecture",
+        "Chat to current students and teaching staff"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "Varies by session. The upcoming sessions listed (29 Oct - 9 Dec 2026) are for other subjects (Global Media & Languages, Psychology and Neuroscience, History, Quantitative Mathematics, Chemistry, Physics, Natural Sciences); none for Economics, Business, Finance or Politics yet",
+      "yearGroup": "Year 12 and Year 13",
+      "runs": {
+        "text": "Rolling series of single sessions; none for Economics or Business listed yet",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Booking opens per event; not stated",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not stated",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the sessions listed in October 2026; Economics or Business tasters may be added later.",
+      "url": "https://www.kcl.ac.uk/events/series/undergraduate-taster",
+      "source": {
+        "url": "https://www.kcl.ac.uk/events/series/undergraduate-taster",
+        "checked": "2026-10-17",
+        "evidence": "If you are a Year 12 or Year 13 student, our Taster Sessions are a great way to experience life at King's before you make your UCAS application."
+      },
+      "notConfirmed": [
+        "cost: not stated on the page",
+        "no Economics, Business or Politics taster session is listed yet"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.kcl.ac.uk/",
+    "courses": "https://www.kcl.ac.uk/study/undergraduate/courses",
+    "economics": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc",
+    "openDays": "https://www.kcl.ac.uk/study/undergraduate/events/open-days",
+    "fees": "https://www.kcl.ac.uk/study/undergraduate/fees-and-funding/tuition-fees",
+    "contextual": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/contextualised-admissions",
+    "accommodation": "https://www.kcl.ac.uk/accommodation/undergraduate"
+  },
+  "courses": [
+    {
+      "id": "kcl-economics",
+      "name": "Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "none",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA at A-level, including grade A in Mathematics",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "Required grades: A*AA Must include grade A in Mathematics. ... Start date: September 2027"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics at grade A (one of the A*AA grades)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Thinking Skills",
+        "Global Perspectives"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/entry-requirements",
+        "checked": "2026-10-17",
+        "evidence": "A-level (or equivalent) grade A in Mathematics ... General Studies, Critical Thinking, Thinking Skills and Global Perspectives are not accepted by King's"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is required. King's list of undergraduate courses that need an aptitude test only includes Law (and Politics, Philosophy & Law), Medicine, Dentistry and Dental Therapy & Hygiene.",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "All the courses below require students to take an aptitude test in addition to meeting other entry requirements."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer if you meet at least one of King's criteria: completed the K+ programme, received free school meals, or are care-experienced/a care leaver or estranged (UK-based applicants only; an offer is not guaranteed)",
+          "programme": null,
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc/entry-requirements",
+            "checked": "2026-10-17",
+            "evidence": "Contextual A-Level Information Required grades: AAB Must include grade A in Mathematics."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Successfully completing K+ is one of King's contextual criteria, and King's says K+ completers get a two-grade reduced offer for most courses (plus a £1,000 first-year bursary). AAB is the contextual A-level offer shown on this course's entry requirements page.",
+          "programme": "K+",
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/social-mobility/projects/prospective-students/k-plus",
+            "checked": "2026-10-17",
+            "evidence": "Students who successfully complete K+ also get a two-grade reduced offer for most courses at King's College London and a £1000 bursary in the first year if they decide to come to us."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: no 2028-entry course information is published yet (the Economics page says it 'applies to 2027 entry only'), so 2027 entry is used",
+        "competition: King's doesn't publish offer rates or applications per place on its course pages",
+        "gcse: the course entry requirements page doesn't list any GCSE requirement"
+      ],
+      "notes": "Taught by the Department of Political Economy and King's Business School. No required A-level subject other than Maths, and no GCSE requirement is listed. The page says the course information 'applies to 2027 entry only' (application deadline shown: 13 January 2027). King's does not consider the EPQ."
+    },
+    {
+      "id": "kcl-economics-management",
+      "name": "Economics & Management",
+      "degree": "BSc",
+      "ucasCode": "LN12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with the separate 'Economics & Management with Year in Industry' course (UCAS code LN14)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA at A-level, including grade A in Mathematics and a second grade A in a Humanities or Social Science subject (not Modern Languages)",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/entry-requirements",
+          "checked": "2026-10-21",
+          "evidence": "Required grades: A*AA Must include grade A in Mathematics in addition to grade A in a Humanities or Social Science subject (excluding Modern Languages). ... Humanities/Social Science subjects accepted for this programme to meet the subject requirement: Classics Creative Writing English Language English Literature English Language and Literature History Philosophy Religious Studies Business Studies Economics Geography Government and Politics Politics Law Sociology Psychology ... Start date: September 2027"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics at grade A (one of the A*AA grades)"
+        },
+        {
+          "subjects": [
+            "Classics",
+            "Creative Writing",
+            "English Language",
+            "English Literature",
+            "English Language and Literature",
+            "History",
+            "Philosophy",
+            "Religious Studies",
+            "Business Studies",
+            "Economics",
+            "Geography",
+            "Government and Politics",
+            "Politics",
+            "Law",
+            "Sociology",
+            "Psychology"
+          ],
+          "minGrade": "A",
+          "note": "Grade A in a Humanities or Social Science A-level (not Modern Languages); Geography, Psychology and Economics are all on the accepted list"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Thinking Skills",
+        "Global Perspectives"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/entry-requirements",
+        "checked": "2026-10-17",
+        "evidence": "General Studies, Critical Thinking, Thinking Skills and Global Perspectives are not accepted by King's ... Geography ... Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is required. King's list of undergraduate courses that need an aptitude test only includes Law (and Politics, Philosophy & Law), Medicine, Dentistry and Dental Therapy & Hygiene.",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "All the courses below require students to take an aptitude test in addition to meeting other entry requirements."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer if you meet at least one of King's criteria: completed the K+ programme, received free school meals, or are care-experienced/a care leaver or estranged (UK-based applicants only; an offer is not guaranteed)",
+          "programme": null,
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc/entry-requirements",
+            "checked": "2026-10-17",
+            "evidence": "Contextual A-Level Information Required grades: AAB Must include grade A in Mathematics in addition to grade A in a Humanities or Social Science subject (excluding Modern Languages)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Successfully completing K+ is one of King's contextual criteria, and King's says K+ completers get a two-grade reduced offer for most courses (plus a £1,000 first-year bursary). AAB is the contextual A-level offer shown on this course's entry requirements page.",
+          "programme": "K+",
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/social-mobility/projects/prospective-students/k-plus",
+            "checked": "2026-10-17",
+            "evidence": "Students who successfully complete K+ also get a two-grade reduced offer for most courses at King's College London and a £1000 bursary in the first year if they decide to come to us."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.kcl.ac.uk/study/undergraduate/courses/economics-and-management-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: no 2028-entry course information is published yet (the Economics page says it 'applies to 2027 entry only'), so 2027 entry is used",
+        "competition: King's doesn't publish offer rates or applications per place on its course pages",
+        "gcse: the course entry requirements page doesn't list any GCSE requirement"
+      ],
+      "notes": "Needs two separate grade-A A-levels: Mathematics plus a Humanities/Social Science subject (Geography, Psychology and Economics are accepted). Taught in King's Business School."
+    },
+    {
+      "id": "kcl-political-economy",
+      "name": "Political Economy",
+      "degree": "BA/BSc",
+      "ucasCode": "L200",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "none",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA at A-level (no required subjects)",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "Required grades: A*AA ... Start date: September 2027"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Thinking Skills",
+        "Global Perspectives"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/entry-requirements",
+        "checked": "2026-10-17",
+        "evidence": "No required subjects ... General Studies, Critical Thinking, Thinking Skills and Global Perspectives are not accepted by King's"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is required. King's list of undergraduate courses that need an aptitude test only includes Law (and Politics, Philosophy & Law), Medicine, Dentistry and Dental Therapy & Hygiene.",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "All the courses below require students to take an aptitude test in addition to meeting other entry requirements."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer if you meet at least one of King's criteria: completed the K+ programme, received free school meals, or are care-experienced/a care leaver or estranged (UK-based applicants only; an offer is not guaranteed)",
+          "programme": null,
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc/entry-requirements",
+            "checked": "2026-10-17",
+            "evidence": "Contextual A-Level Information Required grades: AAB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Successfully completing K+ is one of King's contextual criteria, and King's says K+ completers get a two-grade reduced offer for most courses (plus a £1,000 first-year bursary). AAB is the contextual A-level offer shown on this course's entry requirements page.",
+          "programme": "K+",
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/social-mobility/projects/prospective-students/k-plus",
+            "checked": "2026-10-17",
+            "evidence": "Students who successfully complete K+ also get a two-grade reduced offer for most courses at King's College London and a £1000 bursary in the first year if they decide to come to us."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.kcl.ac.uk/study/undergraduate/courses/political-economy-ba-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: no 2028-entry course information is published yet (the Economics page says it 'applies to 2027 entry only'), so 2027 entry is used",
+        "competition: King's doesn't publish offer rates or applications per place on its course pages",
+        "gcse: the course entry requirements page doesn't list any GCSE requirement"
+      ],
+      "notes": "No required A-level subjects. Taught by the Department of Political Economy; depending on your module choices you graduate with a BA or a BSc."
+    },
+    {
+      "id": "kcl-ppe",
+      "name": "Philosophy, Politics & Economics",
+      "degree": "BA/BSc",
+      "ucasCode": "L0V0",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "none",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA at A-level (no required subjects), plus GCSE Mathematics at grade 7/A",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "Required grades: A*AA ... Start date: September 2027"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Grade 7/A (or equivalent)"
+        }
+      ],
+      "gcseText": "Grade 7/A in Mathematics (or equivalent).",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Thinking Skills",
+        "Global Perspectives"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/entry-requirements",
+        "checked": "2026-10-17",
+        "evidence": "No required subjects ... Grade 7/A in Mathematics (or equivalent) ... General Studies, Critical Thinking, Thinking Skills and Global Perspectives are not accepted by King's"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is required. King's list of undergraduate courses that need an aptitude test only includes Law (and Politics, Philosophy & Law), Medicine, Dentistry and Dental Therapy & Hygiene.",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "All the courses below require students to take an aptitude test in addition to meeting other entry requirements."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer if you meet at least one of King's criteria: completed the K+ programme, received free school meals, or are care-experienced/a care leaver or estranged (UK-based applicants only; an offer is not guaranteed)",
+          "programme": null,
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc/entry-requirements",
+            "checked": "2026-10-17",
+            "evidence": "Contextual A-Level Information Required grades: AAB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Successfully completing K+ is one of King's contextual criteria, and King's says K+ completers get a two-grade reduced offer for most courses (plus a £1,000 first-year bursary). AAB is the contextual A-level offer shown on this course's entry requirements page.",
+          "programme": "K+",
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/social-mobility/projects/prospective-students/k-plus",
+            "checked": "2026-10-17",
+            "evidence": "Students who successfully complete K+ also get a two-grade reduced offer for most courses at King's College London and a £1000 bursary in the first year if they decide to come to us."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: no 2028-entry course information is published yet (the Economics page says it 'applies to 2027 entry only'), so 2027 entry is used",
+        "competition: King's doesn't publish offer rates or applications per place on its course pages"
+      ],
+      "notes": "No required A-level subjects, but GCSE Maths at grade 7 (A) is needed. Taught jointly by the Departments of Political Economy and Philosophy; BA or BSc depending on module choices."
+    },
+    {
+      "id": "kcl-accounting-finance",
+      "name": "Accounting & Finance",
+      "degree": "BSc",
+      "ucasCode": "NN34",
+      "lengthYears": 3,
+      "lengthNote": "4 years with the separate 'Accounting & Finance with Year in Industry' course (UCAS code NN35)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA at A-level, including grade A in Mathematics",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "Required grades: A*AA Must include grade A in Mathematics. ... Start date: September 2027"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics at grade A (one of the A*AA grades)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Thinking Skills",
+        "Global Perspectives"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/entry-requirements",
+        "checked": "2026-10-17",
+        "evidence": "A-level (or equivalent) grade A in Mathematics ... General Studies, Critical Thinking, Thinking Skills and Global Perspectives are not accepted by King's"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is required. King's list of undergraduate courses that need an aptitude test only includes Law (and Politics, Philosophy & Law), Medicine, Dentistry and Dental Therapy & Hygiene.",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "All the courses below require students to take an aptitude test in addition to meeting other entry requirements."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer if you meet at least one of King's criteria: completed the K+ programme, received free school meals, or are care-experienced/a care leaver or estranged (UK-based applicants only; an offer is not guaranteed)",
+          "programme": null,
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc/entry-requirements",
+            "checked": "2026-10-17",
+            "evidence": "Contextual A-Level Information Required grades: AAB Must include grade A in Mathematics."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Successfully completing K+ is one of King's contextual criteria, and King's says K+ completers get a two-grade reduced offer for most courses (plus a £1,000 first-year bursary). AAB is the contextual A-level offer shown on this course's entry requirements page.",
+          "programme": "K+",
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/social-mobility/projects/prospective-students/k-plus",
+            "checked": "2026-10-17",
+            "evidence": "Students who successfully complete K+ also get a two-grade reduced offer for most courses at King's College London and a £1000 bursary in the first year if they decide to come to us."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: no 2028-entry course information is published yet (the Economics page says it 'applies to 2027 entry only'), so 2027 entry is used",
+        "competition: King's doesn't publish offer rates or applications per place on its course pages",
+        "gcse: the course entry requirements page doesn't list any GCSE requirement"
+      ],
+      "notes": "Accredited by ACCA, ICAS, ICAEW and CIMA (graduates can apply for exam exemptions). Taught in King's Business School."
+    },
+    {
+      "id": "kcl-business-management",
+      "name": "Business Management",
+      "degree": "BSc",
+      "ucasCode": "N200",
+      "lengthYears": 3,
+      "lengthNote": "4 years with the separate 'Business Management with Year in Industry' course (UCAS code N201)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA at A-level, including grade A in a Humanities or Social Science subject (not Modern Languages), plus GCSE Mathematics at grade 6/B",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements",
+          "checked": "2026-10-21",
+          "evidence": "Required grades: A*AA Must include grade A in a Humanities or Social Science subject (excluding Modern Languages). ... Humanities/Social Science subjects accepted for this programme to meet the subject requirement: Classics Creative Writing English Language English Literature English Language and Literature History Philosophy Religious Studies Business Studies Economics Geography Government and Politics Politics Law Sociology Psychology ... Start date: September 2027"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Classics",
+            "Creative Writing",
+            "English Language",
+            "English Literature",
+            "English Language and Literature",
+            "History",
+            "Philosophy",
+            "Religious Studies",
+            "Business Studies",
+            "Economics",
+            "Geography",
+            "Government and Politics",
+            "Politics",
+            "Law",
+            "Sociology",
+            "Psychology"
+          ],
+          "minGrade": "A",
+          "note": "Grade A in a Humanities or Social Science A-level (not Modern Languages); Geography, Psychology and Economics are all on the accepted list"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6/B (or equivalent)"
+        }
+      ],
+      "gcseText": "Grade 6/B in Mathematics (or equivalent).",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Thinking Skills",
+        "Global Perspectives"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements",
+        "checked": "2026-10-17",
+        "evidence": "Grade 6/B in Mathematics (or equivalent) ... General Studies, Critical Thinking, Thinking Skills and Global Perspectives are not accepted by King's ... Geography ... Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is required. King's list of undergraduate courses that need an aptitude test only includes Law (and Politics, Philosophy & Law), Medicine, Dentistry and Dental Therapy & Hygiene.",
+        "source": {
+          "url": "https://www.kcl.ac.uk/study/undergraduate/how-to-apply/entry-requirements",
+          "checked": "2026-10-17",
+          "evidence": "All the courses below require students to take an aptitude test in addition to meeting other entry requirements."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer if you meet at least one of King's criteria: completed the K+ programme, received free school meals, or are care-experienced/a care leaver or estranged (UK-based applicants only; an offer is not guaranteed)",
+          "programme": null,
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc/entry-requirements",
+            "checked": "2026-10-17",
+            "evidence": "Contextual A-Level Information Required grades: AAB Must include grade A in a Humanities or Social Science subject (excluding Modern Languages)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Successfully completing K+ is one of King's contextual criteria, and King's says K+ completers get a two-grade reduced offer for most courses (plus a £1,000 first-year bursary). AAB is the contextual A-level offer shown on this course's entry requirements page.",
+          "programme": "K+",
+          "source": {
+            "url": "https://www.kcl.ac.uk/study/social-mobility/projects/prospective-students/k-plus",
+            "checked": "2026-10-17",
+            "evidence": "Students who successfully complete K+ also get a two-grade reduced offer for most courses at King's College London and a £1000 bursary in the first year if they decide to come to us."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.kcl.ac.uk/study/undergraduate/courses/business-management-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: no 2028-entry course information is published yet (the Economics page says it 'applies to 2027 entry only'), so 2027 entry is used",
+        "competition: King's doesn't publish offer rates or applications per place on its course pages"
+      ],
+      "notes": "Needs a grade-A A-level in a Humanities/Social Science subject (Geography and Psychology are both on the accepted list), but no Maths A-level. Taught in King's Business School."
+    }
+  ],
+  "notes": [
+    "All six courses recorded here ask for A*AA; the contextual A-level offer is AAB. King's expresses entry requirements as A-level grades only (no UCAS tariff points) and says it does not consider the EPQ at any point of the assessment process.",
+    "Economics (L100) is taught by the Department of Political Economy with King's Business School; Economics & Management, Accounting & Finance and Business Management are in King's Business School.",
+    "No admissions test applies to these courses (only Law, Medicine, Dentistry and Dental Therapy & Hygiene need one).",
+    "King's course search for 'economics' and 'finance' did not list an Economics and Finance, Economics and Accounting or Mathematics and Economics degree. Not recorded: Mathematics with Management & Finance (needs A*A in Maths and Further Maths), Data Analytics for Business & Finance BSc (A*AA including A in Maths) and International Management BSc (A*AA, compulsory study abroad).",
+    "King's guarantees accommodation to new first-year undergraduates who make King's their firm choice (conditions as stated for 2026/27 entry)."
+  ],
+  "notConfirmed": [
+    "2028 entry: no 2028-entry course information is published yet, so 2027 entry is used for every course",
+    "contextual: the contextual admissions page says it applies to September 2026 entry; no 2027 or 2028 version found, so the rules may change",
+    "fees: 2027/28 (£10,050, set by the UK Government's fee cap) is the latest published UK fee; the fee for 2028 entry is not published",
+    "livingCosts: King's 2026/27 London estimate is the latest published",
+    "openDays: 2027 open day dates not announced yet",
+    "ucas: UCAS course pages could not be read (bot check), so no UCAS links recorded",
+    "competition: King's doesn't publish offer rates or applications per place on its course pages"
+  ]
+}

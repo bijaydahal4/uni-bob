@@ -1,0 +1,723 @@
+{
+  "id": "uea",
+  "name": "University of East Anglia",
+  "shortName": "UEA",
+  "aliases": [
+    "UEA",
+    "East Anglia",
+    "Uni of East Anglia",
+    "UEA Norwich"
+  ],
+  "city": "Norwich",
+  "region": "East of England",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.uea.ac.uk/study/information-for/teachers/services-for-schools/year-12-13/on-campus",
+    "checked": "2026-10-21",
+    "evidence": "see what it’s really like to study at a campus university"
+  },
+  "location": {
+    "postcode": "NR4 7TJ",
+    "postcodeSource": "https://www.uea.ac.uk/about/information-for-visitors/contact-information-and-map",
+    "lat": null,
+    "lng": null,
+    "coordsSource": "https://api.postcodes.io/postcodes/NR47TJ",
+    "checked": "2026-10-21"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK students starting in 2027/28. UEA says this is the UK government's announced fee cap for 2027-28 and that Home fees will change if the cap changes; fees also rise each year for students already studying.",
+    "source": {
+      "url": "https://www.uea.ac.uk/about/university-information/finance-and-procurement/finance-information-for-students/tuition-fees",
+      "checked": "2026-10-21",
+      "evidence": "the tuition fee cap for UK undergraduate students for the 2026-27 academic year would increase to £9,790 and the 2027-28 academic year would increase to £10,050"
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 131,
+    "amountHigh": 209.5,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "UEA halls cost about £131–£209.50 a week in 2026/27 on the usual 41-week undergraduate licence: rooms sharing a bathroom £131, en suite rooms £178.50–£209.50. En suite twin rooms shared with another student cost £97.50 each.",
+    "source": {
+      "url": "https://assets.uea.ac.uk/f/185167/x/85f91e4351/residence-type-room-comparison.pdf",
+      "checked": "2026-10-21",
+      "evidence": "(WEEKLY COST IN BRACKETS) ... £8,589.50 (£209.50) ... £5,371.00 (£131.00) ... Shared: £3,997.50 (£97.50)"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-10-24",
+        "endDate": null,
+        "label": "Undergraduate Open Day",
+        "format": "in person",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2026-11-28",
+        "endDate": null,
+        "label": "Undergraduate Open Day",
+        "format": "in person",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next undergraduate open days: Saturday 24 October 2026 and Saturday 28 November 2026. 2027 dates are not announced yet.",
+    "url": "https://www.uea.ac.uk/visit/uni-open-days",
+    "source": {
+      "url": "https://www.uea.ac.uk/visit/uni-open-days",
+      "checked": "2026-10-21",
+      "evidence": "Our undergraduate Open Day dates are: ... Saturday 24 October 2026 ... Saturday 28 November 2026"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "If you live in England and qualify under one of UEA's contextual schemes, you can get an automatic contextual offer with lower entry requirements (BBC instead of ABB on its economics courses).",
+    "typicalReduction": "Not stated in general; on the seven courses recorded here the contextual A-level offer is BBC compared with a typical ABB.",
+    "criteria": [
+      {
+        "key": "area",
+        "detail": "If you live in England, UEA uses your postcode to check whether you live in an area of deprivation, measured with the Index of Multiple Deprivation (IMD). Which IMD areas qualify isn't shown in the page text; use UEA's postcode eligibility checker on its 2027-entry page.",
+        "measure": "IMD",
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "access",
+        "detail": "'Outreach Activity Participants' is one of UEA's contextual admissions schemes. The page text doesn't say which outreach activities count.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      }
+    ],
+    "minCriteria": null,
+    "rulesText": "You don't need to apply: UEA's admissions team works out your contextual offer automatically from data it and its partners already hold, if you live in England. UEA's schemes for 2027 entry are Nationwide Contextual Admissions, Outreach Activity Participants, Preparing for Medicine participants, Preparing for Pharmacy participants, Access to HE students and Medicine with a Gateway Year. All GCSE and subject requirements stay the same for contextual offers. The 2027-entry page has a postcode eligibility checker (https://www.uea.ac.uk/apply/undergraduate/contextual-admissions/2027-entry); the detailed rules for each scheme aren't shown in the page text.",
+    "url": "https://www.uea.ac.uk/apply/undergraduate/contextual-admissions",
+    "source": {
+      "url": "https://www.uea.ac.uk/apply/undergraduate/contextual-admissions",
+      "checked": "2026-10-21",
+      "evidence": "If you are living in England and applying for an undergraduate course you may be eligible for contextual admissions through one of our schemes ... All GCSE and subject requirements will remain for all contextual offers"
+    }
+  },
+  "programmes": [],
+  "links": {
+    "home": "https://www.uea.ac.uk/",
+    "courses": "https://www.uea.ac.uk/study/undergraduate",
+    "economics": "https://www.uea.ac.uk/study/subjects/economics",
+    "openDays": "https://www.uea.ac.uk/visit/uni-open-days",
+    "fees": "https://www.uea.ac.uk/about/university-information/finance-and-procurement/finance-information-for-students/tuition-fees",
+    "contextual": "https://www.uea.ac.uk/apply/undergraduate/contextual-admissions",
+    "accommodation": "https://www.uea.ac.uk/uea-life/accommodation"
+  },
+  "courses": [
+    {
+      "id": "uea-economics",
+      "name": "Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "Also listed as course options with a Year Abroad and with a Placement Year (their length and codes aren't shown on this page)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB at A level (contextual offer BBC)",
+        "source": {
+          "url": "https://www.uea.ac.uk/course/undergraduate/bsc-economics/2027-28",
+          "checked": "2026-10-21",
+          "evidence": "Typical Offer ... ABB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4 at minimum (held or being worked towards)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "Grade B or 5 at minimum (held or being worked towards)"
+        }
+      ],
+      "gcseText": "All applicants must hold or be working towards GCSEs in English Language at minimum grade C or grade 4 and Mathematics at minimum grade B or grade 5.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.uea.ac.uk/study/subjects/economics",
+        "checked": "2026-10-21",
+        "evidence": "At undergraduate level, you can study economics even without A-level/IB maths or economics. We welcome students with a wide range of qualifications in any subject."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements. UEA is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "BBC at A level, instead of the typical ABB, if you qualify under one of UEA's contextual admissions schemes.",
+          "programme": null,
+          "source": {
+            "url": "https://www.uea.ac.uk/course/undergraduate/bsc-economics/2027-28",
+            "checked": "2026-10-21",
+            "evidence": "Contextual offer: BBC"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.uea.ac.uk/course/undergraduate/bsc-economics/2027-28",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry requirements aren't published yet (checked 2026-10-21: the 2028-29 address of the BSc Economics course page returns 'Not Found'), so 2027 entry is recorded"
+      ],
+      "notes": "The main BSc Economics. No A-level subjects are required. Students without A-level Mathematics take a tailored introductory mathematics module in year 1 (course page). Year 1 includes the compulsory Introductory Mathematics for Economists module."
+    },
+    {
+      "id": "uea-economics-ba",
+      "name": "Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "L110",
+      "lengthYears": 3,
+      "lengthNote": "Also listed as course options with a Year Abroad and with a Placement Year (their length and codes aren't shown on this page)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB at A level (contextual offer BBC)",
+        "source": {
+          "url": "https://www.uea.ac.uk/course/undergraduate/ba-economics/2027-28/sep",
+          "checked": "2026-10-21",
+          "evidence": "Typical Offer ... ABB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4 at minimum (held or being worked towards)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "Grade B or 5 at minimum (held or being worked towards)"
+        }
+      ],
+      "gcseText": "All applicants must hold or be working towards GCSEs in English Language at minimum grade C or grade 4 and Mathematics at minimum grade B or grade 5.",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.uea.ac.uk/course/undergraduate/ba-economics/2027-28/sep",
+        "checked": "2026-10-21",
+        "evidence": "We do not accept General Studies A-levels."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements. UEA is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "BBC at A level, instead of the typical ABB, if you qualify under one of UEA's contextual admissions schemes.",
+          "programme": null,
+          "source": {
+            "url": "https://www.uea.ac.uk/course/undergraduate/ba-economics/2027-28/sep",
+            "checked": "2026-10-21",
+            "evidence": "Contextual offer: BBC"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.uea.ac.uk/course/undergraduate/ba-economics/2027-28/sep",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry requirements aren't published yet (checked 2026-10-21: the 2028-29 address of the BSc Economics course page returns 'Not Found'), so 2027 entry is recorded"
+      ],
+      "notes": "The BA is the flexible, policy-focused version of Economics. The page says its quantitative content builds from GCSE-level mathematics, and quantitative study becomes optional in year 2. UEA does not accept General Studies A-levels."
+    },
+    {
+      "id": "uea-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "LN13",
+      "lengthYears": 3,
+      "lengthNote": "Also listed as course options with a Year Abroad and with a Placement Year (their length and codes aren't shown on this page)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB at A level (contextual offer BBC)",
+        "source": {
+          "url": "https://www.uea.ac.uk/course/undergraduate/bsc-economics-and-finance/2027-28/sep",
+          "checked": "2026-10-21",
+          "evidence": "Typical Offer ... ABB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4 at minimum (held or being worked towards)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "Grade B or 5 at minimum (held or being worked towards)"
+        }
+      ],
+      "gcseText": "All applicants must hold or be working towards GCSEs in English Language at minimum grade C or grade 4 and Mathematics at minimum grade B or grade 5.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.uea.ac.uk/study/subjects/economics",
+        "checked": "2026-10-21",
+        "evidence": "At undergraduate level, you can study economics even without A-level/IB maths or economics. We welcome students with a wide range of qualifications in any subject."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements. UEA is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "BBC at A level, instead of the typical ABB, if you qualify under one of UEA's contextual admissions schemes.",
+          "programme": null,
+          "source": {
+            "url": "https://www.uea.ac.uk/course/undergraduate/bsc-economics-and-finance/2027-28/sep",
+            "checked": "2026-10-21",
+            "evidence": "Contextual offer: BBC"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.uea.ac.uk/course/undergraduate/bsc-economics-and-finance/2027-28/sep",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry requirements aren't published yet (checked 2026-10-21: the 2028-29 address of the BSc Economics course page returns 'Not Found'), so 2027 entry is recorded"
+      ],
+      "notes": "No A-level subjects are required. Students without A-level Mathematics take a tailored introductory mathematics module in year 1 (course page). Finance-focused options in years 2 and 3; LSEG-powered data facilities and Bloomberg terminals."
+    },
+    {
+      "id": "uea-economics-accountancy",
+      "name": "Economics with Accountancy",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L1N4",
+      "lengthYears": 3,
+      "lengthNote": "Also listed as course options with a Year Abroad and with a Placement Year (their length and codes aren't shown on this page)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-accounting"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB at A level (contextual offer BBC)",
+        "source": {
+          "url": "https://www.uea.ac.uk/course/undergraduate/bsc-economics-with-accountancy/2027-28/sep",
+          "checked": "2026-10-21",
+          "evidence": "Typical Offer ... ABB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4 at minimum (held or being worked towards)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "Grade B or 5 at minimum (held or being worked towards)"
+        }
+      ],
+      "gcseText": "All applicants must hold or be working towards GCSEs in English Language at minimum grade C or grade 4 and Mathematics at minimum grade B or grade 5.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.uea.ac.uk/study/subjects/economics",
+        "checked": "2026-10-21",
+        "evidence": "At undergraduate level, you can study economics even without A-level/IB maths or economics. We welcome students with a wide range of qualifications in any subject."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements. UEA is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "BBC at A level, instead of the typical ABB, if you qualify under one of UEA's contextual admissions schemes.",
+          "programme": null,
+          "source": {
+            "url": "https://www.uea.ac.uk/course/undergraduate/bsc-economics-with-accountancy/2027-28/sep",
+            "checked": "2026-10-21",
+            "evidence": "Contextual offer: BBC"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.uea.ac.uk/course/undergraduate/bsc-economics-with-accountancy/2027-28/sep",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry requirements aren't published yet (checked 2026-10-21: the 2028-29 address of the BSc Economics course page returns 'Not Found'), so 2027 entry is recorded"
+      ],
+      "notes": "No A-level subjects are required. Students without A-level Mathematics take a tailored introductory mathematics module in year 1 (course page). A joint programme delivered by the School of Economics and Norwich Business School; graduates may get some exam exemptions from accountancy bodies such as ACCA and CIMA (course page)."
+    },
+    {
+      "id": "uea-business-economics",
+      "name": "Business Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L111",
+      "lengthYears": 3,
+      "lengthNote": "Also listed as course options with a Year Abroad and with a Placement Year (their length and codes aren't shown on this page)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB at A level (contextual offer BBC)",
+        "source": {
+          "url": "https://www.uea.ac.uk/course/undergraduate/bsc-business-economics/2027-28/sep",
+          "checked": "2026-10-21",
+          "evidence": "Typical Offer ... ABB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4 at minimum (held or being worked towards)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "Grade B or 5 at minimum (held or being worked towards)"
+        }
+      ],
+      "gcseText": "All applicants must hold or be working towards GCSEs in English Language at minimum grade C or grade 4 and Mathematics at minimum grade B or grade 5.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.uea.ac.uk/study/subjects/economics",
+        "checked": "2026-10-21",
+        "evidence": "At undergraduate level, you can study economics even without A-level/IB maths or economics. We welcome students with a wide range of qualifications in any subject."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements. UEA is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "BBC at A level, instead of the typical ABB, if you qualify under one of UEA's contextual admissions schemes.",
+          "programme": null,
+          "source": {
+            "url": "https://www.uea.ac.uk/course/undergraduate/bsc-business-economics/2027-28/sep",
+            "checked": "2026-10-21",
+            "evidence": "Contextual offer: BBC"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.uea.ac.uk/course/undergraduate/bsc-business-economics/2027-28/sep",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry requirements aren't published yet (checked 2026-10-21: the 2028-29 address of the BSc Economics course page returns 'Not Found'), so 2027 entry is recorded"
+      ],
+      "notes": "No A-level subjects are required. Students without A-level Mathematics take a tailored introductory mathematics module in year 1 (course page). Focuses on how firms compete and take decisions; the school is linked to the Centre for Competition Policy."
+    },
+    {
+      "id": "uea-economics-behaviour-data-science",
+      "name": "Economics, Behaviour and Data Science",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L1I1",
+      "lengthYears": 3,
+      "lengthNote": "Also listed as course options with a Year Abroad and with a Placement Year (their length and codes aren't shown on this page)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "behavioural-economics",
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB at A level (contextual offer BBC)",
+        "source": {
+          "url": "https://www.uea.ac.uk/course/undergraduate/bsc-economics-behaviour-and-data-science/2027-28/sep",
+          "checked": "2026-10-21",
+          "evidence": "Typical Offer ... ABB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4 at minimum (held or being worked towards)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "Grade B or 5 at minimum (held or being worked towards)"
+        }
+      ],
+      "gcseText": "All applicants must hold or be working towards GCSEs in English Language at minimum grade C or grade 4 and Mathematics at minimum grade B or grade 5.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.uea.ac.uk/study/subjects/economics",
+        "checked": "2026-10-21",
+        "evidence": "At undergraduate level, you can study economics even without A-level/IB maths or economics. We welcome students with a wide range of qualifications in any subject."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements. UEA is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "BBC at A level, instead of the typical ABB, if you qualify under one of UEA's contextual admissions schemes.",
+          "programme": null,
+          "source": {
+            "url": "https://www.uea.ac.uk/course/undergraduate/bsc-economics-behaviour-and-data-science/2027-28/sep",
+            "checked": "2026-10-21",
+            "evidence": "Contextual offer: BBC"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.uea.ac.uk/course/undergraduate/bsc-economics-behaviour-and-data-science/2027-28/sep",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry requirements aren't published yet (checked 2026-10-21: the 2028-29 address of the BSc Economics course page returns 'Not Found'), so 2027 entry is recorded"
+      ],
+      "notes": "No A-level subjects are required. Students without A-level Mathematics take a tailored introductory mathematics module in year 1 (course page). Combines behavioural economics with programming and data analysis; students can take part in experimental economics research in UEA's LEDR labs."
+    },
+    {
+      "id": "uea-ppe",
+      "name": "Philosophy, Politics and Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "L0V0",
+      "lengthYears": 3,
+      "lengthNote": "Also listed as course options with a Year Abroad and with a Placement Year (their length and codes aren't shown on this page)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB at A level (contextual offer BBC)",
+        "source": {
+          "url": "https://www.uea.ac.uk/course/undergraduate/ba-philosophy-politics-and-economics/2027-28/sep",
+          "checked": "2026-10-21",
+          "evidence": "Typical Offer ... ABB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4 at minimum (held or being worked towards)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "Grade C or 4 at minimum (held or being worked towards); Functional Skills Level 2 Mathematics can be considered in place of GCSE Mathematics"
+        }
+      ],
+      "gcseText": "All applicants must hold or be working towards GCSEs in English Language at minimum grade C or grade 4 and Mathematics at minimum grade C or grade 4. In place of Mathematics we can also consider Functional Skills Level 2 Mathematics.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://www.uea.ac.uk/course/undergraduate/ba-philosophy-politics-and-economics/2027-28/sep",
+        "checked": "2026-10-21",
+        "evidence": "Typical UK Entry Requirements ... A levels ... ABB"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements. UEA is not on UAT-UK's official TMUA list for 2027 entry.",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBC",
+          "tariff": null,
+          "conditions": "BBC at A level, instead of the typical ABB, if you qualify under one of UEA's contextual admissions schemes.",
+          "programme": null,
+          "source": {
+            "url": "https://www.uea.ac.uk/course/undergraduate/ba-philosophy-politics-and-economics/2027-28/sep",
+            "checked": "2026-10-21",
+            "evidence": "Contextual offer: BBC"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.uea.ac.uk/course/undergraduate/ba-philosophy-politics-and-economics/2027-28/sep",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry requirements aren't published yet (checked 2026-10-21: the 2028-29 address of the BSc Economics course page returns 'Not Found'), so 2027 entry is recorded",
+        "subjects: the page names no required or excluded A-level subjects, so whether Psychology and Geography are accepted isn't stated"
+      ],
+      "notes": "Taught outside the School of Economics. The course page gives grades only (ABB) and names no required or excluded A-level subjects. GCSE Mathematics needs only grade 4/C (grade 5/B on the economics degrees)."
+    }
+  ],
+  "notes": [
+    "No 2028-entry course pages yet (checked 2026-10-21: the 2028-29 address of the BSc Economics course page returns 'Not Found'), so all courses use 2027 entry (September 2027 start).",
+    "UEA is not on UAT-UK's official TMUA list for 2027 entry, and none of the course pages names an admissions test.",
+    "All seven courses ask for ABB at A level (contextual offer BBC) and list no required A-level subjects. The economics subject page says you can study economics without A-level maths or economics and that students with any subjects are welcome (https://www.uea.ac.uk/study/subjects/economics).",
+    "Every recorded course also has Year Abroad and Placement Year versions listed as course options.",
+    "UEA estimates living expenses at £1,171 a month (2027/28 course pages: https://www.uea.ac.uk/course/undergraduate/bsc-economics/2027-28).",
+    "Halls rents are for 2026/27 on a 41-week undergraduate licence (https://assets.uea.ac.uk/f/185167/x/85f91e4351/residence-type-room-comparison.pdf). UEA says halls licences mean you do not pay bills such as internet, gas and electricity (https://www.uea.ac.uk/uea-life/accommodation).",
+    "Not added, to keep to seven courses: BSc Accounting and Finance (N400), BSc Business Finance and Economics and BSc Finance and Management (all Norwich Business School) and the final-year-entry courses.",
+    "UEA's neaco / Take Your Place outreach is for students in areas of East Anglia, so it isn't recorded as a programme."
+  ],
+  "notConfirmed": [
+    "entryYear: 2028-entry pages aren't published yet (the 2028-29 address of the BSc Economics course page returned 'Not Found' on 2026-10-21), so 2027 entry is used for every course",
+    "contextual: the schemes listed are for 2027 entry (applications before 30 June 2027) and 2028-entry rules aren't published; the page text doesn't show who qualifies under each scheme (which IMD areas, which outreach activities), so only the IMD postcode check and the scheme names are recorded",
+    "programmes: UEA's summer-school pages returned 'Not Found', and the Year 12-13 outreach pages describe school visits and the East Anglia-only neaco programme, so no UEA summer school or access programme is recorded",
+    "openDays: only the 24 October and 28 November 2026 open days are listed; 2027 dates aren't announced yet",
+    "ucas: no UCAS course page links recorded",
+    "competition: UEA doesn't publish offer rates or applications per place on the course pages",
+    "livingCosts: halls rents are for 2026/27; 2027/28 rents aren't published yet"
+  ]
+}

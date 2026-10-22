@@ -1,0 +1,1250 @@
+{
+ "id": "leicester",
+ "name": "University of Leicester",
+ "shortName": "Leicester",
+ "aliases": [
+  "Leicester",
+  "Leicester Uni",
+  "Uni of Leicester",
+  "UoLeicester",
+  "Leic"
+ ],
+ "city": "Leicester",
+ "region": "Midlands",
+ "country": "England",
+ "setting": "mixed",
+ "settingEvidence": {
+  "url": "https://le.ac.uk/study/city-campus",
+  "checked": "2026-10-20",
+  "evidence": "With our campuses located near to the vibrant city centre and peaceful outskirts, Leicester provides a safe, welcoming environment to live, learn, and grow into Citizens of Change."
+ },
+ "location": {
+  "postcode": "LE1 7RH",
+  "postcodeSource": "https://le.ac.uk/courses/economics-bsc/2027",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/LE17RH",
+  "checked": "2026-10-20"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (Home) students starting in 2027/28. Leicester says this fee is expected, with further increases to be set through government legislation (2026/27 fee: £9,790).",
+  "source": {
+   "url": "https://le.ac.uk/study/undergraduates/fees-funding/tuition-fees",
+   "checked": "2026-10-20",
+   "evidence": "For the 2027/28 academic year, the Home UK tuition fee is expected to be £10,050."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 74,
+  "amountHigh": 278,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University halls cost about £74-£278 a week in 2026/27 (42-week contract, all utility bills and Wi-Fi included), depending on the property and room type; shared rooms are at the low end. The range comes from the property pages (lowest: Beaumont House, highest: Freemen's Common); a few properties still show 2025/26 prices. You pay a £250 early rent payment that comes off your final instalment.",
+  "source": {
+   "url": "https://le.ac.uk/study/accommodation/search/beaumont-house",
+   "checked": "2026-10-20",
+   "evidence": "£74.00 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "Undergraduate Open Day",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next open day: Saturday 7 November 2026 on campus (9.30am to 4.30pm). No later dates are listed yet.",
+  "url": "https://le.ac.uk/open-days",
+  "source": {
+   "url": "https://le.ac.uk/open-days",
+   "checked": "2026-10-20",
+   "evidence": "Saturday 7 November 2026, view Open Day programme"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Leicester makes offers up to two grades below the standard A-level offer to applicants who meet its contextual criteria, such as care experience, a high-deprivation postcode, free school meals, caring responsibilities or completing a recognised widening participation programme.",
+  "typicalReduction": "Up to two grades below the standard advertised A level offer for the course (2027 cycle)",
+  "criteria": [
+   {
+    "key": "access",
+    "detail": "Took part in and completed a recognised widening participation programme: Sutton Trust Pathways Programmes, Realising Opportunities (RO) or AccessLeicester. If this is the only criterion you meet you get a dual offer: the standard offer plus an offer with reduced academic conditions that depends on completing the programme.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "care",
+    "detail": "Time spent in local authority care.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Age on entry to the course (taken on 1 September) is 21 or older.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "area",
+    "detail": "Home postcode is in IMD quintile 1 of the Index of Multiple Deprivation (a high-deprivation neighbourhood).",
+    "measure": "IMD",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "estranged",
+    "detail": "Identified as estranged from parents.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "carer",
+    "detail": "Identified as having caring responsibilities.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "fsm",
+    "detail": "Currently receiving free school meals, or received free school meals during secondary education.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": null,
+  "rulesText": "Applicants who apply in the 2027 cycle and meet the criteria are made an offer up to two grades below the standard advertised A level offer for the course. Applicants on a widening participation programme who meet no other criteria get a dual offer (standard offer plus a reduced offer that depends on completing the programme). Leicester does not say how many criteria you need or whether one is enough; it asks you to contact Admissions to confirm eligibility. Medicine, Clinical Sciences, some Law routes and Business Administration (Top Up) BSc are excluded.",
+  "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+  "source": {
+   "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+   "checked": "2026-10-20",
+   "evidence": "Applicants who apply in the 2027 cycle who meet the criteria outlined above will be made an offer up to two grades below the standard advertised A level offer for that course"
+  }
+ },
+ "programmes": [
+  {
+   "id": "leicester-access-leicester",
+   "name": "AccessLeicester",
+   "provider": "University of Leicester",
+   "providerType": "university",
+   "uniIds": [
+    "leicester"
+   ],
+   "summary": "Free Year 12 progression programme of events at Leicester that earns an offer up to two grades below the standard offer (minimum BCC with three A-levels) plus a £1,000 bursary for each year.",
+   "whoCanApply": "Year 12 students at a non-selective state school or college (who also went to a non-selective state school for 11-16), living permanently in the UK within a 90-minute journey of Leicester, who meet at least one priority criterion such as care experience, a high-deprivation postcode, free school meals or being a young carer.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "care",
+    "area",
+    "carer",
+    "estranged",
+    "fsm",
+    "refugee",
+    "other"
+   ],
+   "eligibilityDetail": "Must meet all essential criteria: Year 12 (or equivalent) studying at level 3; at a non-selective state school/college/sixth form now and for secondary education (11-16); living permanently in the UK within 90 minutes of Leicester by car or public transport. Must also meet at least one priority criterion: local authority care for at least three months in the last ten years; home postcode in IMD quintile 1 or 2; young adult carer; living independently of parents (estranged) for at least six months; in receipt of or entitled to Pupil Premium and/or discretionary payments/16-19 bursary; free school meals during secondary school; or a priority engagement group (Gypsy, Roma and Traveller communities, refugees, children of military families). Evidence is needed for each criterion. Extra weighting for IMD decile 1 and time in care.",
+   "benefits": [
+    "Offer up to two grades below the standard offer for the course at Leicester (to a minimum of BCC with three A-levels)",
+    "£1,000 University of Leicester bursary for each year (see the programme page for details)",
+    "Meet like-minded students, build skills for your application and see what studying at Leicester is like"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "leicester"
+   ],
+   "offerReduction": "Up to two grades below the standard offer (to a minimum of BCC for three A-levels)",
+   "cost": "Free",
+   "isFree": true,
+   "format": "day",
+   "subjects": "All subjects",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Launch event Saturday 13 March 2027, then events through to the Celebration on Wednesday 13 October 2027",
+    "start": "2027-03-13",
+    "end": "2027-10-13",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Wednesday 2 September 2026",
+    "date": "2026-09-02",
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Sunday 21 February 2027",
+    "date": "2027-02-21",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "2027 programme dates and application window are published; applications opened on 2 September 2026. The programmes overview page says all Year 12 progression programmes are completely free.",
+   "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/access-leicester",
+   "source": {
+    "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/access-leicester",
+    "checked": "2026-10-20",
+    "evidence": "Applications close on Sunday 21st February 2027."
+   },
+   "notConfirmed": [
+    "The page gives two different area rules: the priority criteria say IMD quintile 1 or 2, but the supporting-evidence section says the IMD decile must be 1"
+   ]
+  },
+  {
+   "id": "leicester-pathways-banking-finance",
+   "name": "Pathways to Banking and Finance",
+   "provider": "University of Leicester",
+   "providerType": "university",
+   "uniIds": [
+    "leicester"
+   ],
+   "summary": "Free 11-month Sutton Trust Pathways programme hosted by Leicester for Year 12 students interested in banking and finance, with lectures, seminars and insight days and a lower Leicester offer if you complete it.",
+   "whoCanApply": "Year 12 students studying in England at a state-funded, non-fee-paying school or college who live within a one-hour public transport commute of Leicester; places favour students who meet more of the extra criteria (academic achievement, first in family to go to university, free school meals, school with below-average progression to higher education, deprived area, care experience).",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "school",
+    "firstGen",
+    "fsm",
+    "area",
+    "care"
+   ],
+   "eligibilityDetail": "Attend a state-funded, non-fee-paying school/college; be in Year 12 and study in England. Additional criteria considered: academic achievements, being the first in your family to attend university, receiving free school meals, attending a school with below-average progression to higher education, living in a deprived area, or having been in care. The more criteria you meet, the more likely you are to secure a place; you do not need to meet all of them. If you are (or have been) looked after, accommodated or in care, you only need to meet the age, school and academic requirements.",
+   "benefits": [
+    "Offer up to two grades below the standard offer for the course at Leicester (to a minimum of BCC with three A-levels) if you complete the programme and apply",
+    "£1,000 University of Leicester bursary for each year of your course (up to 4 years) on successful registration",
+    "Free, with public transport travel costs reimbursed",
+    "Insight into Accounting and Finance, Economics, Business Management, Financial Economics and Banking, Marketing and HR courses",
+    "Optional National Conference (summer residential) at the University of Warwick, and events with industry professionals",
+    "May also get a lower offer and extra scholarships at other universities in the partnership"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "leicester"
+   ],
+   "offerReduction": "Up to two grades below the standard offer (to a minimum of BCC for three A-levels)",
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "Banking, finance and business-related courses (including Economics)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "11 months, starting in Year 12 and ending in Year 13; programme launch on Saturday 14 November (2026)",
+    "start": "2026-11-14",
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Wednesday 2 September 2026",
+    "date": "2026-09-02",
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Monday 26 October 2026",
+    "date": "2026-10-26",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "This is the 2026/27 cohort that you would join in Year 12: applications close on Monday 26 October 2026 and the launch is on a Saturday 14 November (the page gives no year; 14 November 2026 is a Saturday). The programme overview page says it is completely free.",
+   "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/banking-finance",
+   "source": {
+    "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/banking-finance",
+    "checked": "2026-10-20",
+    "evidence": "Applications close on Monday 26th October 2026."
+   },
+   "notConfirmed": [
+    "Dates of events after the launch are shared at the programme launch, not published on the page",
+    "Applications are made on the Sutton Trust Pathways website, not on the Leicester page"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://le.ac.uk/",
+  "courses": "https://le.ac.uk/courses?level=Undergraduate+2027",
+  "economics": "https://le.ac.uk/study/economics",
+  "openDays": "https://le.ac.uk/open-days",
+  "fees": "https://le.ac.uk/study/undergraduates/fees-funding/tuition-fees",
+  "contextual": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+  "accommodation": "https://le.ac.uk/study/undergraduates/accommodation/fees"
+ },
+ "courses": [
+  {
+   "id": "leicester-economics",
+   "name": "Economics",
+   "degree": "BSc",
+   "ucasCode": "L120",
+   "lengthYears": 3,
+   "lengthNote": "Listed as 3-4 years: 3 years full-time, or 4 years full-time with an optional Year in Industry or Year Abroad (same UCAS code)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level (two AS-levels may be considered in place of one A-level)",
+    "source": {
+     "url": "https://le.ac.uk/courses/economics-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Grade 5/B"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C"
+    }
+   ],
+   "gcseText": "Grade 5/B in Mathematics and Grade 4/C in English Language",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://le.ac.uk/courses/economics-bsc/2027",
+    "checked": "2026-10-20",
+    "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Leicester is not on UAT-UK's official TMUA list for 2027 entry. Applicants are not normally interviewed.",
+    "source": {
+     "url": "https://le.ac.uk/courses/economics-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "Applicants are not normally interviewed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A-level plus the EPQ at grade B (EPQ taken alongside your A-levels).",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/courses/economics-bsc/2027",
+      "checked": "2026-10-20",
+      "evidence": "EPQ with A-levels: BBB + EPQ at grade B."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the standard A-level offer if you meet Leicester's contextual criteria (policy published for the 2027 cycle). The exact grades are not stated.",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "Applicants who apply in the 2027 cycle who meet the criteria outlined above will be made an offer up to two grades below the standard advertised A level offer for that course"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 University of Leicester bursary for each year, if you complete AccessLeicester and meet all the course's minimum requirements including GCSEs and subject requirements.",
+     "programme": "AccessLeicester",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/access-leicester",
+      "checked": "2026-10-20",
+      "evidence": "you will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 bursary for each year of your course (up to 4 years), if you complete Pathways to Banking and Finance, apply to Leicester and meet all minimum course requirements.",
+     "programme": "Pathways to Banking and Finance (Sutton Trust Pathways)",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/banking-finance",
+      "checked": "2026-10-20",
+      "evidence": "will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels)"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Dual offer for Realising Opportunities (and other widening participation programme) participants who meet no other contextual criteria: the standard offer plus an offer with reduced academic conditions (grades not stated) that depends on completing the programme.",
+     "programme": "Realising Opportunities (RO)",
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "will be made a dual offer. One part will be the standard offer for that course, the other an offer with reduced academic conditions dependent on the successful completion of the programme."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://le.ac.uk/courses/economics-bsc/2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Leicester's course search lists Undergraduate 2025, 2026 and 2027 only); 2027 entry recorded",
+    "A-level subjects: the course page lists no required or excluded subjects and does not say whether all subjects are accepted, so Psychology and Geography acceptance is recorded as unknown"
+   ],
+   "notes": "First year is shared with the other Economics-family BSc degrees at the School of Business, so you can switch course at the end of Year 1. Leicester says applicants whose predicted grades are slightly below the standard requirements may still be considered (an offer is not guaranteed). Also offered with a Foundation Year (separate course page: https://le.ac.uk/courses/economics-with-foundation-year-bsc). No A-level Maths is listed as a requirement; the course needs GCSE Maths grade 5."
+  },
+  {
+   "id": "leicester-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc",
+   "ucasCode": "LN11",
+   "lengthYears": 3,
+   "lengthNote": "Listed as 3-4 years: 3 years full-time, or 4 years full-time with an optional Year in Industry or Year Abroad (same UCAS code)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level (two AS-levels may be considered in place of one A-level)",
+    "source": {
+     "url": "https://le.ac.uk/courses/economics-and-business-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Grade 5/B"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C"
+    }
+   ],
+   "gcseText": "Grade 5/B in Mathematics and Grade 4/C in English Language",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://le.ac.uk/courses/economics-and-business-bsc/2027",
+    "checked": "2026-10-20",
+    "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Leicester is not on UAT-UK's official TMUA list for 2027 entry. Applicants are not normally interviewed.",
+    "source": {
+     "url": "https://le.ac.uk/courses/economics-and-business-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "Applicants are not normally interviewed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A-level plus the EPQ at grade B (EPQ taken alongside your A-levels).",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/courses/economics-and-business-bsc/2027",
+      "checked": "2026-10-20",
+      "evidence": "EPQ with A-levels: BBB + EPQ at grade B."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the standard A-level offer if you meet Leicester's contextual criteria (policy published for the 2027 cycle). The exact grades are not stated.",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "Applicants who apply in the 2027 cycle who meet the criteria outlined above will be made an offer up to two grades below the standard advertised A level offer for that course"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 University of Leicester bursary for each year, if you complete AccessLeicester and meet all the course's minimum requirements including GCSEs and subject requirements.",
+     "programme": "AccessLeicester",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/access-leicester",
+      "checked": "2026-10-20",
+      "evidence": "you will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 bursary for each year of your course (up to 4 years), if you complete Pathways to Banking and Finance, apply to Leicester and meet all minimum course requirements.",
+     "programme": "Pathways to Banking and Finance (Sutton Trust Pathways)",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/banking-finance",
+      "checked": "2026-10-20",
+      "evidence": "will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels)"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Dual offer for Realising Opportunities (and other widening participation programme) participants who meet no other contextual criteria: the standard offer plus an offer with reduced academic conditions (grades not stated) that depends on completing the programme.",
+     "programme": "Realising Opportunities (RO)",
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "will be made a dual offer. One part will be the standard offer for that course, the other an offer with reduced academic conditions dependent on the successful completion of the programme."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://le.ac.uk/courses/economics-and-business-bsc/2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Leicester's course search lists Undergraduate 2025, 2026 and 2027 only); 2027 entry recorded",
+    "A-level subjects: the course page lists no required or excluded subjects and does not say whether all subjects are accepted, so Psychology and Geography acceptance is recorded as unknown"
+   ],
+   "notes": "First year is shared with the other Economics-family BSc degrees at the School of Business, so you can switch course at the end of Year 1. Leicester says applicants whose predicted grades are slightly below the standard requirements may still be considered (an offer is not guaranteed). Also offered with a Foundation Year (separate course page: https://le.ac.uk/courses/business-economics-with-foundation-year-bsc)."
+  },
+  {
+   "id": "leicester-economics-accounting",
+   "name": "Economics and Accounting",
+   "degree": "BSc",
+   "ucasCode": "LN16",
+   "lengthYears": 3,
+   "lengthNote": "Listed as 3-4 years: 3 years full-time, or 4 years full-time with an optional Year in Industry or Year Abroad (same UCAS code)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-accounting"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level (two AS-levels may be considered in place of one A-level)",
+    "source": {
+     "url": "https://le.ac.uk/courses/economics-and-accounting-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Grade 5/B"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C"
+    }
+   ],
+   "gcseText": "Grade 5/B in Mathematics and Grade 4/C in English Language",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://le.ac.uk/courses/economics-and-accounting-bsc/2027",
+    "checked": "2026-10-20",
+    "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Leicester is not on UAT-UK's official TMUA list for 2027 entry. Applicants are not normally interviewed.",
+    "source": {
+     "url": "https://le.ac.uk/courses/economics-and-accounting-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "Applicants are not normally interviewed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A-level plus the EPQ at grade B (EPQ taken alongside your A-levels).",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/courses/economics-and-accounting-bsc/2027",
+      "checked": "2026-10-20",
+      "evidence": "EPQ with A-levels: BBB + EPQ at grade B."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the standard A-level offer if you meet Leicester's contextual criteria (policy published for the 2027 cycle). The exact grades are not stated.",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "Applicants who apply in the 2027 cycle who meet the criteria outlined above will be made an offer up to two grades below the standard advertised A level offer for that course"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 University of Leicester bursary for each year, if you complete AccessLeicester and meet all the course's minimum requirements including GCSEs and subject requirements.",
+     "programme": "AccessLeicester",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/access-leicester",
+      "checked": "2026-10-20",
+      "evidence": "you will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 bursary for each year of your course (up to 4 years), if you complete Pathways to Banking and Finance, apply to Leicester and meet all minimum course requirements.",
+     "programme": "Pathways to Banking and Finance (Sutton Trust Pathways)",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/banking-finance",
+      "checked": "2026-10-20",
+      "evidence": "will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels)"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Dual offer for Realising Opportunities (and other widening participation programme) participants who meet no other contextual criteria: the standard offer plus an offer with reduced academic conditions (grades not stated) that depends on completing the programme.",
+     "programme": "Realising Opportunities (RO)",
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "will be made a dual offer. One part will be the standard offer for that course, the other an offer with reduced academic conditions dependent on the successful completion of the programme."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://le.ac.uk/courses/economics-and-accounting-bsc/2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Leicester's course search lists Undergraduate 2025, 2026 and 2027 only); 2027 entry recorded",
+    "A-level subjects: the course page lists no required or excluded subjects and does not say whether all subjects are accepted, so Psychology and Geography acceptance is recorded as unknown"
+   ],
+   "notes": "First year is shared with the other Economics-family BSc degrees at the School of Business, so you can switch course at the end of Year 1. Leicester says applicants whose predicted grades are slightly below the standard requirements may still be considered (an offer is not guaranteed). The course page lists accreditation by ACCA, ICAEW and CIMA (exemptions from some professional exams). Also offered with a Foundation Year (separate course page: https://le.ac.uk/courses/economics-and-accounting-with-foundation-year-bsc)."
+  },
+  {
+   "id": "leicester-economics-data-analytics",
+   "name": "Economics and Data Analytics",
+   "degree": "BSc",
+   "ucasCode": "LL15",
+   "lengthYears": 3,
+   "lengthNote": "Listed as 3-4 years: 3 years full-time, or 4 years full-time with an optional Year in Industry or Year Abroad (same UCAS code)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level (two AS-levels may be considered in place of one A-level)",
+    "source": {
+     "url": "https://le.ac.uk/courses/economics-and-data-analytics-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Grade B (5)"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade C (4)"
+    }
+   ],
+   "gcseText": "Grade B (5) in Mathematics and Grade C (4) in English Language.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://le.ac.uk/courses/economics-and-data-analytics-bsc/2027",
+    "checked": "2026-10-20",
+    "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Leicester is not on UAT-UK's official TMUA list for 2027 entry. Applicants are not normally interviewed.",
+    "source": {
+     "url": "https://le.ac.uk/courses/economics-and-data-analytics-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "Applicants are not normally interviewed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A-level plus the EPQ at grade B (EPQ taken alongside your A-levels).",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/courses/economics-and-data-analytics-bsc/2027",
+      "checked": "2026-10-20",
+      "evidence": "EPQ with A-levels: BBB + EPQ at grade B."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the standard A-level offer if you meet Leicester's contextual criteria (policy published for the 2027 cycle). The exact grades are not stated.",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "Applicants who apply in the 2027 cycle who meet the criteria outlined above will be made an offer up to two grades below the standard advertised A level offer for that course"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 University of Leicester bursary for each year, if you complete AccessLeicester and meet all the course's minimum requirements including GCSEs and subject requirements.",
+     "programme": "AccessLeicester",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/access-leicester",
+      "checked": "2026-10-20",
+      "evidence": "you will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 bursary for each year of your course (up to 4 years), if you complete Pathways to Banking and Finance, apply to Leicester and meet all minimum course requirements.",
+     "programme": "Pathways to Banking and Finance (Sutton Trust Pathways)",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/banking-finance",
+      "checked": "2026-10-20",
+      "evidence": "will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels)"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Dual offer for Realising Opportunities (and other widening participation programme) participants who meet no other contextual criteria: the standard offer plus an offer with reduced academic conditions (grades not stated) that depends on completing the programme.",
+     "programme": "Realising Opportunities (RO)",
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "will be made a dual offer. One part will be the standard offer for that course, the other an offer with reduced academic conditions dependent on the successful completion of the programme."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://le.ac.uk/courses/economics-and-data-analytics-bsc/2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Leicester's course search lists Undergraduate 2025, 2026 and 2027 only); 2027 entry recorded",
+    "A-level subjects: the course page lists no required or excluded subjects and does not say whether all subjects are accepted, so Psychology and Geography acceptance is recorded as unknown"
+   ],
+   "notes": "First year is shared with the other Economics-family BSc degrees at the School of Business, so you can switch course at the end of Year 1. Leicester says applicants whose predicted grades are slightly below the standard requirements may still be considered (an offer is not guaranteed). The course page says second-year entry is not possible on this course. Also offered with a Foundation Year (separate course page: https://le.ac.uk/courses/economics-and-data-analytics-with-foundation-year-bsc)."
+  },
+  {
+   "id": "leicester-financial-economics-banking",
+   "name": "Financial Economics and Banking",
+   "degree": "BSc",
+   "ucasCode": "LN15",
+   "lengthYears": 3,
+   "lengthNote": "Listed as 3-4 years: 3 years full-time, or 4 years full-time with an optional Year in Industry or Year Abroad (same UCAS code)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level (two AS-levels may be considered in place of one A-level)",
+    "source": {
+     "url": "https://le.ac.uk/courses/financial-economics-and-banking-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Grade 5/B"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C"
+    }
+   ],
+   "gcseText": "Grade 5/B in Mathematics and Grade 4/C in English Language",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://le.ac.uk/courses/financial-economics-and-banking-bsc/2027",
+    "checked": "2026-10-20",
+    "evidence": "A/AS-levels: ABB. Two AS-levels considered in place of one A-level. Own language may be considered."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Leicester is not on UAT-UK's official TMUA list for 2027 entry. Applicants are not normally interviewed.",
+    "source": {
+     "url": "https://le.ac.uk/courses/financial-economics-and-banking-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "Applicants are not normally interviewed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A-level plus the EPQ at grade B (EPQ taken alongside your A-levels).",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/courses/financial-economics-and-banking-bsc/2027",
+      "checked": "2026-10-20",
+      "evidence": "EPQ with A-levels: BBB + EPQ at grade B."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the standard A-level offer if you meet Leicester's contextual criteria (policy published for the 2027 cycle). The exact grades are not stated.",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "Applicants who apply in the 2027 cycle who meet the criteria outlined above will be made an offer up to two grades below the standard advertised A level offer for that course"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 University of Leicester bursary for each year, if you complete AccessLeicester and meet all the course's minimum requirements including GCSEs and subject requirements.",
+     "programme": "AccessLeicester",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/access-leicester",
+      "checked": "2026-10-20",
+      "evidence": "you will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 bursary for each year of your course (up to 4 years), if you complete Pathways to Banking and Finance, apply to Leicester and meet all minimum course requirements.",
+     "programme": "Pathways to Banking and Finance (Sutton Trust Pathways)",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/banking-finance",
+      "checked": "2026-10-20",
+      "evidence": "will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels)"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Dual offer for Realising Opportunities (and other widening participation programme) participants who meet no other contextual criteria: the standard offer plus an offer with reduced academic conditions (grades not stated) that depends on completing the programme.",
+     "programme": "Realising Opportunities (RO)",
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "will be made a dual offer. One part will be the standard offer for that course, the other an offer with reduced academic conditions dependent on the successful completion of the programme."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://le.ac.uk/courses/financial-economics-and-banking-bsc/2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Leicester's course search lists Undergraduate 2025, 2026 and 2027 only); 2027 entry recorded",
+    "A-level subjects: the course page lists no required or excluded subjects and does not say whether all subjects are accepted, so Psychology and Geography acceptance is recorded as unknown"
+   ],
+   "notes": "First year is shared with the other Economics-family BSc degrees at the School of Business, so you can switch course at the end of Year 1. Leicester says applicants whose predicted grades are slightly below the standard requirements may still be considered (an offer is not guaranteed). Also offered with a Foundation Year (separate course page: https://le.ac.uk/courses/financial-economics-and-banking-with-foundation-year-bsc)."
+  },
+  {
+   "id": "leicester-politics-economics",
+   "name": "Politics and Economics",
+   "degree": "BA",
+   "ucasCode": "LL12",
+   "lengthYears": 3,
+   "lengthNote": "Listed as 3-4 years: 3 years full-time, or 4 years full-time with an optional Year in Industry or Year Abroad (same UCAS code)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A-level, all subjects accepted (two AS-levels may be considered in place of one A-level)",
+    "source": {
+     "url": "https://le.ac.uk/courses/politics-and-economics-ba/2027",
+     "checked": "2026-10-20",
+     "evidence": "A/AS Levels: BBB. All subjects accepted. Two AS-levels considered in place of one A-level."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Grade 5/B"
+    }
+   ],
+   "gcseText": "Grade 5/B in Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://le.ac.uk/courses/politics-and-economics-ba/2027",
+    "checked": "2026-10-20",
+    "evidence": "A/AS Levels: BBB. All subjects accepted. Two AS-levels considered in place of one A-level."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Leicester is not on UAT-UK's official TMUA list for 2027 entry. Applicants are not normally interviewed.",
+    "source": {
+     "url": "https://le.ac.uk/courses/politics-and-economics-ba/2027",
+     "checked": "2026-10-20",
+     "evidence": "Applicants are not normally interviewed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "BBC at A-level plus the EPQ at grade B (EPQ taken alongside your A-levels).",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/courses/politics-and-economics-ba/2027",
+      "checked": "2026-10-20",
+      "evidence": "EPQ with A-levels: BBC + EPQ at grade B."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the standard A-level offer if you meet Leicester's contextual criteria (policy published for the 2027 cycle). The exact grades are not stated.",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "Applicants who apply in the 2027 cycle who meet the criteria outlined above will be made an offer up to two grades below the standard advertised A level offer for that course"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 University of Leicester bursary for each year, if you complete AccessLeicester and meet all the course's minimum requirements including GCSEs and subject requirements.",
+     "programme": "AccessLeicester",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/access-leicester",
+      "checked": "2026-10-20",
+      "evidence": "you will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 bursary for each year of your course (up to 4 years), if you complete Pathways to Banking and Finance, apply to Leicester and meet all minimum course requirements.",
+     "programme": "Pathways to Banking and Finance (Sutton Trust Pathways)",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/banking-finance",
+      "checked": "2026-10-20",
+      "evidence": "will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels)"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Dual offer for Realising Opportunities (and other widening participation programme) participants who meet no other contextual criteria: the standard offer plus an offer with reduced academic conditions (grades not stated) that depends on completing the programme.",
+     "programme": "Realising Opportunities (RO)",
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "will be made a dual offer. One part will be the standard offer for that course, the other an offer with reduced academic conditions dependent on the successful completion of the programme."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://le.ac.uk/courses/politics-and-economics-ba/2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Leicester's course search lists Undergraduate 2025, 2026 and 2027 only); 2027 entry recorded",
+    "English Language GCSE: the course page lists only GCSE Mathematics grade 5/B"
+   ],
+   "notes": "Taught by Politics and International Relations (the other Economics-family courses are taught by the School of Business). The course page says a Foundation Year is available (Social Sciences, Arts and Humanities Foundation Year) and that a Year in Industry or Year Abroad is optional. Leicester says applicants whose predicted grades are slightly below the standard requirements may still be considered (an offer is not guaranteed). "
+  },
+  {
+   "id": "leicester-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc",
+   "ucasCode": "72N7",
+   "lengthYears": 3,
+   "lengthNote": "Listed as 3-4 years: 3 years full-time, or 4 years full-time with an optional Year in Industry or Year Abroad (same UCAS code)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level, all subjects accepted (two AS-levels may be considered in place of one A-level)",
+    "source": {
+     "url": "https://le.ac.uk/courses/accounting-and-finance-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "A/AS-levels: ABB. All subjects accepted. Two AS-levels may be considered in place of one A-level."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Grade 5/B"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C"
+    }
+   ],
+   "gcseText": "Maths at grade 5/B plus English Language at grade 4/C.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://le.ac.uk/courses/accounting-and-finance-bsc/2027",
+    "checked": "2026-10-20",
+    "evidence": "A/AS-levels: ABB. All subjects accepted. Two AS-levels may be considered in place of one A-level."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Leicester is not on UAT-UK's official TMUA list for 2027 entry. Applicants are not normally interviewed.",
+    "source": {
+     "url": "https://le.ac.uk/courses/accounting-and-finance-bsc/2027",
+     "checked": "2026-10-20",
+     "evidence": "Applicants are not normally interviewed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB at A-level plus the EPQ at grade B (EPQ taken alongside your A-levels).",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/courses/accounting-and-finance-bsc/2027",
+      "checked": "2026-10-20",
+      "evidence": "EPQ with A-levels: BBB + EPQ at grade B."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the standard A-level offer if you meet Leicester's contextual criteria (policy published for the 2027 cycle). The exact grades are not stated.",
+     "programme": null,
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "Applicants who apply in the 2027 cycle who meet the criteria outlined above will be made an offer up to two grades below the standard advertised A level offer for that course"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 University of Leicester bursary for each year, if you complete AccessLeicester and meet all the course's minimum requirements including GCSEs and subject requirements.",
+     "programme": "AccessLeicester",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/access-leicester",
+      "checked": "2026-10-20",
+      "evidence": "you will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Offer up to two grades below the standard offer (to a minimum of BCC with three A-levels) plus a £1,000 bursary for each year of your course (up to 4 years), if you complete Pathways to Banking and Finance, apply to Leicester and meet all minimum course requirements.",
+     "programme": "Pathways to Banking and Finance (Sutton Trust Pathways)",
+     "source": {
+      "url": "https://le.ac.uk/study/schools-and-colleges/post-16/progression-programmes/banking-finance",
+      "checked": "2026-10-20",
+      "evidence": "will receive an offer up to two grades below the standard offer for that course (to a minimum of BCC for those studying three A-levels)"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Dual offer for Realising Opportunities (and other widening participation programme) participants who meet no other contextual criteria: the standard offer plus an offer with reduced academic conditions (grades not stated) that depends on completing the programme.",
+     "programme": "Realising Opportunities (RO)",
+     "source": {
+      "url": "https://le.ac.uk/policies/admissions/after-applying/undergraduates/your-offer/contextual",
+      "checked": "2026-10-20",
+      "evidence": "will be made a dual offer. One part will be the standard offer for that course, the other an offer with reduced academic conditions dependent on the successful completion of the programme."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://le.ac.uk/courses/accounting-and-finance-bsc/2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Leicester's course search lists Undergraduate 2025, 2026 and 2027 only); 2027 entry recorded"
+   ],
+   "notes": "Not an Economics degree, but shares its first year with Accounting BSc and Finance BSc so you can switch at the end of Year 1. The course page lists accreditation by ACCA, ICAEW, CIMA and ICAS (exemptions from some professional exams). Also offered with a Foundation Year (separate course page: https://le.ac.uk/courses/accounting-and-finance-with-foundation-year-bsc). Leicester says applicants whose predicted grades are slightly below the standard requirements may still be considered (an offer is not guaranteed). "
+  }
+ ],
+ "notes": [
+  "All courses use 2027 entry (September 2027 start). Leicester's course search lists Undergraduate 2025, 2026 and 2027 only, so no 2028-entry pages exist yet (checked 2026-10-20).",
+  "Leicester is not on UAT-UK's official TMUA list for 2027 entry and no course page names an admissions test.",
+  "The School of Business (Economics, Business Economics, Economics and Accounting, Economics and Data Analytics, Financial Economics and Banking, Accounting and Finance) is based at Brookfield, linked to the central campus by a free shuttle; the postcode recorded is the University's main address on University Road.",
+  "Reduced offers: completing AccessLeicester or Pathways to Banking and Finance (a Sutton Trust Pathways programme hosted by Leicester) gives an offer up to two grades below the standard offer (minimum BCC with three A-levels) plus a £1,000 bursary for each year; Realising Opportunities participants get a dual offer with reduced academic conditions (grades not stated). These are recorded under each course's alternative offers.",
+  "Pathways to Banking and Finance applications close on Monday 26 October 2026; AccessLeicester 2027 applications close on Sunday 21 February 2027.",
+  "Halls rents: the top of the 2026/27 range (£278 a week) is from https://le.ac.uk/study/accommodation/search/freemens-common; the Find Accommodation list page shows older (2025/26) ranges.",
+  "Leicester also runs Post-16 University Experience Days for Year 12 and 13 students (some for school bookings only); see https://le.ac.uk/study/schools-and-colleges/post-16"
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "Contextual offer policy is published for the 2027 cycle only; the policy for applications in autumn 2027 is not published yet",
+  "Contextual page does not say how many criteria you must meet or whether one is enough, and gives no exact grades",
+  "Only one open day is listed (7 November 2026); later dates are not announced",
+  "2027/28 Home fee of £10,050 is described as 'expected' pending government confirmation",
+  "Halls prices for 2027/28 and 2028/29 are not published; some property pages still show 2025/26 prices",
+  "Post-16 University Experience Days not recorded as a programme (details and dates not checked)"
+ ]
+}

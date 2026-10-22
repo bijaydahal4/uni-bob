@@ -1,0 +1,433 @@
+{
+  "id": "imperial",
+  "name": "Imperial College London",
+  "shortName": "Imperial",
+  "aliases": [
+    "Imperial",
+    "ICL",
+    "Imperial College",
+    "IC"
+  ],
+  "city": "London",
+  "region": "London",
+  "country": "England",
+  "setting": "city",
+  "settingEvidence": {
+    "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/economics-finance-data-science/",
+    "checked": "2026-10-17",
+    "evidence": "Enjoy the benefits of studying in the heart of London at a global top 10 university."
+  },
+  "location": {
+    "postcode": "SW7 2AZ",
+    "postcodeSource": "https://www.imperial.ac.uk/study/apply/undergraduate/process/admissions-schemes/",
+    "lat": 51.499334,
+    "lng": -0.179178,
+    "coordsSource": "https://api.postcodes.io/postcodes/SW72AZ",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for Home students (2027 entry); Imperial expects fees to rise each year in line with the government cap",
+    "source": {
+      "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/economics-finance-data-science/",
+      "checked": "2026-10-17",
+      "evidence": "2027 entry\n£10,050\nper year"
+    }
+  },
+  "livingCosts": {
+    "kind": "living cost estimate",
+    "amountLow": 424,
+    "amountHigh": 441,
+    "period": "week",
+    "academicYear": "2026",
+    "text": "Imperial estimates average London living costs of about £424–£441 a week (2026), including College-run accommodation at about £250 a week",
+    "source": {
+      "url": "https://www.imperial.ac.uk/study/fees-and-funding/living-costs/",
+      "checked": "2026-10-17",
+      "evidence": "£424 to £441, Weekly"
+    }
+  },
+  "openDays": {
+    "events": [],
+    "text": "2026 open days have passed; 2027 dates will be published in early 2027",
+    "url": "https://www.imperial.ac.uk/study/visit/undergraduate/open-days/",
+    "source": {
+      "url": "https://www.imperial.ac.uk/study/visit/undergraduate/open-days/",
+      "checked": "2026-10-17",
+      "evidence": "Our 2026 Open Days have now passed. Dates for our 2027 Open Days will be published on this website in early 2027."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Imperial's contextual admissions route for UK (Home) applicants can give a guaranteed interview and a guaranteed offer at the department's minimum entry level, plus an August reconsideration pool.",
+    "typicalReduction": "Guaranteed offer at the department's minimum entry level (for Economics, Finance and Data Science that is A*AA)",
+    "criteria": [
+      {
+        "key": "care",
+        "detail": "Care leaver or have spent time in care under a local authority",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Home postcode in England's Index of Multiple Deprivation quintile one",
+        "measure": "IMD",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "Currently receive UK government funded free school meals, or received them in the last six years up to the end of your final year at school or college",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Home postcode in POLAR4 quintile 1 or 2 — counts only together with one of: first in immediate family to go to university; English school with key stage 5 performance below Imperial's 20% percentile threshold; UK school with a free school meals percentile above Imperial's 80% threshold",
+        "measure": "POLAR4",
+        "quintiles": [
+          1,
+          2
+        ],
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "firstGen",
+        "detail": "First in your immediate family to attend university or higher education (counts only with a POLAR4 quintile 1 or 2 postcode)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "school",
+        "detail": "Attend an English school where key stage 5 performance is below Imperial's 20% percentile threshold, or a UK school where the free school meals percentile is above Imperial's 80% threshold (counts only with a POLAR4 quintile 1 or 2 postcode)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      }
+    ],
+    "minCriteria": null,
+    "rulesText": "Applicants with Home fee status are eligible if one of these applies: care experience; IMD quintile 1 postcode; free school meals (now or in the last six years); or a POLAR4 quintile 1 or 2 postcode plus one of first-generation, low-performing school (KS5) or high-FSM school.",
+    "url": "https://www.imperial.ac.uk/study/apply/undergraduate/process/admissions-schemes/",
+    "source": {
+      "url": "https://www.imperial.ac.uk/study/apply/undergraduate/process/admissions-schemes/",
+      "checked": "2026-10-17",
+      "evidence": "Your home address* postcode falls into POLAR4 quintile 1 or 2 and you also meet one of the following criteria:"
+    }
+  },
+  "programmes": [
+    {
+      "id": "imperial-maths-online",
+      "name": "mA*ths Online Programme (Year 12 cohort)",
+      "provider": "Imperial College London",
+      "providerType": "university",
+      "uniIds": [
+        "imperial"
+      ],
+      "summary": "An outreach programme funded by Imperial: online courses, online mentoring and masterclasses at Imperial to help A-level Maths students aim for an A* in Mathematics.",
+      "whoCanApply": "Year 12 UK state school students studying at least three A-levels including Maths, with at least grade 6 in GCSE Maths and Sciences, planning maths-heavy university courses (such as Economics); priority for under-represented backgrounds.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "care",
+        "estranged",
+        "carer",
+        "income",
+        "fsm",
+        "firstGen",
+        "area",
+        "school",
+        "refugee",
+        "other"
+      ],
+      "eligibilityDetail": "Funded by Imperial to support UK state school students from backgrounds under-represented at university. Priority if in care or estranged; also assessed: young carer, family income below £50,000, free school meals/pupil premium, parents didn't attend university, POLAR4 quintile 1–2 or IMD quintile 1 area, school with high free school meals or below-average attainment, asylum seeker/refugee or Gypsy, Traveller, Roma, Showmen and Boaters. Must be in Year 12, taking 3+ A-levels including Maths, GCSE 6+ in Maths and Sciences (2+ science GCSEs), capable of an A in A-level Maths, willing to travel to Imperial up to twice a year on weekends. You don't have to live in London.",
+      "benefits": [
+        "Online courses (MOOCs) matched to A-level Maths",
+        "Online mentoring from Imperial students",
+        "Masterclasses at Imperial with academics and MEI"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Funded by Imperial College London (page doesn't state a fee)",
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "A-level Mathematics (for maths-related degrees)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Introductory masterclass 16 January 2027; two seven-week online courses in the spring/summer terms; closing masterclass (page lists 8 May 2026)",
+        "start": "2027-01-16",
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Year 12 applications are open now (as of 17 October 2026)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "24 November 2026",
+        "date": "2026-11-24",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "Details for the 2026/27 Year 12 cohort. The page says 'the deadline is 24 November' without a year; applications are open now, so this is 24 November 2026. The closing masterclass date is listed as 8 May 2026, which looks like a typo for 2027.",
+      "url": "https://www.imperial.ac.uk/be-inspired/schools-outreach/secondary-schools/mentoring-and-tutoring/maths-online-programme/",
+      "source": {
+        "url": "https://www.imperial.ac.uk/be-inspired/schools-outreach/secondary-schools/mentoring-and-tutoring/maths-online-programme/",
+        "checked": "2026-10-17",
+        "evidence": "Applications for year 12 are now open, and the deadline is 24 November."
+      },
+      "notConfirmed": [
+        "cost: page says the programme is funded by Imperial but doesn't explicitly say it is free",
+        "end date: closing masterclass listed as 8 May 2026 (likely a typo)"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.imperial.ac.uk/",
+    "courses": "https://www.imperial.ac.uk/study/courses/?courseType=Undergraduate",
+    "economics": "https://www.imperial.ac.uk/business-school/undergraduate/economics-finance-data-science/",
+    "openDays": "https://www.imperial.ac.uk/study/visit/undergraduate/open-days/",
+    "fees": "https://www.imperial.ac.uk/study/fees-and-funding/tuition-fees/",
+    "contextual": "https://www.imperial.ac.uk/study/apply/undergraduate/process/admissions-schemes/",
+    "accommodation": "https://www.imperial.ac.uk/study/student-life/accommodation/"
+  },
+  "courses": [
+    {
+      "id": "imperial-economics-finance-data-science",
+      "name": "Economics, Finance and Data Science",
+      "degree": "BSc",
+      "ucasCode": "L1N3",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "unknown",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics",
+        "economics-finance",
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*A*A",
+        "low": "A*AA",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "Typical offer A*AA or A*A*A (three A-levels); minimum entry standard A*AA, including A* in Mathematics and AA in two other subjects",
+        "source": {
+          "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/economics-finance-data-science/",
+          "checked": "2026-10-17",
+          "evidence": "A*AA / A*A*A (applicants studying three A-levels)"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A*",
+          "note": "A* in A-level Mathematics; Further Mathematics is not a substitute for this"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Further Mathematics",
+            "Economics"
+          ],
+          "note": "Useful, but not required"
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [],
+      "gcseText": "There are no specific GCSE requirements for this course.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/economics-finance-data-science/",
+        "checked": "2026-10-17",
+        "evidence": "AA in two other subjects (Further Mathematics and/or Economics are useful, but not required)\nNot accepted: General Studies and Critical Thinking"
+      },
+      "admissionsTest": {
+        "status": "required",
+        "name": "TMUA",
+        "effect": "You must sit the TMUA to be considered. There is no minimum score, but a higher score may make your application more competitive; it is weighed with the rest of your application when deciding interviews and offers. It doesn't change the offer grades.",
+        "source": {
+          "url": "https://www.imperial.ac.uk/business-school/undergraduate/economics-finance-data-science/",
+          "checked": "2026-10-17",
+          "evidence": "We do not have a minimum score to achieve, though a higher score may make your application more competitive."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "A*AA",
+          "tariff": null,
+          "conditions": "Guaranteed offer at the department's minimum entry level (A*AA, including A* in Maths, for this course) if you're eligible for Imperial's contextual admissions route, are predicted at least AAA, show clear motivation for the subject in your personal statement, and score above the department's minimum in its admissions test and/or interview",
+          "programme": null,
+          "source": {
+            "url": "https://www.imperial.ac.uk/study/apply/undergraduate/process/admissions-schemes/",
+            "checked": "2026-10-17",
+            "evidence": "You’ll get a guaranteed offer at the department's minimum entry level* if:"
+          }
+        }
+      ],
+      "competition": {
+        "offerRate": null,
+        "applicationsPerPlace": 13,
+        "year": "2025",
+        "text": "Applications to places ratio of 13 to 1 (2025), as shown on the course page",
+        "source": {
+          "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/economics-finance-data-science/",
+          "checked": "2026-10-17",
+          "evidence": "Applications: places\n13 : 1 (2025)"
+        }
+      },
+      "links": {
+        "course": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/economics-finance-data-science/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Imperial hasn't published 2028-entry course pages yet (2028 URL returns 404), so 2027 entry is used",
+        "options: the course page doesn't mention a placement year or year abroad",
+        "fees: Home fee for 2028/29 not announced (page says fees are expected to rise each year)"
+      ],
+      "notes": "Successful candidates are invited to a 20–30 minute online interview with an academic. Home applicants who meet Imperial's widening participation criteria get an automatic interview invite if predicted AAA including an A in Maths. Application deadline for 2027 entry: 13 January 2027, 18:00."
+    },
+    {
+      "id": "imperial-maths-statistics-finance",
+      "name": "Mathematics with Statistics for Finance",
+      "degree": "BSc",
+      "ucasCode": "G1GH",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "unknown",
+        "foundationYear": "none"
+      },
+      "types": [
+        "finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*A*A",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "Typical offer A*A*A (three A-levels) or A*A*AA (four A-levels), including A* in Mathematics and A* in Further Mathematics; may include STEP if the TMUA hasn't been taken",
+        "source": {
+          "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-statistics-finance/",
+          "checked": "2026-10-17",
+          "evidence": "A*A*A (applicants studying three A-levels)"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A*",
+          "note": "A* in A-level Mathematics"
+        },
+        {
+          "subjects": [
+            "Further Mathematics"
+          ],
+          "minGrade": "A*",
+          "note": "A* in Further Mathematics; special cases possible for students whose schools don't offer Further Maths A-level (often guided by TMUA performance)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "required",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-statistics-finance/",
+        "checked": "2026-10-17",
+        "evidence": "A* in Further Mathematics\nA in another subject\nNot accepted: General Studies and Critical Thinking"
+      },
+      "admissionsTest": {
+        "status": "required",
+        "name": "TMUA",
+        "effect": "All applicants should take the TMUA; most offers are expected to go to applicants who've taken it. TMUA performance often guides special cases for students whose schools don't offer Further Maths. If you apply after the last TMUA booking deadline and can't sit it, offers typically require at least one STEP paper.",
+        "source": {
+          "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-statistics-finance/",
+          "checked": "2026-10-17",
+          "evidence": "If you submit your application to Imperial on or before the last TMUA booking deadline, you are required to take the TMUA. We expect most of our offers to go to applicants who have taken the TMUA."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "A*A*A",
+          "tariff": null,
+          "conditions": "Guaranteed offer at the department's minimum entry level (A*A*A for this course) if you're eligible for Imperial's contextual admissions route, are predicted at least AAA, show clear motivation for the subject in your personal statement, and score above the department's minimum in its admissions test and/or interview",
+          "programme": null,
+          "source": {
+            "url": "https://www.imperial.ac.uk/study/apply/undergraduate/process/admissions-schemes/",
+            "checked": "2026-10-17",
+            "evidence": "You’ll get a guaranteed offer at the department's minimum entry level* if:"
+          }
+        }
+      ],
+      "competition": {
+        "offerRate": null,
+        "applicationsPerPlace": 14,
+        "year": "2025",
+        "text": "Applications to places ratio of 14 to 1 (2025), as shown on the course page",
+        "source": {
+          "url": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-statistics-finance/",
+          "checked": "2026-10-17",
+          "evidence": "Applications: places\n14 : 1 (2025)"
+        }
+      },
+      "links": {
+        "course": "https://www.imperial.ac.uk/study/courses/undergraduate/2027/mathematics-statistics-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: no 2028-entry page published yet (2028 URL returns 404), so 2027 entry is used",
+        "gcse: course page doesn't list GCSE requirements",
+        "options: placement year not mentioned; the year abroad is by transferring to the department's Year Abroad course (normally in first year, limited places)"
+      ],
+      "notes": "Further Maths A* required (special cases for schools that don't offer it). No regular interviews. One offer covers all Imperial Maths courses, so apply to just one."
+    }
+  ],
+  "notes": [
+    "Imperial's only Economics degree is the BSc Economics, Finance and Data Science (Imperial Business School). It requires A* in A-level Maths and the TMUA.",
+    "TMUA: take it once per cycle in October or January; Imperial says only your first test score will be considered.",
+    "Imperial's other Year 12 outreach programmes (STEM Potential, Year 12 Work Experience, Sutton Trust Summer School) are STEM-focused or run with national charities, so aren't listed here.",
+    "No 2028-entry pages yet; all course facts are for 2027 entry."
+  ],
+  "notConfirmed": [
+    "2028 entry: not published yet; 2027 entry used for all courses",
+    "openDays: 2027 open day dates not announced yet (due early 2027)"
+  ]
+}

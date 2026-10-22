@@ -1,0 +1,442 @@
+{
+ "id": "huddersfield",
+ "name": "University of Huddersfield",
+ "shortName": "Huddersfield",
+ "aliases": [
+  "Huddersfield",
+  "Huddersfield Uni",
+  "Uni of Huddersfield",
+  "Hudds",
+  "UoH"
+ ],
+ "city": "Huddersfield",
+ "region": "North",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://courses.hud.ac.uk/cf2-courses.json",
+  "checked": "2026-10-22",
+  "evidence": "gain experience in the libraries, archives, and museums based on our attractive campus"
+ },
+ "location": {
+  "postcode": null,
+  "postcodeSource": null,
+  "lat": null,
+  "lng": null,
+  "coordsSource": null,
+  "checked": null
+ },
+ "fees": {
+  "homeAnnual": null,
+  "academicYear": null,
+  "text": "Not confirmed: the university's fees pages could not be opened (the hud.ac.uk website was down on 2026-10-21 and 2026-10-22).",
+  "source": null
+ },
+ "livingCosts": {
+  "kind": null,
+  "amountLow": null,
+  "amountHigh": null,
+  "period": null,
+  "academicYear": null,
+  "text": "Not confirmed: the university's accommodation and cost-of-living pages could not be opened (the hud.ac.uk website was down on 2026-10-21 and 2026-10-22).",
+  "source": null
+ },
+ "openDays": {
+  "events": [],
+  "text": "Open day dates not confirmed: the university's open day page could not be opened (the hud.ac.uk website was down on 2026-10-21 and 2026-10-22).",
+  "url": "https://www.hud.ac.uk/open-days/undergraduate/",
+  "source": null
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Huddersfield says it offers fair access opportunities and that you may be able to earn extra UCAS points; the criteria and how many points are not confirmed.",
+  "typicalReduction": null,
+  "criteria": [],
+  "minCriteria": null,
+  "rulesText": null,
+  "url": "https://www.hud.ac.uk/undergraduate/how-to-apply/contextual-admissions/",
+  "source": {
+   "url": "https://courses.hud.ac.uk/cf2-courses.json",
+   "checked": "2026-10-22",
+   "evidence": "We offer a range of fair access opportunities and support to help students progress to higher education. You may also be able to earn extra UCAS points."
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.hud.ac.uk/",
+  "courses": "https://courses.hud.ac.uk/",
+  "economics": "https://courses.hud.ac.uk/2027-28/undergraduate/economics-bsc-hons/",
+  "openDays": "https://www.hud.ac.uk/open-days/undergraduate/",
+  "fees": "https://www.hud.ac.uk/undergraduate/fees-and-finance/",
+  "contextual": "https://www.hud.ac.uk/undergraduate/how-to-apply/contextual-admissions/",
+  "accommodation": "https://www.hud.ac.uk/uni-life/accommodation/"
+ },
+ "courses": [
+  {
+   "id": "huddersfield-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": null,
+   "lengthYears": 3,
+   "lengthNote": "Also available as 4 years including a placement year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BBC",
+    "tariff": 120,
+    "tariffLow": 112,
+    "text": "BBB-BBC at A Level, or 120-112 UCAS points from a combination of Level 3 qualifications",
+    "source": {
+     "url": "https://courses.hud.ac.uk/cf2-courses.json",
+     "checked": "2026-10-22",
+     "evidence": "120-112 UCAS points from a combination of Level 3 qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Or grade B or above if awarded under the previous GCSE grading scheme."
+    }
+   ],
+   "gcseText": "In addition you must have GCSE Maths at grade 5 or above, or grade B or above if awarded under the previous GCSE grading scheme.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.hud.ac.uk/cf2-courses.json",
+    "checked": "2026-10-22",
+    "evidence": "BBB-BBC at A Level"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned in Huddersfield's course data, and Huddersfield is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://courses.hud.ac.uk/2027-28/undergraduate/economics-bsc-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Source is the university's own course-finder data file (last modified 2026-06-03) because the course page was down on 2026-10-22; re-check the offer and subjects on the live course page",
+    "ucasCode: not in the course data and the UCAS course page could not be read",
+    "subjects: the course data lists no required or excluded A-level subjects (course page unavailable), so Geography and Psychology acceptance is unknown",
+    "2028 entry requirements not published (the course data lists 2027-28 as the newest year); 2027 entry used"
+   ],
+   "notes": "Other routes listed: DDM-DMM in a BTEC Level 3 Extended Diploma; Access to Higher Education Diploma with 45 Level 3 credits at Merit or above; Merit at T Level."
+  },
+  {
+   "id": "huddersfield-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": null,
+   "lengthYears": 4,
+   "lengthNote": "4 years including a placement year; the university says it is offered as a 4-year degree only",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "required",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BBC",
+    "tariff": 120,
+    "tariffLow": 112,
+    "text": "BBB-BBC at A Level, or 120-112 UCAS points from a combination of Level 3 qualifications",
+    "source": {
+     "url": "https://courses.hud.ac.uk/cf2-courses.json",
+     "checked": "2026-10-22",
+     "evidence": "120-112 UCAS points from a combination of Level 3 qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Or grade B or above if awarded under the previous GCSE grading scheme."
+    }
+   ],
+   "gcseText": "In addition you must have GCSE Maths at grade 5 or above, or grade B or above if awarded under the previous GCSE grading scheme.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.hud.ac.uk/cf2-courses.json",
+    "checked": "2026-10-22",
+    "evidence": "BBB-BBC at A Level"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned in Huddersfield's course data, and Huddersfield is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://courses.hud.ac.uk/2027-28/undergraduate/business-economics-bsc-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Source is the university's own course-finder data file (last modified 2026-06-03) because the course page was down on 2026-10-22; re-check the offer and subjects on the live course page",
+    "ucasCode: not in the course data and the UCAS course page could not be read",
+    "subjects: the course data lists no required or excluded A-level subjects (course page unavailable), so Geography and Psychology acceptance is unknown",
+    "length: the course data says it is offered as a 4-year degree only and then mentions an exception, but the wording is cut off, so the exception is not known",
+    "2028 entry requirements not published (the course data lists 2027-28 as the newest year); 2027 entry used"
+   ],
+   "notes": "Other routes listed: DDM-DMM in a BTEC Level 3 Extended Diploma; Access to Higher Education Diploma with 45 Level 3 credits at Merit or above; Merit at T Level."
+  },
+  {
+   "id": "huddersfield-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": null,
+   "lengthYears": 3,
+   "lengthNote": "Also available as 4 years including a placement year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BBC",
+    "tariff": 120,
+    "tariffLow": 112,
+    "text": "BBB-BBC at A Level, or 120-112 UCAS points from a combination of Level 3 qualifications",
+    "source": {
+     "url": "https://courses.hud.ac.uk/cf2-courses.json",
+     "checked": "2026-10-22",
+     "evidence": "120-112 UCAS points from a combination of Level 3 qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.hud.ac.uk/cf2-courses.json",
+    "checked": "2026-10-22",
+    "evidence": "BBB-BBC at A Level"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned in Huddersfield's course data, and Huddersfield is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://courses.hud.ac.uk/2027-28/undergraduate/accounting-and-finance-bsc-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Source is the university's own course-finder data file (last modified 2026-06-03) because the course page was down on 2026-10-22; re-check the offer and subjects on the live course page",
+    "ucasCode: not in the course data and the UCAS course page could not be read",
+    "subjects: the course data lists no required or excluded A-level subjects (course page unavailable), so Geography and Psychology acceptance is unknown",
+    "gcse: the course data lists no GCSE requirements for this course (course page unavailable)",
+    "2028 entry requirements not published (the course data lists 2027-28 as the newest year); 2027 entry used"
+   ],
+   "notes": "Other routes listed: DDM-DMM in a BTEC Level 3 Extended Diploma; Access to Higher Education Diploma with 45 Level 3 credits at Merit or above; Merit at T Level."
+  },
+  {
+   "id": "huddersfield-business-management-finance",
+   "name": "Business Management with Finance",
+   "degree": "BA (Hons)",
+   "ucasCode": null,
+   "lengthYears": 3,
+   "lengthNote": "Also available as 4 years including a placement year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management",
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BBC",
+    "tariff": 120,
+    "tariffLow": 112,
+    "text": "BBB-BBC at A Level, or 120-112 UCAS points from a combination of Level 3 qualifications",
+    "source": {
+     "url": "https://courses.hud.ac.uk/cf2-courses.json",
+     "checked": "2026-10-22",
+     "evidence": "120-112 UCAS tariff points from a combination of Level 3 qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.hud.ac.uk/cf2-courses.json",
+    "checked": "2026-10-22",
+    "evidence": "BBB-BBC at A Level"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned in Huddersfield's course data, and Huddersfield is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://courses.hud.ac.uk/full-time/undergraduate/business-management-with-finance-ba-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Source is the university's own course-finder data file (last modified 2026-06-03) because the course page was down on 2026-10-22; re-check the offer and subjects on the live course page",
+    "ucasCode: not in the course data and the UCAS course page could not be read",
+    "subjects: the course data lists no required or excluded A-level subjects (course page unavailable), so Geography and Psychology acceptance is unknown",
+    "gcse: the course data lists no GCSE requirements for this course (course page unavailable)",
+    "links.course: year-specific 2027-28 page address not confirmed; the general course page address from search results is used",
+    "2028 entry requirements not published (the course data lists 2027-28 as the newest year); 2027 entry used"
+   ],
+   "notes": "Other routes listed: DDM-DMM in a BTEC Level 3 Extended Diploma; Access to Higher Education Diploma with 45 Level 3 credits at Merit or above; Merit at T Level."
+  },
+  {
+   "id": "huddersfield-business-management",
+   "name": "Business Management",
+   "degree": "BA (Hons)",
+   "ucasCode": null,
+   "lengthYears": 3,
+   "lengthNote": "Also available as 4 years including a placement year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BBC",
+    "tariff": 120,
+    "tariffLow": 112,
+    "text": "BBB-BBC at A Level, or 120-112 UCAS points from a combination of Level 3 qualifications",
+    "source": {
+     "url": "https://courses.hud.ac.uk/cf2-courses.json",
+     "checked": "2026-10-22",
+     "evidence": "120-112 UCAS tariff points from a combination of Level 3 qualifications"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.hud.ac.uk/cf2-courses.json",
+    "checked": "2026-10-22",
+    "evidence": "BBB-BBC at A Level"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned in Huddersfield's course data, and Huddersfield is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://courses.hud.ac.uk/2027-28/undergraduate/business-management-ba-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "Source is the university's own course-finder data file (last modified 2026-06-03) because the course page was down on 2026-10-22; re-check the offer and subjects on the live course page",
+    "ucasCode: not in the course data and the UCAS course page could not be read",
+    "subjects: the course data lists no required or excluded A-level subjects (course page unavailable), so Geography and Psychology acceptance is unknown",
+    "gcse: the course data lists no GCSE requirements for this course (course page unavailable)",
+    "2028 entry requirements not published (the course data lists 2027-28 as the newest year); 2027 entry used"
+   ],
+   "notes": "Other routes listed: DDM-DMM in a BTEC Level 3 Extended Diploma; Access to Higher Education Diploma with 45 Level 3 credits at Merit or above; Merit at T Level."
+  }
+ ],
+ "notes": [
+  "The hud.ac.uk website was down on 2026-10-21 and 2026-10-22: www.hud.ac.uk showed a 'This page is under maintenance' page and the course, fees, accommodation, open day and admissions pages all returned 404. UCAS course pages block automated reading (403).",
+  "All course facts come from the university's own course-finder data file (https://courses.hud.ac.uk/cf2-courses.json, last modified 2026-06-03), which holds the 2027-28 entry requirements. Re-check each course on its live course page when the site is back.",
+  "Entry offers are published as grades and UCAS tariff points (BBB-BBC at A Level, or 120-112 UCAS points).",
+  "Huddersfield is not on UAT-UK's official TMUA list for 2027 entry.",
+  "Links to hud.ac.uk pages (fees, accommodation, open days, contextual admissions) come from search results and the course data and could not be opened on 2026-10-22; run tools/check_links.py once the site is back."
+ ],
+ "notConfirmed": [
+  "Website outage: hud.ac.uk pages could not be opened on 2026-10-21 or 2026-10-22, so only the course-finder data file was read; every item below needs filling in once the site is back",
+  "location: no official page with the campus address could be read, so there is no postcode or coordinates",
+  "fees: the 2027/28 Home fee could not be checked (fees page unavailable)",
+  "livingCosts: accommodation and cost-of-living pages unavailable",
+  "openDays: open day dates not checked (page unavailable)",
+  "contextual: the Contextual Admissions Guidance page could not be read, so the criteria, who qualifies and how many extra UCAS points are not confirmed (course data only says applicants 'may also be able to earn extra UCAS points')",
+  "programmes: Year 12 and fair access programmes were not read, so none are recorded (search results show pages titled Headstart Huddersfield and The Progression Module that could not be opened)",
+  "setting: based only on course wording 'our attractive campus'; no official page about the campus was read",
+  "2028 entry requirements not published (the course data lists 2027-28 as the newest year); 2027 entry used for all courses"
+ ]
+}

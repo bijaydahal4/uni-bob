@@ -1,0 +1,569 @@
+{
+ "id": "chichester",
+ "name": "University of Chichester",
+ "shortName": "Chichester",
+ "aliases": [
+  "Chichester",
+  "Chichester Uni",
+  "Uni of Chichester",
+  "UoChichester"
+ ],
+ "city": "Chichester",
+ "region": "South East",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.chi.ac.uk/about-us/how-to-find-us/bishop-otter-campus/",
+  "checked": "2026-10-21",
+  "evidence": "Our Bishop Otter campus in Chichester is set in beautiful surroundings with plenty of relaxing green space and a combination of attractive, historic buildings and excellent modern facilities."
+ },
+ "location": {
+  "postcode": "PO19 6PE",
+  "postcodeSource": "https://www.chi.ac.uk/about-us/how-to-find-us/bishop-otter-campus/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/PO196PE",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK students starting in 2027 (2027/28), as shown on the Accounting and Finance, Business Management and Fintech course pages. Other course pages still show the 2026/27 fee of £9,790 ('Subject to Parliamentary approval').",
+  "source": {
+   "url": "https://www.chi.ac.uk/business-school/course/ba-hons-accounting-and-finance/",
+   "checked": "2026-10-21",
+   "evidence": "Course Fees 2027/28 UK fee £10,050"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 180.25,
+  "amountHigh": 228.48,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University halls at the Chichester (Bishop Otter) campus and nearby city properties cost about £180–£228 a week (2026/27); the cheapest are the 50-week city-centre houses and the dearest the 39-week on-campus halls. Some halls are catered, some self-catered. Wifi is included in the rent.",
+  "source": {
+   "url": "https://www.chi.ac.uk/student-life/accommodation/",
+   "checked": "2026-10-21",
+   "evidence": "Prices listed are for the 2026/27 academic year."
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-25",
+    "endDate": null,
+    "label": "Open day (Bishop Otter and Bognor Regis campuses, 9:30am to 3:00pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Open day (Bishop Otter and Bognor Regis campuses, 9:30am to 3:00pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next open days: Sunday 25 October 2026 and Saturday 21 November 2026 (9:30am to 3:00pm). 2027 open day dates are not published yet.",
+  "url": "https://www.chi.ac.uk/study/open-days-and-campus-tours/open-days/",
+  "source": {
+   "url": "https://www.chi.ac.uk/study/open-days-and-campus-tours/open-days/",
+   "checked": "2026-10-21",
+   "evidence": "Sunday 25 October 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "UK applicants whose circumstances match Chichester's contextual factors may get an offer 16 UCAS tariff points lower (about two A-level grades); there is no separate form, you apply through UCAS as normal.",
+  "typicalReduction": "16 UCAS tariff points (equivalent to two A-level grades or one BTEC grade); 8 points for foundation year courses",
+  "criteria": [
+   {
+    "key": "fsm",
+    "detail": "Having been in receipt of free school meals during your secondary education.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "area",
+    "detail": "Living within POLAR4 quintile 1 (postcode areas with the lowest rates of participation in higher education).",
+    "measure": "POLAR4",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "care",
+    "detail": "Being a care leaver: having been in formal care for at least three months.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "carer",
+    "detail": "Having caring responsibilities: being an unpaid carer for a family member or a friend.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "refugee",
+    "detail": "Having refugee status.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "You or a parent/carer currently serve, or have served, in the UK Armed Forces.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Having declared a disability: a social or communication condition such as autism; blindness or serious visual impairment uncorrected by glasses; deafness or serious hearing impediment; a long-term or chronic health condition such as diabetes, epilepsy or cancer; a mental health condition such as depression, schizophrenia or anxiety disorder; or a physical impairment or mobility issues.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": null,
+  "rulesText": "Open to UK applicants applying for undergraduate courses. The page says these factors 'are considered when deciding if you are eligible' and does not say how many you need. Apply through UCAS as normal; Chichester may ask for evidence. If you are predicted two or more A-level grades better than the published typical offer you will normally be made the typical offer. Some courses with course-specific entry requirements may differ.",
+  "url": "https://www.chi.ac.uk/study/undergraduate/applying/how-to-apply/contextual-offers/",
+  "source": {
+   "url": "https://www.chi.ac.uk/study/undergraduate/applying/how-to-apply/contextual-offers/",
+   "checked": "2026-10-21",
+   "evidence": "Our contextual offer is an entry requirement reduction of 16 UCAS tariff points (equivalent to two A-level grades or one BTEC grade) for all eligible undergraduate degree courses."
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.chi.ac.uk/",
+  "courses": "https://www.chi.ac.uk/courses/level/undergraduate/",
+  "economics": "https://www.chi.ac.uk/business-school/",
+  "openDays": "https://www.chi.ac.uk/study/open-days-and-campus-tours/open-days/",
+  "fees": "https://www.chi.ac.uk/study/undergraduate/fees-finance/tuition-fees/",
+  "contextual": "https://www.chi.ac.uk/study/undergraduate/applying/how-to-apply/contextual-offers/",
+  "accommodation": "https://www.chi.ac.uk/student-life/accommodation/"
+ },
+ "courses": [
+  {
+   "id": "chichester-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN43",
+   "lengthYears": 3,
+   "lengthNote": "3 years full time, or 4 years full time with a sandwich (placement) year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BCC",
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS tariff points from A levels (BCC), or a combination with Extended Project / BTEC / Cambridge Technical. Individual offers may vary.",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-accounting-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "104 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.chi.ac.uk/business-school/course/ba-hons-accounting-and-finance/",
+    "checked": "2026-10-21",
+    "evidence": "104 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Chichester is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-accounting-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offers (individual offers may vary):"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Typically 16 fewer UCAS points (two A-level grades) if you meet Chichester's contextual criteria. If you are predicted two or more A-level grades better than the published typical offer you will normally be made the typical offer instead.",
+     "programme": null,
+     "source": {
+      "url": "https://www.chi.ac.uk/business-school/course/ba-hons-accounting-and-finance/",
+      "checked": "2026-10-21",
+      "evidence": "This is an offer with a reduced entry tariff – typically the equivalent of 16 fewer UCAS points (two A-level grades)."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.chi.ac.uk/business-school/course/ba-hons-accounting-and-finance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "gcse: the course page doesn't list GCSE requirements, and UCAS course pages block scripted access (HTTP 403), so there is no second source",
+    "subjects: the course page names no required or excluded A-level subjects (the offer is in UCAS tariff points from A levels)",
+    "2028 entry requirements not published yet; 2027 entry (2027/28 fees) used"
+   ],
+   "notes": "ACCA, CIMA and ICAEW accredited degree (exemptions from professional exams). Optional one-year industrial placement between years 2 and 3 and/or a 20-week final-year placement. Taught at the Bishop Otter campus in Chichester."
+  },
+  {
+   "id": "chichester-business-management-finance",
+   "name": "Business Management and Finance",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN13",
+   "lengthYears": 3,
+   "lengthNote": "3 years full time, or 4 years full time with a sandwich (placement) year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management",
+    "finance"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BCC",
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS tariff points from A levels (BCC), or a combination with Extended Project / BTEC / Cambridge Technical. Individual offers may vary. (2026 entry; 2027 entry not published yet.)",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "104 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-finance/",
+    "checked": "2026-10-21",
+    "evidence": "104 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Chichester is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offers (individual offers may vary):"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Typically 16 fewer UCAS points (two A-level grades) if you meet Chichester's contextual criteria. If you are predicted two or more A-level grades better than the published typical offer you will normally be made the typical offer instead.",
+     "programme": null,
+     "source": {
+      "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-finance/",
+      "checked": "2026-10-21",
+      "evidence": "This is an offer with a reduced entry tariff – typically the equivalent of 16 fewer UCAS points (two A-level grades)."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-finance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "gcse: the course page doesn't list GCSE requirements, and UCAS course pages block scripted access (HTTP 403), so there is no second source",
+    "subjects: the course page names no required or excluded A-level subjects (the offer is in UCAS tariff points from A levels)",
+    "2027 entry requirements are not published on this page yet: it still shows 2026/27 fees and has no 'Apply now' button, so the details recorded are for 2026 entry"
+   ],
+   "notes": "This page shows 2026/27 fees (GBP 9,790, 'Subject to Parliamentary approval') and other Chichester course pages list it as 'Starts in September 2026', so the offer is for 2026 entry. A 20-week part-time placement in the final year is compulsory; a one-year placement is optional. Chichester says most of its business degrees share first-year modules, so you may be able to move to a single honours option."
+  },
+  {
+   "id": "chichester-fintech",
+   "name": "Fintech",
+   "degree": "BA (Hons)",
+   "ucasCode": "N270",
+   "lengthYears": 3,
+   "lengthNote": "3 years full time, or 4 years full time with a sandwich (placement) year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BCC",
+    "tariff": 120,
+    "tariffLow": 104,
+    "text": "104-120 UCAS tariff points from A levels (BCC to BBB), or a combination with Extended Project / BTEC / Cambridge Technical. Individual offers may vary.",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-fintech/",
+     "checked": "2026-10-21",
+     "evidence": "104-120 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.chi.ac.uk/business-school/course/ba-hons-fintech/",
+    "checked": "2026-10-21",
+    "evidence": "104-120 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Chichester is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-fintech/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offers (individual offers may vary):"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Typically 16 fewer UCAS points (two A-level grades) if you meet Chichester's contextual criteria. If you are predicted two or more A-level grades better than the published typical offer you will normally be made the typical offer instead.",
+     "programme": null,
+     "source": {
+      "url": "https://www.chi.ac.uk/business-school/course/ba-hons-fintech/",
+      "checked": "2026-10-21",
+      "evidence": "This is an offer with a reduced entry tariff – typically the equivalent of 16 fewer UCAS points (two A-level grades)."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.chi.ac.uk/business-school/course/ba-hons-fintech/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "gcse: the course page doesn't list GCSE requirements, and UCAS course pages block scripted access (HTTP 403), so there is no second source",
+    "subjects: the course page names no required or excluded A-level subjects (the offer is in UCAS tariff points from A levels)",
+    "2028 entry requirements not published yet; 2027 entry (2027/28 fees) used"
+   ],
+   "notes": "Finance and technology degree (AI, financial technology) with a strong finance foundation. A 20-week part-time placement in the final year is compulsory; a one-year paid placement is optional."
+  },
+  {
+   "id": "chichester-business-management",
+   "name": "Business Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "NI0I",
+   "lengthYears": 3,
+   "lengthNote": "3 years full time, or 4 years full time with a sandwich (placement) year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BCC",
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS tariff points from A levels (BCC), or a combination with Extended Project / BTEC / Cambridge Technical. Individual offers may vary.",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management/",
+     "checked": "2026-10-21",
+     "evidence": "104 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management/",
+    "checked": "2026-10-21",
+    "evidence": "104 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Chichester is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offers (individual offers may vary):"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Typically 16 fewer UCAS points (two A-level grades) if you meet Chichester's contextual criteria. If you are predicted two or more A-level grades better than the published typical offer you will normally be made the typical offer instead.",
+     "programme": null,
+     "source": {
+      "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management/",
+      "checked": "2026-10-21",
+      "evidence": "This is an offer with a reduced entry tariff – typically the equivalent of 16 fewer UCAS points (two A-level grades)."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "gcse: the course page doesn't list GCSE requirements, and UCAS course pages block scripted access (HTTP 403), so there is no second source",
+    "subjects: the course page names no required or excluded A-level subjects (the offer is in UCAS tariff points from A levels)",
+    "2028 entry requirements not published yet; 2027 entry (2027/28 fees) used",
+    "ucasCode: the course page prints the code as 'NI0I'; it could not be cross-checked on UCAS (UCAS pages block scripted access)"
+   ],
+   "notes": "Accredited by the Chartered Management Institute. A 20-week part-time placement in the final year is compulsory; a one-year paid placement is optional. Other Chichester pages list this course as 'Starts in September 2027'."
+  },
+  {
+   "id": "chichester-business-management-marketing",
+   "name": "Business Management and Marketing",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN15",
+   "lengthYears": 3,
+   "lengthNote": "3 years full time, or 4 years full time with a sandwich (placement) year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BCC",
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS tariff points from A levels (BCC), or a combination with Extended Project / BTEC / Cambridge Technical. Individual offers may vary. (2026 entry; 2027 entry not published yet.)",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-marketing/",
+     "checked": "2026-10-21",
+     "evidence": "104 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-marketing/",
+    "checked": "2026-10-21",
+    "evidence": "104 tariff points from A levels or combination with Extended Project / BTEC / Cambridge Technical."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Chichester is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-marketing/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offers (individual offers may vary):"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Typically 16 fewer UCAS points (two A-level grades) if you meet Chichester's contextual criteria. If you are predicted two or more A-level grades better than the published typical offer you will normally be made the typical offer instead.",
+     "programme": null,
+     "source": {
+      "url": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-marketing/",
+      "checked": "2026-10-21",
+      "evidence": "This is an offer with a reduced entry tariff – typically the equivalent of 16 fewer UCAS points (two A-level grades)."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.chi.ac.uk/business-school/course/ba-hons-business-management-and-marketing/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "gcse: the course page doesn't list GCSE requirements, and UCAS course pages block scripted access (HTTP 403), so there is no second source",
+    "subjects: the course page names no required or excluded A-level subjects (the offer is in UCAS tariff points from A levels)",
+    "2027 entry requirements are not published on this page yet: it still shows 2026/27 fees and has no 'Apply now' button, so the details recorded are for 2026 entry"
+   ],
+   "notes": "This page shows 2026/27 fees (GBP 9,790, 'Subject to Parliamentary approval') and other Chichester course pages list it as 'Starts in September 2026', so the offer is for 2026 entry. A 20-week part-time placement in the final year is compulsory; a one-year placement is optional. Accredited by the Chartered Institute of Marketing (CIM)."
+  }
+ ],
+ "notes": [
+  "Chichester doesn't appear to offer a standalone Economics degree: none is listed on its Business School or undergraduate course pages (checked 2026-10-21). The courses recorded are the closest matches (accounting and finance, fintech, business management).",
+  "Offers are in UCAS tariff points: 104 points (BCC at A level) for most courses; Fintech 104-120 points (BCC to BBB). The pages say individual offers may vary.",
+  "Business Management and Finance and Business Management and Marketing still show 2026/27 details (2026 entry) on 2026-10-21; Accounting and Finance, Business Management and Fintech show 2027/28 fees (2027 entry).",
+  "No admissions test is named on any course page, and Chichester is not on UAT-UK's official TMUA list for 2027 entry (https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf).",
+  "Chichester's Outreach team offers talks, workshops and academic taster sessions (many for Year 12+, including Business School sessions) on request for schools and colleges; no application programme or summer school for individual students was found.",
+  "Business School courses are taught at the Bishop Otter campus in Chichester; the university's other campus is at Bognor Regis.",
+  "The accommodation page's detailed hall descriptions show older, lower prices than its 2026/27 comparison table; the table (which states 2026/27) was used.",
+  "Chichester's Halls vs Home page says all utility bills are included in the rent for university halls (https://www.chi.ac.uk/halls-vs-home/)."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements are not published yet; courses use 2027 entry, or 2026 entry where the page has not been updated (Business Management and Finance, Business Management and Marketing)",
+  "GCSE requirements are not listed on any course page, and UCAS course pages block scripted access (HTTP 403), so no second source was available",
+  "No required or excluded A-level subjects are published (offers are in UCAS tariff points)",
+  "No individual Year 12 summer school or access programme relevant to business or finance was found"
+ ]
+}

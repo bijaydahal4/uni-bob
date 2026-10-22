@@ -1,0 +1,1840 @@
+{
+  "id": "manchester",
+  "name": "The University of Manchester",
+  "shortName": "Manchester",
+  "aliases": [
+    "Manchester",
+    "Manchester Uni",
+    "Manchester University",
+    "University of Manchester",
+    "UoM"
+  ],
+  "city": "Manchester",
+  "region": "North",
+  "country": "England",
+  "setting": "city",
+  "settingEvidence": {
+    "url": "https://www.manchester.ac.uk/about/our-campus/",
+    "checked": "2026-10-20",
+    "evidence": "A world-class campus in Manchester city centre"
+  },
+  "location": {
+    "postcode": "M13 9PL",
+    "postcodeSource": "https://www.manchester.ac.uk/connect/contact-us/",
+    "lat": null,
+    "lng": null,
+    "coordsSource": "https://api.postcodes.io/postcodes/M139PL",
+    "checked": "2026-10-20"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK (home) students starting in September 2027",
+    "source": {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10224/bsc-economics/all-content/",
+      "checked": "2026-10-20",
+      "evidence": "Tuition fees for home students commencing their studies in September 2027 will be £10,050 per annum."
+    }
+  },
+  "livingCosts": {
+    "kind": "living cost estimate",
+    "amountLow": 14840,
+    "amountHigh": 15030,
+    "period": "year",
+    "academicYear": "2026/27",
+    "text": "About £14,840 a year (£15,030 if self-catered) for an undergraduate including accommodation, over a 41-week year (2026/27 estimate). University self-catered halls range from £4,853 to £12,096 a year.",
+    "source": {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/fees-and-funding/cost-of-living/",
+      "checked": "2026-10-20",
+      "evidence": "Estimated living costs 2026/7 for undergraduate students ... £14,840 (£15,030 if self-catered)"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-11-16",
+        "endDate": "2026-11-20",
+        "label": "Undergraduate mini virtual open day",
+        "format": "online",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next: online mini virtual open day, 16-20 November 2026. No in-person undergraduate open day dates are listed yet.",
+    "url": "https://www.manchester.ac.uk/study/undergraduate/open-days-visits/open-days/",
+    "source": {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/open-days-visits/open-days/",
+      "checked": "2026-10-20",
+      "evidence": "Book now for our undergraduate mini virtual open day, taking place from 16–20 November 2026."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Manchester reviews every UCAS application automatically for WP, WP Plus and WP Plus PLUS flags; flagged applicants whose course needs ABB or higher can get a contextual offer one or two grades lower, and care-experienced and refugee applicants have their own lower offer.",
+    "typicalReduction": "WP Plus: usually one grade lower than the standard offer; WP Plus PLUS: usually two grades lower",
+    "criteria": [
+      {
+        "key": "area",
+        "detail": "Home postcode in ACORN category 5 (Stretched Society) or 6 (Low Income Living). The postcode alone gives a WP flag, not a contextual offer.",
+        "measure": "ACORN",
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "area",
+        "detail": "Home postcode in TUNDRA quintile 1 (higher education participation). The postcode alone gives a WP flag, not a contextual offer.",
+        "measure": "TUNDRA",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "area",
+        "detail": "Home postcode in IMD quintile 1 (disadvantage). The postcode alone gives a WP flag, not a contextual offer.",
+        "measure": "IMD",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "school",
+        "detail": "GCSE or A-level school/college performed below the national average (averaged over up to three years); together with the postcode criteria this gives a WP Plus flag.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "fsm",
+        "detail": "Eligible for free school meals during secondary education (England, Northern Ireland, Wales; checked from official data, not self-declared); gives a WP Plus flag.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "In care in the UK for more than three months; gives a WP Plus PLUS flag.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "Permission to stay in the UK as a refugee, asylum seeker, under humanitarian protection or on a Ukraine scheme; gives a WP Plus PLUS flag.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "carer",
+        "detail": "Young adult carer (under 25 on 1 September of the year of entry, UK resident); gives a WP Plus PLUS flag.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Completed the Manchester Access Programme (Year 12, Greater Manchester): reduced offer of up to two grades. The Arthur Lewis Assignment gives Social Sciences offer-holders a one-grade reduction and the Manchester Distance Access Scheme gives eligible offer-holders on some other courses a one-grade reduction.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      }
+    ],
+    "minCriteria": null,
+    "rulesText": "WP flag = home postcode meets the ACORN, TUNDRA or IMD criteria. WP Plus flag = postcode criteria plus a below-average school, or free school meals. WP Plus PLUS flag = refugee/asylum/humanitarian protection/Ukraine scheme, care for more than three months, or young adult carer. Contextual offers only apply to WP Plus or WP Plus PLUS applicants whose course has standard entry requirements of ABB or higher and who meet the published entry requirements. Applicants are assessed automatically from their UCAS form; the postcode and school checks are for UK applicants under 21 only.",
+    "url": "https://www.manchester.ac.uk/study/undergraduate/applying/contextual-admissions/",
+    "source": {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/applying/contextual-admissions/",
+      "checked": "2026-10-20",
+      "evidence": "If you meet our WP Plus criteria, the contextual offer is usually one grade lower than the standard entry requirements."
+    },
+    "flagsSource": {
+      "url": "https://www.manchester.ac.uk/study/undergraduate/applying/contextual-admissions/your-data/",
+      "checked": "2026-10-20",
+      "evidence": "You’ll be assigned a WP flag if your home postcode meets our criteria (Acorn category 5 or 6, TUNDRA Quintile 1 or IMD Quintile 1)."
+    }
+  },
+  "programmes": [
+    {
+      "id": "manchester-map",
+      "name": "Manchester Access Programme (MAP)",
+      "provider": "The University of Manchester",
+      "providerType": "university",
+      "uniIds": [
+        "manchester"
+      ],
+      "summary": "A skills-based programme for local Year 12 students (online and on-campus events, workshops and a 1,500-word academic essay) that earns a reduced Manchester offer.",
+      "whoCanApply": "Year 12 students who live in Greater Manchester or study at a school or college there, attend a state post-16 school or college on a two-year Level 3 course, have at least five GCSEs at grade 6 or above (and at least a 4 in English Language and Maths) and meet at least one priority criterion such as free school meals, first generation, care experience, estrangement, refugee/asylum seeker status or being a young carer.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "firstGen",
+        "care",
+        "estranged",
+        "refugee",
+        "carer"
+      ],
+      "eligibilityDetail": "Essential: live in Greater Manchester or study at a school or college there; Year 12; at least five GCSEs at grade 6+ with at least grade 4 in English Language and Maths; only non-fee-paying schools attended; state post-16 school or college studying a two-year Level 3 qualification equivalent to three A-levels; home-registered or settled student. Plus at least one Category A priority criterion (free school meals or pupil premium, no parent/carer with a degree, local authority care experience for any length of time, estranged, sanctuary seeker, young carer). Category B criteria (low-progression area, below-average school, disability, military family, some ethnic groups, discretionary 16-19 bursary) only count alongside a Category A criterion.",
+      "benefits": [
+        "Reduced offer of up to two A-level grades at Manchester",
+        "Undergraduate Access Scholarship currently worth £1,300 per year if you study at Manchester",
+        "Early decision on your application before you apply through UCAS",
+        "Travel costs to interviews and visit days paid for students who complete MAP"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "manchester"
+      ],
+      "offerReduction": "up to two A-level grades",
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects (separate Medicine and Dentistry strands)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "April to August 2027: Start your Journey event in April, academic module from May, open day visit in June, final event in July, essay submitted in August (about 50 hours in total)",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "October 2026 (applications for MAP 2027 are open)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "11.59pm on Sunday 13 December 2026",
+        "date": "2026-12-13",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "Details are for MAP 2027 (applications are open now); the eligibility criteria may change for MAP 2028.",
+      "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+      "source": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+        "checked": "2026-10-20",
+        "evidence": "Applications close on Sunday, 13 December at 11.59pm. ... Students who complete MAP are eligible for a reduced offer of up to two grades"
+      },
+      "notConfirmed": [
+        "cost: the MAP pages don't say whether the programme is free",
+        "runs: only months are given for most events, not exact dates",
+        "opens: the eligibility page still says MAP 2027 applications 'will open in November 2026', while the main MAP page says they opened in October 2026 and are open now (the main page is used)"
+      ]
+    },
+    {
+      "id": "manchester-arthur-lewis-assignment",
+      "name": "The Arthur Lewis Assignment (Social sciences pre-university course)",
+      "provider": "The University of Manchester (School of Social Sciences)",
+      "providerType": "university",
+      "uniIds": [
+        "manchester"
+      ],
+      "summary": "A distance-learning pre-university course for Social Sciences offer-holders (including Economics) that earns a one-grade reduction to the standard entry requirements on successful completion.",
+      "whoCanApply": "Offer-holders for a School of Social Sciences undergraduate course whose application has a WP flag (low-progression or deprived neighbourhood) and/or a WP Plus flag (in or has been in local authority care for more than three months).",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area",
+        "care"
+      ],
+      "eligibilityDetail": "Hold an offer for a School of Social Sciences undergraduate course; live in a neighbourhood with a low progression rate to higher education or high deprivation (WP flag) and/or be living in, or have lived in, local authority care for more than three months (WP Plus flag). Eligible students are emailed from February.",
+      "benefits": [
+        "One-grade reduction to the standard entry requirements on a Social Sciences course on successful completion (BSc Economics offer-holders need an A in Mathematics)",
+        "A taste of undergraduate study before starting"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "manchester"
+      ],
+      "offerReduction": "one grade",
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "online",
+      "subjects": "Social sciences (all Social Sciences undergraduate courses, including Economics)",
+      "yearGroup": "Offer-holders (after applying, so Year 13)",
+      "runs": {
+        "text": "Dates not published; eligible students are emailed from February",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": null,
+        "date": null,
+        "status": null
+      },
+      "deadline": {
+        "text": null,
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2026,
+      "infoNote": "The page gives no year or dates; it says eligible offer-holders are contacted by email from February. It describes the scheme as currently run (checked October 2026).",
+      "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/social-sciences-pre-university-course/",
+      "source": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/social-sciences-pre-university-course/",
+        "checked": "2026-10-20",
+        "evidence": "a one-grade reduction to the standard entry requirements onto a Social Sciences course at The University of Manchester"
+      },
+      "notConfirmed": [
+        "cost: the page doesn't say whether the course is free",
+        "runs/deadline: no dates or year are published on the page",
+        "eligibility: the page's link to the eligibility checker is only valid for the 2024 admissions cycle"
+      ]
+    },
+    {
+      "id": "manchester-mdas",
+      "name": "Manchester Distance Access Scheme (MDAS)",
+      "provider": "The University of Manchester",
+      "providerType": "university",
+      "uniIds": [
+        "manchester"
+      ],
+      "summary": "An online pre-university scheme for offer-holders (an Academic Skills Module and a Mini Degree Module) that earns an offer one A-level grade lower on eligible courses, including International Business, Finance and Economics.",
+      "whoCanApply": "Offer-holders from the UK who are under 21, study at a UK education provider, live in an area with low progression to higher education or a less advantaged neighbourhood, have not attended an independent or fee-paying school, and make Manchester their firm choice.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area"
+      ],
+      "eligibilityDetail": "Hold an offer from Manchester and choose it as your firm choice; be a permanent UK resident and under 21; study at a UK education provider; live in an area with low progression to higher education or a less advantaged neighbourhood; not have attended an independent or fee-paying school; not already hold a higher education qualification; not be taking an Access to Higher Education qualification; not have completed the Manchester Access Programme. The School of Social Sciences runs its own scheme (the Arthur Lewis Assignment) instead.",
+      "benefits": [
+        "An offer one A-level grade below the standard offer (for example AAA becomes AAB)",
+        "University-level teaching before starting your course",
+        "Can be added to a contextual offer for WP Plus applicants (for example standard AAA becomes ABB)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "manchester"
+      ],
+      "offerReduction": "one A-level grade (for example AAA becomes AAB)",
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "online",
+      "subjects": "Selected courses, including International Business, Finance and Economics and Management (School of Social Sciences courses such as Economics are not on its list; that School runs its own scheme)",
+      "yearGroup": "Offer-holders (after applying, so Year 13)",
+      "runs": {
+        "text": "2027 cycle: Academic Skills Module April to end of June 2027, then Mini Degree Module July to beginning of August 2027 (subject to change and A-level exams)",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Applications for 2027 are open (apply through the survey on the MDAS page once you hold an offer)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not published",
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2027,
+      "infoNote": "Details are for the 2027 cycle. Dates for your own cycle (2028 entry) aren't published. The page also still mentions 'September 2026' offers and a 2026-entry course list.",
+      "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/manchester-distance-access-scheme/",
+      "source": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/manchester-distance-access-scheme/",
+        "checked": "2026-10-20",
+        "evidence": "You'll receive an offer of one A-level grade below the standard offer for your course at the University"
+      },
+      "notConfirmed": [
+        "cost: the page doesn't say whether the scheme is free",
+        "deadline: no application deadline is published",
+        "runs: the page mixes 2026 and 2027 wording; the 2027 dates are used"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.manchester.ac.uk/",
+    "courses": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/",
+    "economics": "https://www.humanities.manchester.ac.uk/economics/",
+    "openDays": "https://www.manchester.ac.uk/study/undergraduate/open-days-visits/open-days/",
+    "fees": "https://www.manchester.ac.uk/study/undergraduate/fees-and-funding/",
+    "contextual": "https://www.manchester.ac.uk/study/undergraduate/applying/contextual-admissions/",
+    "accommodation": "https://www.manchester.ac.uk/study/accommodation/student-accommodation/"
+  },
+  "courses": [
+    {
+      "id": "manchester-economics-bsc",
+      "name": "Economics",
+      "degree": "BSc",
+      "ucasCode": "L102",
+      "lengthYears": 3,
+      "lengthNote": "3 years, or 4 years with a Year Abroad (degree title 'with International Study') or a Professional Experience Year (degree title 'with Professional Experience')",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including Mathematics",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10224/bsc-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Typical A-level offer: AAA including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics must be one of the three A-levels (so grade A on the AAA offer; the contextual offer says 'grade A in Mathematics')"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "note": "Preference will be given to applicants studying two of these subjects. Official list: Accounting; Economics; Finance; Business Studies; Development Studies; Government and Politics; Economic and Social History; Mathematics; Anthropology; Sociology; Philosophy; Religious Studies; English Language; English Literature; Geography; Psychology; Classical Civilisation; History; Archaeology; Communication Studies; Environmental Studies; World Development; Biology; Chemistry; Physics; Modern Languages."
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4; GCSE English Literature is not accepted instead"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade B or 6"
+        }
+      ],
+      "gcseText": "Applicants must demonstrate a broad general education including acceptable levels of Literacy and Numeracy, equivalent to at least Grade C or 4 in GCSE/iGCSE English Language and Grade B or 6 in GCSE/iGCSE Mathematics. GCSE/iGCSE English Literature will not be accepted in lieu of GCSE/iGCSE English Language.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10224/bsc-economics/all-content/",
+        "checked": "2026-10-20",
+        "evidence": "AAA, including Mathematics (preference will be given to applicants studying two of these subjects): ... Geography; Psychology; Classical Civilisation"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on the course page. Applications are assessed on past and predicted grades, the academic reference and the personal statement, and Manchester does not interview for this course.",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10224/bsc-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Applications are considered on the basis of an assessment of past and predicted academic achievements, the academic reference and personal statement."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer shown on the course page, for UK applicants who will be under 21 on 1 September of the year they start, live in an area of disadvantage or low progression into higher education, and attended a UK school or college that has performed below the national average over multiple years. Manchester's contextual admissions page says the contextual offer is usually one grade lower than standard for WP Plus applicants and two grades lower for WP Plus PLUS applicants, and only for courses with standard entry requirements of ABB or higher. How each flag maps to the offer on a particular course isn't spelled out.",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10224/bsc-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "Typical contextual A-level offer: ABB including A in Mathematics"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "ABC",
+          "tariff": null,
+          "conditions": "UK refugee/care-experienced offer, for applicants who have been looked after in care for more than three months, or who have refugee status granted by the UK government (or a UK visa under one of the Ukraine schemes).",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10224/bsc-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "UK refugee/care-experienced offer: ABC including A in Mathematics"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Manchester Access Programme (a Year 12 programme only for students who live or study in Greater Manchester): a reduced offer of up to two A-level grades off the standard entry requirements. Subject-specific grade requirements may still apply and completion does not guarantee entry.",
+          "programme": "Manchester Access Programme (MAP)",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+            "checked": "2026-10-20",
+            "evidence": "Students who complete MAP are eligible for a reduced offer of up to two grades"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Arthur Lewis Assignment (a distance-learning pre-university course for School of Social Sciences offer-holders whose application has a WP or WP Plus flag): a one-grade reduction to the standard entry requirements. BSc Economics offer-holders will need an A in Mathematics.",
+          "programme": "The Arthur Lewis Assignment",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/social-sciences-pre-university-course/",
+            "checked": "2026-10-20",
+            "evidence": "a one-grade reduction to the standard entry requirements onto a Social Sciences course at The University of Manchester"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/10224/bsc-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "notAccepted: the page doesn't say whether General Studies or Critical Thinking are excluded",
+        "admissionsTest: no admissions test is mentioned on the course page, so none is recorded",
+        "competition: Manchester publishes no offer rate or applications per place on this page"
+      ],
+      "notes": "The quantitative route: A-level Mathematics is required, unlike the BAEcon Economics degree (L100). Designed for students with a good mathematical background. The EPQ is not part of the offer conditions (some Schools may consider it in August for applicants who narrowly miss their grades). Three full A-levels are expected; any extra A-levels are not included in the offer."
+    },
+    {
+      "id": "manchester-economics-baecon",
+      "name": "Economics",
+      "degree": "BAEcon",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "3 years, or 4 years with a Year Abroad (degree title 'with International Study') or a Professional Experience Year (degree title 'with Professional Experience')",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including at least one A-level from Manchester's accepted list (which includes Mathematics, Economics, Geography and Psychology); no single subject is compulsory",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05134/baecon-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Typical A-level offer AAA"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "minGrade": null,
+          "note": "AAA must include at least one A-level from Manchester's accepted list (no single subject is compulsory; Mathematics, Economics, Geography and Psychology are all on it)"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "note": "Preference will be given to applicants studying two of these subjects. Official list: Accounting; Economics; Finance; Business Studies; Development Studies; Government and Politics; Economic and Social History; Mathematics; Anthropology; Sociology; Philosophy; Religious Studies; English Language; English Literature; Geography; Psychology; Classical Civilisation; History; Archaeology; Communication Studies; Environmental Studies; World Development; Biology; Chemistry; Physics; Modern Languages."
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4; GCSE English Literature is not accepted instead"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade B or 6"
+        }
+      ],
+      "gcseText": "Applicants must demonstrate a broad general education including acceptable levels of Literacy and Numeracy, equivalent to at least Grade C or 4 in GCSE/iGCSE English Language and Grade B or 6 in GCSE/iGCSE Mathematics. GCSE/iGCSE English Literature will not be accepted in lieu of GCSE/iGCSE English Language.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05134/baecon-economics/all-content/",
+        "checked": "2026-10-20",
+        "evidence": "AAA, including at least one of the following A-Level subjects (preference will be given to applicants studying two of these subjects): ... Geography; Psychology; Classical Civilisation"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on the course page. Applications are assessed on past and predicted grades, the academic reference and the personal statement, and Manchester does not interview for this course.",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05134/baecon-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Applications are considered on the basis of an assessment of past and predicted academic achievements, the academic reference and personal statement."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer shown on the course page, for UK applicants who will be under 21 on 1 September of the year they start, live in an area of disadvantage or low progression into higher education, and attended a UK school or college that has performed below the national average over multiple years. Manchester's contextual admissions page says the contextual offer is usually one grade lower than standard for WP Plus applicants and two grades lower for WP Plus PLUS applicants, and only for courses with standard entry requirements of ABB or higher. How each flag maps to the offer on a particular course isn't spelled out.",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05134/baecon-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "Typical contextual A-level offer ABB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "UK refugee/care-experienced offer, for applicants who have been looked after in care for more than three months, or who have refugee status granted by the UK government (or a UK visa under one of the Ukraine schemes).",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05134/baecon-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "Refugee/care-experienced offer BBB, including at least one of the following A-Level subjects (preference will be given to applicants studying two of these subjects)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Manchester Access Programme (a Year 12 programme only for students who live or study in Greater Manchester): a reduced offer of up to two A-level grades off the standard entry requirements. Subject-specific grade requirements may still apply and completion does not guarantee entry.",
+          "programme": "Manchester Access Programme (MAP)",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+            "checked": "2026-10-20",
+            "evidence": "Students who complete MAP are eligible for a reduced offer of up to two grades"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Arthur Lewis Assignment (a distance-learning pre-university course for School of Social Sciences offer-holders whose application has a WP or WP Plus flag): a one-grade reduction to the standard entry requirements.",
+          "programme": "The Arthur Lewis Assignment",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/social-sciences-pre-university-course/",
+            "checked": "2026-10-20",
+            "evidence": "a one-grade reduction to the standard entry requirements onto a Social Sciences course at The University of Manchester"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05134/baecon-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "notAccepted: the page doesn't say whether General Studies or Critical Thinking are excluded",
+        "admissionsTest: no admissions test is mentioned on the course page, so none is recorded",
+        "competition: Manchester publishes no offer rate or applications per place on this page"
+      ],
+      "notes": "The BA (Econ) version of Economics: no A-level Maths requirement, but GCSE Mathematics grade 6 is needed. Compare with the BSc Economics (L102), which requires A-level Maths. AS-level results are not considered in the standard admissions process. The EPQ is not part of the offer conditions (some Schools may consider it in August for applicants who narrowly miss their grades). Three full A-levels are expected; any extra A-levels are not included in the offer."
+    },
+    {
+      "id": "manchester-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BAEcon",
+      "ucasCode": "LN13",
+      "lengthYears": 3,
+      "lengthNote": "3 years, or 4 years with a Year Abroad (degree title 'with International Study') or a Professional Experience Year (degree title 'with Professional Experience')",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including at least one A-level from Manchester's accepted list (which includes Mathematics, Economics, Geography and Psychology); no single subject is compulsory",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05136/baecon-economics-and-finance/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Typical A-level offer: AAA including specific subjects"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "minGrade": null,
+          "note": "AAA must include at least one A-level from Manchester's accepted list (no single subject is compulsory; Mathematics, Economics, Geography and Psychology are all on it)"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "note": "Preference will be given to applicants studying two of these subjects. Official list: Accounting; Economics; Finance; Business Studies; Development Studies; Government and Politics; Economic and Social History; Mathematics; Anthropology; Sociology; Philosophy; Religious Studies; English Language; English Literature; Geography; Psychology; Classical Civilisation; History; Archaeology; Communication Studies; Environmental Studies; World Development; Biology; Chemistry; Physics; Modern Languages."
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4; GCSE English Literature is not accepted instead"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade B or 6"
+        }
+      ],
+      "gcseText": "Applicants must demonstrate a broad general education including acceptable levels of Literacy and Numeracy, equivalent to at least Grade C or 4 in GCSE/iGCSE English Language and Grade B or 6 in GCSE/iGCSE Mathematics. GCSE/iGCSE English Literature will not be accepted in lieu of GCSE/iGCSE English Language.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05136/baecon-economics-and-finance/all-content/",
+        "checked": "2026-10-20",
+        "evidence": "AAA, including at least one of the following A-Level subjects (preference will be given to applicants studying two of these subjects): ... Geography; Psychology; Classical Civilisation"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on the course page. Applications are assessed on past and predicted grades, the academic reference and the personal statement, and Manchester does not interview for this course.",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05136/baecon-economics-and-finance/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Applications are considered on the basis of an assessment of past and predicted academic achievements, the academic reference and personal statement."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer shown on the course page, for UK applicants who will be under 21 on 1 September of the year they start, live in an area of disadvantage or low progression into higher education, and attended a UK school or college that has performed below the national average over multiple years. Manchester's contextual admissions page says the contextual offer is usually one grade lower than standard for WP Plus applicants and two grades lower for WP Plus PLUS applicants, and only for courses with standard entry requirements of ABB or higher. How each flag maps to the offer on a particular course isn't spelled out.",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05136/baecon-economics-and-finance/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "Typical contextual A-level offer: ABB including specific subjects"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "UK refugee/care-experienced offer, for applicants who have been looked after in care for more than three months, or who have refugee status granted by the UK government (or a UK visa under one of the Ukraine schemes).",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05136/baecon-economics-and-finance/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "UK refugee/care-experienced offer: BBB including specific subjects"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Manchester Access Programme (a Year 12 programme only for students who live or study in Greater Manchester): a reduced offer of up to two A-level grades off the standard entry requirements. Subject-specific grade requirements may still apply and completion does not guarantee entry.",
+          "programme": "Manchester Access Programme (MAP)",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+            "checked": "2026-10-20",
+            "evidence": "Students who complete MAP are eligible for a reduced offer of up to two grades"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Arthur Lewis Assignment (a distance-learning pre-university course for School of Social Sciences offer-holders whose application has a WP or WP Plus flag): a one-grade reduction to the standard entry requirements.",
+          "programme": "The Arthur Lewis Assignment",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/social-sciences-pre-university-course/",
+            "checked": "2026-10-20",
+            "evidence": "a one-grade reduction to the standard entry requirements onto a Social Sciences course at The University of Manchester"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05136/baecon-economics-and-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "notAccepted: the page doesn't say whether General Studies or Critical Thinking are excluded",
+        "admissionsTest: no admissions test is mentioned on the course page, so none is recorded",
+        "competition: Manchester publishes no offer rate or applications per place on this page"
+      ],
+      "notes": "Taught by academics from Alliance Manchester Business School and the School of Social Sciences. No A-level Maths requirement, but GCSE Mathematics grade 6 is needed. The EPQ is not part of the offer conditions (some Schools may consider it in August for applicants who narrowly miss their grades). Three full A-levels are expected; any extra A-levels are not included in the offer."
+    },
+    {
+      "id": "manchester-economics-politics",
+      "name": "Economics and Politics",
+      "degree": "BAEcon",
+      "ucasCode": "LL12",
+      "lengthYears": 3,
+      "lengthNote": "3 years, or 4 years with a Year Abroad (degree title 'with International Study') or a Professional Experience Year (degree title 'with Professional Experience')",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including at least one A-level from Manchester's accepted list (which includes Mathematics, Economics, Geography and Psychology); no single subject is compulsory",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05137/baecon-economics-and-politics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Typical A-level offer: AAA including specific subjects"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "minGrade": null,
+          "note": "AAA must include at least one A-level from Manchester's accepted list (no single subject is compulsory; Mathematics, Economics, Geography and Psychology are all on it)"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "note": "Preference will be given to applicants studying two of these subjects. Official list: Accounting; Economics; Finance; Business Studies; Development Studies; Government and Politics; Economic and Social History; Mathematics; Anthropology; Sociology; Philosophy; Religious Studies; English Language; English Literature; Geography; Psychology; Classical Civilisation; History; Archaeology; Communication Studies; Environmental Studies; World Development; Biology; Chemistry; Physics; Modern Languages."
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4; GCSE English Literature is not accepted instead"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade B or 6"
+        }
+      ],
+      "gcseText": "Applicants must demonstrate a broad general education including acceptable levels of Literacy and Numeracy, equivalent to at least Grade C or 4 in GCSE/iGCSE English Language and Grade B or 6 in GCSE/iGCSE Mathematics. GCSE/iGCSE English Literature will not be accepted in lieu of GCSE/iGCSE English Language.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05137/baecon-economics-and-politics/all-content/",
+        "checked": "2026-10-20",
+        "evidence": "AAA, including at least one of the following A-Level subjects (preference will be given to applicants studying two of these subjects): ... Geography; Psychology; Classical Civilisation"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on the course page. Applications are assessed on past and predicted grades, the academic reference and the personal statement, and Manchester does not interview for this course.",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05137/baecon-economics-and-politics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Applications are considered on the basis of an assessment of past and predicted academic achievements, the academic reference and personal statement."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer shown on the course page, for UK applicants who will be under 21 on 1 September of the year they start, live in an area of disadvantage or low progression into higher education, and attended a UK school or college that has performed below the national average over multiple years. Manchester's contextual admissions page says the contextual offer is usually one grade lower than standard for WP Plus applicants and two grades lower for WP Plus PLUS applicants, and only for courses with standard entry requirements of ABB or higher. How each flag maps to the offer on a particular course isn't spelled out.",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05137/baecon-economics-and-politics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "Typical contextual A-level offer: ABB including specific subjects"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "UK refugee/care-experienced offer, for applicants who have been looked after in care for more than three months, or who have refugee status granted by the UK government (or a UK visa under one of the Ukraine schemes).",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05137/baecon-economics-and-politics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "UK refugee/care-experienced offer: BBB including specific subjects"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Manchester Access Programme (a Year 12 programme only for students who live or study in Greater Manchester): a reduced offer of up to two A-level grades off the standard entry requirements. Subject-specific grade requirements may still apply and completion does not guarantee entry.",
+          "programme": "Manchester Access Programme (MAP)",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+            "checked": "2026-10-20",
+            "evidence": "Students who complete MAP are eligible for a reduced offer of up to two grades"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Arthur Lewis Assignment (a distance-learning pre-university course for School of Social Sciences offer-holders whose application has a WP or WP Plus flag): a one-grade reduction to the standard entry requirements.",
+          "programme": "The Arthur Lewis Assignment",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/social-sciences-pre-university-course/",
+            "checked": "2026-10-20",
+            "evidence": "a one-grade reduction to the standard entry requirements onto a Social Sciences course at The University of Manchester"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05137/baecon-economics-and-politics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "notAccepted: the page doesn't say whether General Studies or Critical Thinking are excluded",
+        "admissionsTest: no admissions test is mentioned on the course page, so none is recorded",
+        "competition: Manchester publishes no offer rate or applications per place on this page"
+      ],
+      "notes": "No A-level Maths requirement, but GCSE Mathematics grade 6 is needed. The EPQ is not part of the offer conditions (some Schools may consider it in August for applicants who narrowly miss their grades). Three full A-levels are expected; any extra A-levels are not included in the offer."
+    },
+    {
+      "id": "manchester-ppe",
+      "name": "Politics, Philosophy and Economics (PPE)",
+      "degree": "BA",
+      "ucasCode": "LV25",
+      "lengthYears": 3,
+      "lengthNote": "3 years, or 4 years with a year abroad or a professional placement (optional four-year course)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including at least one A-level from Manchester's accepted list (which includes Mathematics, Economics, Geography and Psychology); no single subject is compulsory",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00154/ba-politics-philosophy-and-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Typical A-level offer: AAA"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "minGrade": null,
+          "note": "AAA must include at least one A-level from Manchester's accepted list (no single subject is compulsory; Mathematics, Economics, Geography and Psychology are all on it)"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "note": "Preference will be given to applicants studying two of these subjects. Official list: Accounting; Economics; Finance; Business Studies; Development Studies; Government and Politics; Economic and Social History; Mathematics; Anthropology; Sociology; Philosophy; Religious Studies; English Language; English Literature; Geography; Psychology; Classical Civilisation; History; Archaeology; Communication Studies; Environmental Studies; World Development; Biology; Chemistry; Physics; Modern Languages."
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "6",
+          "note": "Grade 6 or B; GCSE English Literature is not accepted instead"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6 or B"
+        }
+      ],
+      "gcseText": "Applicants must demonstrate a broad general education including acceptable levels of Literacy and Numeracy, equivalent to at least Grade 6 or B in GCSE/IGCSE English Language and Mathematics. GCSE/IGCSE English Literature will not be accepted in lieu of GCSE/IGCSE English Language.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00154/ba-politics-philosophy-and-economics/all-content/",
+        "checked": "2026-10-20",
+        "evidence": "AAA, including at least one of the following A-Level subjects (preference will be given to applicants studying two of these subjects): ... Geography; Psychology; Classical Civilisation"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on the course page. Applications are assessed on past and predicted grades, the academic reference and the personal statement, and Manchester does not interview for this course.",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00154/ba-politics-philosophy-and-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Applications are considered on the basis of an assessment of past and predicted academic achievements, the academic reference and personal statement."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer shown on the course page, for UK applicants who will be under 21 on 1 September of the year they start, live in an area of disadvantage or low progression into higher education, and attended a UK school or college that has performed below the national average over multiple years. Manchester's contextual admissions page says the contextual offer is usually one grade lower than standard for WP Plus applicants and two grades lower for WP Plus PLUS applicants, and only for courses with standard entry requirements of ABB or higher. How each flag maps to the offer on a particular course isn't spelled out.",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00154/ba-politics-philosophy-and-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "Typical contextual A-level offer: ABB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "UK refugee/care-experienced offer, for applicants who have been looked after in care for more than three months, or who have refugee status granted by the UK government (or a UK visa under one of the Ukraine schemes).",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00154/ba-politics-philosophy-and-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "UK refugee/care-experienced offer: BBB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Manchester Access Programme (a Year 12 programme only for students who live or study in Greater Manchester): a reduced offer of up to two A-level grades off the standard entry requirements. Subject-specific grade requirements may still apply and completion does not guarantee entry.",
+          "programme": "Manchester Access Programme (MAP)",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+            "checked": "2026-10-20",
+            "evidence": "Students who complete MAP are eligible for a reduced offer of up to two grades"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Arthur Lewis Assignment (a distance-learning pre-university course for School of Social Sciences offer-holders whose application has a WP or WP Plus flag): a one-grade reduction to the standard entry requirements.",
+          "programme": "The Arthur Lewis Assignment",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/social-sciences-pre-university-course/",
+            "checked": "2026-10-20",
+            "evidence": "a one-grade reduction to the standard entry requirements onto a Social Sciences course at The University of Manchester"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/00154/ba-politics-philosophy-and-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "notAccepted: the page doesn't say whether General Studies or Critical Thinking are excluded",
+        "admissionsTest: no admissions test is mentioned on the course page, so none is recorded",
+        "competition: Manchester publishes no offer rate or applications per place on this page"
+      ],
+      "notes": "GCSE English Language and Mathematics at grade 6 are both needed (a higher GCSE bar than the BAEcon degrees). A year abroad and a professional placement are optional on a four-year route. The EPQ is not part of the offer conditions (some Schools may consider it in August for applicants who narrowly miss their grades). Three full A-levels are expected; any extra A-levels are not included in the offer."
+    },
+    {
+      "id": "manchester-data-science-economics",
+      "name": "Data Science and Economics",
+      "degree": "BAEcon",
+      "ucasCode": "LL15",
+      "lengthYears": 3,
+      "lengthNote": "3 years, or 4 years with a Year Abroad (degree title 'with International Study') or a Professional Experience Year (degree title 'with Professional Experience')",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including at least one A-level from Manchester's accepted list (which includes Mathematics, Economics, Geography and Psychology); no single subject is compulsory",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21873/baecon-data-science-and-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Typical A-level offer: AAA including specific subjects"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "minGrade": null,
+          "note": "AAA must include at least one A-level from Manchester's accepted list (no single subject is compulsory; Mathematics, Economics, Geography and Psychology are all on it)"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "note": "Preference will be given to applicants studying two of these subjects. Official list: Accounting; Economics; Finance; Business Studies; Development Studies; Government and Politics; Economic and Social History; Mathematics; Anthropology; Sociology; Philosophy; Religious Studies; English Language; English Literature; Geography; Psychology; Classical Civilisation; History; Archaeology; Communication Studies; Environmental Studies; World Development; Biology; Chemistry; Physics; Modern Languages."
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4; GCSE English Literature is not accepted instead"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade B or 6"
+        }
+      ],
+      "gcseText": "Applicants must demonstrate a broad general education including acceptable levels of Literacy and Numeracy, equivalent to at least Grade 4 or C in GCSE/IGCSE English Language and Grade 6 or B in Mathematics. GCSE/IGCSE English Literature will not be accepted in lieu of GCSE/IGCSE English Language.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21873/baecon-data-science-and-economics/all-content/",
+        "checked": "2026-10-20",
+        "evidence": "AAA, including at least one of the following A-Level subjects (preference will be given to applicants studying two of these subjects): ... Geography; Psychology; Classical Civilisation"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on the course page (it also doesn't mention an interview).",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21873/baecon-data-science-and-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Typical A-level offer: AAA including specific subjects"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer shown on the course page, for UK applicants who will be under 21 on 1 September of the year they start, live in an area of disadvantage or low progression into higher education, and attended a UK school or college that has performed below the national average over multiple years. Manchester's contextual admissions page says the contextual offer is usually one grade lower than standard for WP Plus applicants and two grades lower for WP Plus PLUS applicants, and only for courses with standard entry requirements of ABB or higher. How each flag maps to the offer on a particular course isn't spelled out.",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21873/baecon-data-science-and-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "Typical contextual A-level offer: ABB including specific subjects"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "UK refugee/care-experienced offer, for applicants who have been looked after in care for more than three months, or who have refugee status granted by the UK government (or a UK visa under one of the Ukraine schemes).",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21873/baecon-data-science-and-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "UK refugee/care-experienced offer: BBB including specific subjects"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Manchester Access Programme (a Year 12 programme only for students who live or study in Greater Manchester): a reduced offer of up to two A-level grades off the standard entry requirements. Subject-specific grade requirements may still apply and completion does not guarantee entry.",
+          "programme": "Manchester Access Programme (MAP)",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+            "checked": "2026-10-20",
+            "evidence": "Students who complete MAP are eligible for a reduced offer of up to two grades"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Arthur Lewis Assignment (a distance-learning pre-university course for School of Social Sciences offer-holders whose application has a WP or WP Plus flag): a one-grade reduction to the standard entry requirements.",
+          "programme": "The Arthur Lewis Assignment",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/social-sciences-pre-university-course/",
+            "checked": "2026-10-20",
+            "evidence": "a one-grade reduction to the standard entry requirements onto a Social Sciences course at The University of Manchester"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/21873/baecon-data-science-and-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "notAccepted: the page doesn't say whether General Studies or Critical Thinking are excluded",
+        "admissionsTest: no admissions test is mentioned on the course page, so none is recorded",
+        "competition: Manchester publishes no offer rate or applications per place on this page",
+        "admissionsTest: the page doesn't mention an admissions test or an interview; none is recorded"
+      ],
+      "notes": "Combines economics with data science (programming workshops in Python and R). No A-level Maths requirement and Further Mathematics is not mentioned, but GCSE Mathematics grade 6 is needed. The EPQ is not part of the offer conditions (some Schools may consider it in August for applicants who narrowly miss their grades). Three full A-levels are expected; any extra A-levels are not included in the offer."
+    },
+    {
+      "id": "manchester-international-business-finance-economics",
+      "name": "International Business, Finance and Economics",
+      "degree": "BSc",
+      "ucasCode": "N1N3",
+      "lengthYears": 3,
+      "lengthNote": "3 years full-time; a 4-year version with Industrial/Professional Experience is listed as a separate course",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "business-economics",
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA; no specific subjects are required (Alliance Manchester Business School may prioritise applicants by the number of preferred subjects they study)",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09224/bsc-international-business-finance-and-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Typical A-level offer: AAA"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Business",
+            "Economics",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Politics",
+            "Law",
+            "Mathematics",
+            "Further Mathematics",
+            "Psychology",
+            "Sociology",
+            "Statistics"
+          ],
+          "note": "Preferred subjects (applicants may be prioritised by how many they study): Accounting, Business Studies, Economics, English Language/Literature, Geography, Government and Politics, Law, Mathematics/Further Mathematics, Politics, Psychology, Quantitative Methods, Sociology and Statistics"
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "6",
+          "note": "Grade 6 or B; GCSE English Literature is not accepted instead"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6 or B"
+        }
+      ],
+      "gcseText": "Applicants must demonstrate a broad general education including acceptable levels of Literacy and Numeracy, equivalent to at least Grade 6 or B in GCSE/IGCSE English Language and Mathematics. GCSE/IGCSE English Literature will not be accepted in lieu of GCSE/IGCSE English Language.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09224/bsc-international-business-finance-and-economics/all-content/",
+        "checked": "2026-10-20",
+        "evidence": "We will consider the subjects you have taken in addition to your individual grades. ... Geography, Government and Politics, Law, Mathematics/Further Mathematics, Politics, Psychology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on the course page. Manchester does not, as a rule, interview applicants (it reserves the right to interview some, for example mature students).",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09224/bsc-international-business-finance-and-economics/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "We do not as a rule interview applicants."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer shown on the course page, for UK applicants who will be under 21 on 1 September of the year they start, live in an area of disadvantage or low progression into higher education, and attended a UK school or college that has performed below the national average over multiple years. Manchester's contextual admissions page says the contextual offer is usually one grade lower than standard for WP Plus applicants and two grades lower for WP Plus PLUS applicants, and only for courses with standard entry requirements of ABB or higher. How each flag maps to the offer on a particular course isn't spelled out. The course page's entry-requirements section gives the contextual offer as a range, AAB-BBB.",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09224/bsc-international-business-finance-and-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "Typical contextual A-level offer: ABB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "UK refugee/care-experienced offer, for applicants who have been looked after in care for more than three months, or who have refugee status granted by the UK government (or a UK visa under one of the Ukraine schemes).",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09224/bsc-international-business-finance-and-economics/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "UK refugee/care-experienced offer: BBB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Manchester Access Programme (a Year 12 programme only for students who live or study in Greater Manchester): a reduced offer of up to two A-level grades off the standard entry requirements. Subject-specific grade requirements may still apply and completion does not guarantee entry.",
+          "programme": "Manchester Access Programme (MAP)",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+            "checked": "2026-10-20",
+            "evidence": "Students who complete MAP are eligible for a reduced offer of up to two grades"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Manchester Distance Access Scheme (an online pre-university scheme for offer-holders who live in a low-progression or less advantaged area, are under 21, have not attended an independent or fee-paying school and make Manchester their firm choice): an offer one A-level grade below the standard offer (for example AAA becomes AAB). Offers are decided by the academic School.",
+          "programme": "Manchester Distance Access Scheme (MDAS)",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/manchester-distance-access-scheme/",
+            "checked": "2026-10-20",
+            "evidence": "You'll receive an offer of one A-level grade below the standard offer for your course at the University"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/09224/bsc-international-business-finance-and-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "notAccepted: the page doesn't say whether General Studies or Critical Thinking are excluded",
+        "admissionsTest: no admissions test is mentioned on the course page, so none is recorded",
+        "competition: Manchester publishes no offer rate or applications per place on this page",
+        "alternativeOffers: the course page header gives the contextual offer as ABB and the refugee/care-experienced offer as BBB, but its entry-requirements section gives both as AAB-BBB; the header values are used",
+        "alternativeOffers: the MDAS page lists this course under its 2026-entry courses; a 2028-entry list isn't published",
+        "options.yearAbroad: the course page doesn't mention a year abroad (it offers optional language units in years 2 and 3)",
+        "subjectRequirements: none are listed; preferred subjects only"
+      ],
+      "notes": "Taught by Alliance Manchester Business School together with the School of Social Sciences, so the Social Sciences Arthur Lewis Assignment does not apply; the Manchester Distance Access Scheme does. The A-level offer is AAA with no required subject. Alliance Manchester Business School does not issue offers on grade A* as standard practice. The EPQ is not part of the offer conditions (some Schools may consider it in August for applicants who narrowly miss their grades). Three full A-levels are expected; any extra A-levels are not included in the offer."
+    },
+    {
+      "id": "manchester-finance",
+      "name": "Finance",
+      "degree": "BAEcon",
+      "ucasCode": "N300",
+      "lengthYears": 3,
+      "lengthNote": "3 years, or 4 years with a Year Abroad (degree title 'with International Study') or a Professional Experience Year (degree title 'with Professional Experience')",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including at least one A-level from Manchester's accepted list (which includes Mathematics, Economics, Geography and Psychology); no single subject is compulsory",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05153/baecon-finance/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Typical A-level offer: AAA including specific subjects"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "minGrade": null,
+          "note": "AAA must include at least one A-level from Manchester's accepted list (no single subject is compulsory; Mathematics, Economics, Geography and Psychology are all on it)"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Economics",
+            "Business",
+            "Politics",
+            "Mathematics",
+            "Sociology",
+            "Philosophy",
+            "Religious Studies",
+            "English Language",
+            "English Literature",
+            "Geography",
+            "Psychology",
+            "Classical Civilisation",
+            "History",
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Arabic",
+            "Chinese",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Russian",
+            "Spanish",
+            "Urdu"
+          ],
+          "note": "Preference will be given to applicants studying two of these subjects. Official list: Accounting; Economics; Finance; Business Studies; Development Studies; Government and Politics; Economic and Social History; Mathematics; Anthropology; Sociology; Philosophy; Religious Studies; English Language; English Literature; Geography; Psychology; Classical Civilisation; History; Archaeology; Communication Studies; Environmental Studies; World Development; Biology; Chemistry; Physics; Modern Languages."
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C or 4; GCSE English Literature is not accepted instead"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade B or 6"
+        }
+      ],
+      "gcseText": "Applicants must demonstrate a broad general education including acceptable levels of Literacy and Numeracy, equivalent to at least Grade C or 4 in GCSE/iGCSE English Language and Grade B or 6 in GCSE/iGCSE Mathematics. GCSE/iGCSE English Literature will not be accepted in lieu of GCSE/iGCSE English Language.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05153/baecon-finance/all-content/",
+        "checked": "2026-10-20",
+        "evidence": "AAA, including at least one of the following A-Level subjects (preference will be given to applicants studying two of these subjects): ... Geography; Psychology; Classical Civilisation"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned on the course page. Applications are assessed on past and predicted grades, the academic reference and the personal statement, and Manchester does not interview for this course.",
+        "source": {
+          "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05153/baecon-finance/all-content/",
+          "checked": "2026-10-20",
+          "evidence": "Applications are considered on the basis of an assessment of past and predicted academic achievements, the academic reference and personal statement."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer shown on the course page, for UK applicants who will be under 21 on 1 September of the year they start, live in an area of disadvantage or low progression into higher education, and attended a UK school or college that has performed below the national average over multiple years. Manchester's contextual admissions page says the contextual offer is usually one grade lower than standard for WP Plus applicants and two grades lower for WP Plus PLUS applicants, and only for courses with standard entry requirements of ABB or higher. How each flag maps to the offer on a particular course isn't spelled out.",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05153/baecon-finance/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "Typical contextual A-level offer: ABB including specific subjects"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "UK refugee/care-experienced offer, for applicants who have been looked after in care for more than three months, or who have refugee status granted by the UK government (or a UK visa under one of the Ukraine schemes).",
+          "programme": null,
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05153/baecon-finance/all-content/",
+            "checked": "2026-10-20",
+            "evidence": "UK refugee/care-experienced offer: BBB including specific subjects"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Manchester Access Programme (a Year 12 programme only for students who live or study in Greater Manchester): a reduced offer of up to two A-level grades off the standard entry requirements. Subject-specific grade requirements may still apply and completion does not guarantee entry.",
+          "programme": "Manchester Access Programme (MAP)",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/map/",
+            "checked": "2026-10-20",
+            "evidence": "Students who complete MAP are eligible for a reduced offer of up to two grades"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Arthur Lewis Assignment (a distance-learning pre-university course for School of Social Sciences offer-holders whose application has a WP or WP Plus flag): a one-grade reduction to the standard entry requirements.",
+          "programme": "The Arthur Lewis Assignment",
+          "source": {
+            "url": "https://www.manchester.ac.uk/study/undergraduate/widening-participation/social-sciences-pre-university-course/",
+            "checked": "2026-10-20",
+            "evidence": "a one-grade reduction to the standard entry requirements onto a Social Sciences course at The University of Manchester"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.manchester.ac.uk/study/undergraduate/courses/2027/05153/baecon-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "notAccepted: the page doesn't say whether General Studies or Critical Thinking are excluded",
+        "admissionsTest: no admissions test is mentioned on the course page, so none is recorded",
+        "competition: Manchester publishes no offer rate or applications per place on this page"
+      ],
+      "notes": "Finance and accounting units are taught by Alliance Manchester Business School academics alongside the School of Social Sciences. No A-level Maths requirement, but GCSE Mathematics grade 6 is needed. The EPQ is not part of the offer conditions (some Schools may consider it in August for applicants who narrowly miss their grades). Three full A-levels are expected; any extra A-levels are not included in the offer."
+    }
+  ],
+  "notes": [
+    "Entry year: Manchester has not published 2028-entry courses (its 2028 courses page returns 'File not found'), so every course uses the 2027-entry pages.",
+    "Two routes into Economics: the BSc Economics (L102) needs A-level Mathematics; the BAEcon (BA) degrees (Economics L100, Economics and Finance, Economics and Politics, Data Science and Economics, Finance) and PPE need AAA including at least one A-level from a long accepted list (Mathematics, Economics, Geography, Psychology and many others), with GCSE Maths grade 6.",
+    "No admissions tests are mentioned and the Social Sciences course pages say Manchester does not interview. The EPQ is not part of offer conditions.",
+    "Manchester expects three full A-levels; A-levels beyond three are not included in the offer.",
+    "Alliance Manchester Business School (International Business, Finance and Economics) does not issue offers on grade A* as standard practice.",
+    "Access offers: the Manchester Access Programme (up to two grades off) is only for Year 12 students who live or study in Greater Manchester; the Arthur Lewis Assignment (one grade off) is for Social Sciences offer-holders with a WP or WP Plus flag; the Manchester Distance Access Scheme (one grade off) is for offer-holders on other schools' courses such as International Business, Finance and Economics.",
+    "Fees: £10,050 is the home fee stated for students starting in September 2027."
+  ],
+  "notConfirmed": [
+    "entryYear: no 2028-entry course pages are published yet, so 2027 entry is used for every course",
+    "openDays: no in-person undergraduate open day dates are listed on the official page yet (only the online mini virtual open day, 16-20 November 2026)",
+    "contextual: course pages give one contextual offer (for example ABB) for applicants who live in a disadvantaged area and attended a below-average school, but the contextual page says WP Plus is usually one grade lower and WP Plus PLUS two grades lower, and counts free school meals on its own as WP Plus; how each flag maps to a course's offer isn't spelled out",
+    "contextual: the 2027-cycle eligibility checker is an interactive form and can't be read; criteria are taken from the 'Contextual flags and your data' page",
+    "livingCosts: the 2026/27 estimate is used (the 2027/28 one isn't published); the page's total gives two figures, £14,840 and £15,030 if self-catered",
+    "fees: the course pages give a £10,050 fee for September 2027 starters; the fee for September 2028 entry isn't published (the UK student finance page still shows £9,790 for 2026 entry)",
+    "competition: Manchester publishes no offer rate or applications per place for these courses on the pages checked",
+    "ucas: UCAS course pages were not checked, so no UCAS links are recorded",
+    "programmes: no Year 12 Economics taster or summer school was found on the cached widening participation pages (only MAP, the Arthur Lewis Assignment and MDAS)"
+  ]
+}

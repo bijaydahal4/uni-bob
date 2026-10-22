@@ -1,0 +1,18 @@
+# Local working files (never published)
+PROGRESS.md
+research/tmp/
+research/raw/*.html
+research/link-report.md
+research/verify/
+research/cache/
+research/packets/
+research/status.json
+research/audit-*.json
+research/v4-start.txt
+research/v5-start.txt
+.venv/
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+.tools/

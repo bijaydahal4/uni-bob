@@ -1,0 +1,306 @@
+[
+ {
+  "rank": "1",
+  "name": "University of Cambridge"
+ },
+ {
+  "rank": "2",
+  "name": "University of Warwick"
+ },
+ {
+  "rank": "3",
+  "name": "University of Oxford"
+ },
+ {
+  "rank": "4",
+  "name": "London School of Economics and Political Science, University of London"
+ },
+ {
+  "rank": "5",
+  "name": "Durham University"
+ },
+ {
+  "rank": "6",
+  "name": "University of St Andrews"
+ },
+ {
+  "rank": "7",
+  "name": "UCL (University College London)"
+ },
+ {
+  "rank": "8",
+  "name": "University of Bath"
+ },
+ {
+  "rank": "9",
+  "name": "University of Exeter"
+ },
+ {
+  "rank": "10",
+  "name": "King's College London, University of London"
+ },
+ {
+  "rank": "11",
+  "name": "University of Nottingham"
+ },
+ {
+  "rank": "12",
+  "name": "University of Birmingham"
+ },
+ {
+  "rank": "13",
+  "name": "University of Bristol"
+ },
+ {
+  "rank": "14",
+  "name": "The University of Edinburgh"
+ },
+ {
+  "rank": "15",
+  "name": "University of Leeds"
+ },
+ {
+  "rank": "16",
+  "name": "Lancaster University"
+ },
+ {
+  "rank": "17",
+  "name": "Loughborough University"
+ },
+ {
+  "rank": "18",
+  "name": "University of Sheffield"
+ },
+ {
+  "rank": "19",
+  "name": "University of Glasgow"
+ },
+ {
+  "rank": "20",
+  "name": "University of Strathclyde"
+ },
+ {
+  "rank": "21",
+  "name": "University of Manchester"
+ },
+ {
+  "rank": "22",
+  "name": "Cardiff University"
+ },
+ {
+  "rank": "23",
+  "name": "University of York"
+ },
+ {
+  "rank": "24",
+  "name": "University of Southampton"
+ },
+ {
+  "rank": "25",
+  "name": "Queen's University Belfast"
+ },
+ {
+  "rank": "26",
+  "name": "Aston University, Birmingham"
+ },
+ {
+  "rank": "27",
+  "name": "University of Liverpool"
+ },
+ {
+  "rank": "28",
+  "name": "University of Surrey"
+ },
+ {
+  "rank": "29",
+  "name": "Queen Mary University of London"
+ },
+ {
+  "rank": "30",
+  "name": "University of East Anglia UEA"
+ },
+ {
+  "rank": "31",
+  "name": "Newcastle University"
+ },
+ {
+  "rank": "32",
+  "name": "Heriot-Watt University"
+ },
+ {
+  "rank": "33",
+  "name": "University of Stirling"
+ },
+ {
+  "rank": "34",
+  "name": "University of Dundee"
+ },
+ {
+  "rank": "35",
+  "name": "University of Leicester"
+ },
+ {
+  "rank": "36",
+  "name": "Swansea University"
+ },
+ {
+  "rank": "37",
+  "name": "Royal Holloway, University of London"
+ },
+ {
+  "rank": "38",
+  "name": "University of Plymouth"
+ },
+ {
+  "rank": "39",
+  "name": "University of Reading"
+ },
+ {
+  "rank": "40",
+  "name": "Ulster University"
+ },
+ {
+  "rank": "41",
+  "name": "University of Huddersfield"
+ },
+ {
+  "rank": "42",
+  "name": "University of Aberdeen"
+ },
+ {
+  "rank": "43",
+  "name": "University of Sussex"
+ },
+ {
+  "rank": "44",
+  "name": "University of Brighton"
+ },
+ {
+  "rank": "45",
+  "name": "University of Kent"
+ },
+ {
+  "rank": "46",
+  "name": "City St George's, University of London"
+ },
+ {
+  "rank": "47",
+  "name": "Nottingham Trent University"
+ },
+ {
+  "rank": "48",
+  "name": "Bournemouth University"
+ },
+ {
+  "rank": "49",
+  "name": "SOAS University of London"
+ },
+ {
+  "rank": "50",
+  "name": "University of Essex"
+ },
+ {
+  "rank": "51",
+  "name": "Oxford Brookes University"
+ },
+ {
+  "rank": "52",
+  "name": "University of Derby"
+ },
+ {
+  "rank": "53",
+  "name": "Cardiff Metropolitan University"
+ },
+ {
+  "rank": "54",
+  "name": "Keele University"
+ },
+ {
+  "rank": "55",
+  "name": "University of Bradford"
+ },
+ {
+  "rank": "56",
+  "name": "Manchester Metropolitan University"
+ },
+ {
+  "rank": "57",
+  "name": "Sheffield Hallam University"
+ },
+ {
+  "rank": "58",
+  "name": "University of Portsmouth"
+ },
+ {
+  "rank": "59",
+  "name": "University of Lincoln"
+ },
+ {
+  "rank": "60",
+  "name": "Kingston University"
+ },
+ {
+  "rank": "61",
+  "name": "Aberystwyth University"
+ },
+ {
+  "rank": "62",
+  "name": "Bristol, UWE"
+ },
+ {
+  "rank": "63",
+  "name": "Brunel University of London"
+ },
+ {
+  "rank": "64",
+  "name": "University of Hertfordshire"
+ },
+ {
+  "rank": "65",
+  "name": "University of Greenwich"
+ },
+ {
+  "rank": "66",
+  "name": "Coventry University"
+ },
+ {
+  "rank": "67",
+  "name": "University of Westminster, London"
+ },
+ {
+  "rank": "68",
+  "name": "De Montfort University"
+ },
+ {
+  "rank": "69",
+  "name": "Leeds Beckett University"
+ },
+ {
+  "rank": "70",
+  "name": "Birmingham City University"
+ },
+ {
+  "rank": "71",
+  "name": "London Metropolitan University"
+ },
+ {
+  "rank": "72",
+  "name": "Northumbria University, Newcastle"
+ },
+ {
+  "rank": "73",
+  "name": "Middlesex University"
+ },
+ {
+  "rank": "74",
+  "name": "University of Roehampton"
+ },
+ {
+  "rank": "75",
+  "name": "Goldsmiths, University of London"
+ },
+ {
+  "rank": "76",
+  "name": "London South Bank University"
+ }
+]

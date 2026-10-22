@@ -1,0 +1,1147 @@
+{
+ "id": "reading",
+ "name": "University of Reading",
+ "shortName": "Reading",
+ "aliases": [
+  "Reading",
+  "Reading Uni",
+  "Uni of Reading",
+  "UoR",
+  "University of Reading"
+ ],
+ "city": "Reading",
+ "region": "South East",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/geography-ug/bsc-geography-and-economics-regional-science",
+  "checked": "2026-10-20",
+  "evidence": "Our beautiful Whiteknights campus is the hub of University of Reading life."
+ },
+ "location": {
+  "postcode": "RG6 6UR",
+  "postcodeSource": "https://www.reading.ac.uk/about/visit-us",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/RG66UR",
+  "checked": "2026-10-20"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (home) students starting in 2027 (2027/28). Reading says the home fee is subject to annual increases in later years of study.",
+  "source": {
+   "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-economics",
+   "checked": "2026-10-20",
+   "evidence": "The home tuition fee for 2027 entry is £10,050."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 166.32,
+  "amountHigh": 364.7,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University halls cost about £166-£365 a week in 2026/27, depending on room type: standard rooms £166.32-£234.85, upgraded £180.39-£244.23, premium £194.88, townhouse £213.57-£220.15, en suite £217.07-£295.33, flats £285.11-£364.70 (flats are often chosen by families and postgraduates but are also open to undergraduates).",
+  "source": {
+   "url": "https://www.reading.ac.uk/ready-to-study/accommodation/room-types",
+   "checked": "2026-10-20",
+   "evidence": "2026/27 price per week: £166.32–£234.85"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "Undergraduate Open Day (Whiteknights campus)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open day: Saturday 7 November 2026 (the page does not print the year; 7 November is a Saturday in 2026). Later dates not announced yet.",
+  "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/opendays",
+  "source": {
+   "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/opendays",
+   "checked": "2026-10-20",
+   "evidence": "Saturday 7 November"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Applicants who meet at least one of Reading's contextual criteria (for example a low-participation or deprived postcode, a declared disability, care experience, or taking part in Reading Scholars) get an offer typically two grades lower.",
+  "typicalReduction": "Typically two grades lower than the top end of the published grade range (for example ABB becomes BBC); one grade lower again if you are taking an EPQ.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Live in an area with low participation in higher education (POLAR quintiles 1 and 2). You must be classed as a 'Home' student and have the correct Postal/Home postcode on your UCAS form. The page does not say which POLAR version.",
+    "measure": "other",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Live in an area with high levels of deprivation (IMD quintiles 1 and 2). You must be classed as a 'Home' student and have the correct Postal/Home postcode on your UCAS form.",
+    "measure": "IMD",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Have declared a disability on your UCAS form (choose the most appropriate option from the disability list).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "access",
+    "detail": "Took part in Reading's Reading Scholars programme (contact outreach@reading.ac.uk for details).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Care experienced (select this category on your UCAS form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Refugees or asylum seekers (select this category on your UCAS form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged from your family (select this category on your UCAS form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Young carer: responsible for unpaid care for a family member, partner or friend who could not cope without your support; you must be 25 or under.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Child of a military family (service child): a parent or guardian currently serving in the UK Regular Armed Forces or as a reservist, or who has done so at any point in the first 25 years of your life; you must be 25 or under.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "Contextual offers go to applicants who meet at least one of the listed criteria. The offer applies whether Reading is your firm or insurance choice, and you still need any subject-specific and GCSE requirements. If you are also taking an EPQ the contextual offer is lowered by one more grade (for example BBB becomes BBC). No contextual offers are made for programmes with a Foundation Year.",
+  "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+  "source": {
+   "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+   "checked": "2026-10-20",
+   "evidence": "That is why we make contextual offers to applicants who meet at least one of the following criteria:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "reading-scholars",
+   "name": "Reading Scholars",
+   "provider": "University of Reading",
+   "providerType": "university",
+   "uniIds": [
+    "reading"
+   ],
+   "summary": "Free Year 12 programme (on-campus days, a 4-day residential and online mentoring) giving a taste of university life; if you complete it and apply to Reading you are guaranteed an interview or a conditional offer, usually two grades lower.",
+   "whoCanApply": "Year 12 students with at least five GCSEs at grade 4 or above including Maths, English and Science, on course for good A-level (or equivalent) grades. The programme is targeted at priority groups (for example living in a low progression postcode area, or care experienced). Some subject strands need specific A-levels.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "area",
+    "care"
+   ],
+   "eligibilityDetail": "Targeted at students in Reading's priority groups, for example living in a low progression postcode area or Looked After/Care Experienced. The full selection criteria are in a Word document linked from the page, which could not be read.",
+   "benefits": [
+    "All costs covered in advance (transport, lunch, refreshments and accommodation for on-campus events)",
+    "Guaranteed invitation to interview or conditional offer if you apply to Reading",
+    "A two grade drop on your offer for most courses",
+    "You can apply for a £1,000 Reading Scholars bursary in your first year if Reading is your first choice"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "reading"
+   ],
+   "offerReduction": "a two grade drop on their offer for most courses",
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "Subject strands in 2026 included Business and Philosophy, Politics and Economics (no stand-alone Economics strand), plus Law, Psychology, History and others",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Expected March to July 2027, based on the 2026 programme: two one-day events (March and April), a 4-day residential in July and online e-mentoring throughout",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published for 2027 (applications for 2026 have closed)",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published for 2027",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026 programme (applications for 2026 have closed). 2027 programme details have not been announced yet.",
+   "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+   "source": {
+    "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+    "checked": "2026-10-20",
+    "evidence": "are guaranteed to receive either an invitation to interview or a conditional offer, and a two grade drop on their offer for most courses."
+   },
+   "notConfirmed": [
+    "2027 dates, opening date and application deadline not announced",
+    "Full selection criteria are in a Word document (Reading-Scholars-Eligibility-2026.docx) that could not be read",
+    "Which courses are excluded from the 'two grade drop' is not stated ('for most courses')"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.reading.ac.uk/",
+  "courses": "https://www.reading.ac.uk/ready-to-study/study",
+  "economics": "https://www.reading.ac.uk/economics/",
+  "openDays": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/opendays",
+  "fees": "https://www.reading.ac.uk/ready-to-study/study/Fees-and-funding/fees-and-funding-ug",
+  "contextual": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+  "accommodation": "https://www.reading.ac.uk/ready-to-study/accommodation/room-types"
+ },
+ "courses": [
+  {
+   "id": "reading-economics",
+   "name": "Economics",
+   "degree": "BSc",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year BSc Economics with a Placement Year (integrated professional placement between years 2 and 3), listed as a separate course",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB (Mathematics is a preferred subject, but not essential)",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-economics",
+     "checked": "2026-10-20",
+     "evidence": "ABB (Mathematics is a preferred subject, but not essential)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "note": "Mathematics is a preferred subject, but not essential. The page does not mention Further Mathematics."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Grade A (or 7)"
+    }
+   ],
+   "gcseText": "Mathematics at grade A (or 7)",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-economics",
+    "checked": "2026-10-20",
+    "evidence": "ABB (Mathematics is a preferred subject, but not essential)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Reading is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-economics",
+     "checked": "2026-10-20",
+     "evidence": "Our typical offers are expressed in terms of A level, BTEC and International Baccalaureate requirements"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Automatic if you meet at least one of Reading's contextual criteria (see the contextual admissions page). Typically two grades lower than the top end of the published grade range (ABB becomes BBC); one grade lower again (BCC) if you also take an EPQ.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "For example, if the typical offer is ABB, you will receive a contextual offer of BBC."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "If you take an EPQ you receive two offers: the standard offer and an alternative offer one grade lower in your A-level subjects (ABB becomes BBB) on the condition that you achieve a B in your EPQ. The course page says this course counts the EPQ as part of a formal offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "an alternative offer of one grade lower in your A-Level subjects on the condition that you achieve a B in your EPQ."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you complete the Reading Scholars programme (Year 12) and then apply to Reading you are guaranteed an interview invitation or a conditional offer, and a two grade drop on your offer for most courses (Reading does not say which courses are excluded). Reading Scholars participants also qualify for a contextual offer.",
+     "programme": "Reading Scholars",
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+      "checked": "2026-10-20",
+      "evidence": "are guaranteed to receive either an invitation to interview or a conditional offer, and a two grade drop on their offer for most courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027/28 entry only); 2027 entry used"
+   ],
+   "notes": "Reading also offers BA Economics (L101), which covers a wider range of markets and social policy and focuses less on data techniques. Core modules include Mathematics for Economists and Statistical and Econometric Methods. Reading says all offers exclude General Studies, and that the entry requirements on course pages are only an indicator (https://www.reading.ac.uk/ready-to-study/study/how-to-apply/entry-requirements-ug). An integrated International Foundation Year is described for international/EU students only."
+  },
+  {
+   "id": "reading-ba-economics",
+   "name": "Economics",
+   "degree": "BA",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year BA Economics with a Placement Year (integrated professional placement between years 2 and 3), listed as a separate course",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB (no A-level subject requirement listed)",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/ba-economics",
+     "checked": "2026-10-20",
+     "evidence": "Typical offer ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade B (6) minimum"
+    }
+   ],
+   "gcseText": "Maths at grade B (6) minimum",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/ba-economics",
+    "checked": "2026-10-20",
+    "evidence": "Typical offer ABB"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Reading is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/ba-economics",
+     "checked": "2026-10-20",
+     "evidence": "Our typical offers are expressed in terms of A level, BTEC and International Baccalaureate requirements"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Automatic if you meet at least one of Reading's contextual criteria (see the contextual admissions page). Typically two grades lower than the top end of the published grade range (ABB becomes BBC); one grade lower again (BCC) if you also take an EPQ.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "For example, if the typical offer is ABB, you will receive a contextual offer of BBC."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "If you take an EPQ you receive two offers: the standard offer and an alternative offer one grade lower in your A-level subjects (ABB becomes BBB) on the condition that you achieve a B in your EPQ. The course page says this course counts the EPQ as part of a formal offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "an alternative offer of one grade lower in your A-Level subjects on the condition that you achieve a B in your EPQ."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you complete the Reading Scholars programme (Year 12) and then apply to Reading you are guaranteed an interview invitation or a conditional offer, and a two grade drop on your offer for most courses (Reading does not say which courses are excluded). Reading Scholars participants also qualify for a contextual offer.",
+     "programme": "Reading Scholars",
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+      "checked": "2026-10-20",
+      "evidence": "are guaranteed to receive either an invitation to interview or a conditional offer, and a two grade drop on their offer for most courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/ba-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027/28 entry only); 2027 entry used"
+   ],
+   "notes": "The BA covers how economic tools apply to different markets and social policy, with less focus on data techniques than the BSc. No A-level subject requirement is listed. Reading says all offers exclude General Studies, and that the entry requirements on course pages are only an indicator (https://www.reading.ac.uk/ready-to-study/study/how-to-apply/entry-requirements-ug). An integrated International Foundation Year is described for international/EU students only."
+  },
+  {
+   "id": "reading-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc",
+   "ucasCode": "L113",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year BSc Business Economics with Placement Year (integrated professional placement between years 2 and 3), listed as a separate course",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB (no A-level subject requirement listed)",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-business-economics",
+     "checked": "2026-10-20",
+     "evidence": "Typical offer ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Grade A (or 7). Grade B (or 6) is accepted if you are taking AS or A level Maths."
+    }
+   ],
+   "gcseText": "Maths at grade A (or 7). Grade B (or 6) accepted if taking AS or A level Maths",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-business-economics",
+    "checked": "2026-10-20",
+    "evidence": "Typical offer ABB"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Reading is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-business-economics",
+     "checked": "2026-10-20",
+     "evidence": "Our typical offers are expressed in terms of A level, BTEC and International Baccalaureate requirements"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Automatic if you meet at least one of Reading's contextual criteria (see the contextual admissions page). Typically two grades lower than the top end of the published grade range (ABB becomes BBC); one grade lower again (BCC) if you also take an EPQ.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "For example, if the typical offer is ABB, you will receive a contextual offer of BBC."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "If you take an EPQ you receive two offers: the standard offer and an alternative offer one grade lower in your A-level subjects (ABB becomes BBB) on the condition that you achieve a B in your EPQ. The course page says this course counts the EPQ as part of a formal offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "an alternative offer of one grade lower in your A-Level subjects on the condition that you achieve a B in your EPQ."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you complete the Reading Scholars programme (Year 12) and then apply to Reading you are guaranteed an interview invitation or a conditional offer, and a two grade drop on your offer for most courses (Reading does not say which courses are excluded). Reading Scholars participants also qualify for a contextual offer.",
+     "programme": "Reading Scholars",
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+      "checked": "2026-10-20",
+      "evidence": "are guaranteed to receive either an invitation to interview or a conditional offer, and a two grade drop on their offer for most courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-business-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027/28 entry only); 2027 entry used"
+   ],
+   "notes": "In the first two years you take many of the same core modules as BSc Economics, then specialise in business economics. Reading says all offers exclude General Studies, and that the entry requirements on course pages are only an indicator (https://www.reading.ac.uk/ready-to-study/study/how-to-apply/entry-requirements-ug). An integrated International Foundation Year is described for international/EU students only."
+  },
+  {
+   "id": "reading-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc",
+   "ucasCode": "LN13",
+   "lengthYears": 3,
+   "lengthNote": "A one-year placement can be added, extending the degree by a year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB with a B in A or AS level Mathematics, or a B in A level Physics, Chemistry, Economics or Statistics",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-economics-and-finance",
+     "checked": "2026-10-20",
+     "evidence": "ABB with B in A/AS-level Mathematics OR Grade B A-level Physics, Chemistry, Economics, Statistics."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Economics",
+      "Statistics"
+     ],
+     "minGrade": "B",
+     "note": "Grade B in A or AS level Mathematics, OR grade B in A level Physics, Chemistry, Economics or Statistics (any one of these)"
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "B (or 5) in GCSE English"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "A (or 7) in GCSE Maths, but only if you are not studying Maths at AS/A level"
+    }
+   ],
+   "gcseText": "B (or 5) in GCSE English, and A (or 7) in GCSE Maths (if not studying Maths at AS/A Level)",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-economics-and-finance",
+    "checked": "2026-10-20",
+    "evidence": "ABB with B in A/AS-level Mathematics OR Grade B A-level Physics, Chemistry, Economics, Statistics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Reading is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-economics-and-finance",
+     "checked": "2026-10-20",
+     "evidence": "Our typical offers are expressed in terms of A level, BTEC and International Baccalaureate requirements"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Automatic if you meet at least one of Reading's contextual criteria (see the contextual admissions page). Typically two grades lower than the top end of the published grade range (ABB becomes BBC); one grade lower again (BCC) if you also take an EPQ. The subject-specific (Mathematics or listed alternative) and GCSE requirements still apply.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "For example, if the typical offer is ABB, you will receive a contextual offer of BBC."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "If you take an EPQ you receive two offers: the standard offer and an alternative offer one grade lower in your A-level subjects (ABB becomes BBB) on the condition that you achieve a B in your EPQ. The course page says this course counts the EPQ as part of a formal offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "an alternative offer of one grade lower in your A-Level subjects on the condition that you achieve a B in your EPQ."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you complete the Reading Scholars programme (Year 12) and then apply to Reading you are guaranteed an interview invitation or a conditional offer, and a two grade drop on your offer for most courses (Reading does not say which courses are excluded). Reading Scholars participants also qualify for a contextual offer.",
+     "programme": "Reading Scholars",
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+      "checked": "2026-10-20",
+      "evidence": "are guaranteed to receive either an invitation to interview or a conditional offer, and a two grade drop on their offer for most courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.reading.ac.uk/ready-to-study/study/subject-area/economics-ug/bsc-economics-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027/28 entry only); 2027 entry used"
+   ],
+   "notes": "Financial-markets experts from the ICMA Centre at Henley Business School help teach the course. Reading says all offers exclude General Studies, and that the entry requirements on course pages are only an indicator (https://www.reading.ac.uk/ready-to-study/study/how-to-apply/entry-requirements-ug). An integrated International Foundation Year is described for international/EU students only."
+  },
+  {
+   "id": "reading-geography-economics",
+   "name": "Geography and Economics (Regional Science)",
+   "degree": "BSc",
+   "ucasCode": "LL17",
+   "lengthYears": 3,
+   "lengthNote": "An integrated year in industry between years 2 and 3 is available (listed as BSc Geography and Economics (Regional Science) with Professional Experience)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-geography"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB (no A-level subject requirement listed)",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/geography-ug/bsc-geography-and-economics-regional-science",
+     "checked": "2026-10-20",
+     "evidence": "Typical offer BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "GCSE Maths at grade B (6)"
+    }
+   ],
+   "gcseText": "GCSE Maths at grade B (6)",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/geography-ug/bsc-geography-and-economics-regional-science",
+    "checked": "2026-10-20",
+    "evidence": "Typical offer BBB"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Reading is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/geography-ug/bsc-geography-and-economics-regional-science",
+     "checked": "2026-10-20",
+     "evidence": "Our typical offers are expressed in terms of A level, BTEC and International Baccalaureate requirements"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Automatic if you meet at least one of Reading's contextual criteria. Reading says the contextual offer is typically two grades lower than the top end of the published grade range, but it does not give the grades for a BBB typical offer. One grade lower again if you also take an EPQ. You still need any subject-specific and GCSE requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "you will receive a contextual offer that is typically two grades lower than the top end of the published grade range for the programme you are applying for."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you take an EPQ you receive two offers: the standard offer and an alternative offer one grade lower in your A-level subjects on the condition that you achieve a B in your EPQ. Reading does not give the grades for a BBB standard offer. The course page says this course counts the EPQ as part of a formal offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "an alternative offer of one grade lower in your A-Level subjects on the condition that you achieve a B in your EPQ."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you complete the Reading Scholars programme (Year 12) and then apply to Reading you are guaranteed an interview invitation or a conditional offer, and a two grade drop on your offer for most courses (Reading does not say which courses are excluded). Reading Scholars participants also qualify for a contextual offer.",
+     "programme": "Reading Scholars",
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+      "checked": "2026-10-20",
+      "evidence": "are guaranteed to receive either an invitation to interview or a conditional offer, and a two grade drop on their offer for most courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.reading.ac.uk/ready-to-study/study/subject-area/geography-ug/bsc-geography-and-economics-regional-science",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027/28 entry only); 2027 entry used"
+   ],
+   "notes": "Taught jointly by the Department of Geography and Environmental Science and the Department of Economics. The cost of the compulsory second-year field trip is included in your fees. Reading says all offers exclude General Studies, and that the entry requirements on course pages are only an indicator (https://www.reading.ac.uk/ready-to-study/study/how-to-apply/entry-requirements-ug). An integrated International Foundation Year is described for international/EU students only."
+  },
+  {
+   "id": "reading-ppe",
+   "name": "Philosophy, Politics and Economics",
+   "degree": "BA",
+   "ucasCode": "LV12",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year BA Philosophy, Politics and Economics with Placement Experience (integrated professional placement between years 2 and 3)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB (no A-level subject requirement listed)",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/philosophy-ug/ba-ppe-philosophy-politics-and-economics",
+     "checked": "2026-10-20",
+     "evidence": "Typical offer ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "GCSE Maths at grade B (6)"
+    }
+   ],
+   "gcseText": "GCSE Maths at grade B (6)",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/philosophy-ug/ba-ppe-philosophy-politics-and-economics",
+    "checked": "2026-10-20",
+    "evidence": "Typical offer ABB"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Reading is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/philosophy-ug/ba-ppe-philosophy-politics-and-economics",
+     "checked": "2026-10-20",
+     "evidence": "Our typical offers are expressed in terms of A level, BTEC and International Baccalaureate requirements"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Automatic if you meet at least one of Reading's contextual criteria (see the contextual admissions page). Typically two grades lower than the top end of the published grade range (ABB becomes BBC); one grade lower again (BCC) if you also take an EPQ.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "For example, if the typical offer is ABB, you will receive a contextual offer of BBC."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "If you take an EPQ you receive two offers: the standard offer and an alternative offer one grade lower in your A-level subjects (ABB becomes BBB) on the condition that you achieve a B in your EPQ. The course page says this course counts the EPQ as part of a formal offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "an alternative offer of one grade lower in your A-Level subjects on the condition that you achieve a B in your EPQ."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you complete the Reading Scholars programme (Year 12) and then apply to Reading you are guaranteed an interview invitation or a conditional offer, and a two grade drop on your offer for most courses (Reading does not say which courses are excluded). Reading Scholars participants also qualify for a contextual offer.",
+     "programme": "Reading Scholars",
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+      "checked": "2026-10-20",
+      "evidence": "are guaranteed to receive either an invitation to interview or a conditional offer, and a two grade drop on their offer for most courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.reading.ac.uk/ready-to-study/study/subject-area/philosophy-ug/ba-ppe-philosophy-politics-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027/28 entry only); 2027 entry used"
+   ],
+   "notes": "Combines Philosophy, Politics and Economics; offered by the School of Philosophy, Politics and Economics. Reading says all offers exclude General Studies, and that the entry requirements on course pages are only an indicator (https://www.reading.ac.uk/ready-to-study/study/how-to-apply/entry-requirements-ug). An integrated International Foundation Year is described for international/EU students only."
+  },
+  {
+   "id": "reading-politics-economics",
+   "name": "Politics and Economics",
+   "degree": "BA",
+   "ucasCode": "LL12",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year BA Politics and Economics with a Placement Year (integrated professional placement between years 2 and 3), listed as a separate course",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB (no A-level subject requirement listed)",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/politics-ug/ba-politics-and-economics",
+     "checked": "2026-10-20",
+     "evidence": "Typical offer BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "GCSE Maths at grade B (6)"
+    }
+   ],
+   "gcseText": "GCSE Maths at grade B (6)",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/politics-ug/ba-politics-and-economics",
+    "checked": "2026-10-20",
+    "evidence": "Typical offer BBB"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Reading is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/politics-ug/ba-politics-and-economics",
+     "checked": "2026-10-20",
+     "evidence": "Our typical offers are expressed in terms of A level, BTEC and International Baccalaureate requirements"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Automatic if you meet at least one of Reading's contextual criteria. Reading says the contextual offer is typically two grades lower than the top end of the published grade range, but it does not give the grades for a BBB typical offer. One grade lower again if you also take an EPQ. You still need any subject-specific and GCSE requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "you will receive a contextual offer that is typically two grades lower than the top end of the published grade range for the programme you are applying for."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you take an EPQ you receive two offers: the standard offer and an alternative offer one grade lower in your A-level subjects on the condition that you achieve a B in your EPQ. Reading does not give the grades for a BBB standard offer. The course page says this course counts the EPQ as part of a formal offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "an alternative offer of one grade lower in your A-Level subjects on the condition that you achieve a B in your EPQ."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you complete the Reading Scholars programme (Year 12) and then apply to Reading you are guaranteed an interview invitation or a conditional offer, and a two grade drop on your offer for most courses (Reading does not say which courses are excluded). Reading Scholars participants also qualify for a contextual offer.",
+     "programme": "Reading Scholars",
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+      "checked": "2026-10-20",
+      "evidence": "are guaranteed to receive either an invitation to interview or a conditional offer, and a two grade drop on their offer for most courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.reading.ac.uk/ready-to-study/study/subject-area/politics-ug/ba-politics-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027/28 entry only); 2027 entry used"
+   ],
+   "notes": "Joint course run by the School of Politics and International Relations and the Department of Economics. Reading says all offers exclude General Studies, and that the entry requirements on course pages are only an indicator (https://www.reading.ac.uk/ready-to-study/study/how-to-apply/entry-requirements-ug). An integrated International Foundation Year is described for international/EU students only."
+  },
+  {
+   "id": "reading-real-estate",
+   "name": "Real Estate",
+   "degree": "BSc",
+   "ucasCode": "N231",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "available"
+   },
+   "types": [
+    "real-estate"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB (no A-level subject requirement listed)",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/real-estate-and-planning-ug/bsc-real-estate",
+     "checked": "2026-10-20",
+     "evidence": "Typical offer AAB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Maths and English (Language or Literature) at grade B (5), as the page prints it"
+    },
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "English Language or Literature, grade B (5), as the page prints it"
+    }
+   ],
+   "gcseText": "Maths and English (Language or Literature) at grade B (5).",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/real-estate-and-planning-ug/bsc-real-estate",
+    "checked": "2026-10-20",
+    "evidence": "Typical offer AAB"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Reading is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/real-estate-and-planning-ug/bsc-real-estate",
+     "checked": "2026-10-20",
+     "evidence": "Our typical offers are expressed in terms of A level, BTEC and International Baccalaureate requirements"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABC",
+     "tariff": null,
+     "conditions": "Automatic if you meet at least one of Reading's contextual criteria. Typically two grades lower than the top end of the published grade range; Reading's own worked example for an AAB offer gives ABC. One grade lower again if you also take an EPQ. You still need the GCSE requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/what-offer-will-I-get",
+      "checked": "2026-10-20",
+      "evidence": "Your contextual offer would then be ABC, with an A in the specific subject."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "If you take an EPQ you receive two offers: the standard offer (AAB) and an alternative offer of ABB in your A-level subjects on the condition that you achieve a B in your EPQ.",
+     "programme": null,
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/study/subject-area/real-estate-and-planning-ug/bsc-real-estate",
+      "checked": "2026-10-20",
+      "evidence": "If you are taking an EPQ, you will receive two offers: our standard offer and an alternative offer of ABB in your A-level subjects on the condition that you achieve a B in your EPQ."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you complete the Reading Scholars programme (Year 12) and then apply to Reading you are guaranteed an interview invitation or a conditional offer, and a two grade drop on your offer for most courses (Reading does not say which courses are excluded). Reading Scholars participants also qualify for a contextual offer.",
+     "programme": "Reading Scholars",
+     "source": {
+      "url": "https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/activities-for-schools/reading-scholars",
+      "checked": "2026-10-20",
+      "evidence": "are guaranteed to receive either an invitation to interview or a conditional offer, and a two grade drop on their offer for most courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.reading.ac.uk/ready-to-study/study/subject-area/real-estate-and-planning-ug/bsc-real-estate",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027/28 entry only); 2027 entry used",
+    "GCSE grade: the page says 'grade B (5)', while Reading's economics pages equate grade B with 6 - check with the university",
+    "Whether a placement year or year abroad is available is not stated on the page; a 'BSc Real Estate with Foundation' course is listed on Reading's Real Estate and Planning page but its entry rules were not checked"
+   ],
+   "notes": "Henley Business School course (Real Estate and Planning). Henley's undergraduate page says Henley is based at the University of Reading's Whiteknights campus (https://www.henley.ac.uk/study/undergraduate). Core modules include Introductory Economics for Business and Finance and Real Estate and Urban Economics. The first two years are shared with the other Real Estate and Planning degrees and course transfers are available after year 1 or 2. Deferred entry available. Reading's BSc Real Estate Finance and BSc Real Estate Development and Planning were not researched. Reading says all offers exclude General Studies, and that the entry requirements on course pages are only an indicator (https://www.reading.ac.uk/ready-to-study/study/how-to-apply/entry-requirements-ug). An integrated International Foundation Year is described for international/EU students only."
+  }
+ ],
+ "notes": [
+  "All eight course pages show 2027/28 entry (the newest published; Reading's course finder lists only 2026/27 and 2027/28), so all courses use 2027 entry.",
+  "Reading is not on UAT-UK's official TMUA list for 2027 entry (https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf), and none of the course pages checked names an admissions test.",
+  "Real Estate is a Henley Business School course; Henley's undergraduate page says it is based at the University of Reading's Whiteknights campus (https://www.henley.ac.uk/study/undergraduate).",
+  "Subject taster days exist (past events included a PPE Taster Day on 2 July 2026 and a Real Estate Planning and Development taster on 10 June 2026) but the page gives no year group or cost and no 2027 dates, so they are not recorded as a programme (https://www.reading.ac.uk/ready-to-study/visiting-and-open-days/taster-sessions).",
+  "Not researched: other related Reading subject areas listed on its site (Accounting; Business and Management, Accounting and Finance; Finance), BSc Real Estate Finance and BSc Real Estate Development and Planning."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "Open days after 7 November 2026 not announced yet",
+  "Reading Scholars 2027 programme dates and deadline not announced; full eligibility criteria are in a Word document that could not be read",
+  "Living costs: Reading's living-costs page says accommodation is 'approximately £188 to £365 per week' while the room-types page lists prices from £166.32; its rough table of other living costs also does not add up (listed total does not match its items), so only accommodation prices are recorded",
+  "Teaching campus for Henley Business School's Real Estate course comes from Henley's undergraduate page (Whiteknights), not from the course page itself"
+ ]
+}

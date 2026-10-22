@@ -1,0 +1,798 @@
+{
+ "id": "cardiff-met",
+ "name": "Cardiff Metropolitan University",
+ "shortName": "Cardiff Met",
+ "aliases": [
+  "Cardiff Met",
+  "Cardiff Metropolitan",
+  "Cardiff Met Uni",
+  "Cardiff Metropolitan Uni"
+ ],
+ "city": "Cardiff",
+ "region": "Wales",
+ "country": "Wales",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.cardiffmet.ac.uk/about/visit-us/llandaff-campus/",
+  "checked": "2026-10-21",
+  "evidence": "The campus is located approximately two miles from the city centre, surrounded by numerous parks, playing fields and the historic village of Llandaff."
+ },
+ "location": {
+  "postcode": "CF5 2YB",
+  "postcodeSource": "https://www.cardiffmet.ac.uk/about/visit-us/llandaff-campus/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/CF52YB",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 9790,
+  "academicYear": "2027/28",
+  "text": "£9,790 per year for full-time Home undergraduate students starting in 2027/28. The page says the fee may be subject to increase by any level permitted by the Welsh Government. A year-long undergraduate placement is charged £1,955.",
+  "source": {
+   "url": "https://www.cardiffmet.ac.uk/support/fees-and-finance/tuition-fees/academic-year-202728/",
+   "checked": "2026-10-21",
+   "evidence": "Full-Time Home Students | Programme | Fee (£) | Undergraduate Students | 9,790*"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 156,
+  "amountHigh": 175,
+  "period": "week",
+  "academicYear": null,
+  "text": "Plas Gwyn halls (close to the Llandaff Campus where these courses are taught) cost £156–£175 a week for self-catered ensuite rooms on a 42-week contract. Cyncoed halls cost £156–£225 a week (catered rooms £196–£225). The room pages do not say which academic year the rents are for.",
+  "source": {
+   "url": "https://www.cardiffmet.ac.uk/study/accommodation/halls-of-residence/plas-gwyn-campus/",
+   "checked": "2026-10-21",
+   "evidence": "£156pw – 42-week contract"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "Undergraduate open day (9:30am to 4:30pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open day: Saturday 7 November 2026, 9:30am to 4:30pm. No later dates are listed yet.",
+  "url": "https://www.cardiffmet.ac.uk/study/open-days-and-events/",
+  "source": {
+   "url": "https://www.cardiffmet.ac.uk/study/open-days-and-events/",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 7 November 9:30am to 4:30pm"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Applicants with Home fee status who meet Cardiff Met's contextual criteria are typically given an offer one grade lower; it is worked out from your UCAS application, so you do not apply separately.",
+  "typicalReduction": "Typically one grade (or the equivalent in points) below the published standard entry requirements",
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "Spent time in care (identified through information on the UCAS application).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "carer",
+    "detail": "Young carers (identified through information on the UCAS application).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "firstGen",
+    "detail": "Having parents/guardians who have not attended university (identified through information on the UCAS application).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "area",
+    "detail": "Live in an area with low progression to Higher Education (POLAR score). The university considers applicants from POLAR4 quintiles 1 and 2.",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "area",
+    "detail": "Welsh, English, Scottish and Northern Irish Indexes of multiple deprivation (no threshold stated).",
+    "measure": "IMD",
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "school",
+    "detail": "Attendance at a school with lower than average participation to Higher Education or those that have a higher number of students from low participation neighbourhoods.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "access",
+    "detail": "Completed an accredited Widening Participation programme at Cardiff Met.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Applicants covered by the Armed Forces Covenant: those who serve or have served in the UK Armed Forces, whether Regular or Reserve, and their families and dependents.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Cardiff Met also uses UCAS Multiple Equality Measure (MEM) data, which combines sex, ethnic group, where you live (POLAR), school sector (state or private) and income background (free school meals) into one score.",
+    "measure": "other",
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Other personal circumstances that have negatively impacted your post 16 studies (for example disability, being estranged from your parents, or being a refugee or asylum seeker): tell Admissions at askadmissions@cardiffmet.ac.uk if you cannot meet the published entry requirements.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": null,
+  "rulesText": "If you are identified as meeting the specified criteria and are offered a place, you will receive an adjusted conditional offer, typically one grade (or the equivalent in points) below the published standard entry requirements. Course-specific conditions (for example a minimum grade in a subject) still apply. All courses are included, the policy only applies to applicants with Home fee status, and Cardiff Met can only use data supplied at the time of application.",
+  "url": "https://www.cardiffmet.ac.uk/study/advice-for-applicants/contextual-admissions-policy/",
+  "source": {
+   "url": "https://www.cardiffmet.ac.uk/study/advice-for-applicants/contextual-admissions-policy/",
+   "checked": "2026-10-21",
+   "evidence": "you will receive an adjusted conditional offer. Typically, this will be one grade (or the equivalent in points) below the published standard entry requirements."
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.cardiffmet.ac.uk/",
+  "courses": "https://www.cardiffmet.ac.uk/courses/?keywords=&courseType=undergraduate&courseSubjects=&courseSchool=&courseLocation=",
+  "economics": "https://www.cardiffmet.ac.uk/courses/undergraduate/bsc-economics/",
+  "openDays": "https://www.cardiffmet.ac.uk/study/open-days-and-events/",
+  "fees": "https://www.cardiffmet.ac.uk/support/fees-and-finance/tuition-fees/academic-year-202728/",
+  "contextual": "https://www.cardiffmet.ac.uk/study/advice-for-applicants/contextual-admissions-policy/",
+  "accommodation": "https://www.cardiffmet.ac.uk/study/accommodation/halls-of-residence/plas-gwyn-campus/"
+ },
+ "courses": [
+  {
+   "id": "cardiff-met-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a year-long industry placement (between years 2 and 3) or with a foundation year (UCAS L10F); 5 years with both. Also available part time (up to 6 years).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points. A level applicants need a minimum of three A levels including grades CCC; no specific subjects required.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/bsc-economics/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "English Language or Welsh First Language at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Mathematics – Numeracy at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    }
+   ],
+   "gcseText": "Five GCSEs at Grade C / 4 or above to include English Language / Welsh First Language, Mathematics / Mathematics – Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/bsc-economics/",
+    "checked": "2026-10-21",
+    "evidence": "A level subjects: Minimum three A levels to include Grades CCC. No specific subjects required. Welsh Advanced Skills Baccalaureate considered as a third subject."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Cardiff Met is not on UAT-UK's TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/bsc-economics/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you have Home fee status and meet Cardiff Met's contextual criteria (for example care experience, young carer, first in your family to go to university, or a low-participation area) you will typically get an offer one grade (or the equivalent in points) below the published standard entry requirements. Course-specific conditions still apply.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/study/advice-for-applicants/contextual-admissions-policy/",
+      "checked": "2026-10-21",
+      "evidence": "you will receive an adjusted conditional offer. Typically, this will be one grade (or the equivalent in points) below the published standard entry requirements."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": 32,
+     "conditions": "Foundation-year route: the 4-year version of this degree (UCAS code L10F) normally asks for 32 UCAS tariff points from at least 1 A level or equivalent, plus GCSEs (grades A-C) including English Language and Mathematics or Mathematics – Numeracy at grade C / 4 or above. You then move into Year 1 of the degree after passing the foundation year.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/foundation-in-management/",
+      "checked": "2026-10-21",
+      "evidence": "32 UCAS tariff points from at least 1 A level or equivalent"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.cardiffmet.ac.uk/courses/undergraduate/bsc-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows Entry Year 2027); 2027 entry used",
+    "Offer: the page gives 112 tariff points as the typical offer and, separately, 'Minimum three A levels to include Grades CCC'; it does not give a grade equivalent for 112 points or say how the two combine for A level applicants"
+   ],
+   "notes": "Compulsory experiential work placement module in year 2; optional year in industry between years 2 and 3; full access to the Financial Times online; the page mentions the opportunity to study abroad and links with the Government Economic Service."
+  },
+  {
+   "id": "cardiff-met-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BA (Hons)",
+   "ucasCode": "LN00",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a year-long industry placement (between years 2 and 3) or with a foundation year (UCAS LN0F); 5 years with both. Also available part time (up to 6 years).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points. A level applicants need a minimum of three A levels including grades CCC; no specific subjects required.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-economics-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "English Language or Welsh First Language at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Mathematics – Numeracy at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    }
+   ],
+   "gcseText": "Five GCSEs at Grade C / 4 or above to include English Language / Welsh First Language, Mathematics / Mathematics – Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-economics-and-finance/",
+    "checked": "2026-10-21",
+    "evidence": "A level subjects: Minimum three A levels to include Grades CCC. No specific subjects required. Welsh Advanced Skills Baccalaureate considered as a third subject."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Cardiff Met is not on UAT-UK's TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-economics-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you have Home fee status and meet Cardiff Met's contextual criteria (for example care experience, young carer, first in your family to go to university, or a low-participation area) you will typically get an offer one grade (or the equivalent in points) below the published standard entry requirements. Course-specific conditions still apply.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/study/advice-for-applicants/contextual-admissions-policy/",
+      "checked": "2026-10-21",
+      "evidence": "you will receive an adjusted conditional offer. Typically, this will be one grade (or the equivalent in points) below the published standard entry requirements."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": 32,
+     "conditions": "Foundation-year route: the 4-year version of this degree (UCAS code LN0F) normally asks for 32 UCAS tariff points from at least 1 A level or equivalent, plus GCSEs (grades A-C) including English Language and Mathematics or Mathematics – Numeracy at grade C / 4 or above. You then move into Year 1 of the degree after passing the foundation year.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/foundation-in-management/",
+      "checked": "2026-10-21",
+      "evidence": "32 UCAS tariff points from at least 1 A level or equivalent"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-economics-and-finance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows Entry Year 2027); 2027 entry used",
+    "Offer: the page gives 112 tariff points as the typical offer and, separately, 'Minimum three A levels to include Grades CCC'; it does not give a grade equivalent for 112 points or say how the two combine for A level applicants"
+   ],
+   "notes": "Compulsory experiential work opportunities module in year 2; optional year in industry between years 2 and 3; the page mentions the opportunity to study abroad."
+  },
+  {
+   "id": "cardiff-met-accounting-economics",
+   "name": "Accounting and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "NL41",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a year-long industry placement (between years 2 and 3) or with a foundation year (UCAS NL4F); 5 years with both.",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-accounting"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points. A level applicants need a minimum of three A levels including grades CCC; no specific subjects required.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-accounting-and-economics/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "English Language or Welsh First Language at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Mathematics – Numeracy at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    }
+   ],
+   "gcseText": "Five GCSEs at Grade C / 4 or above to include English Language / Welsh First Language, Mathematics / Mathematics – Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-accounting-and-economics/",
+    "checked": "2026-10-21",
+    "evidence": "A level subjects: Minimum three A levels to include Grades CCC. No specific subjects required. Welsh Advanced Skills Baccalaureate considered as a third subject."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Cardiff Met is not on UAT-UK's TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-accounting-and-economics/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you have Home fee status and meet Cardiff Met's contextual criteria (for example care experience, young carer, first in your family to go to university, or a low-participation area) you will typically get an offer one grade (or the equivalent in points) below the published standard entry requirements. Course-specific conditions still apply.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/study/advice-for-applicants/contextual-admissions-policy/",
+      "checked": "2026-10-21",
+      "evidence": "you will receive an adjusted conditional offer. Typically, this will be one grade (or the equivalent in points) below the published standard entry requirements."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": 32,
+     "conditions": "Foundation-year route: the 4-year version of this degree (UCAS code NL4F) normally asks for 32 UCAS tariff points from at least 1 A level or equivalent, plus GCSEs (grades A-C) including English Language and Mathematics or Mathematics – Numeracy at grade C / 4 or above. You then move into Year 1 of the degree after passing the foundation year.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/foundation-in-management/",
+      "checked": "2026-10-21",
+      "evidence": "32 UCAS tariff points from at least 1 A level or equivalent"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-accounting-and-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows Entry Year 2027); 2027 entry used",
+    "Offer: the page gives 112 tariff points as the typical offer and, separately, 'Minimum three A levels to include Grades CCC'; it does not give a grade equivalent for 112 points or say how the two combine for A level applicants",
+    "yearAbroad: study abroad is not mentioned on this course page"
+   ],
+   "notes": "Accredited by the main UK accounting bodies, with exemptions from ACCA, ICAEW and CIMA exams; the option of paid summer work placements or a year in industry."
+  },
+  {
+   "id": "cardiff-met-banking-finance",
+   "name": "Banking and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N310",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a year-long industry placement (between years 2 and 3) or with a foundation year (UCAS N31F); 5 years with both.",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points. A level applicants need a minimum of three A levels including grades CCC; no specific subjects required.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/bsc-banking-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "English Language or Welsh First Language at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Mathematics – Numeracy at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    }
+   ],
+   "gcseText": "Five GCSEs at Grade C / 4 or above to include English Language / Welsh First Language, Mathematics / Mathematics – Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/bsc-banking-and-finance/",
+    "checked": "2026-10-21",
+    "evidence": "A level subjects: Minimum three A levels to include Grades CCC. No specific subjects required. Welsh Advanced Skills Baccalaureate considered as a third subject."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Cardiff Met is not on UAT-UK's TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/bsc-banking-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you have Home fee status and meet Cardiff Met's contextual criteria (for example care experience, young carer, first in your family to go to university, or a low-participation area) you will typically get an offer one grade (or the equivalent in points) below the published standard entry requirements. Course-specific conditions still apply.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/study/advice-for-applicants/contextual-admissions-policy/",
+      "checked": "2026-10-21",
+      "evidence": "you will receive an adjusted conditional offer. Typically, this will be one grade (or the equivalent in points) below the published standard entry requirements."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": 32,
+     "conditions": "Foundation-year route: the 4-year version of this degree (UCAS code N31F) normally asks for 32 UCAS tariff points from at least 1 A level or equivalent, plus GCSEs (grades A-C) including English Language and Mathematics or Mathematics – Numeracy at grade C / 4 or above. You then move into Year 1 of the degree after passing the foundation year.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/foundation-in-management/",
+      "checked": "2026-10-21",
+      "evidence": "32 UCAS tariff points from at least 1 A level or equivalent"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.cardiffmet.ac.uk/courses/undergraduate/bsc-banking-and-finance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows Entry Year 2027); 2027 entry used",
+    "Offer: the page gives 112 tariff points as the typical offer and, separately, 'Minimum three A levels to include Grades CCC'; it does not give a grade equivalent for 112 points or say how the two combine for A level applicants",
+    "yearAbroad: study abroad is not mentioned on this course page"
+   ],
+   "notes": "Compulsory experiential work opportunities module in year 2; optional year in industry between years 2 and 3."
+  },
+  {
+   "id": "cardiff-met-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN43",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a year-long industry placement (between years 2 and 3) or with a foundation year (UCAS NN4F); 5 years with both.",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points. A level applicants need a minimum of three A levels including grades CCC; no specific subjects required.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-accounting-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "English Language or Welsh First Language at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Mathematics – Numeracy at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    }
+   ],
+   "gcseText": "Five GCSEs at Grade C / 4 or above to include English Language / Welsh First Language, Mathematics / Mathematics – Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-accounting-and-finance/",
+    "checked": "2026-10-21",
+    "evidence": "A level subjects: Minimum three A levels to include Grades CCC. No specific subjects required. Welsh Advanced Skills Baccalaureate considered as a third subject."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Cardiff Met is not on UAT-UK's TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-accounting-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you have Home fee status and meet Cardiff Met's contextual criteria (for example care experience, young carer, first in your family to go to university, or a low-participation area) you will typically get an offer one grade (or the equivalent in points) below the published standard entry requirements. Course-specific conditions still apply.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/study/advice-for-applicants/contextual-admissions-policy/",
+      "checked": "2026-10-21",
+      "evidence": "you will receive an adjusted conditional offer. Typically, this will be one grade (or the equivalent in points) below the published standard entry requirements."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": 32,
+     "conditions": "Foundation-year route: the 4-year version of this degree (UCAS code NN4F) normally asks for 32 UCAS tariff points from at least 1 A level or equivalent, plus GCSEs (grades A-C) including English Language and Mathematics or Mathematics – Numeracy at grade C / 4 or above. You then move into Year 1 of the degree after passing the foundation year.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/foundation-in-management/",
+      "checked": "2026-10-21",
+      "evidence": "32 UCAS tariff points from at least 1 A level or equivalent"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-accounting-and-finance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows Entry Year 2027); 2027 entry used",
+    "Offer: the page gives 112 tariff points as the typical offer and, separately, 'Minimum three A levels to include Grades CCC'; it does not give a grade equivalent for 112 points or say how the two combine for A level applicants",
+    "yearAbroad: study abroad is not mentioned on this course page"
+   ],
+   "notes": "Many modules are accredited by the main accounting bodies, giving exemptions from ACCA, ICAEW and CIMA exams; the option of paid summer work placements or a year in industry."
+  },
+  {
+   "id": "cardiff-met-business-management",
+   "name": "Business and Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "M200",
+   "lengthYears": 3,
+   "lengthNote": "4 years with an internship year in industry (between years 2 and 3) or with a foundation year (UCAS M20F).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points. A level applicants need a minimum of three A levels including grades CCC; no specific subjects required.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-business-and-management/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "English Language or Welsh First Language at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Mathematics – Numeracy at grade C/4 or above (counts towards the five GCSEs at C/4 or above)"
+    }
+   ],
+   "gcseText": "Five GCSEs at Grade C / 4 or above to include English Language / Welsh First Language, Mathematics / Mathematics – Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-business-and-management/",
+    "checked": "2026-10-21",
+    "evidence": "A level subjects: Minimum three A levels to include Grades CCC. No specific subjects required. Welsh Advanced Skills Baccalaureate considered as a third subject."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Cardiff Met is not on UAT-UK's TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-business-and-management/",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you have Home fee status and meet Cardiff Met's contextual criteria (for example care experience, young carer, first in your family to go to university, or a low-participation area) you will typically get an offer one grade (or the equivalent in points) below the published standard entry requirements. Course-specific conditions still apply.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/study/advice-for-applicants/contextual-admissions-policy/",
+      "checked": "2026-10-21",
+      "evidence": "you will receive an adjusted conditional offer. Typically, this will be one grade (or the equivalent in points) below the published standard entry requirements."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": 32,
+     "conditions": "Foundation-year route: the 4-year version of this degree (UCAS code M20F) normally asks for 32 UCAS tariff points from at least 1 A level or equivalent, plus GCSEs (grades A-C) including English Language and Mathematics or Mathematics – Numeracy at grade C / 4 or above. You then move into Year 1 of the degree after passing the foundation year.",
+     "programme": null,
+     "source": {
+      "url": "https://www.cardiffmet.ac.uk/courses/undergraduate/foundation-in-management/",
+      "checked": "2026-10-21",
+      "evidence": "32 UCAS tariff points from at least 1 A level or equivalent"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.cardiffmet.ac.uk/courses/undergraduate/ba-business-and-management/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows Entry Year 2027); 2027 entry used",
+    "Offer: the page gives 112 tariff points as the typical offer and, separately, 'Minimum three A levels to include Grades CCC'; it does not give a grade equivalent for 112 points or say how the two combine for A level applicants"
+   ],
+   "notes": "Specialist pathways (3-year UCAS codes): Entrepreneurship N1NS, Finance M300, Human Resource Management M500, International Supply Chain and Logistics Management N1IT, Marketing M400 (all have a foundation-year version too). Study abroad for a semester or a full year is supported; the experiential work or volunteering module is compulsory in year 2."
+  }
+ ],
+ "notes": [
+  "All six courses are taught at the Llandaff Campus (Cardiff School of Management) and show Entry Year 2027; no 2028-entry pages were found on 2026-10-21, so 2027 entry is used.",
+  "Offers are in UCAS tariff points: 112 for every course recorded, with a minimum of three A levels including grades CCC and no specific A level subjects; the Welsh Advanced Skills Baccalaureate counts as a third subject. GCSEs: five at grade C/4 or above including English Language (or Welsh First Language) and Mathematics (or Mathematics – Numeracy).",
+  "Cardiff Met is not on UAT-UK's TMUA list for 2027 entry and no course page names an admissions test.",
+  "Every degree also has a 4-year version with a foundation year (UCAS codes end in F; normally 32 UCAS tariff points from at least 1 A level or equivalent) and an optional year in industry between years 2 and 3.",
+  "Cardiff Met's Widening Access courses and Summer School are for adult learners (18+), so no programme suitable for a Year 12 student is recorded. Cardiff Met is a partner in the Reaching Wider programme (South East Wales) but its page gives no Year 12 activity details.",
+  "Not recorded: BSc (Hons) Applied Data, Statistical and Economic Analysis is a degree apprenticeship, not a standard full-time degree."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for every course",
+  "2027/28 Home fee (£9,790) may be increased by any amount the Welsh Government permits, as the fees page states",
+  "Halls rents: the Plas Gwyn and Cyncoed pages do not say which academic year the weekly rents are for, and the costs page mentions both 40-week and 42-week halls contracts",
+  "Open day: the page lists 'Saturday 7 November' without a year (taken as 2026 because the weekday matches 2026); no later open day dates are listed yet",
+  "Contextual admissions: no deprivation-index (IMD) threshold is given, and the page does not say how many criteria must be met",
+  "No Year 12 summer school, taster day or access programme found on Cardiff Met's website"
+ ]
+}

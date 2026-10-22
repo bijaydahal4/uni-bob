@@ -1,0 +1,840 @@
+{
+ "id": "uwe",
+ "name": "University of the West of England",
+ "shortName": "UWE Bristol",
+ "aliases": [
+  "UWE",
+  "UWE Bristol",
+  "Uni of the West of England",
+  "West of England",
+  "Bristol UWE"
+ ],
+ "city": "Bristol",
+ "region": "South West",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.uwe.ac.uk/life/campus-and-facilities/frenchay-campus",
+  "checked": "2026-10-21",
+  "evidence": "Our main campus, a 15-minute bus ride from the city centre."
+ },
+ "location": {
+  "postcode": "BS16 1QY",
+  "postcodeSource": "https://www.uwe.ac.uk/life/campus-and-facilities/frenchay-campus",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/BS161QY",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (Home) students starting in 2027/28 (up from £9,790 in 2026/27). The government's fee cap is set to rise each year with inflation, so the amount can go up in later years of a course.",
+  "source": {
+   "url": "https://www.uwe.ac.uk/courses/fees",
+   "checked": "2026-10-21",
+   "evidence": "Full time tuition fees for 2026/27 will be £9,790 and shall increase to £10,050 for 2027/28."
+  }
+ },
+ "livingCosts": {
+  "kind": "living cost estimate",
+  "amountLow": 14000,
+  "amountHigh": 15000,
+  "period": "year",
+  "academicYear": "not stated",
+  "text": "UWE estimates a single student living away from home needs about £14,000–£15,000 per academic year, based on mid-range accommodation (not including tuition fees). The page does not say which academic year this is for.",
+  "source": {
+   "url": "https://www.uwe.ac.uk/courses/fees",
+   "checked": "2026-10-21",
+   "evidence": "set aside between £14,000–£15,000 per academic year as a single student, based on mid-range accommodation costs"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Undergraduate On Campus Open Day (Frenchay, Glenside and City campuses; from 09:00)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-12-02",
+    "endDate": null,
+    "label": "Undergraduate Virtual Open Day (from 16:00)",
+    "format": "online",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days: Saturday 21 November 2026 (on campus, all campuses) and Wednesday 2 December 2026 (online, from 4pm).",
+  "url": "https://www.uwe.ac.uk/courses/open-days/undergraduate-open-events",
+  "source": {
+   "url": "https://www.uwe.ac.uk/courses/open-days/undergraduate-open-events",
+   "checked": "2026-10-21",
+   "evidence": "Sat 21 November 2026, 09:00"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "UK (Home) applicants who qualify automatically get a contextual offer 16 UCAS tariff points lower for undergraduate degrees (8 points for foundation year courses), plus UWE's Access to UWE Bristol support programme.",
+  "typicalReduction": "16 UCAS tariff points lower for undergraduate degrees (8 points lower for foundation year courses)",
+  "criteria": [
+   {
+    "key": "other",
+    "detail": "UWE uses the UCAS Multiple Equality Measure (MEM) to assess eligibility; the page does not publish a MEM threshold.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "carer",
+    "detail": "Caring and parental responsibilities (from the 'More about you' section of the UCAS application form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Armed forces connection (from the 'More about you' section of the UCAS application form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Health conditions, learning differences or disabilities (from the 'More about you' section of the UCAS application form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "refugee",
+    "detail": "Refugee status (from the 'More about you' section of the UCAS application form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "estranged",
+    "detail": "Estrangement from parents (from the 'More about you' section of the UCAS application form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": null,
+  "rulesText": "Available to UK (Home) applicants only. UWE uses the UCAS Multiple Equality Measure (MEM) plus the 'More about you' questions on the UCAS form; you do not need to do anything extra except apply through UCAS and complete 'More about you' fully. Contextual offer holders are invited to Access to UWE Bristol (webinars, a free Summer School for offer holders aged 18+, and the Wallscourt Scholarship of £2,000 over three years for 15 contextual offer holders).",
+  "url": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+  "source": {
+   "url": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+   "checked": "2026-10-21",
+   "evidence": "Contextual offers are available to UK (Home) applicants only."
+  }
+ },
+ "programmes": [
+  {
+   "id": "uwe-subject-taster-days",
+   "name": "Subject taster days: Business, Accounting, Economics, Finance and Marketing",
+   "provider": "UWE Bristol",
+   "providerType": "university",
+   "uniIds": [
+    "uwe"
+   ],
+   "summary": "A planned 2027 subject taster day for Year 12 / Level 3 students to explore UWE Bristol's Business, Accounting, Economics, Finance and Marketing courses, meet current students and tour specialist facilities.",
+   "whoCanApply": "Year 12 / Level 3 students. The page is written for teachers, and UWE says it may prioritise certain schools and colleges, particularly those with students from backgrounds under-represented in higher education. To get dates and details, email the Widening Access Team (widening.access@uwe.ac.uk).",
+   "eligibility": null,
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Not published: UWE only says it may prioritise certain schools and colleges for on-campus activities.",
+   "benefits": [
+    "Interactive sessions exploring UWE Bristol's courses in this subject area",
+    "Meet current students",
+    "Tour of specialist facilities and campuses"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "day",
+   "subjects": "Business, Accounting, Economics, Finance and Marketing",
+   "yearGroup": "Year 12 / Level 3",
+   "runs": {
+    "text": "2027 (dates to be confirmed)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "UWE lists this taster day under 'Events 2027' with dates to be confirmed; ask the Widening Access Team for dates.",
+   "url": "https://www.uwe.ac.uk/business/schools-and-colleges/campus-visits-and-taster-days",
+   "source": {
+    "url": "https://www.uwe.ac.uk/business/schools-and-colleges/campus-visits-and-taster-days",
+    "checked": "2026-10-21",
+    "evidence": "Business, Accounting, Economics, Finance and Marketing"
+   },
+   "notConfirmed": [
+    "Dates, application route and deadline not published yet",
+    "Who is eligible (which schools or students are prioritised) is not published",
+    "Cost not stated on the page"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.uwe.ac.uk/",
+  "courses": "https://www.uwe.ac.uk/courses/find-a-course/courses-by-subject",
+  "economics": "https://www.uwe.ac.uk/courses/find-a-course/courses-by-subject/economics",
+  "openDays": "https://www.uwe.ac.uk/courses/open-days/undergraduate-open-events",
+  "fees": "https://www.uwe.ac.uk/courses/fees",
+  "contextual": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+  "accommodation": "https://www.uwe.ac.uk/life/accommodation"
+ },
+ "courses": [
+  {
+   "id": "uwe-economics",
+   "name": "Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a placement year after Year 2 (same UCAS code on the course page)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from your Level 3 studies (A-levels or equivalent); UWE does not publish a grade equivalent",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/L100/economics",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent (UWE's entry requirements page says English Language or Literature)"
+    }
+   ],
+   "gcseText": "GCSE: Grade C/4 in English and Mathematics, or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://courses.uwe.ac.uk/L100/economics",
+    "checked": "2026-10-21",
+    "evidence": "A-level subjects: No specific subjects required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (entry is GCSEs plus tariff points). UWE is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/L100/economics",
+     "checked": "2026-10-21",
+     "evidence": "need to achieve the published tariff points from your Level 3 studies prior to entry"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Contextual offer: UWE lowers the UCAS tariff points needed by 16 points for undergraduate degrees, so 112 minus 16 = 96 points. For UK (Home) applicants who qualify (judged from the UCAS Multiple Equality Measure and the 'More about you' answers on your UCAS form); no separate application needed. The course page just says 'See our contextual offers page'.",
+     "programme": null,
+     "source": {
+      "url": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "16 points for undergraduate degrees"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.uwe.ac.uk/L100/economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows entry year 2027/28); 2027 entry recorded",
+    "Offer is in UCAS tariff points only: UWE does not publish a grade equivalent"
+   ],
+   "notes": "No specific A-level subjects are needed. Offers are in UCAS tariff points, and UWE's entry requirements page says the Extended Project and AS levels not taken to a full A-level count towards your total tariff points. Also available with a foundation year (UCAS code L10F). Interdisciplinary economics degree in Bristol Business School. The 4-year version has a 40-week paid placement (for example with the Government Economic Service) or a study year abroad after Year 2."
+  },
+  {
+   "id": "uwe-business-management-economics",
+   "name": "Business Management and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "NL14",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a placement year after Year 2 (same UCAS code on the course page)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from your Level 3 studies (A-levels or equivalent); UWE does not publish a grade equivalent",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/NL14/business-management-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent (UWE's entry requirements page says English Language or Literature)"
+    }
+   ],
+   "gcseText": "GCSE: Grade C/4 in English and Mathematics, or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://courses.uwe.ac.uk/NL14/business-management-and-economics",
+    "checked": "2026-10-21",
+    "evidence": "A-level subjects: No specific subjects required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (entry is GCSEs plus tariff points). UWE is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/NL14/business-management-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "need to achieve the published tariff points from your Level 3 studies prior to entry"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Contextual offer: UWE lowers the UCAS tariff points needed by 16 points for undergraduate degrees, so 112 minus 16 = 96 points. For UK (Home) applicants who qualify (judged from the UCAS Multiple Equality Measure and the 'More about you' answers on your UCAS form); no separate application needed. The course page just says 'See our contextual offers page'.",
+     "programme": null,
+     "source": {
+      "url": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "16 points for undergraduate degrees"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.uwe.ac.uk/NL14/business-management-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows entry year 2027/28); 2027 entry recorded",
+    "Offer is in UCAS tariff points only: UWE does not publish a grade equivalent"
+   ],
+   "notes": "No specific A-level subjects are needed. Offers are in UCAS tariff points, and UWE's entry requirements page says the Extended Project and AS levels not taken to a full A-level count towards your total tariff points. Also available with a foundation year (UCAS code NL1F). Combines economics with business management. The 4-year version has a 40-week paid placement or a study year abroad after Year 2; students are eligible for Government Economic Service placements."
+  },
+  {
+   "id": "uwe-banking-finance",
+   "name": "Banking and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N300",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a placement year after Year 2 (same UCAS code on the course page)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from your Level 3 studies (A-levels or equivalent); UWE does not publish a grade equivalent",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/N300/banking-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent (UWE's entry requirements page says English Language or Literature)"
+    }
+   ],
+   "gcseText": "GCSE: Grade C/4 in English and Mathematics, or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://courses.uwe.ac.uk/N300/banking-and-finance",
+    "checked": "2026-10-21",
+    "evidence": "A-level subjects: No specific subjects required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (entry is GCSEs plus tariff points). UWE is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/N300/banking-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "need to achieve the published tariff points from your Level 3 studies prior to entry"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Contextual offer: UWE lowers the UCAS tariff points needed by 16 points for undergraduate degrees, so 112 minus 16 = 96 points. For UK (Home) applicants who qualify (judged from the UCAS Multiple Equality Measure and the 'More about you' answers on your UCAS form); no separate application needed. The course page just says 'See our contextual offers page'.",
+     "programme": null,
+     "source": {
+      "url": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "16 points for undergraduate degrees"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.uwe.ac.uk/N300/banking-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows entry year 2027/28); 2027 entry recorded",
+    "Offer is in UCAS tariff points only: UWE does not publish a grade equivalent"
+   ],
+   "notes": "No specific A-level subjects are needed. Offers are in UCAS tariff points, and UWE's entry requirements page says the Extended Project and AS levels not taken to a full A-level count towards your total tariff points. Also available with a foundation year (UCAS code N30F). Accredited by the Chartered Institute for Securities and Investment (CISI) and the CFA Institute. Taught in Bristol Business School (Bloomberg trading room)."
+  },
+  {
+   "id": "uwe-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N40P",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a placement year after Year 2 (same UCAS code on the course page)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from your Level 3 studies (A-levels or equivalent); UWE does not publish a grade equivalent",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/N40P/accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent (UWE's entry requirements page says English Language or Literature)"
+    }
+   ],
+   "gcseText": "GCSE: Grade C/4 in English and Mathematics, or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://courses.uwe.ac.uk/N40P/accounting-and-finance",
+    "checked": "2026-10-21",
+    "evidence": "A-level subjects: No specific subjects required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (entry is GCSEs plus tariff points). UWE is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/N40P/accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "need to achieve the published tariff points from your Level 3 studies prior to entry"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Contextual offer: UWE lowers the UCAS tariff points needed by 16 points for undergraduate degrees, so 112 minus 16 = 96 points. For UK (Home) applicants who qualify (judged from the UCAS Multiple Equality Measure and the 'More about you' answers on your UCAS form); no separate application needed. The course page just says 'See our contextual offers page'.",
+     "programme": null,
+     "source": {
+      "url": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "16 points for undergraduate degrees"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.uwe.ac.uk/N40P/accounting-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows entry year 2027/28); 2027 entry recorded",
+    "Offer is in UCAS tariff points only: UWE does not publish a grade equivalent"
+   ],
+   "notes": "No specific A-level subjects are needed. Offers are in UCAS tariff points, and UWE's entry requirements page says the Extended Project and AS levels not taken to a full A-level count towards your total tariff points. Also available with a foundation year (UCAS code N4PF). Accredited by ACCA, CIMA, ICAEW, IFA and AIA (the page lists maximum exemptions from these bodies)."
+  },
+  {
+   "id": "uwe-accounting-business-management",
+   "name": "Accounting and Business Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N4NB",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a placement year after Year 2 (same UCAS code on the course page)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from your Level 3 studies (A-levels or equivalent); UWE does not publish a grade equivalent",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/N4NB/accounting-and-business-management",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent (UWE's entry requirements page says English Language or Literature)"
+    }
+   ],
+   "gcseText": "GCSE: Grade C/4 in English and Mathematics, or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://courses.uwe.ac.uk/N4NB/accounting-and-business-management",
+    "checked": "2026-10-21",
+    "evidence": "A-level subjects: No specific subjects required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (entry is GCSEs plus tariff points). UWE is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/N4NB/accounting-and-business-management",
+     "checked": "2026-10-21",
+     "evidence": "need to achieve the published tariff points from your Level 3 studies prior to entry"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Contextual offer: UWE lowers the UCAS tariff points needed by 16 points for undergraduate degrees, so 112 minus 16 = 96 points. For UK (Home) applicants who qualify (judged from the UCAS Multiple Equality Measure and the 'More about you' answers on your UCAS form); no separate application needed. The course page just says 'See our contextual offers page'.",
+     "programme": null,
+     "source": {
+      "url": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "16 points for undergraduate degrees"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.uwe.ac.uk/N4NB/accounting-and-business-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows entry year 2027/28); 2027 entry recorded",
+    "Offer is in UCAS tariff points only: UWE does not publish a grade equivalent"
+   ],
+   "notes": "No specific A-level subjects are needed. Offers are in UCAS tariff points, and UWE's entry requirements page says the Extended Project and AS levels not taken to a full A-level count towards your total tariff points. Also available with a foundation year (UCAS code N4NF). Blends business management with accounting and finance."
+  },
+  {
+   "id": "uwe-business-management",
+   "name": "Business and Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a placement year after Year 2 (same UCAS code on the course page)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from your Level 3 studies (A-levels or equivalent); UWE does not publish a grade equivalent",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/N100/business-and-management",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent (UWE's entry requirements page says English Language or Literature)"
+    }
+   ],
+   "gcseText": "GCSE: Grade C/4 in English and Mathematics, or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://courses.uwe.ac.uk/N100/business-and-management",
+    "checked": "2026-10-21",
+    "evidence": "A-level subjects: No specific subjects required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (entry is GCSEs plus tariff points). UWE is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/N100/business-and-management",
+     "checked": "2026-10-21",
+     "evidence": "need to achieve the published tariff points from your Level 3 studies prior to entry"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Contextual offer: UWE lowers the UCAS tariff points needed by 16 points for undergraduate degrees, so 112 minus 16 = 96 points. For UK (Home) applicants who qualify (judged from the UCAS Multiple Equality Measure and the 'More about you' answers on your UCAS form); no separate application needed. The course page just says 'See our contextual offers page'.",
+     "programme": null,
+     "source": {
+      "url": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "16 points for undergraduate degrees"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.uwe.ac.uk/N100/business-and-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows entry year 2027/28); 2027 entry recorded",
+    "Offer is in UCAS tariff points only: UWE does not publish a grade equivalent"
+   ],
+   "notes": "No specific A-level subjects are needed. Offers are in UCAS tariff points, and UWE's entry requirements page says the Extended Project and AS levels not taken to a full A-level count towards your total tariff points. Also available with a foundation year (UCAS code N10F). General business degree with optional specialist modules; sandwich placement or study year abroad after Year 2."
+  },
+  {
+   "id": "uwe-real-estate-development",
+   "name": "Real Estate and Development",
+   "degree": "BSc (Hons)",
+   "ucasCode": "K440",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course with a work placement year after Year 2 (same UCAS code on the course page)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "real-estate"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 120,
+    "tariffLow": null,
+    "text": "120 UCAS tariff points from your Level 3 studies (A-levels or equivalent); UWE does not publish a grade equivalent",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/K440/real-estate-and-development",
+     "checked": "2026-10-21",
+     "evidence": "Tariff points: 120"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C/4 or equivalent (UWE's entry requirements page says English Language or Literature)"
+    }
+   ],
+   "gcseText": "GCSE: Grade C/4 in English and Mathematics, or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://courses.uwe.ac.uk/K440/real-estate-and-development",
+    "checked": "2026-10-21",
+    "evidence": "A-level subjects: No specific subjects required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (entry is GCSEs plus tariff points). UWE is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.uwe.ac.uk/K440/real-estate-and-development",
+     "checked": "2026-10-21",
+     "evidence": "need to achieve the published tariff points from your Level 3 studies prior to entry"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "Contextual offer: UWE lowers the UCAS tariff points needed by 16 points for undergraduate degrees, so 120 minus 16 = 104 points. For UK (Home) applicants who qualify (judged from the UCAS Multiple Equality Measure and the 'More about you' answers on your UCAS form); no separate application needed. The course page just says 'See our contextual offers page'.",
+     "programme": null,
+     "source": {
+      "url": "https://www.uwe.ac.uk/courses/applying/undergraduate-applications/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "16 points for undergraduate degrees"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.uwe.ac.uk/K440/real-estate-and-development",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows entry year 2027/28); 2027 entry recorded",
+    "Offer is in UCAS tariff points only: UWE does not publish a grade equivalent"
+   ],
+   "notes": "No specific A-level subjects are needed. Offers are in UCAS tariff points, and UWE's entry requirements page says the Extended Project and AS levels not taken to a full A-level count towards your total tariff points. Accredited by the Royal Institution of Chartered Surveyors (RICS). The 4-year version has a work placement after Year 2; the page does not mention a study year abroad or a foundation year."
+  }
+ ],
+ "notes": [
+  "All courses use 2027 entry: every course page shows 'Entry year 2027/28'; no 2028 entry pages are published yet (checked 2026-10-21).",
+  "UWE makes offers in UCAS tariff points (112 for most of these courses, 120 for Real Estate and Development) and the course pages say no specific A-level subjects are needed. GCSE English and Maths at grade C/4 are required.",
+  "UWE is not on UAT-UK's official TMUA list for 2027 entry, and none of these course pages names an admissions test.",
+  "Accommodation guarantee: UWE guarantees accommodation to full-time first-year students applying for the first time by the deadline, after accepting UWE as a firm choice (terms published for a September 2027 start; the room may be in the city centre).",
+  "Courses are taught at the Frenchay Campus (about 15 minutes by bus from Bristol city centre). Foundation year versions exist for most of these courses under their own UCAS codes."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry (2027/28) recorded for all courses",
+  "Living costs: UWE's £14,000–£15,000 estimate does not say which academic year it is for; weekly halls rents are only on individual accommodation pages (not recorded)",
+  "Open days: only the two autumn 2026 events are listed; a June open day is mentioned in passing but no date is published",
+  "Contextual offers: UWE does not say whether one criterion is enough on its own or how many you need, and does not publish the MEM threshold",
+  "Year 12 taster day: dates, application route, deadline, eligibility and cost not published yet"
+ ]
+}

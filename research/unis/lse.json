@@ -1,0 +1,1474 @@
+{
+ "id": "lse",
+ "name": "London School of Economics and Political Science",
+ "shortName": "LSE",
+ "aliases": [
+  "LSE",
+  "London School of Economics",
+  "The LSE",
+  "L.S.E."
+ ],
+ "city": "London",
+ "region": "London",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-politics-and-economics",
+  "checked": "2026-10-21",
+  "evidence": "Located in the heart of London, LSE provides one of the most exciting places in the world to study for your philosophy degree."
+ },
+ "location": {
+  "postcode": "WC2A 2AE",
+  "postcodeSource": "https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/entry-requirements",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/WC2A2AE",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for Home (UK) students starting in 2027/28. LSE says the Home fee is set in line with the UK Government's maximum fee and may increase in later years if that maximum changes.",
+  "source": {
+   "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+   "checked": "2026-10-21",
+   "evidence": "This is the tuition fee for Home students starting in 2027/28."
+  }
+ },
+ "livingCosts": {
+  "kind": "living cost estimate",
+  "amountLow": 1550,
+  "amountHigh": 1550,
+  "period": "month",
+  "academicYear": null,
+  "text": "LSE estimates you should allow at least £1,550 a month for all living expenses in London (accommodation, travel, food, laundry, study costs and other personal costs). It varies with your lifestyle. The page does not say which academic year the estimate is for.",
+  "source": {
+   "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/fees-and-funding",
+   "checked": "2026-10-21",
+   "evidence": "We estimate that you should allow for at least £1,550 per month for all living expenses, including accommodation, travel, food, laundry, study costs, and other personal expenses."
+  }
+ },
+ "openDays": {
+  "events": [],
+  "text": "Next undergraduate Open Day: April 2027 (exact date not announced yet). LSE holds two a year, in April and July.",
+  "url": "https://www.lse.ac.uk/study-at-lse/meet-visit-and-discover-LSE/experience-lse/undergraduate-open-day",
+  "source": {
+   "url": "https://www.lse.ac.uk/study-at-lse/meet-visit-and-discover-LSE/experience-lse/undergraduate-open-day",
+   "checked": "2026-10-21",
+   "evidence": "Our next Open Day will take place in April 2027. More details will appear here closer to the time."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "If you have Home fee status and meet any one of LSE's contextual flags (care-experienced, free school meals in the last six years, a lowest-participation home area, or an LSE or Sutton Trust access programme), you may be considered for a contextual offer one or two grades lower.",
+  "typicalReduction": "One or two grades lower than the standard entry requirements, depending on the degree programme. Any Maths requirement must still be met.",
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "You are a care-experienced student: you have spent time living with foster carers under local authority care, in residential care (for example a children's home), looked after at home under a supervision order, or in kinship care with relatives or friends (officially or informally).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "You have been eligible for free school meals (FSM) within the previous six years. Tick the FSM question on UCAS and ask your teacher to confirm it in their reference.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Your home postcode is in TUNDRA Quintile 1 (the 20% lowest for university participation) if you live in England. If you live in another UK nation LSE uses the POLAR4 dataset instead.",
+    "measure": "TUNDRA",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "access",
+    "detail": "You have completed an intensive LSE widening participation programme (LSE Springboard, LSE Thrive, LSE Pathways to Law or LSE Pathways to Banking and Finance) or any Sutton Trust Pathways programme at a UK university (Engineering, Medicine, Law, Banking and Finance or Consulting).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You may be eligible for a contextual offer if you have Home fee status and meet one or more of the criteria. LSE flags the information automatically from your UCAS form. Contextual offer grades are listed on each programme page. Having a contextual flag does not guarantee an offer, and LSE also uses other contextual information for extra consideration rather than a lower offer.",
+  "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/prospective-students/how-to-apply/contextual-admissions-and-offers",
+  "source": {
+   "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/prospective-students/how-to-apply/contextual-admissions-and-offers",
+   "checked": "2026-10-21",
+   "evidence": "You may be eligible for a contextual offer if you have Home fee status and meet one or more of the criteria below."
+  }
+ },
+ "programmes": [
+  {
+   "id": "lse-springboard",
+   "name": "LSE Springboard",
+   "provider": "London School of Economics and Political Science",
+   "providerType": "university",
+   "uniIds": [
+    "lse"
+   ],
+   "summary": "Free 10-month access programme (January to November 2027) for Year 12 students outside London and the South East, with campus visits, online academic tutorials and application support; finishing it lets you be considered for a contextual offer at LSE.",
+   "whoCanApply": "Year 12 students who have always attended a UK state school or college, live in England or Wales outside London and the South East, have at least grade 6 in GCSE English Language and Maths and mostly grades 7-9 at GCSE, and are on track for LSE's contextual offer grades.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "other"
+   ],
+   "eligibilityDetail": "Essential: in Year 12; always attended a UK state (non-fee-paying) school or college; live in a region of England or Wales that is not London or the South East; interested in applying to LSE; able to commit to all activities from January to November 2027; able to travel to LSE and back in a day (no more than about three hours each way); at least grade 6 in GCSE English Language and Maths; a strong set of GCSEs with the majority at 7, 8 and 9; on track for at least the contextual offer grades for your chosen LSE programme (including any required A-level subjects). Applications are then reviewed against additional criteria in priority order (care-experienced; low higher-education participation area, TUNDRA quintile 1 or 2; free school meals; estranged from both parents; first generation to go to university) and extenuating circumstances.",
+   "benefits": [
+    "Free: LSE pays for all activities and for travel to and from campus",
+    "Finishing the programme and applying to LSE means you can be considered for a contextual offer (not guaranteed)",
+    "Three campus visits, four academic tutorials with The Brilliant Club, admissions and personal statement support"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "lse"
+   ],
+   "offerReduction": "Considered for an LSE contextual offer, one or two grades lower than the standard offer depending on the degree programme (not guaranteed)",
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "Any LSE degree (general access programme with academic tutorials)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Starts Tuesday 12 January 2027 and runs until November 2027 (campus visits provisionally 16 April, 11 June and November 2027)",
+    "start": "2027-01-12",
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Monday 28 September 2026",
+    "date": "2026-09-28",
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "11:59pm on Sunday 1 November 2026 (late applications are not accepted)",
+    "date": "2026-11-01",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "2026-27 cohort (runs January to November 2027). Applications close on 1 November 2026.",
+   "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+   "source": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+    "checked": "2026-10-21",
+    "evidence": "Applications for the next cohort (LSE Springboard 2026-27) will open on Monday 28 September 2026, and close at 11:59pm on Sunday 1 November 2026."
+   },
+   "notConfirmed": [
+    "End date in November 2027 and the final campus visit date are still to be confirmed (TBC on the page)"
+   ]
+  },
+  {
+   "id": "lse-thrive",
+   "name": "LSE Thrive",
+   "provider": "London School of Economics and Political Science",
+   "providerType": "university",
+   "uniIds": [
+    "lse"
+   ],
+   "summary": "Free 10-month access programme (February to October 2027) for Year 12 students of Black heritage who live in or near London, with campus visits, mentoring and application support; finishing it lets you be considered for a contextual offer at LSE.",
+   "whoCanApply": "Year 12 students of Black heritage (Black or Black British - African or Caribbean, Mixed - White and Black African or Caribbean, or Other Black background) at UK state schools or colleges who live within about 90 minutes of LSE, with at least grade 6 in GCSE English Language and Maths and mostly 7-9 at GCSE.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "other"
+   ],
+   "eligibilityDetail": "Essential: in Year 12; always attended a UK state (non-fee-paying) school or college; identify as having Black African, Black Caribbean, Mixed White and Black African, Mixed White and Black Caribbean or Other Black heritage; interested in applying to LSE; able to commit to all activities from February to October 2027; live within a reasonable commuting distance (up to about 90 minutes) of LSE; at least grade 6 in GCSE English Language and Maths; a strong set of GCSEs with the majority at 7, 8 and 9; on track for at least the contextual offer grades for your chosen LSE programme. Applications are then reviewed against additional criteria in priority order (care-experienced; free school meals; low higher-education participation area; estranged from both parents; first generation to go to university) and extenuating circumstances.",
+   "benefits": [
+    "Free: LSE pays for all activities and reimburses travel to and from campus",
+    "Finishing the programme and applying to LSE means you can be considered for a contextual offer (not guaranteed)",
+    "Four campus visits, mentoring from current students, admissions workshops and personal statement support"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "lse"
+   ],
+   "offerReduction": "Considered for an LSE contextual offer, one or two grades lower than the standard offer depending on the degree programme (not guaranteed)",
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "Any LSE degree (general access programme with mentoring)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Starts Wednesday 17 February 2027 and runs until October 2027 (campus visits provisionally 17 February, 24 March, 16 June and October 2027)",
+    "start": "2027-02-17",
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Monday 5 October 2026",
+    "date": "2026-10-05",
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "11:59pm on Sunday 15 November 2026 (late applications are not accepted)",
+    "date": "2026-11-15",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "2026-27 cohort (runs February to October 2027). Applications close on 15 November 2026.",
+   "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-thrive-years-12-13",
+   "source": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-thrive-years-12-13",
+    "checked": "2026-10-21",
+    "evidence": "Applications for the next cohort (LSE Thrive 2026-27) open on Monday 5 October 2026, and close at 11:59pm on Sunday 15 November 2026."
+   },
+   "notConfirmed": [
+    "End date in October 2027 is still to be confirmed (TBC on the page)"
+   ]
+  },
+  {
+   "id": "lse-pathways-banking-finance",
+   "name": "LSE Pathways to Banking and Finance",
+   "provider": "London School of Economics and Political Science",
+   "providerType": "university",
+   "uniIds": [
+    "lse"
+   ],
+   "summary": "Free 18-month programme for Year 12 state-school students within about 90 minutes of LSE (run with the Sutton Trust): finance taster lectures, mentoring, work experience and a funded summer residential at the University of Warwick; you must be taking A-level or IB Higher Level Maths.",
+   "whoCanApply": "Year 12 students who have always attended a state-funded, non-fee-paying school or college and live within about 90 minutes of LSE, with at least five GCSEs at grades 9-6 (including English Language and Maths, two of them at 9-7), who are studying Maths at A-level or IB Higher Level and at least two traditional academic subjects.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "other"
+   ],
+   "eligibilityDetail": "Mandatory: always attended a state-funded, non-fee-paying school or college; studying in Year 12; live within reasonable commuting distance of LSE (up to 90 minutes). Academic: at least five GCSEs at grades 9-6 (or equivalent) including English Language and Maths, with at least two at 9-7; studying A-level or IB Higher Level Mathematics; studying at least two full A-levels or IB Higher Levels in traditional academic subjects. Additional criteria considered: first generation in your family to go to university; free school meals at secondary school; attend a school or college with a below-average A-level or Higher point score or low progression to higher education; live in a neighbourhood with a low rate of progression to higher education or high socio-economic deprivation; looked after or in care. If you are (or have been) in care you only need to meet the mandatory and academic requirements.",
+   "benefits": [
+    "Free: travel expenses for in-person events can be claimed back, and the National Conference at Warwick is fully funded",
+    "Completing it gives your LSE application additional consideration and you may be considered for a contextual offer (not guaranteed)",
+    "Finance taster lectures, mentoring by current LSE students, employer insight events and work experience placements (places are limited)"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "lse"
+   ],
+   "offerReduction": "Considered for an LSE contextual offer, one or two grades lower than the standard offer depending on the degree programme (not guaranteed)",
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "Banking and finance (finance-related taster lectures and careers)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "December in Year 12 to April in Year 13 (about 18 months); LSE says the programme runs every year",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Midday on Tuesday 1 September 2026",
+    "date": "2026-09-01",
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "11:59pm on Monday 19 October 2026 (closed; late applications are not accepted)",
+    "date": "2026-10-19",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "Details are for the 2026-27 intake (Year 12 in 2026-27). Applications closed on 19 October 2026. The programme is for Year 12 students only, and you apply through the Sutton Trust website.",
+   "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/pathways-to-banking-and-finance-london-years-12-13",
+   "source": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/pathways-to-banking-and-finance-london-years-12-13",
+    "checked": "2026-10-21",
+    "evidence": "The deadline is 11.59pm on Monday 19 October 2026."
+   },
+   "notConfirmed": [
+    "Exact dates of the 2026-27 activities and of the summer National Conference are not published (the page only gives the December to April pattern)",
+    "Next application round (autumn 2027) not published yet"
+   ]
+  },
+  {
+   "id": "lse-explore",
+   "name": "LSE Explore",
+   "provider": "London School of Economics and Political Science",
+   "providerType": "university",
+   "uniIds": [
+    "lse"
+   ],
+   "summary": "Free online taster events (plus a few in-person Explore Extra afternoons at LSE) where Year 12 students try social science degree subjects and learn how to apply to LSE.",
+   "whoCanApply": "Year 12 students who have always attended a UK state-funded, non-fee-paying school or college, are thinking about applying to LSE, have mostly grades 7-9 at GCSE and are on track for LSE's contextual offer grades (including any required A-level subjects).",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "other"
+   ],
+   "eligibilityDetail": "Essential: currently in Year 12 (England and Wales); always attended a UK state-funded, non-fee-paying school, college or sixth form; considering applying to undergraduate study at LSE; able to commit to the events; a strong set of GCSEs with the majority at grades 7, 8 or 9; on track to achieve at least the contextual offer grades for your chosen LSE programme(s), including any required A-level subjects. For the in-person Explore Extra events, LSE prioritises students who meet one or more additional criteria, such as being care-experienced, having been eligible for free school meals, living outside London, being estranged from both parents or being the first generation of your family to go to university.",
+   "benefits": [
+    "Free to attend",
+    "Taster lectures from LSE academics, student ambassador insights and sessions on applying to LSE",
+    "Some students are invited to in-person Explore Extra events (travel is paid for students outside London)"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "Social sciences (2026 departments: Anthropology, Economic History, International History, International Relations, Management, Philosophy Logic and Scientific Method)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Expected spring 2027, based on 2026 (online events ran 27 April to 7 May 2026; Explore Extra on Wednesday afternoons in June 2026)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published yet (LSE says to check the page in spring 2027)",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026 programme (applications closed). 2027 dates, departments and deadline are not announced yet.",
+   "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-explore-year-12",
+   "source": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-explore-year-12",
+    "checked": "2026-10-21",
+    "evidence": "Applications for LSE Explore are now closed for 2026. Visit this webpage in spring 2027 for information about future opportunities."
+   },
+   "notConfirmed": [
+    "2027 events, departments, dates and application deadline not announced yet",
+    "The 2026 line-up had no Economics-specific taster (Economic History and Management were included)"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.lse.ac.uk/",
+  "courses": "https://www.lse.ac.uk/programmes/search-courses?studyType=0%2F1%2F26%2F85%2F86",
+  "economics": "https://www.lse.ac.uk/economics/study/undergraduate",
+  "openDays": "https://www.lse.ac.uk/study-at-lse/meet-visit-and-discover-LSE/experience-lse/undergraduate-open-day",
+  "fees": "https://www.lse.ac.uk/study-at-lse/Undergraduate/fees-and-funding",
+  "contextual": "https://www.lse.ac.uk/study-at-lse/undergraduate/prospective-students/how-to-apply/contextual-admissions-and-offers",
+  "accommodation": "https://www.lse.ac.uk/student-life/accommodation"
+ },
+ "courses": [
+  {
+   "id": "lse-economics",
+   "name": "Economics",
+   "degree": "BSc",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "Chance to apply for a year abroad with one of LSE's global exchange partners; the page gives no separate length or code for it",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA with an A* in Mathematics (an A* in Further Mathematics plus an A in Mathematics is an accepted alternative)",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+     "checked": "2026-10-21",
+     "evidence": "A*AA with an A* in Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A-level Mathematics is required at A* (A*AA with an A* in Mathematics). An A* in Further Mathematics plus an A in Mathematics is an accepted alternative."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Further Mathematics"
+     ],
+     "note": "Desirable, not required. Acceptable with Mathematics and one other A-level (an essay-based third subject is preferred). With four or more full A-levels you are expected to get A*AA (A* in Mathematics) and a pass in the fourth."
+    },
+    {
+     "subjects": [
+      "Economics",
+      "Physics",
+      "History",
+      "Chemistry",
+      "English",
+      "Government and Politics"
+     ],
+     "note": "Typical choices alongside Mathematics. Economics, History, English and Government and Politics are good indicators of writing ability. A-level Economics is not required."
+    }
+   ],
+   "furtherMaths": "preferred",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    }
+   ],
+   "gcseText": "For GCSEs, you’ll need several GCSE grades at A (or 7) and A* (or 8-9). As a minimum, we ask for GCSE English Language and Mathematics grades at B (6) or higher. We’ll also consider your overall GCSE subject profile.",
+   "notAccepted": [
+    "Critical Thinking",
+    "General Studies",
+    "Global Perspectives and Research",
+    "Knowledge and Enquiry",
+    "Project Work",
+    "Thinking Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+    "checked": "2026-10-21",
+    "evidence": "A-level Mathematics (or equivalent) is therefore required."
+   },
+   "admissionsTest": {
+    "status": "required",
+    "name": "TMUA",
+    "effect": "The TMUA is mandatory: every applicant for September 2027 entry must take it. LSE says there is no pass or fail, so aim to do the best you can.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+     "checked": "2026-10-21",
+     "evidence": "Applicants are required to take the Test of Mathematics for University Admission (TMUA). The test is mandatory."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "A*AB with an A* in Mathematics. LSE may consider you for this lower contextual offer if you have Home fee status and meet one or more of its contextual flags (care-experienced; free school meals in the last six years; home postcode in TUNDRA quintile 1, or POLAR4 outside England; completed an LSE widening participation programme or a Sutton Trust Pathways programme). It is not automatic or guaranteed, and any Maths requirement must still be met.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+      "checked": "2026-10-21",
+      "evidence": "A*AB with an A* in Mathematics"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "Completing LSE Springboard, LSE Thrive, LSE Pathways to Law or LSE Pathways to Banking and Finance (or a Sutton Trust Pathways programme) means you can be considered for the contextual offer above (A*AB with an A* in Mathematics). This is not guaranteed, and each programme has its own entry criteria.",
+     "programme": "LSE Springboard / LSE Thrive / LSE Pathways to Banking and Finance",
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+      "checked": "2026-10-21",
+      "evidence": "Successful participation in and completion of the LSE Springboard programme will enable students who apply to LSE to be considered for a contextual offer."
+     }
+    }
+   ],
+   "competition": {
+    "offerRate": null,
+    "applicationsPerPlace": 13,
+    "year": "2025",
+    "text": "LSE's programme page shows 2,885 applications and an intake of 217, with a 2025 ratio of 13:1.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+     "checked": "2026-10-21",
+     "evidence": "2885 Applications 217 Intake 13:1 2025 Ratio"
+    }
+   },
+   "links": {
+    "course": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (academic year 2027/28, start 27 September 2027) recorded",
+    "Placement-year and foundation-year options are not mentioned on the course page"
+   ],
+   "notes": "TMUA is mandatory. Many students have A-level Economics but it is not required. Geography and Psychology are both on LSE's list of generally preferred A-level subjects. LSE does not interview. Excluded A-levels (admissions information page): Critical Thinking, General Studies, Global Perspectives and Research, Knowledge and Enquiry, Project Work, Thinking Skills."
+  },
+  {
+   "id": "lse-politics-economics",
+   "name": "Politics and Economics",
+   "degree": "BSc",
+   "ucasCode": "LL12",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA including Mathematics",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "AAA, including Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "A-level Mathematics (or equivalent) is required. The offer is AAA including Mathematics, so at least an A in Mathematics."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Government and Politics",
+      "History",
+      "English",
+      "Economics",
+      "Sociology",
+      "Philosophy",
+      "Languages",
+      "Mathematics"
+     ],
+     "note": "Typical subject choices; there is no set combination. Mathematics, Further Mathematics and one other subject may be seen as a less competitive combination than a broader mix of essay-based and quantitative subjects."
+    }
+   ],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE wants a strong pre-16 profile, such as several GCSEs at A (7) and A* (8-9), across a broad range of subjects."
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE wants a strong pre-16 profile, such as several GCSEs at A (7) and A* (8-9), across a broad range of subjects."
+    }
+   ],
+   "gcseText": "For GCSEs, you’ll need a strong pre-16 academic profile such as several GCSE grades of A (or 7) and A* (or 8-9). We also ask for a good set of GCSE grades or equivalent across a broad range of subjects, with a minimum of grade B (or 6) in GCSE English Language and Mathematics.",
+   "notAccepted": [
+    "Critical Thinking",
+    "General Studies",
+    "Global Perspectives and Research",
+    "Knowledge and Enquiry",
+    "Project Work",
+    "Thinking Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-economics",
+    "checked": "2026-10-21",
+    "evidence": "There is no set subject combination, although A-level Mathematics (or equivalent) is required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: this programme is not on LSE's list of programmes that use the TMUA (mandatory or recommended) for September 2027 entry.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Test-of-Mathematics-for-University-Admission-TMUA",
+     "checked": "2026-10-21",
+     "evidence": "Which LSE programmes use the TMUA in their selection process?"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "AAB",
+     "tariff": null,
+     "conditions": "AAB including an A in Mathematics. LSE may consider you for this lower contextual offer if you have Home fee status and meet one or more of its contextual flags (care-experienced; free school meals in the last six years; home postcode in TUNDRA quintile 1, or POLAR4 outside England; completed an LSE widening participation programme or a Sutton Trust Pathways programme). It is not automatic or guaranteed, and any Maths requirement must still be met.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-economics",
+      "checked": "2026-10-21",
+      "evidence": "AAB, including A in Mathematics"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "AAB",
+     "tariff": null,
+     "conditions": "Completing LSE Springboard, LSE Thrive, LSE Pathways to Law or LSE Pathways to Banking and Finance (or a Sutton Trust Pathways programme) means you can be considered for the contextual offer above (AAB including an A in Mathematics). This is not guaranteed, and each programme has its own entry criteria.",
+     "programme": "LSE Springboard / LSE Thrive / LSE Pathways to Banking and Finance",
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+      "checked": "2026-10-21",
+      "evidence": "Successful participation in and completion of the LSE Springboard programme will enable students who apply to LSE to be considered for a contextual offer."
+     }
+    }
+   ],
+   "competition": {
+    "offerRate": null,
+    "applicationsPerPlace": 17,
+    "year": "2025",
+    "text": "LSE's programme page shows 1,221 applications and an intake of 71, with a 2025 ratio of 17:1.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "1221 Applications 71 Intake 17:1 2025 Ratio"
+    }
+   },
+   "links": {
+    "course": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-politics-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (academic year 2027/28, start 27 September 2027) recorded",
+    "Placement-year and foundation-year options are not mentioned on the course page",
+    "Year-abroad option is not mentioned on the course page"
+   ],
+   "notes": "Taught by the Department of Government with the Department of Economics. Year 1 is two half-unit economics courses, two politics courses, two half-unit quantitative methods courses and LSE100. Geography and Psychology are both on LSE's list of generally preferred A-level subjects."
+  },
+  {
+   "id": "lse-ppe",
+   "name": "Philosophy, Politics and Economics (PPE)",
+   "degree": "BSc",
+   "ucasCode": "L0V0",
+   "lengthYears": 4,
+   "lengthNote": "Four-year programme (16 units). You can choose to study abroad for one year in Year 3 and graduate with the title 'BSc in Philosophy, Politics and Economics (with a Year Abroad)'.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA with an A* in Mathematics (an A* in Further Mathematics plus an A in Mathematics is an accepted alternative)",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-politics-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "A*AA, with an A* in Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A-level Mathematics is required at A* (A*AA with an A* in Mathematics). An A* in Further Mathematics plus an A in Mathematics is an accepted alternative."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Economics",
+      "English",
+      "Government and Politics",
+      "History",
+      "Languages",
+      "Philosophy",
+      "Sociology",
+      "Religious Studies"
+     ],
+     "note": "Typical choices; there is no set combination, but choose subjects that do not overlap in content (such as Economics and Business Studies). Mathematics, Further Mathematics and one other subject will be considered (ideally an arts or humanities subject)."
+    }
+   ],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    }
+   ],
+   "gcseText": "For GCSEs, you’ll need several GCSE grades at A (or 7) and A* (or 8-9). As a minimum, we ask for GCSE English Language and Mathematics grades at B (6) or higher. We’ll also consider your overall GCSE subject profile.",
+   "notAccepted": [
+    "Critical Thinking",
+    "General Studies",
+    "Global Perspectives and Research",
+    "Knowledge and Enquiry",
+    "Project Work",
+    "Thinking Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-politics-and-economics",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at A-level (or equivalent) is essential due to the nature of the core economics courses."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: this programme is not on LSE's list of programmes that use the TMUA (mandatory or recommended) for September 2027 entry.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Test-of-Mathematics-for-University-Admission-TMUA",
+     "checked": "2026-10-21",
+     "evidence": "Which LSE programmes use the TMUA in their selection process?"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "AAA",
+     "tariff": null,
+     "conditions": "AAA with an A in Mathematics. LSE may consider you for this lower contextual offer if you have Home fee status and meet one or more of its contextual flags (care-experienced; free school meals in the last six years; home postcode in TUNDRA quintile 1, or POLAR4 outside England; completed an LSE widening participation programme or a Sutton Trust Pathways programme). It is not automatic or guaranteed, and any Maths requirement must still be met.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-politics-and-economics",
+      "checked": "2026-10-21",
+      "evidence": "AAA with an A in Mathematics"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "AAA",
+     "tariff": null,
+     "conditions": "Completing LSE Springboard, LSE Thrive, LSE Pathways to Law or LSE Pathways to Banking and Finance (or a Sutton Trust Pathways programme) means you can be considered for the contextual offer above (AAA with an A in Mathematics). This is not guaranteed, and each programme has its own entry criteria.",
+     "programme": "LSE Springboard / LSE Thrive / LSE Pathways to Banking and Finance",
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+      "checked": "2026-10-21",
+      "evidence": "Successful participation in and completion of the LSE Springboard programme will enable students who apply to LSE to be considered for a contextual offer."
+     }
+    }
+   ],
+   "competition": {
+    "offerRate": null,
+    "applicationsPerPlace": 24,
+    "year": "2025",
+    "text": "LSE's programme page shows 1,183 applications and an intake of 49, with a 2025 ratio of 24:1.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-politics-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "1183 Applications 49 Intake 24:1 2025 Ratio"
+    }
+   },
+   "links": {
+    "course": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-philosophy-politics-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (academic year 2027/28, start 27 September 2027) recorded",
+    "Placement-year and foundation-year options are not mentioned on the course page"
+   ],
+   "notes": "Taught by the Department of Philosophy, Logic and Scientific Method. Students study all three subjects for the first three years. Further Mathematics is not required but gives helpful preparation. Critical Thinking A-level is not included in the standard offer. You do not need to have studied Philosophy, Politics or Economics before."
+  },
+  {
+   "id": "lse-geography-economics",
+   "name": "Geography with Economics",
+   "degree": "BSc",
+   "ucasCode": "L7L1",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-geography"
+   ],
+   "entryYear": 2026,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA including an A in Mathematics (this is the 2026 entry requirement; LSE says 2027 entry is still subject to confirmation)",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-geography-with-economics",
+     "checked": "2026-10-21",
+     "evidence": "AAA, including an A in Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "A-level Mathematics (or equivalent) is required; the offer is AAA including an A in Mathematics (2026 entry)."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Geography",
+      "Economics",
+      "Government and Politics",
+      "Sociology",
+      "History"
+     ],
+     "note": "Many applicants study one or more social science subjects in the sixth form (Geography and Economics are the most common); a natural science is also typical. There is no one set combination and A-level Economics is not required."
+    }
+   ],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE wants a strong set of GCSEs with the majority at A (7) and A* (8-9) and also considers your overall GCSE subject profile."
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE wants a strong set of GCSEs with the majority at A (7) and A* (8-9) and also considers your overall GCSE subject profile."
+    }
+   ],
+   "gcseText": "Achieve a strong set of GCSE grades including the majority at A (or 7) and A* (or 8-9). GCSE (or equivalent) English Language and Mathematics grades should be no lower than B (or 6). We also consider your overall GCSE subject profile.",
+   "notAccepted": [
+    "Critical Thinking",
+    "General Studies",
+    "Global Perspectives and Research",
+    "Knowledge and Enquiry",
+    "Project Work",
+    "Thinking Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-geography-with-economics",
+    "checked": "2026-10-21",
+    "evidence": "A-level Mathematics (or equivalent) is therefore required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: this programme is not on LSE's list of programmes that use the TMUA (mandatory or recommended) for September 2027 entry.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Test-of-Mathematics-for-University-Admission-TMUA",
+     "checked": "2026-10-21",
+     "evidence": "Which LSE programmes use the TMUA in their selection process?"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "ABB including an A in Mathematics (2026 entry). LSE may consider you for this lower contextual offer if you have Home fee status and meet one or more of its contextual flags (care-experienced; free school meals in the last six years; home postcode in TUNDRA quintile 1, or POLAR4 outside England; completed an LSE widening participation programme or a Sutton Trust Pathways programme). It is not automatic or guaranteed, and any Maths requirement must still be met.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-geography-with-economics",
+      "checked": "2026-10-21",
+      "evidence": "ABB, including an A in Mathematics"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Completing LSE Springboard, LSE Thrive, LSE Pathways to Law or LSE Pathways to Banking and Finance (or a Sutton Trust Pathways programme) means you can be considered for the contextual offer above (ABB including an A in Mathematics (2026 entry)). This is not guaranteed, and each programme has its own entry criteria.",
+     "programme": "LSE Springboard / LSE Thrive / LSE Pathways to Banking and Finance",
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+      "checked": "2026-10-21",
+      "evidence": "Successful participation in and completion of the LSE Springboard programme will enable students who apply to LSE to be considered for a contextual offer."
+     }
+    }
+   ],
+   "competition": {
+    "offerRate": null,
+    "applicationsPerPlace": 12,
+    "year": "2025",
+    "text": "LSE's programme page shows 325 applications and an intake of 27, with a 2025 ratio of 12:1.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-geography-with-economics",
+     "checked": "2026-10-21",
+     "evidence": "325 Applications 27 Intake 12:1 2025 Ratio"
+    }
+   },
+   "links": {
+    "course": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-geography-with-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2027 entry requirements are 'still subject to confirmation' on LSE's page, so the 2026 entry requirements are recorded",
+    "2028 entry requirements not published yet",
+    "Placement-year and foundation-year options are not mentioned on the course page",
+    "Year-abroad option is not mentioned on the course page"
+   ],
+   "notes": "Taught by the Department of Geography and Environment. Study time is split 75/25 between geography and economics. Expect to pay about 500 pounds towards a second-year field trip (bursaries are available for students who can show financial need). Geography and Psychology are both on LSE's list of generally preferred A-level subjects."
+  },
+  {
+   "id": "lse-maths-economics",
+   "name": "Mathematics and Economics",
+   "degree": "BSc",
+   "ucasCode": "GL11",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA with an A* in Mathematics; where your school or college offers it, AS- or A-level Further Mathematics is expected to be taken and a grade A achieved",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "A*AA, with an A* in Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "An A* in Mathematics is required. An A* in Further Mathematics plus an A in Mathematics would be an acceptable alternative."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Further Mathematics"
+     ],
+     "note": "Where it's offered by your school or college, AS- or A-level Further Mathematics is expected to be taken and a grade A achieved. LSE will consider Mathematics, Further Mathematics and one other subject. Other typical subjects include Chemistry and Physics. You do not need to have studied Economics."
+    }
+   ],
+   "furtherMaths": "preferred",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    }
+   ],
+   "gcseText": "For GCSEs, you’ll need several GCSE grades at A (or 7) and A* (or 8-9). As a minimum, we ask for GCSE English Language and Mathematics grades at B (6) or higher. We’ll also consider your overall GCSE subject profile.",
+   "notAccepted": [
+    "Critical Thinking",
+    "General Studies",
+    "Global Perspectives and Research",
+    "Knowledge and Enquiry",
+    "Project Work",
+    "Thinking Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-and-economics",
+    "checked": "2026-10-21",
+    "evidence": "An A* in Mathematics is required."
+   },
+   "admissionsTest": {
+    "status": "optional",
+    "name": "TMUA",
+    "effect": "The TMUA is recommended but not mandatory: a good score may make your application more competitive. LSE does not say a score earns a lower offer.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "Applicants are encouraged to take the Test of Mathematics for University Admission (TMUA). The test is not mandatory, however a good performance on the test may make an application more competitive."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "A*AB with an A* in Mathematics (Further Mathematics is still expected where offered). LSE may consider you for this lower contextual offer if you have Home fee status and meet one or more of its contextual flags (care-experienced; free school meals in the last six years; home postcode in TUNDRA quintile 1, or POLAR4 outside England; completed an LSE widening participation programme or a Sutton Trust Pathways programme). It is not automatic or guaranteed, and any Maths requirement must still be met.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-and-economics",
+      "checked": "2026-10-21",
+      "evidence": "A*AB with an A* in Mathematics"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "Completing LSE Springboard, LSE Thrive, LSE Pathways to Law or LSE Pathways to Banking and Finance (or a Sutton Trust Pathways programme) means you can be considered for the contextual offer above (A*AB with an A* in Mathematics (Further Mathematics is still expected where offered)). This is not guaranteed, and each programme has its own entry criteria.",
+     "programme": "LSE Springboard / LSE Thrive / LSE Pathways to Banking and Finance",
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+      "checked": "2026-10-21",
+      "evidence": "Successful participation in and completion of the LSE Springboard programme will enable students who apply to LSE to be considered for a contextual offer."
+     }
+    }
+   ],
+   "competition": {
+    "offerRate": null,
+    "applicationsPerPlace": 15,
+    "year": "2025",
+    "text": "LSE's programme page shows 896 applications and an intake of 60, with a 2025 ratio of 15:1.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-and-economics",
+     "checked": "2026-10-21",
+     "evidence": "896 Applications 60 Intake 15:1 2025 Ratio"
+    }
+   },
+   "links": {
+    "course": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-mathematics-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (academic year 2027/28, start 27 September 2027) recorded",
+    "Placement-year and foundation-year options are not mentioned on the course page",
+    "Further Mathematics is 'expected' where your school or college offers it; the page does not say what happens if it is not offered or not taken"
+   ],
+   "notes": "Taught by the Department of Mathematics jointly with Economics; study time is divided equally between mathematics and economics. Further Mathematics is classed here as preferred because LSE words it as expected only where the school or college offers it."
+  },
+  {
+   "id": "lse-econometrics",
+   "name": "Econometrics and Mathematical Economics",
+   "degree": "BSc",
+   "ucasCode": "L140",
+   "lengthYears": 3,
+   "lengthNote": "Chance to apply for a year abroad with one of LSE's global exchange partners; the page gives no separate length or code for it",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA with an A* in Mathematics (an A* in Further Mathematics plus an A in Mathematics is an accepted alternative)",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-econometrics-and-mathematical-economics",
+     "checked": "2026-10-21",
+     "evidence": "A*AA with an A* in Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A-level Mathematics is required at A* (A*AA with an A* in Mathematics). An A* in Further Mathematics plus an A in Mathematics is an accepted alternative."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Further Mathematics"
+     ],
+     "note": "Desirable, not required. Acceptable with Mathematics and one other A-level (an essay-based third subject is preferred). With four or more full A-levels you are expected to get A*AA (A* in Mathematics) and a pass in the fourth."
+    },
+    {
+     "subjects": [
+      "Economics",
+      "Physics",
+      "History",
+      "Chemistry",
+      "English",
+      "Government and Politics"
+     ],
+     "note": "Typical choices alongside Mathematics. Economics, History, English and Government and Politics are good indicators of writing ability."
+    }
+   ],
+   "furtherMaths": "preferred",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    }
+   ],
+   "gcseText": "For GCSEs, you’ll need several GCSE grades at A (or 7) and A* (or 8-9). As a minimum, we ask for GCSE English Language and Mathematics grades at B (6) or higher. We’ll also consider your overall GCSE subject profile.",
+   "notAccepted": [
+    "Critical Thinking",
+    "General Studies",
+    "Global Perspectives and Research",
+    "Knowledge and Enquiry",
+    "Project Work",
+    "Thinking Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-econometrics-and-mathematical-economics",
+    "checked": "2026-10-21",
+    "evidence": "A-level Mathematics (or equivalent) is therefore required."
+   },
+   "admissionsTest": {
+    "status": "required",
+    "name": "TMUA",
+    "effect": "The TMUA is mandatory: every applicant for September 2027 entry must take it. LSE says there is no pass or fail, so aim to do the best you can.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-econometrics-and-mathematical-economics",
+     "checked": "2026-10-21",
+     "evidence": "Applicants are required to take the Test of Mathematics for University Admission (TMUA). The test is mandatory."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "A*AB with an A* in Mathematics. LSE may consider you for this lower contextual offer if you have Home fee status and meet one or more of its contextual flags (care-experienced; free school meals in the last six years; home postcode in TUNDRA quintile 1, or POLAR4 outside England; completed an LSE widening participation programme or a Sutton Trust Pathways programme). It is not automatic or guaranteed, and any Maths requirement must still be met.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-econometrics-and-mathematical-economics",
+      "checked": "2026-10-21",
+      "evidence": "A*AB with an A* in Mathematics"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "Completing LSE Springboard, LSE Thrive, LSE Pathways to Law or LSE Pathways to Banking and Finance (or a Sutton Trust Pathways programme) means you can be considered for the contextual offer above (A*AB with an A* in Mathematics). This is not guaranteed, and each programme has its own entry criteria.",
+     "programme": "LSE Springboard / LSE Thrive / LSE Pathways to Banking and Finance",
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+      "checked": "2026-10-21",
+      "evidence": "Successful participation in and completion of the LSE Springboard programme will enable students who apply to LSE to be considered for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-econometrics-and-mathematical-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (academic year 2027/28, start 27 September 2027) recorded",
+    "Placement-year and foundation-year options are not mentioned on the course page",
+    "Application and intake figures for this programme are not shown in the page text"
+   ],
+   "notes": "TMUA is mandatory. LSE's page says students are rarely admitted to this programme in the first year, because that is too early to commit to a research career in economics; a limited number transfer in from other LSE programmes in the third year to do the quantitative economics dissertation."
+  },
+  {
+   "id": "lse-economics-data-science",
+   "name": "Economics and Data Science",
+   "degree": "BSc",
+   "ucasCode": "L1N3",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA with an A* in Mathematics; where your school or college offers it, AS- or A-level Further Mathematics is expected to be taken and a grade A achieved",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-data-science",
+     "checked": "2026-10-21",
+     "evidence": "A*AA, with an A* in Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A-level Mathematics (or equivalent) is required, at A* (A*AA with an A* in Mathematics)."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Further Mathematics"
+     ],
+     "note": "Highly desirable. Where it's offered by your school or college, AS- or A-level Further Mathematics is expected to be taken and a grade A achieved."
+    },
+    {
+     "subjects": [
+      "Physics",
+      "Chemistry"
+     ],
+     "note": "Quantitative A-levels give excellent preparation but are not mandatory. Good GCSE marks in quantitative subjects are also desirable."
+    }
+   ],
+   "furtherMaths": "preferred",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE wants a strong pre-16 profile, such as several GCSEs at A (7) and A* (8-9), across a broad range of subjects."
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE wants a strong pre-16 profile, such as several GCSEs at A (7) and A* (8-9), across a broad range of subjects."
+    }
+   ],
+   "gcseText": "For GCSEs, you’ll need a strong pre-16 academic profile such as several GCSE grades of A (or 7) and A* (or 8-9). We also ask for a good set of GCSE grades or equivalent across a broad range of subjects, with a minimum of grade B (or 6) in GCSE English and Mathematics.",
+   "notAccepted": [
+    "Critical Thinking",
+    "General Studies",
+    "Global Perspectives and Research",
+    "Knowledge and Enquiry",
+    "Project Work",
+    "Thinking Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-data-science",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at A-level or equivalent is required. Further Mathematics is highly desirable."
+   },
+   "admissionsTest": {
+    "status": "optional",
+    "name": "TMUA",
+    "effect": "The TMUA is recommended but not mandatory: a good score may make your application more competitive. LSE does not say a score earns a lower offer.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-data-science",
+     "checked": "2026-10-21",
+     "evidence": "Applicants are encouraged to take the Test of Mathematics for University Admission (TMUA). The test is not mandatory, however a good performance on the test may make an application more competitive."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "A*AB with an A* in Mathematics (Further Mathematics is still expected where offered). LSE may consider you for this lower contextual offer if you have Home fee status and meet one or more of its contextual flags (care-experienced; free school meals in the last six years; home postcode in TUNDRA quintile 1, or POLAR4 outside England; completed an LSE widening participation programme or a Sutton Trust Pathways programme). It is not automatic or guaranteed, and any Maths requirement must still be met.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-data-science",
+      "checked": "2026-10-21",
+      "evidence": "A*AB with an A* in Mathematics"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "Completing LSE Springboard, LSE Thrive, LSE Pathways to Law or LSE Pathways to Banking and Finance (or a Sutton Trust Pathways programme) means you can be considered for the contextual offer above (A*AB with an A* in Mathematics (Further Mathematics is still expected where offered)). This is not guaranteed, and each programme has its own entry criteria.",
+     "programme": "LSE Springboard / LSE Thrive / LSE Pathways to Banking and Finance",
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+      "checked": "2026-10-21",
+      "evidence": "Successful participation in and completion of the LSE Springboard programme will enable students who apply to LSE to be considered for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-economics-and-data-science",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (academic year 2027/28, start 27 September 2027) recorded",
+    "Placement-year and foundation-year options are not mentioned on the course page",
+    "Application and intake figures for this programme are not shown in the page text",
+    "Further Mathematics is 'expected' where your school or college offers it; the page does not say what happens if it is not offered or not taken"
+   ],
+   "notes": "Taught by the Department of Statistics. A strong mathematical focus: economics, econometrics, data analysis, machine learning and programming."
+  },
+  {
+   "id": "lse-finance",
+   "name": "Finance",
+   "degree": "BSc",
+   "ucasCode": "N300",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA with an A* in Mathematics (an A* in Further Mathematics and an A in Mathematics is acceptable)",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-finance",
+     "checked": "2026-10-21",
+     "evidence": "A*AA, with an A* in Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A-level Mathematics (or equivalent) is essential. If you take three or more A-levels you need A*AA with an A* in Mathematics. An A* in Further Mathematics and an A in Mathematics is acceptable."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Further Mathematics"
+     ],
+     "note": "Desirable and accepted with Mathematics and one other A-level. LSE understands it is not available in every school or college and says you will not be disadvantaged if it is not."
+    },
+    {
+     "subjects": [
+      "Economics",
+      "Physics",
+      "History",
+      "Chemistry",
+      "Government and Politics"
+     ],
+     "note": "Typical choices alongside Mathematics, to show analytical and writing ability."
+    }
+   ],
+   "furtherMaths": "preferred",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade B (6) or higher as a minimum. LSE also wants several GCSEs at A (7) and A* (8-9) and looks at your overall GCSE profile."
+    }
+   ],
+   "gcseText": "For GCSEs, you’ll need several GCSE grades at A (or 7) and A* (or 8-9). As a minimum, we ask for GCSE English Language and Mathematics grades at B (6) or higher. We’ll also consider your overall GCSE subject profile.",
+   "notAccepted": [
+    "Critical Thinking",
+    "General Studies",
+    "Global Perspectives and Research",
+    "Knowledge and Enquiry",
+    "Project Work",
+    "Thinking Skills"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-finance",
+    "checked": "2026-10-21",
+    "evidence": "A-level Mathematics (or equivalent) is therefore essential."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: this programme is not on LSE's list of programmes that use the TMUA (mandatory or recommended) for September 2027 entry.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/Undergraduate/Prospective-Students/How-to-Apply/Test-of-Mathematics-for-University-Admission-TMUA",
+     "checked": "2026-10-21",
+     "evidence": "Which LSE programmes use the TMUA in their selection process?"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "A*AB with an A* in Mathematics. LSE may consider you for this lower contextual offer if you have Home fee status and meet one or more of its contextual flags (care-experienced; free school meals in the last six years; home postcode in TUNDRA quintile 1, or POLAR4 outside England; completed an LSE widening participation programme or a Sutton Trust Pathways programme). It is not automatic or guaranteed, and any Maths requirement must still be met.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-finance",
+      "checked": "2026-10-21",
+      "evidence": "A*AB with an A* in Mathematics"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "Completing LSE Springboard, LSE Thrive, LSE Pathways to Law or LSE Pathways to Banking and Finance (or a Sutton Trust Pathways programme) means you can be considered for the contextual offer above (A*AB with an A* in Mathematics). This is not guaranteed, and each programme has its own entry criteria.",
+     "programme": "LSE Springboard / LSE Thrive / LSE Pathways to Banking and Finance",
+     "source": {
+      "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/widening-participation/activities/lse-springboard-years-12-13",
+      "checked": "2026-10-21",
+      "evidence": "Successful participation in and completion of the LSE Springboard programme will enable students who apply to LSE to be considered for a contextual offer."
+     }
+    }
+   ],
+   "competition": {
+    "offerRate": null,
+    "applicationsPerPlace": 22,
+    "year": "2025",
+    "text": "LSE's programme page shows 1,526 applications and an intake of 69, with a 2025 ratio of 22:1.",
+    "source": {
+     "url": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-finance",
+     "checked": "2026-10-21",
+     "evidence": "1526 Applications 69 Intake 22:1 2025 Ratio"
+    }
+   },
+   "links": {
+    "course": "https://www.lse.ac.uk/study-at-lse/undergraduate/bsc-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry (academic year 2027/28, start 27 September 2027) recorded",
+    "Placement-year and foundation-year options are not mentioned on the course page",
+    "Year-abroad option is not mentioned on the course page"
+   ],
+   "notes": "Taught by the Department of Finance. Year 1 covers principles of finance, quantitative skills, and introductory economics, mathematics and statistics."
+  }
+ ],
+ "notes": [
+  "No 2028-entry course pages yet (checked 2026-10-21): the newest LSE course pages are for 2027 entry (academic year 2027/28, start 27 September 2027), so courses use 2027 entry. BSc Geography with Economics only shows 2026-entry requirements (2027 entry 'still subject to confirmation').",
+  "TMUA (2027 entry): mandatory for BSc Economics and BSc Econometrics and Mathematical Economics; recommended but not mandatory for Mathematics and Economics and Economics and Data Science (and other maths programmes). Not used for Politics and Economics, PPE, Geography with Economics or Finance.",
+  "LSE says it received approximately 34,000 applications for roughly 1,900 places in 2026 (whole university, not per course). Per-course application, intake and ratio figures (labelled 2025) are on most programme pages and are recorded under each course's competition.",
+  "LSE does not interview candidates. Its UCAS deadline for September 2027 entry is 13 January 2027 at 18:00.",
+  "Contextual offers are one or two grades lower than the standard offer, and any Maths requirement must still be met. Completing LSE Pathways to Law or any Sutton Trust Pathways programme (Engineering, Medicine, Law, Banking and Finance, Consulting) also counts as a contextual flag; LSE Pathways to Law is not listed under programmes because it is a law programme.",
+  "LSE halls: rates start from £100 a week for a shared self-catered room (accommodation prices page). Private housing in London starts at about £650 a month (London on a budget page).",
+  "Other LSE degrees with Economics exist but are not recorded here: Accounting and Finance, Economics and Economic History, Mathematics with Economics, Philosophy and Economics, Management and Economic History."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements, 2028/29 fees and 2028 dates not published yet; 2027 entry (academic year 2027/28) recorded",
+  "BSc Geography with Economics: 2027 entry requirements are 'still subject to confirmation'; 2026 entry recorded",
+  "LSE's contextual admissions page says its information applies to 2026 entry and may change for future entry years",
+  "Living-cost estimate: the page does not say which academic year it applies to",
+  "Exact date of the April 2027 undergraduate Open Day not announced yet",
+  "LSE Explore: 2027 dates, departments and application deadline not announced yet",
+  "Application and intake figures not shown for Econometrics and Mathematical Economics or Economics and Data Science"
+ ]
+}

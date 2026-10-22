@@ -1,0 +1,747 @@
+{
+ "id": "derby",
+ "name": "University of Derby",
+ "shortName": "Derby",
+ "aliases": [
+  "Derby",
+  "Derby Uni",
+  "Uni of Derby",
+  "UoDerby"
+ ],
+ "city": "Derby",
+ "region": "Midlands",
+ "country": "England",
+ "setting": "mixed",
+ "settingEvidence": {
+  "url": "https://www.derby.ac.uk/open-days/undergraduate/",
+  "checked": "2026-10-21",
+  "evidence": "This is your chance to explore the campus and city, and experience what life could be like studying here."
+ },
+ "location": {
+  "postcode": "DE22 1GB",
+  "postcodeSource": "https://www.derby.ac.uk/contact-us/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/DE221GB",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 9790,
+  "academicYear": "2026/27",
+  "text": "£9,790 per year for UK students starting in September 2026 or January 2027 (2026/27). Derby hasn't published a 2027/28 fee yet; fees are set by the UK government and may change each year.",
+  "source": {
+   "url": "https://www.derby.ac.uk/undergraduate/fees-and-finance/",
+   "checked": "2026-10-21",
+   "evidence": "For most undergraduate courses, if you start in September 2026 or January 2027, you will pay £9,790 per year."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 119,
+  "amountHigh": 208,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University halls for undergraduates cost about £119–£208 a week in 2026/27: standard single rooms from £119.42, ensuites £150.57–£187.25, studios up to £207.76. Most contracts are 42 or 50 weeks; studios are 51 weeks.",
+  "source": {
+   "url": "https://www.derby.ac.uk/life/accommodation/applying/2026-27-prices/",
+   "checked": "2026-10-21",
+   "evidence": "Our premium standard rooms have been reduced from £140.56 to £128.59 a week, saving £500 on a typical 42-week contract."
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-08",
+    "endDate": null,
+    "label": "Undergraduate open day (9:30am–3:00pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-12-05",
+    "endDate": null,
+    "label": "Undergraduate open day (9:30am–3:00pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-01-09",
+    "endDate": null,
+    "label": "Undergraduate open day (9:30am–3:00pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next open days: Sunday 8 November 2026, Saturday 5 December 2026 and Saturday 9 January 2027 (all 9:30am to 3:00pm). Later dates aren't listed yet; bookings open about two months before each one.",
+  "url": "https://www.derby.ac.uk/open-days/undergraduate/",
+  "source": {
+   "url": "https://www.derby.ac.uk/open-days/undergraduate/",
+   "checked": "2026-10-21",
+   "evidence": "Sunday 8 November 2026, 9:30am – 3:00pm"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Derby may lower the grades it asks for, or give extra consideration, to applicants who are care experienced, estranged from their families, refugees or asylum seekers, or whose parents/carers are in the UK armed forces.",
+  "typicalReduction": null,
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "Students who are care experienced",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "estranged",
+    "detail": "Students who are estranged from their families",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "refugee",
+    "detail": "Students who are refugees or asylum seekers",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Students whose parents/carers are in the UK armed forces",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "Typical criteria may include one or more of the listed groups, and students need to declare that they meet one of them on their application. Derby may either reduce grade requirements or give extra consideration when deciding whether to give a contextual offer; no grade reduction is published.",
+  "url": "https://www.derby.ac.uk/services/admissions/policies/contextual-admissions/",
+  "source": {
+   "url": "https://www.derby.ac.uk/services/admissions/policies/contextual-admissions/",
+   "checked": "2026-10-21",
+   "evidence": "We will use the information in an application form and may either reduce grade requirements or give extra consideration when deciding whether to give a contextual offer."
+  }
+ },
+ "programmes": [
+  {
+   "id": "derby-lets-get-down-to-business",
+   "name": "Let's Get Down to Business",
+   "provider": "University of Derby",
+   "providerType": "university",
+   "uniIds": [
+    "derby"
+   ],
+   "summary": "A one-day event at Derby's Cavendish Building where Year 12 and 13 students try business sessions with academics and pitch a live business brief to a panel of business leaders and researchers.",
+   "whoCanApply": "Year 12 and 13 students. The page lists no other entry rules and doesn't say whether students book themselves or through their school or college.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Aimed at Year 12 and 13 students; no widening participation criteria are mentioned. Held at the Cavendish Building, Derby Campus, 1 Agard Street, Derby, DE1 1DZ, from 9:30am to 2:45pm.",
+   "benefits": [
+    "Sessions led by Derby International Business School academics and current students",
+    "A live brief from one of Derby's industry links, pitched to a panel of business leaders and active researchers"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated on the page",
+   "isFree": null,
+   "format": "day",
+   "subjects": "Business (Derby International Business School)",
+   "yearGroup": "Year 12 and 13",
+   "runs": {
+    "text": "Wednesday 11 November 2026, 9:30am to 2:45pm; the event also runs on Wednesday 17 March 2027",
+    "start": "2026-11-11",
+    "end": "2026-11-11",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Bookings are open now for 11 November 2026; the booking form for 17 March 2027 goes live after the November event",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "Based on the 2026/27 dates: 11 November 2026 (event page) and 17 March 2027 (Business and Management outreach page).",
+   "url": "https://www.derby.ac.uk/departments/schools-colleges-liaison/schools-and-colleges-liaison-events/lets-get-down-to-business/",
+   "source": {
+    "url": "https://www.derby.ac.uk/departments/schools-colleges-liaison/schools-and-colleges-liaison-events/lets-get-down-to-business/",
+    "checked": "2026-10-21",
+    "evidence": "Wednesday 11 November 2026, 9:30am to 2:45pm"
+   },
+   "notConfirmed": [
+    "Cost isn't stated on the event page",
+    "The page doesn't say whether students can book themselves or must book through a school or college",
+    "Application deadline not published"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.derby.ac.uk/",
+  "courses": "https://www.derby.ac.uk/undergraduate/courses/a-z/",
+  "economics": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/",
+  "openDays": "https://www.derby.ac.uk/open-days/undergraduate/",
+  "fees": "https://www.derby.ac.uk/undergraduate/fees-and-finance/",
+  "contextual": "https://www.derby.ac.uk/services/admissions/policies/contextual-admissions/",
+  "accommodation": "https://www.derby.ac.uk/life/accommodation/applying/2026-27-prices/"
+ },
+ "courses": [
+  {
+   "id": "derby-economics",
+   "name": "Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L346",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a placement year (separate course page); part-time up to 6 years",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points for September 2027 entry (the page shows BBC as the A-level grades)",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/economics-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "112 (2026 entry) 112 (2027 entry)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths grade 4 (C) or above, or an equivalent qualification"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English grade 4 (C) or above, or an equivalent qualification"
+    }
+   ],
+   "gcseText": "GCSE Maths and English Grade 4/Grade C (or above) or equivalent qualification",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/economics-ba-hons/",
+    "checked": "2026-10-21",
+    "evidence": "UCAS points | 112 | A Level | BBC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements for this course (Derby is also not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/economics-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "These are the typical qualification requirements for September 2027 entry."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/economics-ba-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "A-level subjects: the page gives only 112 UCAS points (BBC) and GCSE Maths and English at grade 4, and doesn't say which A-level subjects are required, preferred or excluded",
+    "2028 entry: Derby's course pages show typical requirements for September 2026 and 2027 entry only, so 2027 entry is used",
+    "Contextual offers: Derby doesn't publish the grades or points a contextual offer would need"
+   ],
+   "notes": "Taught at Kedleston Road, Derby Campus. If you don't reach the typical points there is a foundation-year version with its own course page. The page says the course is accredited by CIMA (Chartered Institute of Management Accountants)."
+  },
+  {
+   "id": "derby-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a placement year (separate course page); part-time up to 6 years",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points for September 2027 entry (the page shows BBC as the A-level grades)",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/economics-and-finance-bsc-hons/",
+     "checked": "2026-10-21",
+     "evidence": "112 (2026 entry) 112 (2027 entry)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths grade 4 (C) or above, or an equivalent qualification"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English grade 4 (C) or above, or an equivalent qualification"
+    }
+   ],
+   "gcseText": "GCSE Maths and English Grade 4/Grade C (or above) or equivalent qualification",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/economics-and-finance-bsc-hons/",
+    "checked": "2026-10-21",
+    "evidence": "UCAS points | 112 | A Level | BBC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements for this course (Derby is also not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/economics-and-finance-bsc-hons/",
+     "checked": "2026-10-21",
+     "evidence": "These are the typical qualification requirements for September 2027 entry."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/economics-and-finance-bsc-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "A-level subjects: the page gives only 112 UCAS points (BBC) and GCSE Maths and English at grade 4, and doesn't say which A-level subjects are required, preferred or excluded",
+    "2028 entry: Derby's course pages show typical requirements for September 2026 and 2027 entry only, so 2027 entry is used",
+    "Contextual offers: Derby doesn't publish the grades or points a contextual offer would need"
+   ],
+   "notes": "Taught at Kedleston Road, Derby Campus. Accredited by the Chartered Institution for Securities and Investment (CISI). You can study abroad for a semester or a year at a partner university, usually in stage two. A foundation-year version has its own course page."
+  },
+  {
+   "id": "derby-business-management-economics",
+   "name": "Business Management and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "LNC2",
+   "lengthYears": 3,
+   "lengthNote": "An optional placement year is available",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-management",
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points for September 2027 entry (the page shows BBC as the A-level grades)",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/joint-honours-courses/business-management-and-economics-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "112 (2026 entry) 112 (2027 entry)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths grade 4 (C) or above, or an equivalent qualification"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English grade 4 (C) or above, or an equivalent qualification"
+    }
+   ],
+   "gcseText": "GCSE Maths and English Grade 4/Grade C (or above) or equivalent qualification",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.derby.ac.uk/undergraduate/joint-honours-courses/business-management-and-economics-ba-hons/",
+    "checked": "2026-10-21",
+    "evidence": "UCAS points | 112 | A Level | BBC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements for this course (Derby is also not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/joint-honours-courses/business-management-and-economics-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "These are the typical qualification requirements for September 2027 entry."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.derby.ac.uk/undergraduate/joint-honours-courses/business-management-and-economics-ba-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "A-level subjects: the page gives only 112 UCAS points (BBC) and GCSE Maths and English at grade 4, and doesn't say which A-level subjects are required, preferred or excluded",
+    "2028 entry: Derby's course pages show typical requirements for September 2026 and 2027 entry only, so 2027 entry is used",
+    "Contextual offers: Derby doesn't publish the grades or points a contextual offer would need"
+   ],
+   "notes": "Joint honours taught at Kedleston Road, Derby Campus: you study both subjects equally in year 1, then choose to major in one subject or keep studying both equally. Chartered Management Institute (CMI) accreditation if you pass the Business Management modules in year 1 and the required modules in year 2."
+  },
+  {
+   "id": "derby-international-relations-economics",
+   "name": "International Relations and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L2L3",
+   "lengthYears": 3,
+   "lengthNote": "An optional placement year is available",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points for September 2027 entry (the page shows BBC as the A-level grades)",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/joint-honours-courses/international-relations-economics-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "112 (2026 entry) 112 (2027 entry)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths grade 4 (C) or above, or an equivalent qualification"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English grade 4 (C) or above, or an equivalent qualification"
+    }
+   ],
+   "gcseText": "GCSE Maths and English Grade 4/Grade C (or above) or equivalent qualification",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.derby.ac.uk/undergraduate/joint-honours-courses/international-relations-economics-ba-hons/",
+    "checked": "2026-10-21",
+    "evidence": "UCAS points | 112 | A Level | BBC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements for this course (Derby is also not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/joint-honours-courses/international-relations-economics-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "These are the typical qualification requirements for September 2027 entry."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.derby.ac.uk/undergraduate/joint-honours-courses/international-relations-economics-ba-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "A-level subjects: the page gives only 112 UCAS points (BBC) and GCSE Maths and English at grade 4, and doesn't say which A-level subjects are required, preferred or excluded",
+    "2028 entry: Derby's course pages show typical requirements for September 2026 and 2027 entry only, so 2027 entry is used",
+    "Contextual offers: Derby doesn't publish the grades or points a contextual offer would need"
+   ],
+   "notes": "Joint honours taught at Kedleston Road, Derby Campus: you study both subjects equally in year 1, then choose to major in one subject or keep studying both equally."
+  },
+  {
+   "id": "derby-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N400",
+   "lengthYears": 3,
+   "lengthNote": "Also offered with a placement year (separate course page)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points for September 2027 entry (the page shows BBC as the A-level grades)",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/accounting-and-finance-bsc-hons/",
+     "checked": "2026-10-21",
+     "evidence": "112 (2026 entry) 112 (2027 entry)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths grade 4 (C) or above, or an equivalent qualification"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English grade 4 (C) or above, or an equivalent qualification"
+    }
+   ],
+   "gcseText": "GCSE Maths and English Grade 4/Grade C (or above) or equivalent qualification",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/accounting-and-finance-bsc-hons/",
+    "checked": "2026-10-21",
+    "evidence": "UCAS points | 112 | A Level | BBC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements for this course (Derby is also not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/accounting-and-finance-bsc-hons/",
+     "checked": "2026-10-21",
+     "evidence": "These are the typical qualification requirements for September 2027 entry."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.derby.ac.uk/undergraduate/accounting-economics-finance-courses/accounting-and-finance-bsc-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "A-level subjects: the page gives only 112 UCAS points (BBC) and GCSE Maths and English at grade 4, and doesn't say which A-level subjects are required, preferred or excluded",
+    "2028 entry: Derby's course pages show typical requirements for September 2026 and 2027 entry only, so 2027 entry is used",
+    "Contextual offers: Derby doesn't publish the grades or points a contextual offer would need"
+   ],
+   "notes": "Taught on Derby Campus (the page doesn't name the building). Accredited by EFMD. If you pick the relevant modules you can apply for all nine maximum ACCA exemptions, plus exemptions from CIMA, ICAEW, AIA and CPA Australia. A foundation-year version has its own course page."
+  },
+  {
+   "id": "derby-business-management-finance",
+   "name": "Business Management and Finance",
+   "degree": "BA (Hons)",
+   "ucasCode": "N10B",
+   "lengthYears": 3,
+   "lengthNote": "4 years with an optional placement year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points for September 2027 entry (the page shows BBC as the A-level grades)",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/business-management-courses/business-management-finance-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "112 (2026 entry) 112 (2027 entry)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths grade 4 (C) or above, or an equivalent qualification"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English grade 4 (C) or above, or an equivalent qualification"
+    }
+   ],
+   "gcseText": "GCSE Maths and English Grade 4/Grade C (or above) or equivalent qualification",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.derby.ac.uk/undergraduate/business-management-courses/business-management-finance-ba-hons/",
+    "checked": "2026-10-21",
+    "evidence": "UCAS points | 112 | A Level | BBC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements for this course (Derby is also not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/business-management-courses/business-management-finance-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "These are the typical qualification requirements for September 2027 entry."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.derby.ac.uk/undergraduate/business-management-courses/business-management-finance-ba-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "A-level subjects: the page gives only 112 UCAS points (BBC) and GCSE Maths and English at grade 4, and doesn't say which A-level subjects are required, preferred or excluded",
+    "2028 entry: Derby's course pages show typical requirements for September 2026 and 2027 entry only, so 2027 entry is used",
+    "Contextual offers: Derby doesn't publish the grades or points a contextual offer would need"
+   ],
+   "notes": "Taught in the Cavendish Building, Derby Campus (Derby city centre site, DE1 1DZ). You can graduate with the CMI Level 5 Diploma in Management and Leadership alongside the degree, and optional modules give CIMA exemptions. First year is shared with the other Business Management degrees, then you choose the Finance pathway."
+  },
+  {
+   "id": "derby-business-management",
+   "name": "Business Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N200",
+   "lengthYears": 3,
+   "lengthNote": "Also offered with a placement year (separate course page); part-time up to 6 years",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points for September 2027 entry (the page shows BBC as the A-level grades)",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/business-management-courses/business-management-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "112 (2026 entry) 112 (2027 entry)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Maths grade 4 (C) or above, or an equivalent qualification"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English grade 4 (C) or above, or an equivalent qualification"
+    }
+   ],
+   "gcseText": "GCSE Maths and English Grade 4/Grade C (or above) or equivalent qualification",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.derby.ac.uk/undergraduate/business-management-courses/business-management-ba-hons/",
+    "checked": "2026-10-21",
+    "evidence": "UCAS points | 112 | A Level | BBC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements for this course (Derby is also not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.derby.ac.uk/undergraduate/business-management-courses/business-management-ba-hons/",
+     "checked": "2026-10-21",
+     "evidence": "These are the typical qualification requirements for September 2027 entry."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.derby.ac.uk/undergraduate/business-management-courses/business-management-ba-hons/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "A-level subjects: the page gives only 112 UCAS points (BBC) and GCSE Maths and English at grade 4, and doesn't say which A-level subjects are required, preferred or excluded",
+    "2028 entry: Derby's course pages show typical requirements for September 2026 and 2027 entry only, so 2027 entry is used",
+    "Contextual offers: Derby doesn't publish the grades or points a contextual offer would need"
+   ],
+   "notes": "Taught in the Cavendish Building, Derby Campus (Derby city centre site, DE1 1DZ). The page says a professional CMI Diploma is included in your tuition fees. Final year is a Business Consultancy Project instead of a traditional dissertation."
+  }
+ ],
+ "notes": [
+  "Derby shows its offers as UCAS tariff points (112 points on every course recorded) with the A-level grades alongside (BBC). The course pages list no required A-level subjects, only GCSE Maths and English at grade 4.",
+  "No 2028-entry requirements yet: Derby's course pages show typical requirements for September 2026 and September 2027 entry only, so 2027 entry is used for all courses.",
+  "Economics, Economics and Finance and the two joint honours Economics degrees are taught at Kedleston Road, Derby Campus (DE22 1GB). The Business Management courses are taught in the Cavendish Building, 1 Agard Street, Derby, DE1 1DZ (another Derby Campus site, nearer the city centre).",
+  "Derby is not on UAT-UK's TMUA list for 2027 entry and none of the course pages mention an admissions test.",
+  "The fees and finance page still quotes an older halls range of £115-157 a week; the dated 2026-27 halls price list (£119.42-£207.76) is used here.",
+  "Derby's Year 12-13 outreach activity guide mostly lists sessions booked through schools and colleges (workshops, EPQ information days, library visits); it has no Economics-specific Year 12 event. The Business and Management outreach page lists Let's Get Down to Business for Year 12."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2027/28 Home fee not published; £9,790 is the 2026/27 fee",
+  "Contextual admissions: Derby doesn't publish how much a contextual offer lowers the grades, and lists no area-based or free-school-meals criteria",
+  "Open days: only dates up to January 2027 are listed; later dates not published yet",
+  "A-level subject requirements are not listed on any recorded course page"
+ ]
+}

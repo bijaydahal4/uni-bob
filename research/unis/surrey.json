@@ -1,0 +1,1210 @@
+{
+  "id": "surrey",
+  "name": "University of Surrey",
+  "shortName": "Surrey",
+  "aliases": [
+    "Surrey",
+    "Surrey Uni",
+    "Uni of Surrey",
+    "Surrey University",
+    "Guildford"
+  ],
+  "city": "Guildford",
+  "region": "South East",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.surrey.ac.uk/open-days",
+    "checked": "2026-10-20",
+    "evidence": "Experience our campus community - Explore our facilities, teaching spaces and social areas - all in one place."
+  },
+  "location": {
+    "postcode": "GU2 7XH",
+    "postcodeSource": "https://www.surrey.ac.uk/open-days",
+    "lat": null,
+    "lng": null,
+    "coordsSource": "https://api.postcodes.io/postcodes/GU27XH",
+    "checked": "2026-10-20"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027 entry",
+    "text": "£10,050 per year for UK students (2027 entry); the optional placement year is charged at about 20% of that",
+    "source": {
+      "url": "https://www.surrey.ac.uk/fees-and-funding/tuition-fees/undergraduate-2027-entry",
+      "checked": "2026-10-20",
+      "evidence": "Economics BSc (Hons) Course length 3 years UK £10,050 Overseas £22,700"
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 137.5,
+    "amountHigh": 312,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "Single rooms in University of Surrey halls cost about £137.50 to £312 a week in 2026/27 (a contract of 38 weeks and 2 days for undergraduates; a shared room is £89.50 a week). Gas, electricity, water, broadband and contents insurance are included",
+    "source": {
+      "url": "https://www.surrey.ac.uk/accommodation/prices-and-payment",
+      "checked": "2026-10-20",
+      "evidence": "Accommodation prices 2026/27 academic year ... | Budget Rooms | Cathedral and Stag Hill Court | £137.50 ... | Self-contained studio flat | Manor Park | £302 to £312"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-11-07",
+        "endDate": null,
+        "label": "Undergraduate open day (all other subjects: morning session from 8:30am, afternoon session from 12:45pm; separate health sciences session)",
+        "format": "in person",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2026-12-02",
+        "endDate": null,
+        "label": "Undergraduate open afternoon",
+        "format": "in person",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next open days: Saturday 7 November 2026 and an open afternoon on Wednesday 2 December 2026 (booking needed). Guided campus tours also run through to December. 2027 dates not announced yet.",
+    "url": "https://www.surrey.ac.uk/open-days",
+    "source": {
+      "url": "https://www.surrey.ac.uk/open-days",
+      "checked": "2026-10-20",
+      "evidence": "Saturday 07 November ... Undergraduate open day ... Wednesday 02 December ... Undergraduate open afternoon"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Surrey gives UK home students who meet its contextual criteria an offer typically two A-level grades lower, and runs In2Surrey, a separate scheme that can give an offer typically one A-level grade lower.",
+    "typicalReduction": "typically two A-level grades (or one BTEC grade) lower than the published grade; through In2Surrey, typically one A-level grade lower. Subject requirements are not reduced",
+    "criteria": [
+      {
+        "key": "area",
+        "detail": "Automatic contextual offer: you live in an area where few people go on to higher education (POLAR4 quintile 1)",
+        "measure": "POLAR4",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Automatic contextual offer: you live in an area of multiple deprivation (Indices of Multiple Deprivation, IMD quintile 1; the page says this means deciles 1 and 2)",
+        "measure": "IMD",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Automatic contextual offer: you have experience of living in care (for example foster care, a children's home, a supervision order at home or kinship care)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "Automatic contextual offer: you received free school meals at any point during secondary school",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "Automatic contextual offer: you are under 25 and estranged from your parents (not in contact with and supported by them)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "Disability or long-term health condition: it is in the page's contextual data table, but not in its 'Am I eligible?' list, so it is not clear whether it alone triggers the automatic offer (In2Surrey does list it)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "income",
+        "detail": "In2Surrey (apply; state school students): you are eligible for a 16-19 bursary",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "In2Surrey (apply; state school students): you live in a POLAR4 quintile 2 area",
+        "measure": "POLAR4",
+        "quintiles": [
+          2
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "In2Surrey (apply; state school students): you live in an IMD quintile 2 area",
+        "measure": "IMD",
+        "quintiles": [
+          2
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "carer",
+        "detail": "In2Surrey (apply; state school students): you are a young carer or care for a relative with a disability, illness, mental health condition or addiction",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "In2Surrey (apply; state school students): you are a refugee with indefinite leave to remain in the UK",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "In2Surrey (apply; state school students): you have a disability or long-term health condition",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "In2Surrey (apply; state school students): you have a parent or carer who has served in the UK Armed Forces or as a Reservist",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "In2Surrey (apply; state school students): you are from a Gypsy, Roma, Traveller, Showperson or Boater community",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "In2Surrey (apply; state school students): you are a mature or adult learner aged 21 or over when you start",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "In2Surrey: you have previously completed a Surrey Scholars activity (the Year 12 summer schools are part of Surrey Scholars)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "Automatic contextual offers are for UK home students: the page says that where an applicant meets one or more of its criteria (POLAR4 quintile 1, IMD quintile 1, care experience, free school meals, estranged) the application is considered under contextual admissions, and you must still meet the standard admissions requirements. Most applicants then get a reduced offer. If you don't qualify automatically, In2Surrey lets state school students who meet one of its criteria apply for an offer typically one grade lower. Criteria and postcode datasets can change each year (the details above are for 2027/28 entry).",
+    "url": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+    "source": {
+      "url": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+      "checked": "2026-10-20",
+      "evidence": "you will receive a contextual offer that is typically two A-level grades or one BTEC grade or equivalent lower than the published grade for the programme you are applying for"
+    }
+  },
+  "programmes": [
+    {
+      "id": "surrey-in2surrey",
+      "name": "In2Surrey",
+      "provider": "University of Surrey",
+      "providerType": "university",
+      "uniIds": [
+        "surrey"
+      ],
+      "summary": "Surrey's contextual admissions and transition scheme: if you don't get an automatic contextual offer but meet one of its criteria you can apply for an offer typically one A-level grade lower, plus online mentoring.",
+      "whoCanApply": "UK students at a state school who meet at least one In2Surrey criterion, for example a 16-19 bursary, young carer, a POLAR4 or IMD quintile 2 area, a disability or long-term health condition, or having completed a Surrey Scholars activity.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "income",
+        "area",
+        "carer",
+        "refugee",
+        "access",
+        "other"
+      ],
+      "eligibilityDetail": "You attend a state school and meet one of: eligible for a 16-19 bursary; refugee with indefinite leave to remain in the UK; from a Gypsy, Roma, Irish Traveller, Showperson or Boater community; young carer; disability or long-term health condition; parent or carer who has served in the UK Armed Forces or as a Reservist; mature learner aged 21 or over; IMD quintile 2 postcode; POLAR4 quintile 2 postcode. People who have previously completed a Surrey Scholars activity are also eligible.",
+      "benefits": [
+        "Offer typically one A-level grade (or equivalent) lower than the published grade; subject requirements are not reduced",
+        "Online mentoring with a current Surrey student",
+        "In2Surrey Transition Programme from June to October if Surrey is your firm choice",
+        "£40 travel bursary for one open day and one offer holder day, audition or interview"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "surrey"
+      ],
+      "offerReduction": "typically one A-level grade (or equivalent) lower than the published grade",
+      "cost": null,
+      "isFree": null,
+      "format": "online",
+      "subjects": "All subjects",
+      "yearGroup": "Year 13 (apply after you submit your UCAS application)",
+      "runs": {
+        "text": "Online mentoring and the transition programme run in the summer and autumn before you start (June to October); 2028-entry dates are not published yet",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Applications for September 2027 entry opened in September 2026; for September 2028 entry (your year) they are expected to open around September 2027, based on this year",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "For September 2027 entry the page says Sunday 30 May 2027 (it also says 2 June 2027 in another place); the September 2028 entry deadline is not published yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "Describes the cycle for September 2027 entry. Dates for September 2028 entry are not announced yet.",
+      "url": "https://www.surrey.ac.uk/schools-colleges/in2surrey",
+      "source": {
+        "url": "https://www.surrey.ac.uk/schools-colleges/in2surrey",
+        "checked": "2026-10-20",
+        "evidence": "In2Surrey provides an opportunity for applicants to receive reduced entry requirement of 1x A-Level grade (or equivalent)"
+      },
+      "notConfirmed": [
+        "cost: the page doesn't state a price",
+        "deadline: the page gives two closing dates for 2027 entry (Sunday 30 May 2027 and Sunday 2 June 2027; 30 May 2027 is a Sunday, 2 June 2027 is not), so check before relying on either",
+        "dates: application opening, deadline and mentoring dates for 2028 entry are not published yet"
+      ]
+    },
+    {
+      "id": "surrey-y12-residential-summer-school",
+      "name": "Surrey Year 12 Residential Summer School (Business strand)",
+      "provider": "University of Surrey",
+      "providerType": "university",
+      "uniIds": [
+        "surrey"
+      ],
+      "summary": "A free 4-day, 3-night residential at Surrey with sample lectures, workshops, research projects, sports tasters and evening socials; the 2026 subject strands were Business, Engineering Sciences and Veterinary Medicine.",
+      "whoCanApply": "Year 12 students from groups under-represented in higher education who attend a non-selective state school or college in the UK and meet at least one of the listed criteria.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area",
+        "fsm",
+        "income",
+        "care",
+        "carer",
+        "refugee",
+        "estranged",
+        "other"
+      ],
+      "eligibilityDetail": "Year 12 at a non-selective UK state school or college, and at least one of: POLAR4 quintile 1 or 2; IMD quintile 1 or 2; TUNDRA LSOA quintile 1 or 2; free school meals in the last six years; 16-19 bursary (or equivalent); care experienced; diagnosed disability or long-term health condition; young carer; forced migrant (for example refugee or asylum seeker); estranged from family; parent or carer who has served in the armed forces or reserves; Black, Asian or minority ethnic background; Gypsy, Roma or Traveller community; significant disruption due to illness or personal circumstance. Places depend on meeting the criteria and on the capacity of your chosen strand.",
+      "benefits": [
+        "Overnight accommodation and three meals a day",
+        "Transport costs covered where requested",
+        "It is part of Surrey Scholars, and Surrey's In2Surrey page says people who have completed a Surrey Scholars activity are eligible for In2Surrey (an offer typically one A-level grade lower)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "surrey"
+      ],
+      "offerReduction": "The summer school page doesn't state a reduction itself. Surrey's In2Surrey page says people who have completed a Surrey Scholars activity (which this is part of) are eligible to apply for In2Surrey, an offer typically one A-level grade lower",
+      "cost": "Free",
+      "isFree": true,
+      "format": "residential",
+      "subjects": "Business (the 2026 strands were Business, Engineering Sciences and Veterinary Medicine)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "2026 ran from Monday 29 June to Thursday 2 July; 2027 dates are not published yet (expected around late June or early July 2027, based on 2026)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Applications for 2026 opened on Monday 19 January 2026; 2027 opening date not published (expected around January 2027, based on 2026)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Applications for 2026 closed on Sunday 29 March 2026; 2027 deadline not published (expected around late March 2027, based on 2026)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2026 programme. 2027 details not announced yet.",
+      "url": "https://www.surrey.ac.uk/schools-colleges/sixth-form-colleges/residential-summer-schools",
+      "source": {
+        "url": "https://www.surrey.ac.uk/schools-colleges/sixth-form-colleges/residential-summer-schools",
+        "checked": "2026-10-20",
+        "evidence": "taking place from Monday 29 June to Thursday 2 July. We have capacity for 100 places shared across the following subject strands: Business (35 places)"
+      },
+      "notConfirmed": [
+        "2027 dates, strands and application window are not published yet",
+        "lowersOffer: the summer school page doesn't mention a lower offer; the link to In2Surrey comes from Surrey's In2Surrey page"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.surrey.ac.uk/",
+    "courses": "https://www.surrey.ac.uk/undergraduate",
+    "economics": "https://www.surrey.ac.uk/school-economics",
+    "openDays": "https://www.surrey.ac.uk/open-days",
+    "fees": "https://www.surrey.ac.uk/fees-and-funding/tuition-fees/undergraduate-2027-entry",
+    "contextual": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+    "accommodation": "https://www.surrey.ac.uk/accommodation/prices-and-payment"
+  },
+  "courses": [
+    {
+      "id": "surrey-economics",
+      "name": "Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "The optional Professional Training placement year (UK or abroad) makes it 4 years; the placement year fee is about 20% of the normal fee (UCAS L101)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": "ABB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB. If you are taking A-level Maths or A-level Economics the offer is reduced to ABB (this reduction can't be combined with other grade reduction schemes)",
+        "source": {
+          "url": "https://www.surrey.ac.uk/undergraduate/economics",
+          "checked": "2026-10-20",
+          "evidence": "BSc (Hons): AAB. If you are taking A-level Maths or A-level Economics we will reduce the offer to ABB. Please note that this grade reduction cannot be combined with other grade reduction schemes."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Mathematics",
+            "Economics"
+          ],
+          "note": "Not required, but taking A-level Maths or A-level Economics lowers the offer from AAB to ABB"
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6 (B) for BSc entry; grade 5 for the BSc with a foundation year"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4 (C)"
+        }
+      ],
+      "gcseText": "GCSE English Language at Grade 4 (C). Additionally, GCSE Mathematics at Grade 6 (B) for BSc entry or Grade 5 (B) for BSc with foundation year. Applicants must have achieved the required GCSE grades at the time of making their application.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.surrey.ac.uk/undergraduate/economics",
+        "checked": "2026-10-20",
+        "evidence": "Please note: A-level General Studies and A-level Critical Thinking are not accepted."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you are taking A-level Maths or A-level Economics the offer is reduced from AAB to ABB. This reduction can't be combined with other grade reduction schemes",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/economics",
+            "checked": "2026-10-20",
+            "evidence": "BSc (Hons): AAB. If you are taking A-level Maths or A-level Economics we will reduce the offer to ABB. Please note that this grade reduction cannot be combined with other grade reduction schemes."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you take the EPQ you get the standard offer plus an alternate offer one A-level grade lower if you achieve grade A in the EPQ (the page doesn't say which grade is lowered). The reduction doesn't apply to any required subject, and only one grade reduction is allowed: it can't be added to other schemes such as contextual admissions or In2Surrey",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/economics",
+            "checked": "2026-10-20",
+            "evidence": "will receive our standard A-level offer for this programme, plus an alternate offer of one A-level grade lower, subject to achieving an A grade in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "UK home students who meet Surrey's contextual criteria (live in a POLAR4 quintile 1 or IMD quintile 1 area, have lived in care, received free school meals at secondary school, or are estranged from their parents) typically get an offer two A-level grades (or one BTEC grade) lower than the published grade. Subject requirements are not reduced",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+            "checked": "2026-10-20",
+            "evidence": "you will receive a contextual offer that is typically two A-level grades or one BTEC grade or equivalent lower than the published grade for the programme you are applying for"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you don't get an automatic contextual offer but attend a state school and meet an In2Surrey criterion (for example a 16-19 bursary, young carer, POLAR4 or IMD quintile 2 area, or you have completed a Surrey Scholars activity), you can apply for an offer typically one A-level grade lower. Subject requirements are not reduced",
+          "programme": "In2Surrey",
+          "source": {
+            "url": "https://www.surrey.ac.uk/schools-colleges/in2surrey",
+            "checked": "2026-10-20",
+            "evidence": "In2Surrey provides an opportunity for applicants to receive reduced entry requirement of 1x A-Level grade (or equivalent) ... Applicants who have previously completed a Surrey Scholars activity are eligible for In2Surrey."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.surrey.ac.uk/undergraduate/economics",
+        "ucas": null
+      },
+      "notConfirmed": [],
+      "notes": "Main BSc Economics degree, CIMA-accredited and taught at the Stag Hill campus. All Surrey economics students follow the same first year, so you can switch to Economics and Finance or Business Economics and Data Analytics from year 2. The version with a foundation year (L102, 4 years) has a typical offer of CCC."
+    },
+    {
+      "id": "surrey-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L111",
+      "lengthYears": 3,
+      "lengthNote": "The optional Professional Training placement year (UK or abroad) makes it 4 years; the placement year fee is about 20% of the normal fee (UCAS L112)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": "ABB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB. If you are taking A-level Maths or A-level Economics the offer is reduced to ABB (this reduction can't be combined with other grade reduction schemes)",
+        "source": {
+          "url": "https://www.surrey.ac.uk/undergraduate/economics-and-finance",
+          "checked": "2026-10-20",
+          "evidence": "BSc (Hons): AAB. If you are taking A-level Maths or A-level Economics we will reduce the offer to ABB. Please note that this grade reduction cannot be combined with other grade reduction schemes."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Mathematics",
+            "Economics"
+          ],
+          "note": "Not required, but taking A-level Maths or A-level Economics lowers the offer from AAB to ABB"
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6 (B) for BSc entry; grade 5 for the BSc with a foundation year"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4 (C)"
+        }
+      ],
+      "gcseText": "GCSE English Language at Grade 4 (C). Additionally, GCSE Mathematics at Grade 6 (B) for BSc entry or Grade 5 (B) for BSc with foundation year. Applicants must have achieved the required GCSE grades at the time of making their application.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.surrey.ac.uk/undergraduate/economics-and-finance",
+        "checked": "2026-10-20",
+        "evidence": "A-level General Studies and A-level Critical Thinking are not accepted for either route."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you are taking A-level Maths or A-level Economics the offer is reduced from AAB to ABB. This reduction can't be combined with other grade reduction schemes",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/economics-and-finance",
+            "checked": "2026-10-20",
+            "evidence": "BSc (Hons): AAB. If you are taking A-level Maths or A-level Economics we will reduce the offer to ABB. Please note that this grade reduction cannot be combined with other grade reduction schemes."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you take the EPQ you get the standard offer plus an alternate offer one A-level grade lower if you achieve grade A in the EPQ (the page doesn't say which grade is lowered). The reduction doesn't apply to any required subject, and only one grade reduction is allowed: it can't be added to other schemes such as contextual admissions or In2Surrey",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/economics-and-finance",
+            "checked": "2026-10-20",
+            "evidence": "will receive our standard A-level offer for this programme, plus an alternate offer of one A-level grade lower, subject to achieving an A grade in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "UK home students who meet Surrey's contextual criteria (live in a POLAR4 quintile 1 or IMD quintile 1 area, have lived in care, received free school meals at secondary school, or are estranged from their parents) typically get an offer two A-level grades (or one BTEC grade) lower than the published grade. Subject requirements are not reduced",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+            "checked": "2026-10-20",
+            "evidence": "you will receive a contextual offer that is typically two A-level grades or one BTEC grade or equivalent lower than the published grade for the programme you are applying for"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you don't get an automatic contextual offer but attend a state school and meet an In2Surrey criterion (for example a 16-19 bursary, young carer, POLAR4 or IMD quintile 2 area, or you have completed a Surrey Scholars activity), you can apply for an offer typically one A-level grade lower. Subject requirements are not reduced",
+          "programme": "In2Surrey",
+          "source": {
+            "url": "https://www.surrey.ac.uk/schools-colleges/in2surrey",
+            "checked": "2026-10-20",
+            "evidence": "In2Surrey provides an opportunity for applicants to receive reduced entry requirement of 1x A-Level grade (or equivalent) ... Applicants who have previously completed a Surrey Scholars activity are eligible for In2Surrey."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.surrey.ac.uk/undergraduate/economics-and-finance",
+        "ucas": null
+      },
+      "notConfirmed": [],
+      "notes": "CIMA-accredited and taught at the Stag Hill campus. Same first year as Economics, so you can switch between the Economics degrees after year 1. The version with a foundation year (L113, 4 years) has a typical offer of CCC."
+    },
+    {
+      "id": "surrey-economics-mathematics",
+      "name": "Economics and Mathematics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "3T0U",
+      "lengthYears": 3,
+      "lengthNote": "The optional Professional Training placement year (UK or abroad) makes it 4 years (UCAS 3C0M); the placement year fee is about 20% of the normal fee",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB including A-level Mathematics at grade A",
+        "source": {
+          "url": "https://www.surrey.ac.uk/undergraduate/economics-and-mathematics",
+          "checked": "2026-10-20",
+          "evidence": "Typical offer A-level More info Close Overall: ABB Required subjects: Mathematics at Grade A."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics at grade A is required (the page says 'Required subjects: Mathematics at Grade A')"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4 (C). The page lists no GCSE Maths grade for this course"
+        }
+      ],
+      "gcseText": "English Language at Grade 4 (C). Applicants must have achieved these grades at the time of making their application.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.surrey.ac.uk/undergraduate/economics-and-mathematics",
+        "checked": "2026-10-20",
+        "evidence": "Required subjects: Mathematics at Grade A. Please note: A-level General Studies and A-level Critical Thinking are not accepted."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you take the EPQ you get the standard offer plus an alternate offer one A-level grade lower if you achieve grade A in the EPQ (the page doesn't say which grade is lowered). The reduction doesn't apply to any required subject, and only one grade reduction is allowed: it can't be added to other schemes such as contextual admissions or In2Surrey",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/economics-and-mathematics",
+            "checked": "2026-10-20",
+            "evidence": "will receive our standard A-level offer for this programme, plus an alternate offer of one A-level grade lower, subject to achieving an A grade in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "UK home students who meet Surrey's contextual criteria (live in a POLAR4 quintile 1 or IMD quintile 1 area, have lived in care, received free school meals at secondary school, or are estranged from their parents) typically get an offer two A-level grades (or one BTEC grade) lower than the published grade. Subject requirements are not reduced",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+            "checked": "2026-10-20",
+            "evidence": "you will receive a contextual offer that is typically two A-level grades or one BTEC grade or equivalent lower than the published grade for the programme you are applying for"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you don't get an automatic contextual offer but attend a state school and meet an In2Surrey criterion (for example a 16-19 bursary, young carer, POLAR4 or IMD quintile 2 area, or you have completed a Surrey Scholars activity), you can apply for an offer typically one A-level grade lower. Subject requirements are not reduced",
+          "programme": "In2Surrey",
+          "source": {
+            "url": "https://www.surrey.ac.uk/schools-colleges/in2surrey",
+            "checked": "2026-10-20",
+            "evidence": "In2Surrey provides an opportunity for applicants to receive reduced entry requirement of 1x A-Level grade (or equivalent) ... Applicants who have previously completed a Surrey Scholars activity are eligible for In2Surrey."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.surrey.ac.uk/undergraduate/economics-and-mathematics",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: the page lists GCSE English Language grade 4 but no GCSE Maths grade for this course"
+      ],
+      "notes": "The page says the course gives you economics, mathematics and statistical skills in about equal parts. CIMA-accredited and taught at the Stag Hill campus. Same first year as the other Surrey economics degrees, so you can switch after year 1. No foundation-year version is listed."
+    },
+    {
+      "id": "surrey-business-economics-data-analytics",
+      "name": "Business Economics and Data Analytics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "LN15",
+      "lengthYears": 3,
+      "lengthNote": "The optional Professional Training placement year (UK or abroad) makes it 4 years; the placement year fee is about 20% of the normal fee (UCAS LN16)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "business-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": "ABB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB. If you are taking A-level Maths or A-level Economics the offer is reduced to ABB (this reduction can't be combined with other grade reduction schemes)",
+        "source": {
+          "url": "https://www.surrey.ac.uk/undergraduate/business-economics-and-data-analytics",
+          "checked": "2026-10-20",
+          "evidence": "BSc (Hons): AAB. If you are taking A-level Maths or A-level Economics we will reduce the offer to ABB. Please note that this grade reduction cannot be combined with other grade reduction schemes."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Mathematics",
+            "Economics"
+          ],
+          "note": "Not required, but taking A-level Maths or A-level Economics lowers the offer from AAB to ABB"
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6 (B) for BSc entry; grade 5 for the BSc with a foundation year"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4 (C)"
+        }
+      ],
+      "gcseText": "GCSE English Language at Grade 4 (C). Additionally, GCSE Mathematics at Grade 6 (B) for BSc entry or Grade 5 (B) for BSc with foundation year. Applicants must have achieved the required GCSE grades at the time of making their application.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.surrey.ac.uk/undergraduate/business-economics-and-data-analytics",
+        "checked": "2026-10-20",
+        "evidence": "Please note: A-level General Studies and A-level Critical Thinking are not accepted."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you are taking A-level Maths or A-level Economics the offer is reduced from AAB to ABB. This reduction can't be combined with other grade reduction schemes",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/business-economics-and-data-analytics",
+            "checked": "2026-10-20",
+            "evidence": "BSc (Hons): AAB. If you are taking A-level Maths or A-level Economics we will reduce the offer to ABB. Please note that this grade reduction cannot be combined with other grade reduction schemes."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you take the EPQ you get the standard offer plus an alternate offer one A-level grade lower if you achieve grade A in the EPQ (the page doesn't say which grade is lowered). The reduction doesn't apply to any required subject, and only one grade reduction is allowed: it can't be added to other schemes such as contextual admissions or In2Surrey",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/business-economics-and-data-analytics",
+            "checked": "2026-10-20",
+            "evidence": "will receive our standard A-level offer for this programme, plus an alternate offer of one A-level grade lower, subject to achieving an A grade in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "UK home students who meet Surrey's contextual criteria (live in a POLAR4 quintile 1 or IMD quintile 1 area, have lived in care, received free school meals at secondary school, or are estranged from their parents) typically get an offer two A-level grades (or one BTEC grade) lower than the published grade. Subject requirements are not reduced",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+            "checked": "2026-10-20",
+            "evidence": "you will receive a contextual offer that is typically two A-level grades or one BTEC grade or equivalent lower than the published grade for the programme you are applying for"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you don't get an automatic contextual offer but attend a state school and meet an In2Surrey criterion (for example a 16-19 bursary, young carer, POLAR4 or IMD quintile 2 area, or you have completed a Surrey Scholars activity), you can apply for an offer typically one A-level grade lower. Subject requirements are not reduced",
+          "programme": "In2Surrey",
+          "source": {
+            "url": "https://www.surrey.ac.uk/schools-colleges/in2surrey",
+            "checked": "2026-10-20",
+            "evidence": "In2Surrey provides an opportunity for applicants to receive reduced entry requirement of 1x A-Level grade (or equivalent) ... Applicants who have previously completed a Surrey Scholars activity are eligible for In2Surrey."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.surrey.ac.uk/undergraduate/business-economics-and-data-analytics",
+        "ucas": null
+      },
+      "notConfirmed": [],
+      "notes": "Economics with a focus on how businesses operate and how managers make decisions by analysing large datasets; CIMA-accredited and taught at the Stag Hill campus. Same first year as Economics, so you can switch after year 1. The version with a foundation year (LN13, 4 years) has a typical offer of CCC."
+    },
+    {
+      "id": "surrey-politics-economics",
+      "name": "Politics and Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "LL12",
+      "lengthYears": 3,
+      "lengthNote": "The optional Professional Training placement year (UK or abroad) makes it 4 years (UCAS LL13); the placement year fee is about 20% of the normal fee",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB",
+        "source": {
+          "url": "https://www.surrey.ac.uk/undergraduate/politics-and-economics",
+          "checked": "2026-10-20",
+          "evidence": "Typical offer A-level More info Close Overall: ABB."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6 (B)"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4 (C)"
+        }
+      ],
+      "gcseText": "English Language at Grade 4 (C). Additionally, GCSE Mathematics at Grade 6(B). Applicants must have achieved the required GCSE grades at the time of making their application.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.surrey.ac.uk/undergraduate/politics-and-economics",
+        "checked": "2026-10-20",
+        "evidence": "Please note: A-level General Studies and A-level Critical Thinking are not accepted."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you take the EPQ you get the standard offer plus an alternate offer one A-level grade lower if you achieve grade A in the EPQ (the page doesn't say which grade is lowered). The reduction doesn't apply to any required subject, and only one grade reduction is allowed: it can't be added to other schemes such as contextual admissions or In2Surrey",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/politics-and-economics",
+            "checked": "2026-10-20",
+            "evidence": "will receive our standard A-level offer for this programme, plus an alternate offer of one A-level grade lower, subject to achieving an A grade in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "UK home students who meet Surrey's contextual criteria (live in a POLAR4 quintile 1 or IMD quintile 1 area, have lived in care, received free school meals at secondary school, or are estranged from their parents) typically get an offer two A-level grades (or one BTEC grade) lower than the published grade. Subject requirements are not reduced",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+            "checked": "2026-10-20",
+            "evidence": "you will receive a contextual offer that is typically two A-level grades or one BTEC grade or equivalent lower than the published grade for the programme you are applying for"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you don't get an automatic contextual offer but attend a state school and meet an In2Surrey criterion (for example a 16-19 bursary, young carer, POLAR4 or IMD quintile 2 area, or you have completed a Surrey Scholars activity), you can apply for an offer typically one A-level grade lower. Subject requirements are not reduced",
+          "programme": "In2Surrey",
+          "source": {
+            "url": "https://www.surrey.ac.uk/schools-colleges/in2surrey",
+            "checked": "2026-10-20",
+            "evidence": "In2Surrey provides an opportunity for applicants to receive reduced entry requirement of 1x A-Level grade (or equivalent) ... Applicants who have previously completed a Surrey Scholars activity are eligible for In2Surrey."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.surrey.ac.uk/undergraduate/politics-and-economics",
+        "ucas": null
+      },
+      "notConfirmed": [],
+      "notes": "Taught at the Stag Hill campus. No foundation-year version is listed."
+    },
+    {
+      "id": "surrey-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "NN34",
+      "lengthYears": 3,
+      "lengthNote": "The optional Professional Training placement year (UK or abroad) makes it 4 years; the placement year fee is about 20% of the normal fee (UCAS NN35)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB",
+        "source": {
+          "url": "https://www.surrey.ac.uk/undergraduate/accounting-and-finance",
+          "checked": "2026-10-20",
+          "evidence": "Typical offer A-level More info Close BSc (Hons) ABB BSc (Hons) with foundation year: CCC"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "Grade 5 (the page writes 'Grade 5 (B)')"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4 (C)"
+        }
+      ],
+      "gcseText": "English Language at Grade 4 (C) and Mathematics at Grade 5 (B). Applicants must have achieved these grades at the time of making their application.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.surrey.ac.uk/undergraduate/accounting-and-finance",
+        "checked": "2026-10-20",
+        "evidence": "A-level General Studies and A-level Critical Thinking are not accepted for either route."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you take the EPQ you get the standard offer plus an alternate offer one A-level grade lower if you achieve grade A in the EPQ (the page doesn't say which grade is lowered). The reduction doesn't apply to any required subject, and only one grade reduction is allowed: it can't be added to other schemes such as contextual admissions or In2Surrey",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/accounting-and-finance",
+            "checked": "2026-10-20",
+            "evidence": "will receive our standard A-level offer for this programme, plus an alternate offer of one A-level grade lower, subject to achieving an A grade in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "UK home students who meet Surrey's contextual criteria (live in a POLAR4 quintile 1 or IMD quintile 1 area, have lived in care, received free school meals at secondary school, or are estranged from their parents) typically get an offer two A-level grades (or one BTEC grade) lower than the published grade. Subject requirements are not reduced",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+            "checked": "2026-10-20",
+            "evidence": "you will receive a contextual offer that is typically two A-level grades or one BTEC grade or equivalent lower than the published grade for the programme you are applying for"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you don't get an automatic contextual offer but attend a state school and meet an In2Surrey criterion (for example a 16-19 bursary, young carer, POLAR4 or IMD quintile 2 area, or you have completed a Surrey Scholars activity), you can apply for an offer typically one A-level grade lower. Subject requirements are not reduced",
+          "programme": "In2Surrey",
+          "source": {
+            "url": "https://www.surrey.ac.uk/schools-colleges/in2surrey",
+            "checked": "2026-10-20",
+            "evidence": "In2Surrey provides an opportunity for applicants to receive reduced entry requirement of 1x A-Level grade (or equivalent) ... Applicants who have previously completed a Surrey Scholars activity are eligible for In2Surrey."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.surrey.ac.uk/undergraduate/accounting-and-finance",
+        "ucas": null
+      },
+      "notConfirmed": [],
+      "notes": "Accredited by five UK accountancy bodies for exemptions from some professional exams. The version with a foundation year (NN36, 4 years) has a typical offer of CCC."
+    },
+    {
+      "id": "surrey-business-management",
+      "name": "Business Management",
+      "degree": "BSc (Hons)",
+      "ucasCode": "N200",
+      "lengthYears": 3,
+      "lengthNote": "The optional Professional Training placement year (UK or abroad) makes it 4 years; the placement year fee is about 20% of the normal fee (UCAS N201)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB",
+        "source": {
+          "url": "https://www.surrey.ac.uk/undergraduate/business-management",
+          "checked": "2026-10-20",
+          "evidence": "Typical offer A-level More info Close BSc (Hons): ABB BSc (Hons) with foundation year: CCC"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "Grade C (4)"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade C (4)"
+        }
+      ],
+      "gcseText": "English Language at Grade C(4) and Mathematics at Grade C (4). Applicants must have achieved these grades at the time of making their application.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.surrey.ac.uk/undergraduate/business-management",
+        "checked": "2026-10-20",
+        "evidence": "A-level General Studies and A-level Critical Thinking are not accepted for either route."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you take the EPQ you get the standard offer plus an alternate offer one A-level grade lower if you achieve grade A in the EPQ (the page doesn't say which grade is lowered). The reduction doesn't apply to any required subject, and only one grade reduction is allowed: it can't be added to other schemes such as contextual admissions or In2Surrey",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/undergraduate/business-management",
+            "checked": "2026-10-20",
+            "evidence": "will receive our standard A-level offer for this programme, plus an alternate offer of one A-level grade lower, subject to achieving an A grade in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "UK home students who meet Surrey's contextual criteria (live in a POLAR4 quintile 1 or IMD quintile 1 area, have lived in care, received free school meals at secondary school, or are estranged from their parents) typically get an offer two A-level grades (or one BTEC grade) lower than the published grade. Subject requirements are not reduced",
+          "programme": null,
+          "source": {
+            "url": "https://www.surrey.ac.uk/apply/undergraduate/contextual-offers",
+            "checked": "2026-10-20",
+            "evidence": "you will receive a contextual offer that is typically two A-level grades or one BTEC grade or equivalent lower than the published grade for the programme you are applying for"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you don't get an automatic contextual offer but attend a state school and meet an In2Surrey criterion (for example a 16-19 bursary, young carer, POLAR4 or IMD quintile 2 area, or you have completed a Surrey Scholars activity), you can apply for an offer typically one A-level grade lower. Subject requirements are not reduced",
+          "programme": "In2Surrey",
+          "source": {
+            "url": "https://www.surrey.ac.uk/schools-colleges/in2surrey",
+            "checked": "2026-10-20",
+            "evidence": "In2Surrey provides an opportunity for applicants to receive reduced entry requirement of 1x A-Level grade (or equivalent) ... Applicants who have previously completed a Surrey Scholars activity are eligible for In2Surrey."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.surrey.ac.uk/undergraduate/business-management",
+        "ucas": null
+      },
+      "notConfirmed": [],
+      "notes": "Surrey also offers Business Management with Marketing, with Human Resource Management, with Business Analytics and with Entrepreneurship and Innovation as separate courses. The version with a foundation year (N202, 4 years) has a typical offer of CCC."
+    }
+  ],
+  "notes": [
+    "All course details are for 2027 entry (September 2027 start); Surrey hasn't published 2028 entry requirements yet.",
+    "No admissions test is listed on any of these course pages, and Surrey is not on UAT-UK's official TMUA list for 2027 entry.",
+    "On Economics, Economics and Finance and Business Economics and Data Analytics the offer drops from AAB to ABB if you take A-level Maths or A-level Economics (it can't be combined with other grade reductions such as the EPQ, contextual or In2Surrey).",
+    "Economics, Economics and Finance, Business Economics and Data Analytics and Economics and Mathematics share the same first year, so you can switch between them after year 1 (the course pages say so).",
+    "Each course also has a version with a Professional Training placement year (own UCAS code) and, for most, a foundation year (typical offer CCC, own UCAS code); the placement year fee is about 20% of the normal fee.",
+    "Surrey Scholars is Surrey's Years 9 to 13 outreach programme; the Year 12 summer schools are part of it. Its Chemistry, Computer Science and Health Sciences taster days are for other subjects and are not recorded.",
+    "Not included: Financial Mathematics, Politics, Law with Business and the other Business Management variants. Contextual criteria and offer reductions described are for 2027/28 entry; Surrey says the datasets change each year."
+  ],
+  "notConfirmed": [
+    "entry year: 2028 entry requirements are not published yet, so 2027 entry is used throughout",
+    "openDays: 2027 open day dates are not announced yet",
+    "contextual: the exact grades of the EPQ, contextual and In2Surrey reductions are not spelled out per course (the pages say 'one' or 'two' grades lower, and offers are made case by case), so those alternative offers have no fixed grades",
+    "contextual: the page's 'Am I eligible?' list leaves out disability, but its data table includes disability or long-term health condition data; it is unclear whether disability alone triggers the automatic contextual offer",
+    "programmes: 2027 dates for the Year 12 summer school and 2028-entry dates for In2Surrey are not published yet"
+  ]
+}

@@ -1,0 +1,1413 @@
+{
+  "id": "lancaster",
+  "name": "Lancaster University",
+  "shortName": "Lancaster",
+  "aliases": [
+    "Lancaster Uni",
+    "Lancaster University Management School",
+    "LUMS"
+  ],
+  "city": "Lancaster",
+  "region": "North",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.lancaster.ac.uk/about-us/our-campus/",
+    "checked": "2026-10-20",
+    "evidence": "The Lancaster University campus occupies a beautiful 578-acre parkland site at Bailrigg, just three miles from Lancaster city centre."
+  },
+  "location": {
+    "postcode": "LA1 4YW",
+    "postcodeSource": "https://www.lancaster.ac.uk/about-us/contact-us/",
+    "lat": null,
+    "lng": null,
+    "coordsSource": "https://api.postcodes.io/postcodes/LA14YW",
+    "checked": "2026-10-20"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK (Home) students in 2027/28; a placement year costs 20% and a study abroad year 15% of the standard fee",
+    "source": {
+      "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-bsc-hons-l100/2027/",
+      "checked": "2026-10-20",
+      "evidence": "Our Undergraduate Tuition Fees for 2027/28 are: ... Home ... £10,050 ... Students studying abroad for a year: 15% of the standard tuition fee ... Students taking a work placement for a year: 20% of the standard tuition fee"
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 148.89,
+    "amountHigh": 278.05,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "On-campus undergraduate rooms cost about £149-£278 a week in 2026/27 (contracts generally run for 40 weeks). Self-catered single rooms start at £148.89 with a shared bathroom; catered en suite rooms, which include meals, are £276.29-£278.05",
+    "source": {
+      "url": "https://www.lancaster.ac.uk/accommodation/undergraduate/",
+      "checked": "2026-10-20",
+      "evidence": "Our contracts generally run for 40 weeks. ... Prices apply to the 2026/27 academic year. ... £148.89 ... £276.29-£278.05"
+    }
+  },
+  "openDays": {
+    "events": [],
+    "text": "The only undergraduate open day listed, Saturday 17 October 2026, has already passed and no later dates are published yet. In-person and live-streamed campus tours run throughout the year.",
+    "url": "https://www.lancaster.ac.uk/study/open-days/undergraduate-open-days/",
+    "source": {
+      "url": "https://www.lancaster.ac.uk/study/open-days/undergraduate-open-days/",
+      "checked": "2026-10-20",
+      "evidence": "Undergraduate open day, Saturday 17 October 2026 ... In-person and live-streamed campus tours are available throughout the year."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Lancaster's Contextual Offer Scheme gives UK applicants who had free school meals or have experience of care an offer typically two A level grades lower, and completing the Lancaster Access Programme can lower it by up to three grades.",
+    "typicalReduction": "Typically two A level grades lower than the standard offer (for example AAB becomes BBB); up to three grades lower after completing the Lancaster Access Programme",
+    "criteria": [
+      {
+        "key": "fsm",
+        "detail": "Received Free School Meals during secondary education, as declared on your UCAS application",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Experience of being in care",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Successfully completing the Lancaster Access Programme (Year 12 and 13) typically earns an alternative offer up to three A level grades lower; to join you must meet two or more widening participation criteria",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "For 2026 entry, UK students get the lower offer if they received Free School Meals during secondary education (as declared on UCAS) or have experience of being in care. There is no separate application. You can combine it with the Lancaster Access Programme and receive whichever offer is better for you.",
+    "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/",
+    "source": {
+      "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/contextual-offer-scheme/",
+      "checked": "2026-10-20",
+      "evidence": "we will take into account additional contextual information when reviewing applications from UK students, if either: ... You have received Free School Meals during your secondary education, as declared on the UCAS application ... You have experience of being in care"
+    }
+  },
+  "programmes": [
+    {
+      "id": "lancaster-access-programme",
+      "name": "Lancaster Access Programme",
+      "provider": "Lancaster University",
+      "providerType": "university",
+      "uniIds": [
+        "lancaster"
+      ],
+      "summary": "A free supported-entry programme for Year 12 and 13 students from widening participation backgrounds, with events, online workshops and 3-day residentials on campus; finishing it typically earns a lower offer at Lancaster.",
+      "whoCanApply": "Year 12 or 13 students at a UK state school or college who are predicted at least BBC at A-level, have five GCSEs at grade 4 or above including English Language and Maths, and meet two or more widening participation criteria.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "income",
+        "area",
+        "firstGen",
+        "fsm",
+        "care",
+        "carer",
+        "estranged",
+        "refugee",
+        "school",
+        "other"
+      ],
+      "eligibilityDetail": "Attend a UK state school or college; predicted and on track for at least BBC at A-level (or DMM at BTEC); five GCSEs at grade 4 or above including English Language and Maths; and meet at least two of Lancaster's widening participation criteria: household income of £30,000 or less; a neighbourhood with low higher education participation (IMD Q1); first in family to go to university; free school meals or Pupil Premium; Asian, Black or mixed-ethnic background; a long-term illness, health condition or disability (including mental health conditions, neurodivergence, or being D/deaf or blind); care experience; young carer; estranged from family; Gypsy, Roma, Traveller, Irish Traveller, Showman or Boater communities; refugee or asylum seeker; military family; or a school with lower than national average attainment or progression to higher education.",
+      "benefits": [
+        "A lowered offer of up to 3 A level grades (or equivalent) for study at Lancaster on completing the programme (not Medicine)",
+        "Free events, online workshops and 3-day residentials on campus, with travel costs supported",
+        "An online portal, dedicated contact with staff and student ambassadors, and application support"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "lancaster"
+      ],
+      "offerReduction": "Up to 3 A level grades (or equivalent) lower than the standard offer (not Medicine and Surgery)",
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 12 and 13",
+      "runs": {
+        "text": "2026/27 academic year; events are mostly at weekends or in school holidays and include 3-day residentials",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Applications for 2026/27 are open now",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Friday 20 November 2026 at 11:45pm (outcomes by Friday 11 December 2026)",
+        "date": "2026-11-20",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "Details are for the 2026/27 programme that current Year 12 students apply to now; its Year 12 events run into summer 2027.",
+      "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+      "source": {
+        "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+        "checked": "2026-10-20",
+        "evidence": "Applications for the Lancaster Access Programme (2026/27) are now open. The deadline to apply is Friday 20th November 2026 at 11:45 pm. ... Access a lowered offer of up to 3 A Level grades (or equivalent) for study at Lancaster University on completion of the programme"
+      },
+      "notConfirmed": [
+        "Exact event dates aren't published on the page",
+        "The exact grades of the lowered offer for each course aren't published (only 'up to 3 A level grades')"
+      ]
+    },
+    {
+      "id": "lancaster-uncover-progress",
+      "name": "Uncover Progress",
+      "provider": "Lancaster University (with With Insight)",
+      "providerType": "university",
+      "uniIds": [
+        "lancaster"
+      ],
+      "summary": "A supported-entry programme for Year 12 Black students, run with the external organisation With Insight, with 1:1 mentoring, a residential at Lancaster and a possible reduced offer.",
+      "whoCanApply": "Year 12 students of Black African, Black Caribbean or mixed Black heritage, from anywhere in the UK, who are predicted at least BBB at A-level (or DDM at BTEC) and have five GCSEs at grade 4 or above including English Language and Maths.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other"
+      ],
+      "eligibilityDetail": "Must be in Year 12 and identify as Black African, Black Caribbean or mixed Black heritage (the key priority for selection); predicted and on track for at least BBB at A-level or equivalent (for example DDM at BTEC); five GCSEs at grade 4 or above including English Language and Maths. Students who also meet one or more widening participation criteria (such as low household income, first in family to go to university, free school meals or care experience) may be prioritised.",
+      "benefits": [
+        "1:1 tailored mentoring from Black role models in higher education and industry",
+        "A residential at Lancaster University, plus skills workshops and a nationwide peer network",
+        "A reduced offer up to three grades below the standard entry requirement after completing the programme (for example AAA reduced to BBB)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "lancaster"
+      ],
+      "offerReduction": "Up to three grades below the standard entry requirement (for example AAA reduced to BBB)",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "March to November of Year 12: two-day residential launch in March, mentoring from March to November, graduation event in November (the page doesn't give the year)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Not published for 2026/27 (the page says applications opened in September 2025, for the previous round)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "The page describes the 2025/26 round (applications opened September 2025 and are handled by With Insight). Dates for the 2026/27 round aren't published on the page.",
+      "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+      "source": {
+        "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+        "checked": "2026-10-20",
+        "evidence": "Uncover Progress is a supported entry programme for Year 12 Black students, delivered in partnership with the external organisation With Insight. ... Be eligible to receive a reduced offer up to three grades below the standard entry requirement after completing the programme (e.g. AAA reduced to BBB)."
+      },
+      "notConfirmed": [
+        "2026/27 application window and exact dates aren't published on the page",
+        "Cost isn't stated on the page"
+      ]
+    },
+    {
+      "id": "lancaster-economics-of-being-human",
+      "name": "The Economics of Being Human (online taster course)",
+      "provider": "Lancaster University Management School",
+      "providerType": "university",
+      "uniIds": [
+        "lancaster"
+      ],
+      "summary": "A free, interactive online taster course led by a Lancaster economics lecturer (Dr Harrison Rolls) that introduces behavioural and experimental economics.",
+      "whoCanApply": "Open to school and college students interested in economics; the course is hosted on Springpod and is free.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "The Lancaster page describes a free, interactive Springpod taster course and sets no eligibility criteria.",
+      "benefits": [
+        "A taste of university-level economics (behavioural and experimental economics)",
+        "Free"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "online",
+      "subjects": "Economics (behavioural and experimental economics)",
+      "yearGroup": "Not stated (aimed at school and college students)",
+      "runs": {
+        "text": "Online; the page gives no dates",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Not stated",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not stated",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "The Lancaster page is undated and gives no schedule; the course itself is hosted on Springpod.",
+      "url": "https://www.lancaster.ac.uk/lums/about-us/working-with-schools/",
+      "source": {
+        "url": "https://www.lancaster.ac.uk/lums/about-us/working-with-schools/",
+        "checked": "2026-10-20",
+        "evidence": "These short, free, interactive courses, led by our lecturers ... Led by Dr Harrison Rolls, this free, interactive taster course introduces you to behavioural and experimental economics."
+      },
+      "notConfirmed": [
+        "Dates or availability of the course aren't stated on Lancaster's page"
+      ]
+    },
+    {
+      "id": "lancaster-lums-taster-sessions",
+      "name": "Management School taster sessions (including Economics)",
+      "provider": "Lancaster University Management School",
+      "providerType": "university",
+      "uniIds": [
+        "lancaster"
+      ],
+      "summary": "Short taster sessions for Year 12 and 13 students, in person or online, on subjects including Economics (one session is an introduction to behavioural economics); your school or college asks Lancaster to run one.",
+      "whoCanApply": "Groups of Year 12 and 13 students, requested by their school or college through Lancaster's short enquiry form.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Requested by schools and colleges using Lancaster's enquiry form; the page sets no eligibility criteria.",
+      "benefits": [
+        "A glimpse of university-level study in Economics, Accounting, Business Management, Finance, Entrepreneurship, Human Resources or Marketing"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "Economics, Accounting, Business Management, Finance, Entrepreneurship, Human Resources and Marketing",
+      "yearGroup": "Year 12 and 13",
+      "runs": {
+        "text": "Booked on request; the page gives no dates",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Not stated",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not stated",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "The page is undated; sessions are booked through a school or college enquiry form.",
+      "url": "https://www.lancaster.ac.uk/lums/about-us/working-with-schools/",
+      "source": {
+        "url": "https://www.lancaster.ac.uk/lums/about-us/working-with-schools/",
+        "checked": "2026-10-20",
+        "evidence": "Lancaster University Management School offers specialist sessions for Year 12 and 13 students. These can be held on-campus, at your school, or online. ... Economics: Introduction to Behavioural Economics"
+      },
+      "notConfirmed": [
+        "Cost and dates aren't stated on the page"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.lancaster.ac.uk/",
+    "courses": "https://www.lancaster.ac.uk/study/undergraduate/courses/",
+    "economics": "https://www.lancaster.ac.uk/lums/our-departments/economics/",
+    "openDays": "https://www.lancaster.ac.uk/study/open-days/undergraduate-open-days/",
+    "fees": "https://www.lancaster.ac.uk/study/fees-and-funding/",
+    "contextual": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/",
+    "accommodation": "https://www.lancaster.ac.uk/accommodation/undergraduate/"
+  },
+  "courses": [
+    {
+      "id": "lancaster-economics-bsc",
+      "name": "Economics (BSc)",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an industry placement year (UCAS code L105) or a study abroad year (L101)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB, including A-level Mathematics",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-bsc-hons-l100/2027/",
+          "checked": "2026-10-20",
+          "evidence": "AAB. This should include Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics must be one of your three A-levels. The A-level route doesn't state a separate Maths grade; the BTEC, Access and T-level routes on the same page say 'A level Mathematics grade B'."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4/C"
+        }
+      ],
+      "gcseText": "English Language grade 4/C. Lancaster also looks at your overall GCSE profile and says it has some flexibility on GCSE requirements.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+        "checked": "2026-10-20",
+        "evidence": "We accept all A level subjects but please see the entry requirements for the degree in which you are interested, as there may be subjects which are compulsory."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page lists no admissions test or interview.",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-bsc-hons-l100/2027/",
+          "checked": "2026-10-20",
+          "evidence": "if there are any extra requirements such as attending an interview or submitting a portfolio"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you received Free School Meals during secondary education (as declared on your UCAS application) or have experience of being in care. Lancaster says the offer is typically two A level grades lower than the standard offer; its example is AAB becoming BBB. This is the rule for 2026 entry; 2027-entry details were still to be confirmed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/contextual-offer-scheme/",
+            "checked": "2026-10-20",
+            "evidence": "The information on this page is relevant to our Contextual Offer Scheme for 2026 entry. ... your offer will typically be two A level grades (or equivalent) lower than the standard offer shown on our course pages and prospectus ... For example, a standard offer of AAB, would become BBB."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Plus grade B in the EPQ. Lancaster says that for many courses it may make this second, lower offer (one grade lower plus grade B in the EPQ) alongside its usual one. This is a general statement from its qualifications page, not specific to this course, so check with Admissions.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+            "checked": "2026-10-20",
+            "evidence": "you would receive two offers: our usual offer plus an offer at one grade lower plus grade B in the EPQ. For example, we may make an offer at AAB, or ABB plus B in the EPQ."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A lowered offer of up to 3 A level grades (or equivalent) once you complete the Lancaster Access Programme (not for Medicine). You must be accepted onto the programme first (UK state school or college, predicted at least BBC, and two or more widening participation criteria). Lancaster doesn't publish the exact grades per course.",
+          "programme": "Lancaster Access Programme",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+            "checked": "2026-10-20",
+            "evidence": "Access a lowered offer of up to 3 A Level grades (or equivalent) for study at Lancaster University on completion of the programme"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A reduced offer up to three grades below the standard entry requirement after completing Uncover Progress, a Year 12 programme for students of Black African, Black Caribbean or mixed Black heritage. Lancaster's example: AAA reduced to BBB. Exact grades per course aren't published.",
+          "programme": "Uncover Progress",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+            "checked": "2026-10-20",
+            "evidence": "Be eligible to receive a reduced offer up to three grades below the standard entry requirement after completing the programme (e.g. AAA reduced to BBB)."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-bsc-hons-l100/2027/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (the course page's entry-year picker offers 2027 and 2026, and the 2028 address redirects to 2027), so 2027 entry is used",
+        "foundationYear: the course page doesn't mention a foundation year for this course",
+        "alternativeOffers: Lancaster doesn't publish exact grades for the Lancaster Access Programme or Uncover Progress offers (only 'up to three grades lower'); its contextual rules on the scheme page are for 2026 entry, with 2027-entry details still to be confirmed",
+        "alternativeOffers: the EPQ offer comes from Lancaster's general qualifications page ('for many courses'), not from this course page, so it isn't guaranteed for this course"
+      ],
+      "notes": "Lancaster says BSc Economics is designed for students who are comfortable and fluent in mathematics. The BA version (L110) doesn't need A-level Maths."
+    },
+    {
+      "id": "lancaster-economics-ba",
+      "name": "Economics (BA)",
+      "degree": "BA (Hons)",
+      "ucasCode": "L110",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an industry placement year (UCAS code L111) or a study abroad year (L113)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB (no required A-level subjects; A-level Maths not needed)",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-ba-hons-l110/2027/",
+          "checked": "2026-10-20",
+          "evidence": "A level requirements AAB Duration Full time 3 years"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6/B"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4/C"
+        }
+      ],
+      "gcseText": "Mathematics grade 6/B, English Language grade 4/C. Lancaster also looks at your overall GCSE profile and says it has some flexibility on GCSE requirements.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+        "checked": "2026-10-20",
+        "evidence": "We accept all A level subjects but please see the entry requirements for the degree in which you are interested, as there may be subjects which are compulsory."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page lists no admissions test or interview.",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-ba-hons-l110/2027/",
+          "checked": "2026-10-20",
+          "evidence": "if there are any extra requirements such as attending an interview or submitting a portfolio"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you received Free School Meals during secondary education (as declared on your UCAS application) or have experience of being in care. Lancaster says the offer is typically two A level grades lower than the standard offer; its example is AAB becoming BBB. This is the rule for 2026 entry; 2027-entry details were still to be confirmed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/contextual-offer-scheme/",
+            "checked": "2026-10-20",
+            "evidence": "The information on this page is relevant to our Contextual Offer Scheme for 2026 entry. ... your offer will typically be two A level grades (or equivalent) lower than the standard offer shown on our course pages and prospectus ... For example, a standard offer of AAB, would become BBB."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Plus grade B in the EPQ. Lancaster says that for many courses it may make this second, lower offer (one grade lower plus grade B in the EPQ) alongside its usual one. This is a general statement from its qualifications page, not specific to this course, so check with Admissions.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+            "checked": "2026-10-20",
+            "evidence": "you would receive two offers: our usual offer plus an offer at one grade lower plus grade B in the EPQ. For example, we may make an offer at AAB, or ABB plus B in the EPQ."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A lowered offer of up to 3 A level grades (or equivalent) once you complete the Lancaster Access Programme (not for Medicine). You must be accepted onto the programme first (UK state school or college, predicted at least BBC, and two or more widening participation criteria). Lancaster doesn't publish the exact grades per course.",
+          "programme": "Lancaster Access Programme",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+            "checked": "2026-10-20",
+            "evidence": "Access a lowered offer of up to 3 A Level grades (or equivalent) for study at Lancaster University on completion of the programme"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A reduced offer up to three grades below the standard entry requirement after completing Uncover Progress, a Year 12 programme for students of Black African, Black Caribbean or mixed Black heritage. Lancaster's example: AAA reduced to BBB. Exact grades per course aren't published.",
+          "programme": "Uncover Progress",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+            "checked": "2026-10-20",
+            "evidence": "Be eligible to receive a reduced offer up to three grades below the standard entry requirement after completing the programme (e.g. AAA reduced to BBB)."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-ba-hons-l110/2027/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (the course page's entry-year picker offers 2027 and 2026, and the 2028 address redirects to 2027), so 2027 entry is used",
+        "foundationYear: the course page doesn't mention a foundation year for this course",
+        "alternativeOffers: Lancaster doesn't publish exact grades for the Lancaster Access Programme or Uncover Progress offers (only 'up to three grades lower'); its contextual rules on the scheme page are for 2026 entry, with 2027-entry details still to be confirmed",
+        "alternativeOffers: the EPQ offer comes from Lancaster's general qualifications page ('for many courses'), not from this course page, so it isn't guaranteed for this course"
+      ],
+      "notes": "No A-level Maths is needed, but GCSE Maths grade 6/B is. Lancaster describes BA Economics as combining economics with other social sciences such as history, politics, international relations and sociology, with less emphasis on quantitative skills."
+    },
+    {
+      "id": "lancaster-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "NL31",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an industry placement year (UCAS code NL32) or a study abroad year (NL33)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB, including A-level Mathematics",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-finance-bsc-hons-nl31/2027/",
+          "checked": "2026-10-20",
+          "evidence": "AAB. This should include Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics must be one of your three A-levels. The A-level route doesn't state a separate Maths grade; the BTEC, Access and T-level routes on the same page say 'A level Mathematics grade B'."
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4/C"
+        }
+      ],
+      "gcseText": "English Language grade 4/C. Lancaster also looks at your overall GCSE profile and says it has some flexibility on GCSE requirements.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+        "checked": "2026-10-20",
+        "evidence": "We accept all A level subjects but please see the entry requirements for the degree in which you are interested, as there may be subjects which are compulsory."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page lists no admissions test or interview.",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-finance-bsc-hons-nl31/2027/",
+          "checked": "2026-10-20",
+          "evidence": "if there are any extra requirements such as attending an interview or submitting a portfolio"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you received Free School Meals during secondary education (as declared on your UCAS application) or have experience of being in care. Lancaster says the offer is typically two A level grades lower than the standard offer; its example is AAB becoming BBB. This is the rule for 2026 entry; 2027-entry details were still to be confirmed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/contextual-offer-scheme/",
+            "checked": "2026-10-20",
+            "evidence": "The information on this page is relevant to our Contextual Offer Scheme for 2026 entry. ... your offer will typically be two A level grades (or equivalent) lower than the standard offer shown on our course pages and prospectus ... For example, a standard offer of AAB, would become BBB."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Plus grade B in the EPQ. Lancaster says that for many courses it may make this second, lower offer (one grade lower plus grade B in the EPQ) alongside its usual one. This is a general statement from its qualifications page, not specific to this course, so check with Admissions.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+            "checked": "2026-10-20",
+            "evidence": "you would receive two offers: our usual offer plus an offer at one grade lower plus grade B in the EPQ. For example, we may make an offer at AAB, or ABB plus B in the EPQ."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A lowered offer of up to 3 A level grades (or equivalent) once you complete the Lancaster Access Programme (not for Medicine). You must be accepted onto the programme first (UK state school or college, predicted at least BBC, and two or more widening participation criteria). Lancaster doesn't publish the exact grades per course.",
+          "programme": "Lancaster Access Programme",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+            "checked": "2026-10-20",
+            "evidence": "Access a lowered offer of up to 3 A Level grades (or equivalent) for study at Lancaster University on completion of the programme"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A reduced offer up to three grades below the standard entry requirement after completing Uncover Progress, a Year 12 programme for students of Black African, Black Caribbean or mixed Black heritage. Lancaster's example: AAA reduced to BBB. Exact grades per course aren't published.",
+          "programme": "Uncover Progress",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+            "checked": "2026-10-20",
+            "evidence": "Be eligible to receive a reduced offer up to three grades below the standard entry requirement after completing the programme (e.g. AAA reduced to BBB)."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-finance-bsc-hons-nl31/2027/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (the course page's entry-year picker offers 2027 and 2026, and the 2028 address redirects to 2027), so 2027 entry is used",
+        "foundationYear: the course page doesn't mention a foundation year for this course",
+        "alternativeOffers: Lancaster doesn't publish exact grades for the Lancaster Access Programme or Uncover Progress offers (only 'up to three grades lower'); its contextual rules on the scheme page are for 2026 entry, with 2027-entry details still to be confirmed",
+        "alternativeOffers: the EPQ offer comes from Lancaster's general qualifications page ('for many courses'), not from this course page, so it isn't guaranteed for this course"
+      ],
+      "notes": "Taught by two departments, which Lancaster describes as known for high-quality teaching and research. A-level Maths is required."
+    },
+    {
+      "id": "lancaster-business-economics",
+      "name": "Business Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "4V13",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an industry placement year (UCAS code 4V11) or a study abroad year (4V14)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB (no required A-level subjects; A-level Maths or Economics not needed)",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/business-economics-bsc-hons-4v13/2027/",
+          "checked": "2026-10-20",
+          "evidence": "A level requirements AAB Duration Full time 3 years"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6/B"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4/C"
+        }
+      ],
+      "gcseText": "Mathematics grade 6/B, English Language grade 4/C. Lancaster also looks at your overall GCSE profile and says it has some flexibility on GCSE requirements.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+        "checked": "2026-10-20",
+        "evidence": "We accept all A level subjects but please see the entry requirements for the degree in which you are interested, as there may be subjects which are compulsory."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page lists no admissions test or interview.",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/business-economics-bsc-hons-4v13/2027/",
+          "checked": "2026-10-20",
+          "evidence": "if there are any extra requirements such as attending an interview or submitting a portfolio"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you received Free School Meals during secondary education (as declared on your UCAS application) or have experience of being in care. Lancaster says the offer is typically two A level grades lower than the standard offer; its example is AAB becoming BBB. This is the rule for 2026 entry; 2027-entry details were still to be confirmed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/contextual-offer-scheme/",
+            "checked": "2026-10-20",
+            "evidence": "The information on this page is relevant to our Contextual Offer Scheme for 2026 entry. ... your offer will typically be two A level grades (or equivalent) lower than the standard offer shown on our course pages and prospectus ... For example, a standard offer of AAB, would become BBB."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Plus grade B in the EPQ. Lancaster says that for many courses it may make this second, lower offer (one grade lower plus grade B in the EPQ) alongside its usual one. This is a general statement from its qualifications page, not specific to this course, so check with Admissions.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+            "checked": "2026-10-20",
+            "evidence": "you would receive two offers: our usual offer plus an offer at one grade lower plus grade B in the EPQ. For example, we may make an offer at AAB, or ABB plus B in the EPQ."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A lowered offer of up to 3 A level grades (or equivalent) once you complete the Lancaster Access Programme (not for Medicine). You must be accepted onto the programme first (UK state school or college, predicted at least BBC, and two or more widening participation criteria). Lancaster doesn't publish the exact grades per course.",
+          "programme": "Lancaster Access Programme",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+            "checked": "2026-10-20",
+            "evidence": "Access a lowered offer of up to 3 A Level grades (or equivalent) for study at Lancaster University on completion of the programme"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A reduced offer up to three grades below the standard entry requirement after completing Uncover Progress, a Year 12 programme for students of Black African, Black Caribbean or mixed Black heritage. Lancaster's example: AAA reduced to BBB. Exact grades per course aren't published.",
+          "programme": "Uncover Progress",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+            "checked": "2026-10-20",
+            "evidence": "Be eligible to receive a reduced offer up to three grades below the standard entry requirement after completing the programme (e.g. AAA reduced to BBB)."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lancaster.ac.uk/study/undergraduate/courses/business-economics-bsc-hons-4v13/2027/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (the course page's entry-year picker offers 2027 and 2026, and the 2028 address redirects to 2027), so 2027 entry is used",
+        "foundationYear: the course page doesn't mention a foundation year for this course",
+        "alternativeOffers: Lancaster doesn't publish exact grades for the Lancaster Access Programme or Uncover Progress offers (only 'up to three grades lower'); its contextual rules on the scheme page are for 2026 entry, with 2027-entry details still to be confirmed",
+        "alternativeOffers: the EPQ offer comes from Lancaster's general qualifications page ('for many courses'), not from this course page, so it isn't guaranteed for this course"
+      ],
+      "notes": "Lancaster says you don't need A-level Maths or Economics. GCSE Maths grade 6/B is needed."
+    },
+    {
+      "id": "lancaster-economics-politics",
+      "name": "Economics and Politics",
+      "degree": "BA (Hons)",
+      "ucasCode": "LL22",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an industry placement year (UCAS code LL20) or a study abroad year (LL19)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB (no required A-level subjects; A-level Economics or Maths not needed)",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-politics-ba-hons-ll22/2027/",
+          "checked": "2026-10-20",
+          "evidence": "A level requirements AAB Duration Full time 3 years"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6/B"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4/C"
+        }
+      ],
+      "gcseText": "Mathematics grade 6/B, English Language grade 4/C. Lancaster also looks at your overall GCSE profile and says it has some flexibility on GCSE requirements.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+        "checked": "2026-10-20",
+        "evidence": "We accept all A level subjects but please see the entry requirements for the degree in which you are interested, as there may be subjects which are compulsory."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page lists no admissions test or interview.",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-politics-ba-hons-ll22/2027/",
+          "checked": "2026-10-20",
+          "evidence": "if there are any extra requirements such as attending an interview or submitting a portfolio"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you received Free School Meals during secondary education (as declared on your UCAS application) or have experience of being in care. Lancaster says the offer is typically two A level grades lower than the standard offer; its example is AAB becoming BBB. This is the rule for 2026 entry; 2027-entry details were still to be confirmed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/contextual-offer-scheme/",
+            "checked": "2026-10-20",
+            "evidence": "The information on this page is relevant to our Contextual Offer Scheme for 2026 entry. ... your offer will typically be two A level grades (or equivalent) lower than the standard offer shown on our course pages and prospectus ... For example, a standard offer of AAB, would become BBB."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Plus grade B in the EPQ. Lancaster says that for many courses it may make this second, lower offer (one grade lower plus grade B in the EPQ) alongside its usual one. This is a general statement from its qualifications page, not specific to this course, so check with Admissions.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+            "checked": "2026-10-20",
+            "evidence": "you would receive two offers: our usual offer plus an offer at one grade lower plus grade B in the EPQ. For example, we may make an offer at AAB, or ABB plus B in the EPQ."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A lowered offer of up to 3 A level grades (or equivalent) once you complete the Lancaster Access Programme (not for Medicine). You must be accepted onto the programme first (UK state school or college, predicted at least BBC, and two or more widening participation criteria). Lancaster doesn't publish the exact grades per course.",
+          "programme": "Lancaster Access Programme",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+            "checked": "2026-10-20",
+            "evidence": "Access a lowered offer of up to 3 A Level grades (or equivalent) for study at Lancaster University on completion of the programme"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A reduced offer up to three grades below the standard entry requirement after completing Uncover Progress, a Year 12 programme for students of Black African, Black Caribbean or mixed Black heritage. Lancaster's example: AAA reduced to BBB. Exact grades per course aren't published.",
+          "programme": "Uncover Progress",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+            "checked": "2026-10-20",
+            "evidence": "Be eligible to receive a reduced offer up to three grades below the standard entry requirement after completing the programme (e.g. AAA reduced to BBB)."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-politics-ba-hons-ll22/2027/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (the course page's entry-year picker offers 2027 and 2026, and the 2028 address redirects to 2027), so 2027 entry is used",
+        "foundationYear: the course page doesn't mention a foundation year for this course",
+        "alternativeOffers: Lancaster doesn't publish exact grades for the Lancaster Access Programme or Uncover Progress offers (only 'up to three grades lower'); its contextual rules on the scheme page are for 2026 entry, with 2027-entry details still to be confirmed",
+        "alternativeOffers: the EPQ offer comes from Lancaster's general qualifications page ('for many courses'), not from this course page, so it isn't guaranteed for this course"
+      ],
+      "notes": "Lancaster says you don't need A-level Economics or Maths. GCSE Maths grade 6/B is needed."
+    },
+    {
+      "id": "lancaster-ppe",
+      "name": "Philosophy, Politics and Economics (PPE)",
+      "degree": "BA (Hons)",
+      "ucasCode": "L0V0",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS code L0V1) or a study abroad year (L0V2)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB (no required A-level subjects listed)",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons-l0v0/2027/",
+          "checked": "2026-10-20",
+          "evidence": "A level requirements AAB Duration Full time 3 years"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6/B"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4/C"
+        }
+      ],
+      "gcseText": "Mathematics grade 6/B, English Language grade 4/C. Lancaster also looks at your overall GCSE profile and says it has some flexibility on GCSE requirements.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+        "checked": "2026-10-20",
+        "evidence": "We accept all A level subjects but please see the entry requirements for the degree in which you are interested, as there may be subjects which are compulsory."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page lists no admissions test or interview.",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons-l0v0/2027/",
+          "checked": "2026-10-20",
+          "evidence": "if there are any extra requirements such as attending an interview or submitting a portfolio"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you received Free School Meals during secondary education (as declared on your UCAS application) or have experience of being in care. Lancaster says the offer is typically two A level grades lower than the standard offer; its example is AAB becoming BBB. This is the rule for 2026 entry; 2027-entry details were still to be confirmed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/contextual-offer-scheme/",
+            "checked": "2026-10-20",
+            "evidence": "The information on this page is relevant to our Contextual Offer Scheme for 2026 entry. ... your offer will typically be two A level grades (or equivalent) lower than the standard offer shown on our course pages and prospectus ... For example, a standard offer of AAB, would become BBB."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Plus grade B in the EPQ. Lancaster says that for many courses it may make this second, lower offer (one grade lower plus grade B in the EPQ) alongside its usual one. This is a general statement from its qualifications page, not specific to this course, so check with Admissions.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+            "checked": "2026-10-20",
+            "evidence": "you would receive two offers: our usual offer plus an offer at one grade lower plus grade B in the EPQ. For example, we may make an offer at AAB, or ABB plus B in the EPQ."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A lowered offer of up to 3 A level grades (or equivalent) once you complete the Lancaster Access Programme (not for Medicine). You must be accepted onto the programme first (UK state school or college, predicted at least BBC, and two or more widening participation criteria). Lancaster doesn't publish the exact grades per course.",
+          "programme": "Lancaster Access Programme",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+            "checked": "2026-10-20",
+            "evidence": "Access a lowered offer of up to 3 A Level grades (or equivalent) for study at Lancaster University on completion of the programme"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A reduced offer up to three grades below the standard entry requirement after completing Uncover Progress, a Year 12 programme for students of Black African, Black Caribbean or mixed Black heritage. Lancaster's example: AAA reduced to BBB. Exact grades per course aren't published.",
+          "programme": "Uncover Progress",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+            "checked": "2026-10-20",
+            "evidence": "Be eligible to receive a reduced offer up to three grades below the standard entry requirement after completing the programme (e.g. AAA reduced to BBB)."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lancaster.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons-l0v0/2027/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (the course page's entry-year picker offers 2027 and 2026, and the 2028 address redirects to 2027), so 2027 entry is used",
+        "foundationYear: the course page doesn't mention a foundation year for this course",
+        "alternativeOffers: Lancaster doesn't publish exact grades for the Lancaster Access Programme or Uncover Progress offers (only 'up to three grades lower'); its contextual rules on the scheme page are for 2026 entry, with 2027-entry details still to be confirmed",
+        "alternativeOffers: the EPQ offer comes from Lancaster's general qualifications page ('for many courses'), not from this course page, so it isn't guaranteed for this course",
+        "options: the placement-year (L0V1) and study-abroad (L0V2) versions are listed on Lancaster's course list, but this course page doesn't describe them"
+      ],
+      "notes": "The course page lists no required A-level subjects. GCSE Maths grade 6/B is needed."
+    },
+    {
+      "id": "lancaster-geography-economics",
+      "name": "Geography and Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "LL71",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS code LL72)",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-geography"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB; Geography recommended, or one of Classics, Economics, English Literature, History, Philosophy, Psychology, Religious Studies or Sociology",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/geography-and-economics-ba-hons-ll71/2027/",
+          "checked": "2026-10-20",
+          "evidence": "AAB. We recommend that this includes Geography, or alternatively you should have one of the following subjects ... Philosophy, Psychology, Religious Studies, and Sociology"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Geography",
+            "Classics",
+            "Economics",
+            "English Literature",
+            "History",
+            "Philosophy",
+            "Psychology",
+            "Religious Studies",
+            "Sociology"
+          ],
+          "minGrade": null,
+          "note": "Lancaster recommends that your A-levels include Geography; otherwise it expects at least one of the other listed subjects (Psychology is on the list)"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Geography"
+          ],
+          "note": "Recommended among your three A-levels"
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6/B"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4/C"
+        }
+      ],
+      "gcseText": "Mathematics grade 6/B, English Language grade 4/C. Lancaster also looks at your overall GCSE profile and says it has some flexibility on GCSE requirements.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/geography-and-economics-ba-hons-ll71/2027/",
+        "checked": "2026-10-20",
+        "evidence": "AAB. We recommend that this includes Geography, or alternatively you should have one of the following subjects ... Philosophy, Psychology, Religious Studies, and Sociology"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page lists no admissions test or interview.",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/geography-and-economics-ba-hons-ll71/2027/",
+          "checked": "2026-10-20",
+          "evidence": "if there are any extra requirements such as attending an interview or submitting a portfolio"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you received Free School Meals during secondary education (as declared on your UCAS application) or have experience of being in care. Lancaster says the offer is typically two A level grades lower than the standard offer; its example is AAB becoming BBB. This is the rule for 2026 entry; 2027-entry details were still to be confirmed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/contextual-offer-scheme/",
+            "checked": "2026-10-20",
+            "evidence": "The information on this page is relevant to our Contextual Offer Scheme for 2026 entry. ... your offer will typically be two A level grades (or equivalent) lower than the standard offer shown on our course pages and prospectus ... For example, a standard offer of AAB, would become BBB."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Plus grade B in the EPQ. Lancaster says that for many courses it may make this second, lower offer (one grade lower plus grade B in the EPQ) alongside its usual one. This is a general statement from its qualifications page, not specific to this course, so check with Admissions.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+            "checked": "2026-10-20",
+            "evidence": "you would receive two offers: our usual offer plus an offer at one grade lower plus grade B in the EPQ. For example, we may make an offer at AAB, or ABB plus B in the EPQ."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A lowered offer of up to 3 A level grades (or equivalent) once you complete the Lancaster Access Programme (not for Medicine). You must be accepted onto the programme first (UK state school or college, predicted at least BBC, and two or more widening participation criteria). Lancaster doesn't publish the exact grades per course.",
+          "programme": "Lancaster Access Programme",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+            "checked": "2026-10-20",
+            "evidence": "Access a lowered offer of up to 3 A Level grades (or equivalent) for study at Lancaster University on completion of the programme"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A reduced offer up to three grades below the standard entry requirement after completing Uncover Progress, a Year 12 programme for students of Black African, Black Caribbean or mixed Black heritage. Lancaster's example: AAA reduced to BBB. Exact grades per course aren't published.",
+          "programme": "Uncover Progress",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+            "checked": "2026-10-20",
+            "evidence": "Be eligible to receive a reduced offer up to three grades below the standard entry requirement after completing the programme (e.g. AAA reduced to BBB)."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lancaster.ac.uk/study/undergraduate/courses/geography-and-economics-ba-hons-ll71/2027/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (the course page's entry-year picker offers 2027 and 2026, and the 2028 address redirects to 2027), so 2027 entry is used",
+        "foundationYear: the course page doesn't mention a foundation year for this course",
+        "alternativeOffers: Lancaster doesn't publish exact grades for the Lancaster Access Programme or Uncover Progress offers (only 'up to three grades lower'); its contextual rules on the scheme page are for 2026 entry, with 2027-entry details still to be confirmed",
+        "alternativeOffers: the EPQ offer comes from Lancaster's general qualifications page ('for many courses'), not from this course page, so it isn't guaranteed for this course",
+        "options: only a placement-year version (LL72) is listed on Lancaster's course list; no study-abroad version of this course is listed or described"
+      ],
+      "notes": "A good fit for Geography and Psychology A-levels: Lancaster recommends Geography but also lists Psychology among the accepted subjects. GCSE Maths grade 6/B is needed."
+    },
+    {
+      "id": "lancaster-maths-economics",
+      "name": "Mathematics with Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "G1L1",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (UCAS code G1L2) or a study abroad year (G1L3)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including Mathematics at grade A or Further Mathematics at grade A; AAB if you get both Mathematics and Further Mathematics at grades A and B (either order)",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-with-economics-bsc-hons-g1l1/2027/",
+          "checked": "2026-10-20",
+          "evidence": "AAA. This should include Mathematics grade A or Further Mathematics grade A ... lowered to AAB for applicants who achieve both Mathematics and Further Mathematics at grades AB, in either order"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics",
+            "Further Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics grade A, or Further Mathematics grade A"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Further Mathematics"
+          ],
+          "note": "Not required, but taking both Mathematics and Further Mathematics at grades AB (either order) lowers the offer to AAB"
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "Grade 4/C"
+        }
+      ],
+      "gcseText": "English Language grade 4/C. Lancaster also looks at your overall GCSE profile and says it has some flexibility on GCSE requirements.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.lancaster.ac.uk/study/entry-requirements/undergraduate-qualifications/",
+        "checked": "2026-10-20",
+        "evidence": "We accept all A level subjects but please see the entry requirements for the degree in which you are interested, as there may be subjects which are compulsory."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "The course page lists no admissions test or interview.",
+        "source": {
+          "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-with-economics-bsc-hons-g1l1/2027/",
+          "checked": "2026-10-20",
+          "evidence": "if there are any extra requirements such as attending an interview or submitting a portfolio"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "If you achieve both Mathematics and Further Mathematics, at grades A and B in either order (so you would need to take both A-levels).",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-with-economics-bsc-hons-g1l1/2027/",
+            "checked": "2026-10-20",
+            "evidence": "The overall offer grades will be lowered to AAB for applicants who achieve both Mathematics and Further Mathematics at grades AB, in either order."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you received Free School Meals during secondary education (as declared on your UCAS application) or have experience of being in care. Lancaster says the offer is typically two A level grades lower than the standard offer (its example is AAB becoming BBB); the exact grades for this course aren't published. This is the rule for 2026 entry; 2027-entry details were still to be confirmed.",
+          "programme": null,
+          "source": {
+            "url": "https://www.lancaster.ac.uk/study/undergraduate/contextual-admissions/contextual-offer-scheme/",
+            "checked": "2026-10-20",
+            "evidence": "The information on this page is relevant to our Contextual Offer Scheme for 2026 entry. ... your offer will typically be two A level grades (or equivalent) lower than the standard offer shown on our course pages and prospectus"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A lowered offer of up to 3 A level grades (or equivalent) once you complete the Lancaster Access Programme (not for Medicine). You must be accepted onto the programme first (UK state school or college, predicted at least BBC, and two or more widening participation criteria). Lancaster doesn't publish the exact grades per course.",
+          "programme": "Lancaster Access Programme",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/schools-and-colleges/lap/",
+            "checked": "2026-10-20",
+            "evidence": "Access a lowered offer of up to 3 A Level grades (or equivalent) for study at Lancaster University on completion of the programme"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "A reduced offer up to three grades below the standard entry requirement after completing Uncover Progress, a Year 12 programme for students of Black African, Black Caribbean or mixed Black heritage. Lancaster's example: AAA reduced to BBB. Exact grades per course aren't published.",
+          "programme": "Uncover Progress",
+          "source": {
+            "url": "https://www.lancaster.ac.uk/widening-participation/uncover-progress/",
+            "checked": "2026-10-20",
+            "evidence": "Be eligible to receive a reduced offer up to three grades below the standard entry requirement after completing the programme (e.g. AAA reduced to BBB)."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-with-economics-bsc-hons-g1l1/2027/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: 2028-entry pages aren't published yet (the course page's entry-year picker offers 2027 and 2026, and the 2028 address redirects to 2027), so 2027 entry is used",
+        "foundationYear: the course page doesn't mention a foundation year for this course",
+        "alternativeOffers: Lancaster doesn't publish exact grades for the Lancaster Access Programme or Uncover Progress offers (only 'up to three grades lower'); its contextual rules on the scheme page are for 2026 entry, with 2027-entry details still to be confirmed",
+        "alternativeOffers: no EPQ offer is recorded, because the general EPQ example on Lancaster's qualifications page (AAB becoming ABB plus B in the EPQ) doesn't cover an AAA offer",
+        "alternativeOffers: the exact contextual offer for an AAA course isn't published (only 'typically two grades lower')"
+      ],
+      "notes": "The offer is AAA with an A in Maths (or Further Maths), but only AAB if you take both Maths and Further Maths and get grades A and B in either order."
+    }
+  ],
+  "notes": [
+    "All course facts are for September 2027 entry: Lancaster's course pages offer 2027 and 2026 in their entry-year picker, and the 2028 address redirects to 2027.",
+    "Lancaster isn't on UAT-UK's official TMUA list for 2027 entry, and none of the recorded course pages mentions an admissions test or interview.",
+    "BSc Economics (L100) and Economics and Finance (NL31) need A-level Maths. BA Economics, Business Economics, Economics and Politics, PPE and Geography and Economics don't, but they need GCSE Maths grade 6/B (Lancaster's qualifications page says that where it asks for GCSE Maths 6/B it often considers a slightly lower grade case by case, for example if you take A-level Maths, but these course pages don't say so).",
+    "Geography and Economics (LL71) suits Geography and Psychology A-levels: Lancaster recommends Geography and also lists Psychology among the accepted subjects.",
+    "Most courses have separate UCAS codes for the 4-year placement ('Industry') and study abroad versions; Home fees for those years are 20% and 15% of the standard fee.",
+    "Also offered but not recorded, to keep to 8 courses: Mathematics, Operational Research, Statistics and Economics (MORSE, GLN0), Finance (N300), Accounting and Finance (N400) and Business Management (N102).",
+    "The Lancaster Access Programme (a Year 12 and 13 programme that can lower offers by up to 3 grades) is taking applications for 2026/27 until Friday 20 November 2026."
+  ],
+  "notConfirmed": [
+    "entryYear: 2028-entry course pages aren't published yet, so 2027 entry is used for every course",
+    "fees: Lancaster publishes the 2027/28 Home fee (£10,050); the fee for 2028/29, when she would start, isn't published",
+    "openDays: the only undergraduate open day listed (Saturday 17 October 2026) has passed, and no later dates are published yet",
+    "contextual: Lancaster's contextual offer rules are for 2026 entry and it says 2027-entry details will be confirmed later in 2026, so the rules for 2028 entry aren't known; exact contextual offer grades per course aren't published (only 'typically two grades lower')",
+    "livingCosts: hall prices are the 2026/27 weekly rates; later years' prices aren't published",
+    "programmes: Uncover Progress dates for the 2026/27 round, and its cost, aren't stated on its page",
+    "competition: Lancaster doesn't publish offer rates or applications per place on these course pages"
+  ]
+}

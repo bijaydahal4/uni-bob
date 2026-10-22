@@ -1,0 +1,658 @@
+{
+ "id": "salford",
+ "name": "University of Salford",
+ "shortName": "Salford",
+ "aliases": [
+  "Salford",
+  "Salford Uni",
+  "Uni of Salford",
+  "UoSalford"
+ ],
+ "city": "Salford",
+ "region": "North",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.salford.ac.uk/undergraduate/open-days",
+  "checked": "2026-10-21",
+  "evidence": "Our campus, Peel Park, offers the best of both worlds: state-of-the-art learning facilities set against beautiful green space"
+ },
+ "location": {
+  "postcode": "M5 4WT",
+  "postcodeSource": "https://www.salford.ac.uk/accommodation/im-a-new-student",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/M54WT",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (Home) students starting in 2027 (2027/28). This is the stated tuition fee cap for 2027/28, and Salford's course pages list £10,050 a year for full-time Home students. Fees may rise each year in line with inflation, up to the government limit.",
+  "source": {
+   "url": "https://www.salford.ac.uk/undergraduate/fees-and-funding",
+   "checked": "2026-10-21",
+   "evidence": "In England and Wales, the tuition fee cap for 2026/27 will be £9,790 and for 2027/28 will be £10,050."
+  }
+ },
+ "livingCosts": {
+  "kind": "living cost estimate",
+  "amountLow": 1100,
+  "amountHigh": 1300,
+  "period": "month",
+  "academicYear": null,
+  "text": "Salford's cost guide for a single student renting privately in Greater Manchester gives minimum rent of £1,100 a month for a house share (£14,000 a year) or £1,300 a month for a studio (£15,500 a year), before bills, food and travel. Rooms in Salford's partner hall, Peel Park Quarter, are priced on the Campus Living Villages website, not on Salford's own pages.",
+  "source": {
+   "url": "https://www.salford.ac.uk/askus/money/living-in-salford-and-manchester",
+   "checked": "2026-10-21",
+   "evidence": "£1,100 - House share (based on the local rental market prices)"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-12-12",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days: Saturday 7 November 2026 and Saturday 12 December 2026 (in person, 09:30 to 16:00, across Salford's three campuses).",
+  "url": "https://www.salford.ac.uk/undergraduate/open-days",
+  "source": {
+   "url": "https://www.salford.ac.uk/undergraduate/open-days",
+   "checked": "2026-10-21",
+   "evidence": "Our next Open Days take place on Saturday 7 November and Saturday 12 December. You can book your place now."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Home-fee UCAS applicants in the most disadvantaged group of UCAS's Multiple Equality Measure, or who are care experienced or seeking sanctuary, can get an offer up to 16 UCAS points (about two grades) lower.",
+  "typicalReduction": "Up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements for your chosen course.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Group 1 of UCAS's Multiple Equality Measure 1 (MEM1) or Multiple Equality Measure 2 (MEM2). The MEM groups combine local-area higher-education participation (POLAR4), area deprivation (Index of Multiple Deprivation and Income Deprivation Affecting Children Index), the type of school you attend, free school meal eligibility and whether you attended an independent or state school. Group 1 is the students least likely to enter higher education.",
+    "measure": "other",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Care experienced: spent any amount of time in care at any point in their life.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Seeking sanctuary: seeking asylum or granted refugee status by the UK government (international students are otherwise not eligible).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "No separate application: Salford uses the contextual data in your UCAS application. You must live in the UK, apply through UCAS for a full-time undergraduate course, be assessed as paying home fees and be studying three A levels, a BTEC Extended Diploma or a mix of A levels and BTEC (T Levels are not currently included). Meeting the criteria does not guarantee an offer. If you qualify for both a contextual and a Local Talent offer, the contextual offer takes precedence.",
+  "url": "https://www.salford.ac.uk/undergraduate/contextual-offers",
+  "source": {
+   "url": "https://www.salford.ac.uk/undergraduate/contextual-offers",
+   "checked": "2026-10-21",
+   "evidence": "If you fall into Group 1 of either MEM1 or MEM2, you will be eligible for a contextual offer."
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.salford.ac.uk/",
+  "courses": "https://www.salford.ac.uk/search/courses",
+  "economics": "https://www.salford.ac.uk/subject-areas/accounting-finance-and-economics",
+  "openDays": "https://www.salford.ac.uk/undergraduate/open-days",
+  "fees": "https://www.salford.ac.uk/undergraduate/fees-and-funding",
+  "contextual": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+  "accommodation": "https://www.salford.ac.uk/accommodation/im-a-new-student"
+ },
+ "courses": [
+  {
+   "id": "salford-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L122",
+   "lengthYears": 3,
+   "lengthNote": "Optional placement year and a foundation-year version are also available (separate course pages)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS Tariff points from A levels (plus GCSE Maths and English at grade 4/C)",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/business-economics",
+     "checked": "2026-10-21",
+     "evidence": "A level 104 UCAS points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C / 4 or above, or equivalent Functional Skills (L2)"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C / 4 or above, or equivalent Functional Skills (L2)"
+    }
+   ],
+   "gcseText": "Maths and English at grade C / grade 4 or above, or equivalent Functional Skills (L2).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.salford.ac.uk/courses/undergraduate/business-economics",
+    "checked": "2026-10-21",
+    "evidence": "A level 104 UCAS points"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (only GCSEs plus UCAS Tariff points). Salford is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/business-economics",
+     "checked": "2026-10-21",
+     "evidence": "You must fulfil our GCSE entry requirements as well as one of the requirements listed below."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet Salford's contextual criteria (Group 1 of UCAS's Multiple Equality Measure 1 or 2, care experienced, or seeking sanctuary) you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements. The exact lower offer is not stated, and meeting the criteria does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you're eligible, you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements for your chosen course."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Salford 'Local Talent' offer: only for UK applicants with a Salford postcode (M3, M5, M6, M7, M8, M17, M27, M28, M29, M30, M38, M44, M50 or M60) who apply through UCAS, pay home fees and study three A levels, a BTEC Extended Diploma or a mix. Up to 16 UCAS Tariff points (about two grades) below the typical entry requirements. If you qualify for both a contextual and a Local Talent offer, the contextual offer takes precedence.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "live in the UK and have a Salford postcode (listed below)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.salford.ac.uk/courses/undergraduate/business-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows September 2027 enrolment and 2027/28 fees); 2027 entry recorded",
+    "A-level subjects: the course page gives only '104 UCAS points' for A levels, with no required, preferred or excluded subjects, so whether Psychology and Geography count is not stated; Salford publishes no grade equivalent for 104 points",
+    "No EPQ, access-programme or summer-school alternative offers are published on the course page",
+    "Further Mathematics is not mentioned on the course page"
+   ],
+   "notes": "Salford's main Economics degree: the course finder lists no separate single-honours Economics. Dual accreditation with the Chartered Management Institute (CMI). First year covers micro and macroeconomics; later years include development economics, econometrics and game theory alongside core business modules. The Salford Alternative Entry Scheme (SAES) can assess applicants who do not meet the stated entry criteria but can show they could succeed on the course."
+  },
+  {
+   "id": "salford-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN34",
+   "lengthYears": 3,
+   "lengthNote": "Optional placement year and a foundation-year version are also available (separate course pages)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS Tariff points from A levels (plus GCSE Maths and English at grade 4/C)",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "A level 104 UCAS points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C / 4 or above, or equivalent Functional Skills (L2)"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C / 4 or above, or equivalent Functional Skills (L2)"
+    }
+   ],
+   "gcseText": "Maths and English at grade C / grade 4 or above, or equivalent Functional Skills (L2).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.salford.ac.uk/courses/undergraduate/accounting-and-finance",
+    "checked": "2026-10-21",
+    "evidence": "A level 104 UCAS points"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (only GCSEs plus UCAS Tariff points). Salford is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/accounting-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "You must fulfil our GCSE entry requirements as well as one of the requirements listed below."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet Salford's contextual criteria (Group 1 of UCAS's Multiple Equality Measure 1 or 2, care experienced, or seeking sanctuary) you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements. The exact lower offer is not stated, and meeting the criteria does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you're eligible, you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements for your chosen course."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Salford 'Local Talent' offer: only for UK applicants with a Salford postcode (M3, M5, M6, M7, M8, M17, M27, M28, M29, M30, M38, M44, M50 or M60) who apply through UCAS, pay home fees and study three A levels, a BTEC Extended Diploma or a mix. Up to 16 UCAS Tariff points (about two grades) below the typical entry requirements. If you qualify for both a contextual and a Local Talent offer, the contextual offer takes precedence.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "live in the UK and have a Salford postcode (listed below)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.salford.ac.uk/courses/undergraduate/accounting-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows September 2027 enrolment and 2027/28 fees); 2027 entry recorded",
+    "A-level subjects: the course page gives only '104 UCAS points' for A levels, with no required, preferred or excluded subjects, so whether Psychology and Geography count is not stated; Salford publishes no grade equivalent for 104 points",
+    "No EPQ, access-programme or summer-school alternative offers are published on the course page",
+    "Further Mathematics is not mentioned on the course page"
+   ],
+   "notes": "Accredited by the ACCA, CIMA, CIPFA and ICAEW, so accredited modules can give exemptions from some professional exams. Includes a first-year Business Economics module. The page mentions 'study abroad schemes' but does not describe a year abroad. The Salford Alternative Entry Scheme (SAES) can assess applicants who do not meet the stated entry criteria but can show they could succeed on the course."
+  },
+  {
+   "id": "salford-business-finance",
+   "name": "Business and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N217",
+   "lengthYears": 3,
+   "lengthNote": "Optional year-long industry placement between years two and three, and a foundation-year version, are also available",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS Tariff points from A levels (plus GCSE Maths and English at grade 4/C)",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/business-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "A level 104 UCAS points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C / 4 or above, or equivalent"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade C / 4 or above, or equivalent"
+    }
+   ],
+   "gcseText": "Maths and English at grade C / grade 4 or above, or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.salford.ac.uk/courses/undergraduate/business-and-finance",
+    "checked": "2026-10-21",
+    "evidence": "A level 104 UCAS points"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (only GCSEs plus UCAS Tariff points). Salford is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/business-and-finance",
+     "checked": "2026-10-21",
+     "evidence": "You must fulfil our GCSE entry requirements as well as one of the requirements listed below."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet Salford's contextual criteria (Group 1 of UCAS's Multiple Equality Measure 1 or 2, care experienced, or seeking sanctuary) you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements. The exact lower offer is not stated, and meeting the criteria does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you're eligible, you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements for your chosen course."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Salford 'Local Talent' offer: only for UK applicants with a Salford postcode (M3, M5, M6, M7, M8, M17, M27, M28, M29, M30, M38, M44, M50 or M60) who apply through UCAS, pay home fees and study three A levels, a BTEC Extended Diploma or a mix. Up to 16 UCAS Tariff points (about two grades) below the typical entry requirements. If you qualify for both a contextual and a Local Talent offer, the contextual offer takes precedence.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "live in the UK and have a Salford postcode (listed below)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.salford.ac.uk/courses/undergraduate/business-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows September 2027 enrolment and 2027/28 fees); 2027 entry recorded",
+    "A-level subjects: the course page gives only '104 UCAS points' for A levels, with no required, preferred or excluded subjects, so whether Psychology and Geography count is not stated; Salford publishes no grade equivalent for 104 points",
+    "No EPQ, access-programme or summer-school alternative offers are published on the course page",
+    "Further Mathematics is not mentioned on the course page"
+   ],
+   "notes": "Combines business with finance: investments, corporate finance, financial analysis and programming tools (Python, R, Excel, SQL) for finance and fintech. The Salford Alternative Entry Scheme (SAES) can assess applicants who do not meet the stated entry criteria but can show they could succeed on the course."
+  },
+  {
+   "id": "salford-business-management",
+   "name": "Business Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N100",
+   "lengthYears": 3,
+   "lengthNote": "The page says the standard course is three years and that with a placement year or foundation year the length increases to four or five years",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS Tariff points from A levels (plus GCSE Maths and English at grade 4/C)",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/business-management",
+     "checked": "2026-10-21",
+     "evidence": "A level 104 UCAS points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Level 4 (grade C) or above, or equivalent Functional Skills (L2)"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Level 4 (grade C) or above, or equivalent Functional Skills (L2)"
+    }
+   ],
+   "gcseText": "Maths and English at level 4 (grade C) or above, or equivalent Functional Skills (L2).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.salford.ac.uk/courses/undergraduate/business-management",
+    "checked": "2026-10-21",
+    "evidence": "A level 104 UCAS points"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (only GCSEs plus UCAS Tariff points). Salford is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/business-management",
+     "checked": "2026-10-21",
+     "evidence": "You must fulfil our GCSE entry requirements as well as one of the requirements listed below."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet Salford's contextual criteria (Group 1 of UCAS's Multiple Equality Measure 1 or 2, care experienced, or seeking sanctuary) you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements. The exact lower offer is not stated, and meeting the criteria does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you're eligible, you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements for your chosen course."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Salford 'Local Talent' offer: only for UK applicants with a Salford postcode (M3, M5, M6, M7, M8, M17, M27, M28, M29, M30, M38, M44, M50 or M60) who apply through UCAS, pay home fees and study three A levels, a BTEC Extended Diploma or a mix. Up to 16 UCAS Tariff points (about two grades) below the typical entry requirements. If you qualify for both a contextual and a Local Talent offer, the contextual offer takes precedence.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "live in the UK and have a Salford postcode (listed below)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.salford.ac.uk/courses/undergraduate/business-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows September 2027 enrolment and 2027/28 fees); 2027 entry recorded",
+    "A-level subjects: the course page gives only '104 UCAS points' for A levels, with no required, preferred or excluded subjects, so whether Psychology and Geography count is not stated; Salford publishes no grade equivalent for 104 points",
+    "No EPQ, access-programme or summer-school alternative offers are published on the course page",
+    "Further Mathematics is not mentioned on the course page"
+   ],
+   "notes": "Leadership and management course with specialist modules, an optional placement year or foundation year, and international opportunities. The Salford Alternative Entry Scheme (SAES) can assess applicants who do not meet the stated entry criteria but can show they could succeed on the course."
+  },
+  {
+   "id": "salford-real-estate",
+   "name": "Real Estate Development and Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N270",
+   "lengthYears": 3,
+   "lengthNote": "Four years with the optional industry placement year (the page lists 'With placement: Four years'); foundation-year version also available",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "real-estate"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS Tariff points, with two full A-levels as a minimum (plus GCSE English and Maths at grade 4/C)",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/bsc-real-estate-development-and-management",
+     "checked": "2026-10-21",
+     "evidence": "104 UCAS points."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Level 2 GCSE at Grade C / 4 or above"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Level 2 GCSE at Grade C / 4 or above"
+    }
+   ],
+   "gcseText": "In addition to the following Level 3 requirements, you must have evidence of Level 2 GCSE English and Maths at Grade C/4 or above.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.salford.ac.uk/courses/undergraduate/bsc-real-estate-development-and-management",
+    "checked": "2026-10-21",
+    "evidence": "Two full A-levels required as a minimum."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (only GCSEs plus UCAS Tariff points). Salford is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.salford.ac.uk/courses/undergraduate/bsc-real-estate-development-and-management",
+     "checked": "2026-10-21",
+     "evidence": "In addition to the following Level 3 requirements, you must have evidence of Level 2 GCSE English and Maths at Grade C/4 or above."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet Salford's contextual criteria (Group 1 of UCAS's Multiple Equality Measure 1 or 2, care experienced, or seeking sanctuary) you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements. The exact lower offer is not stated, and meeting the criteria does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you're eligible, you could receive an offer up to 16 UCAS Tariff points, or the equivalent of two grades, below the typical entry requirements for your chosen course."
+     }
+    },
+    {
+     "type": "other",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Salford 'Local Talent' offer: only for UK applicants with a Salford postcode (M3, M5, M6, M7, M8, M17, M27, M28, M29, M30, M38, M44, M50 or M60) who apply through UCAS, pay home fees and study three A levels, a BTEC Extended Diploma or a mix. Up to 16 UCAS Tariff points (about two grades) below the typical entry requirements. If you qualify for both a contextual and a Local Talent offer, the contextual offer takes precedence.",
+     "programme": null,
+     "source": {
+      "url": "https://www.salford.ac.uk/undergraduate/your-offer-explained/contextual-and-local-talent-offers",
+      "checked": "2026-10-21",
+      "evidence": "live in the UK and have a Salford postcode (listed below)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.salford.ac.uk/courses/undergraduate/bsc-real-estate-development-and-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows September 2027 enrolment and 2027/28 fees); 2027 entry recorded",
+    "A-level subjects: the course page says only 'Two full A-levels required as a minimum' with 104 UCAS points, and lists no required, preferred or excluded subjects, so whether Psychology and Geography count is not stated; Salford publishes no grade equivalent for 104 points",
+    "No EPQ, access-programme or summer-school alternative offers are published on the course page",
+    "Further Mathematics is not mentioned on the course page"
+   ],
+   "notes": "RICS-accredited course taught in the School of Science, Engineering & Environment (not Salford Business School). First-year module 'Economics and Management'. The Salford Alternative Entry Scheme (SAES) can assess applicants who do not meet the stated entry criteria but can show they could succeed on the course."
+  }
+ ],
+ "notes": [
+  "Salford's offers are in UCAS Tariff points (104 points on every course recorded), not A-level grades, and it publishes no grade equivalent.",
+  "No 2028-entry pages yet: the course pages show September 2027 enrolment and 2027/28 fees, so all courses use 2027 entry.",
+  "No admissions test: none of the course pages names one. Salford is not on UAT-UK's official TMUA list for 2027 entry (https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf).",
+  "Local Talent offer (also up to 16 UCAS points lower) is only for applicants with a Salford postcode.",
+  "No programmes recorded: Salford's current Year 12 summer schools are Automotive Engineering ('Ignition') and Biosciences ('Breaking the Mould'), and its 'Explore' subject days are Arts and Media, Biomedicine, English, Engineering, Law, and Politics and History, so none is about Economics or business. 'Plug into Salford' is for first-year students after they enrol, not Year 12.",
+  "Open-day page gives 'Saturday 7 November and Saturday 12 December' with no year; both dates are Saturdays in 2026, so 2026 is recorded.",
+  "Peel Park campus (postcode M5 4WT) is about twenty minutes' walk from Manchester city centre."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "Halls rent: Salford says Peel Park Quarter room prices are on the Campus Living Villages website (not Salford's own site), so no halls price is recorded",
+  "Living-cost guide covers private renting in Greater Manchester only, and does not say which year it applies to",
+  "A-level subject requirements and excluded subjects are not stated on any course page (offers are in UCAS points only)",
+  "Exact contextual and Local Talent offers per course are not published (only 'up to 16 UCAS Tariff points / two grades lower')",
+  "No EPQ, access-programme or summer-school offers published; no Year 12 programme relevant to Economics or business found",
+  "Open-day year is not printed on the page (2026 inferred from the weekdays)"
+ ]
+}

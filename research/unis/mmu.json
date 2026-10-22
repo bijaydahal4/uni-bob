@@ -1,0 +1,639 @@
+{
+ "id": "mmu",
+ "name": "Manchester Metropolitan University",
+ "shortName": "Manchester Met",
+ "aliases": [
+  "MMU",
+  "Manchester Met",
+  "Man Met",
+  "Manchester Metropolitan",
+  "Manchester Metropolitan Uni"
+ ],
+ "city": "Manchester",
+ "region": "North",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-economics/september-2027",
+  "checked": "2026-10-21",
+  "evidence": "our city-centre campus puts you right at the heart of it"
+ },
+ "location": {
+  "postcode": "M15 6BX",
+  "postcodeSource": "https://www.mmu.ac.uk/about-us/contact",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/M156BX",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK students on standard full-time courses starting in 2027 (2027/28). Manchester Met says 2027/28 tuition fees are still being finalised and may change; its course pages show the Home fee as 'to be confirmed'.",
+  "source": {
+   "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-economics/september-2027",
+   "checked": "2026-10-21",
+   "evidence": "The standard UK and Channel Islands full-time fee will be £10,050 in academic year 2027/28."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 160,
+  "amountHigh": 245,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Halls cost about £160-£245 a week depending on the hall and room (2026/27 prices, covering Manchester Met and partner halls). The weekly fee is paid for the length of the contract.",
+  "source": {
+   "url": "https://www.mmu.ac.uk/sites/default/files/2026-04/Student%20Living%20guide.pdf",
+   "checked": "2026-10-21",
+   "evidence": "Prices shown are for the academic year 2026/27. Prices represent the weekly fee and are for the length"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Undergraduate open day (the last of 2026)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next (and last) undergraduate open day of 2026: Saturday 21 November 2026. No 2027 dates are listed on the page yet.",
+  "url": "https://www.mmu.ac.uk/study/open-days/undergraduate",
+  "source": {
+   "url": "https://www.mmu.ac.uk/study/open-days/undergraduate",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 21 November 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": null,
+  "summary": "Manchester Met does not publish contextual (lower) offers or criteria. It says it will consider challenges you tell it about, plus contextual data it holds on applicants, at the confirmation stage and may make allowances then.",
+  "typicalReduction": null,
+  "criteria": [],
+  "minCriteria": null,
+  "rulesText": "Admissions page: the university will consider any issues it is made aware of, as well as the contextual data it has on applicants, at the confirmation phase and may make allowances at that point. Applicants and offer holders who want an issue considered should contact the relevant admissions team.",
+  "url": "https://www.mmu.ac.uk/study/undergraduate/how-to-apply/admissions-policies-and-procedures",
+  "source": {
+   "url": "https://www.mmu.ac.uk/study/undergraduate/how-to-apply/admissions-policies-and-procedures",
+   "checked": "2026-10-21",
+   "evidence": "We will consider any issues we are made aware of, as well as the contextual data we have on applicants, at the confirmation phase of the admissions process and may make allowances at this point."
+  }
+ },
+ "programmes": [
+  {
+   "id": "mmu-first-generation",
+   "name": "First Generation Scholarship programme",
+   "provider": "Manchester Metropolitan University",
+   "providerType": "university",
+   "uniIds": [
+    "mmu"
+   ],
+   "summary": "Support programme for Year 12 and 13 students in the North West whose parents did not go to university, with an on-campus summer taster, development sessions and a £1,500 scholarship if you later study a full-time undergraduate degree at Manchester Met.",
+   "whoCanApply": "Year 12 students at a state-maintained post-16 institution who live or study in the North West (Lancashire, Cumbria, Cheshire, Merseyside or Greater Manchester), are UK home students, went to a UK state high school, and whose parents or guardians did not go to university.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "firstGen",
+    "other"
+   ],
+   "eligibilityDetail": "Be in Year 12 at a state-maintained post-16 institution; be a home (UK) student; live or study in the North West (Lancashire, Cumbria, Cheshire, Merseyside, Greater Manchester); have attended a UK state high school; be studying a two-year Level 3 qualification (A levels or BTECs); neither parent or guardian has an undergraduate degree (does not apply to care leavers); at least six GCSEs at grades 9-4 including English language and maths. If the programme is oversubscribed, priority goes to applicants who are or have been looked after, are estranged from their families, are from military families, or live in a low-participation neighbourhood (lowest POLAR4 quintile). Exceptions may be made for individual circumstances.",
+   "benefits": [
+    "Place on the First Generation Summer University Taster, an on-campus event (online options for those living further away)",
+    "Development sessions on personal statements, time management, motivation, exams and revision, student finance and budgeting, and confidence",
+    "Pre-entry guidance for your university application and networking with current students with similar life experience",
+    "£1,500 First Generation scholarship if you go on to a full-time undergraduate degree at Manchester Met",
+    "You do not have to apply to Manchester Met to take part in the pre-entry phase"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated",
+   "isFree": null,
+   "format": "mixed",
+   "subjects": "All subjects (general university preparation)",
+   "yearGroup": "Year 12 (continues into Year 13)",
+   "runs": {
+    "text": "Summer University Taster dates not published yet",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Open now for Year 12 students considering 2028 entry",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published on the programme page",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "Applications are open for Year 12 students considering 2028 entry; taster dates, application deadline and cost are not published on the programme page.",
+   "url": "https://www.mmu.ac.uk/study/undergraduate/how-to-apply/first-in-your-family-to-university",
+   "source": {
+    "url": "https://www.mmu.ac.uk/study/undergraduate/how-to-apply/first-in-your-family-to-university",
+    "checked": "2026-10-21",
+    "evidence": "We are open for applications from Year 12 (first year/lower sixth) students considering university for 2028 entry."
+   },
+   "notConfirmed": [
+    "Summer taster dates not published on the programme page",
+    "Application deadline not published on the programme page",
+    "Cost to participants not stated (the page says the activities are jointly funded by the University and donations)",
+    "The page does not say the programme lowers offers; it says taking part does not guarantee an offer"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.mmu.ac.uk/",
+  "courses": "https://www.mmu.ac.uk/study/undergraduate",
+  "economics": "https://www.mmu.ac.uk/study/undergraduate/subject/finance-and-economics",
+  "openDays": "https://www.mmu.ac.uk/study/open-days/undergraduate",
+  "fees": "https://www.mmu.ac.uk/study/undergraduate/funding-your-studies/tuition-fees",
+  "contextual": "https://www.mmu.ac.uk/study/undergraduate/how-to-apply/admissions-policies-and-procedures",
+  "accommodation": "https://www.mmu.ac.uk/study/accommodation/our-halls"
+ },
+ "courses": [
+  {
+   "id": "mmu-ba-economics",
+   "name": "Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement year and/or overseas study, or 4 years with a foundation year (BA (Hons) Economics (Foundation Year), UCAS code M102)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104-112 UCAS tariff points (the page also lists A levels as e.g. BBC-BBB)",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-economics/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "104-112 UCAS tariff points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills English pass"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills Mathematics pass"
+    }
+   ],
+   "gcseText": "GCSE grade C/4 in English Language or Level 2 Functional Skills English pass and GCSE grade C/4 in Mathematics or Level 2 Functional Skills Mathematics pass",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-economics/september-2027",
+    "checked": "2026-10-21",
+    "evidence": "AS levels (or qualifications equivalent to AS level) are not accepted."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Manchester Met is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-economics/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "104-112 UCAS tariff points"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.mmu.ac.uk/study/undergraduate/course/ba-economics/september-2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published (the 2028 course address shows the September 2027 page); 2027 entry used",
+    "subjects: the page names no required or excluded A-level subjects (tariff-based offer), so Psychology and Geography acceptance is not confirmed",
+    "UCAS course page could not be opened (blocked, HTTP 403), so the offer was not cross-checked there",
+    "offer: the page gives 104-112 UCAS tariff points but also lists A levels as 'e.g. BBC-BBB'; BBB is worth 120 points, so the grade example does not match the points range. Points recorded; check with the university"
+   ],
+   "notes": "Also accepted: Pearson BTEC National Extended Diploma DMM, Access to HE Diploma with at least 106 points, T Levels (minimum Merit). An EPQ at grade C or above can count towards the tariff; AS levels are not accepted. The foundation-year version (M102) asks for 72-80 UCAS tariff points and GCSE English Language and Mathematics at grade D/3."
+  },
+  {
+   "id": "mmu-bsc-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement or 4 years with study abroad; a separate BSc (Hons) Economics (Foundation Year) course adds a foundation year first",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104-112 UCAS tariff points (the page also lists A levels as e.g. BBC-BBB)",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-economics/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "104-112 UCAS tariff points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills English pass"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills Mathematics pass"
+    }
+   ],
+   "gcseText": "GCSE grade C/4 in English Language or Level 2 Functional Skills English pass and GCSE grade C/4 in Mathematics or Level 2 Functional Skills Mathematics pass",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-economics/september-2027",
+    "checked": "2026-10-21",
+    "evidence": "AS levels (or qualifications equivalent to AS level) are not accepted."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Manchester Met is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-economics/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "104-112 UCAS tariff points"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-economics/september-2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published (the 2028 course address shows the September 2027 page); 2027 entry used",
+    "subjects: the page names no required or excluded A-level subjects (tariff-based offer), so Psychology and Geography acceptance is not confirmed",
+    "UCAS course page could not be opened (blocked, HTTP 403), so the offer was not cross-checked there",
+    "offer: the page gives 104-112 UCAS tariff points but also lists A levels as 'e.g. BBC-BBB'; BBB is worth 120 points, so the grade example does not match the points range. Points recorded; check with the university"
+   ],
+   "notes": "Same entry requirements as the BA (Hons) Economics (L100). Also accepted: Pearson BTEC National Extended Diploma DMM, Access to HE Diploma with at least 106 points, T Levels (minimum Merit). An EPQ at grade C or above can count towards the tariff; AS levels are not accepted. The BSc Economics (Foundation Year) course asks for 72-80 UCAS tariff points and GCSE English Language and Mathematics at grade D/3."
+  },
+  {
+   "id": "mmu-ppe",
+   "name": "Philosophy, Politics and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "PPE1",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years full-time with a placement or with study abroad; UCAS code PPE0 is the version with a foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "ppe",
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 120,
+    "tariffLow": 112,
+    "text": "112-120 UCAS tariff points (A levels grades BBC or equivalent)",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-philosophy-politics-and-economics/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "112-120 UCAS tariff points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills English pass"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills Mathematics pass"
+    }
+   ],
+   "gcseText": "GCSE grade C/4 in English Language or Level 2 Functional Skills English pass and GCSE grade C/4 in Mathematics or Level 2 Functional Skills Mathematics pass",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-philosophy-politics-and-economics/september-2027",
+    "checked": "2026-10-21",
+    "evidence": "AS levels, or qualifications equivalent to AS level, are not accepted."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Manchester Met is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-philosophy-politics-and-economics/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "112-120 UCAS tariff points"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.mmu.ac.uk/study/undergraduate/course/ba-philosophy-politics-and-economics/september-2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published (the 2028 course address shows the September 2027 page); 2027 entry used",
+    "subjects: the page names no required or excluded A-level subjects (tariff-based offer), so Psychology and Geography acceptance is not confirmed",
+    "UCAS course page could not be opened (blocked, HTTP 403), so the offer was not cross-checked there"
+   ],
+   "notes": "A maximum of three A level-equivalent qualifications count towards the tariff; an EPQ may be accepted together with two A-level equivalents; AS levels are not accepted. Also accepted: BTEC National Extended Diploma DMM, Access to HE Diploma with at least 112 points, IB Diploma with 26 points."
+  },
+  {
+   "id": "mmu-banking-finance",
+   "name": "Banking and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N342",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement year and/or overseas study, or 4 years with a foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104-112 UCAS tariff points (A levels grades BCC or equivalent)",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-banking-and-finance/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "104-112 UCAS tariff points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills English pass"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills Mathematics pass"
+    }
+   ],
+   "gcseText": "GCSE grade C/4 in English Language or Level 2 Functional Skills English pass and GCSE grade C/4 in Mathematics or Level 2 Functional Skills Mathematics pass",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-banking-and-finance/september-2027",
+    "checked": "2026-10-21",
+    "evidence": "AS levels, or qualifications equivalent to AS level, are not accepted."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Manchester Met is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-banking-and-finance/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "104-112 UCAS tariff points"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-banking-and-finance/september-2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published (the 2028 course address shows the September 2027 page); 2027 entry used",
+    "subjects: the page names no required or excluded A-level subjects (tariff-based offer), so Psychology and Geography acceptance is not confirmed",
+    "UCAS course page could not be opened (blocked, HTTP 403), so the offer was not cross-checked there",
+    "ucasCode: the foundation-year code is shown as 'TEST' on the page (placeholder), so it is not recorded"
+   ],
+   "notes": "A maximum of three A level-equivalent qualifications count towards the tariff; an EPQ may be accepted together with two A-level equivalents; AS levels are not accepted. Also accepted: BTEC National Extended Diploma DMM, Access to HE Diploma with at least 106 points, IB Diploma with 26 points."
+  },
+  {
+   "id": "mmu-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "420N",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement year and/or overseas study, or 4 years with a foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104-112 UCAS tariff points (A levels grades BCC or equivalent)",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-accounting-and-finance/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "104-112 UCAS tariff points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills English pass"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills Mathematics pass"
+    }
+   ],
+   "gcseText": "GCSE grade C/4 in English Language or Level 2 Functional Skills English pass and GCSE grade C/4 in Mathematics or Level 2 Functional Skills Mathematics pass",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-accounting-and-finance/september-2027",
+    "checked": "2026-10-21",
+    "evidence": "AS levels, or qualifications equivalent to AS level, are not accepted."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Manchester Met is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-accounting-and-finance/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "104-112 UCAS tariff points"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.mmu.ac.uk/study/undergraduate/course/bsc-accounting-and-finance/september-2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published (the 2028 course address shows the September 2027 page); 2027 entry used",
+    "subjects: the page names no required or excluded A-level subjects (tariff-based offer), so Psychology and Geography acceptance is not confirmed",
+    "UCAS course page could not be opened (blocked, HTTP 403), so the offer was not cross-checked there",
+    "ucasCode: copied as shown on the course page ('420N'); check the code on UCAS before applying"
+   ],
+   "notes": "A maximum of three A level-equivalent qualifications count towards the tariff; an EPQ may be accepted together with two A-level equivalents; AS levels are not accepted. Also accepted: BTEC National Extended Diploma DMM, Access to HE Diploma with at least 106 points, IB Diploma with 26 points."
+  },
+  {
+   "id": "mmu-business-management",
+   "name": "Business Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N201",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement or with overseas study; UCAS code N203 is the version with a foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 128,
+    "tariffLow": 120,
+    "text": "120-128 UCAS tariff points (A levels grades BBB or equivalent)",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-business-management/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "120-128 UCAS tariff points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills English pass"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE grade C/4, or a Level 2 Functional Skills Mathematics pass"
+    }
+   ],
+   "gcseText": "GCSE grade C/4 in English Language or equivalent, e.g. Pass in Level 2 Functional Skills English and GCSE grade C/4 in Mathematics or equivalent, e.g. Pass in Level 2 Functional Skills Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-business-management/september-2027",
+    "checked": "2026-10-21",
+    "evidence": "AS levels, or qualifications equivalent to AS level, are not accepted."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Manchester Met is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.mmu.ac.uk/study/undergraduate/course/ba-business-management/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "120-128 UCAS tariff points"
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.mmu.ac.uk/study/undergraduate/course/ba-business-management/september-2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published (the 2028 course address shows the September 2027 page); 2027 entry used",
+    "subjects: the page names no required or excluded A-level subjects (tariff-based offer), so Psychology and Geography acceptance is not confirmed",
+    "UCAS course page could not be opened (blocked, HTTP 403), so the offer was not cross-checked there"
+   ],
+   "notes": "A maximum of three A level-equivalent qualifications count towards the tariff; an EPQ may be accepted together with two A-level equivalents; AS levels are not accepted. Also accepted: BTEC National Extended Diploma DMM, Access to HE Diploma with at least 122 points, IB Diploma with 30 points."
+  }
+ ],
+ "notes": [
+  "No 2028-entry course pages yet: the 'september-2028' course address on mmu.ac.uk shows the page with a September 2027 start (checked 2026-10-21), so all courses use 2027 entry.",
+  "Manchester Met publishes offers as UCAS tariff points (some pages add A-level grade examples). AS levels are not accepted and an EPQ may count towards the tariff.",
+  "No admissions test is named on any of the course pages, and Manchester Met is not on UAT-UK's official TMUA list for 2027 entry.",
+  "Foundation-year versions of Economics, Business Management, PPE and the finance degrees are available (one extra year, lower entry requirements).",
+  "The postcode is the university's general enquiries address (Ormond Building, Lower Ormond Street); the campus is in Manchester city centre.",
+  "The halls comparison page lists contract lengths of 44 weeks for most halls (44 or 51 for two).",
+  "Subject taster days for schools and colleges are arranged on request; the post-16 taster page only lists 2022 days, so no dated Year 12 Economics taster was found."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2027/28 Home fee: £10,050 is the standard fee Manchester Met says it will charge, but it also says 2027/28 fees are still being finalised (course pages show Home fee 'to be confirmed')",
+  "Living costs are 2026/27 halls prices; 2027/28 prices not published",
+  "Open days: only 21 November 2026 is listed; 2027 open day dates not announced on the page",
+  "Contextual admissions: no contextual offer criteria or typical reduction are published; the admissions page only says challenges and contextual data are considered at the confirmation stage",
+  "First Generation programme: summer taster dates, application deadline and cost not published; only for students who live or study in the North West",
+  "No dated Year 12 summer school or Economics taster found (the post-16 taster page lists only 2022 dates)",
+  "UCAS course pages could not be opened (blocked, HTTP 403), so offers were not cross-checked against UCAS"
+ ]
+}

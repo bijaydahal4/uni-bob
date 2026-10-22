@@ -1,0 +1,889 @@
+{
+ "id": "soas",
+ "name": "SOAS University of London",
+ "shortName": "SOAS",
+ "aliases": [
+  "SOAS",
+  "SOAS London",
+  "SOAS University",
+  "SOAS Uni",
+  "School of Oriental and African Studies"
+ ],
+ "city": "London",
+ "region": "London",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.soas.ac.uk/study/student-life/campus",
+  "checked": "2026-10-22",
+  "evidence": "Explore our city-centre campus located in the heart of the Bloomsbury quarter, with a world-class research Library, international gallery and modern student facilities."
+ },
+ "location": {
+  "postcode": "WC1H 0XG",
+  "postcodeSource": "https://www.soas.ac.uk/soas-open-days",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/WC1H0XG",
+  "checked": "2026-10-22"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 a year for Home (UK) students in 2027/28, the Home fee cap the UK government has announced (it is £9,790 in 2026/27). SOAS says 2028/29 fees are not announced yet but are likely to rise by 2-4%. A Year in Industry or a year abroad costs £1,425 for Home students in 2026/27.",
+  "source": {
+   "url": "https://www.soas.ac.uk/study/student-fees-and-funding/tuition-fees/undergraduate-fees",
+   "checked": "2026-10-22",
+   "evidence": "2027/28: £10,050"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 185,
+  "amountHigh": 430.57,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Undergraduate halls cost about £185 to £431 a week in 2026/27 depending on the hall and room (cheapest: single rooms at Wood Green Hall from £185; the dearest listed is the catered ensuite at Garden Halls at about £431). Contract lengths vary from 38 to 51 weeks, which changes the weekly price.",
+  "source": {
+   "url": "https://www.soas.ac.uk/study/accommodation/undergraduate-halls",
+   "checked": "2026-10-22",
+   "evidence": "£185-£198"
+  }
+ },
+ "openDays": {
+  "events": [],
+  "text": "No undergraduate open days are listed yet: SOAS's open days page currently lists only a Postgraduate Open House (1 December 2026). You can book an in-person campus tour instead.",
+  "url": "https://www.soas.ac.uk/soas-open-days",
+  "source": {
+   "url": "https://www.soas.ac.uk/soas-open-days",
+   "checked": "2026-10-22",
+   "evidence": "Postgraduate Open House"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "UK applicants who meet at least one of SOAS's contextual criteria can be considered for a contextual offer with reduced grades.",
+  "typicalReduction": "Up to two grades below the standard entry requirements (the Economics course pages list BBB against a standard ABB)",
+  "criteria": [
+   {
+    "key": "fsm",
+    "detail": "Free School Meals (listed as an example of the contextual data SOAS may take into account).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Experience of care.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "POLAR4: how likely young people in your area are to go to higher education (SOAS does not say which quintiles count).",
+    "measure": "POLAR4",
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "IMD: how deprived your area in England is (SOAS does not say which quintiles count).",
+    "measure": "IMD",
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estrangement.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Caring responsibilities.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Parenting responsibilities.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Parent or carer in armed forces.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Served in armed forces.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Refugee or asylum seeker status.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "The criteria are examples of the contextual data SOAS may take into account. Applicants must meet at least one of them to be considered for a contextual offer. Contextual offers are not made for BTEC qualifications or A levels combined with other qualifications, or through Clearing.",
+  "url": "https://www.soas.ac.uk/study/undergraduate/contextual-offers",
+  "source": {
+   "url": "https://www.soas.ac.uk/study/undergraduate/contextual-offers",
+   "checked": "2026-10-22",
+   "evidence": "Applicants must meet at least one of the above criteria to be considered for a contextual offer."
+  }
+ },
+ "programmes": [
+  {
+   "id": "soas-year-12-outreach-summer-school",
+   "name": "SOAS Year 12 Outreach Summer School",
+   "provider": "SOAS University of London",
+   "providerType": "university",
+   "uniIds": [
+    "soas"
+   ],
+   "summary": "A free week-long, non-residential summer school at SOAS for Year 12 students, with a 'Thriving futures' pathway on Economics, Finance and Global Development.",
+   "whoCanApply": "Year 12 students attending state schools and colleges. Students who are eligible or were previously eligible for Free School Meals, have experience of local authority care, or come from an area underrepresented in higher education (TUNDRA) are prioritised.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "fsm",
+    "care",
+    "area"
+   ],
+   "eligibilityDetail": "Open to Year 12 students at state schools and colleges; places are prioritised for students who meet at least one of: eligible or previously eligible for Free School Meals; experience of local authority care; from an area underrepresented in higher education (measured by TUNDRA).",
+   "benefits": [
+    "Free; SOAS covers travel costs for eligible students who live outside the London Oyster Card 16+ Travel Zones",
+    "Lectures by leading academics, study skills sessions and information about university life and UCAS",
+    "Meet recent graduates and current SOAS students and complete a group project"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "day",
+   "subjects": "Thriving futures pathway: Economics, Finance and Global Development (other pathways: Cross-cultural connections; Law and society)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Expected mid-July 2027 (the 2026 summer school ran 13 to 17 July 2026, 10:00 to 16:00)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published for 2027 yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published for 2027 yet (the 2026 deadline was 9:00am on Friday 24 April 2026)",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026 programme (13 to 17 July 2026; applications closed 24 April 2026). 2027 dates are not announced yet; the Expected timing is based on the 2026 dates.",
+   "url": "https://www.soas.ac.uk/about/event/soas-year-12-outreach-summer-school-2026",
+   "source": {
+    "url": "https://www.soas.ac.uk/about/event/soas-year-12-outreach-summer-school-2026",
+    "checked": "2026-10-22",
+    "evidence": "Thriving futures: exploring Economics, Finance and Global Development."
+   },
+   "notConfirmed": [
+    "2027 programme dates, opening date and application deadline are not published yet",
+    "the page does not say whether taking part lowers a SOAS offer"
+   ]
+  },
+  {
+   "id": "soas-economics-masterclass-coffee",
+   "name": "Economics Masterclass for Years 12 and 13: the £3.50 coffee",
+   "provider": "SOAS University of London",
+   "providerType": "university",
+   "uniIds": [
+    "soas"
+   ],
+   "summary": "A free three-hour on-campus Economics masterclass with SOAS Department of Economics staff, an interactive economics game, a campus tour and a higher education workshop.",
+   "whoCanApply": "Year 12 and 13 students at state schools, academies and colleges; students who meet at least one of the priority criteria are prioritised. School/college and parent or guardian permission is needed.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "fsm",
+    "care",
+    "area"
+   ],
+   "eligibilityDetail": "Only open to pupils attending state schools, academies and colleges. Prioritised: eligible or previously eligible for free school meals; experience of local authority care; from an area of low progression to higher education (measured by TUNDRA).",
+   "benefits": [
+    "Free Economics masterclass led by SOAS Department of Economics staff",
+    "Campus tour and a higher education workshop led by Student Ambassadors"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "day",
+   "subjects": "Economics",
+   "yearGroup": "Year 12 and 13",
+   "runs": {
+    "text": "3 November 2026, 10:00am to 1:00pm, SOAS campus",
+    "start": "2026-11-03",
+    "end": "2026-11-03",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Not stated on the event page",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "9:00am on Monday 12 October 2026 (now closed)",
+    "date": "2026-10-12",
+    "status": "Confirmed"
+   },
+   "infoYear": 2026,
+   "infoNote": "Applications for this 3 November 2026 session closed on 12 October 2026. SOAS says it runs a programme of masterclasses throughout the year, so look out for the next Economics one.",
+   "url": "https://www.soas.ac.uk/about/event/economics-masterclass-years-12-and-13-ps350-coffee-who-really-gets-your-money",
+   "source": {
+    "url": "https://www.soas.ac.uk/about/event/economics-masterclass-years-12-and-13-ps350-coffee-who-really-gets-your-money",
+    "checked": "2026-10-22",
+    "evidence": "In this interactive masterclass with staff from the SOAS Department of Economics, you will uncover the global story hidden inside an everyday cup of coffee."
+   },
+   "notConfirmed": [
+    "dates of the next Economics masterclass are not published",
+    "the page does not say whether taking part lowers a SOAS offer"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.soas.ac.uk/",
+  "courses": "https://www.soas.ac.uk/undergraduate-courses",
+  "economics": "https://www.soas.ac.uk/about/governance/colleges/college-social-sciences/department-economics",
+  "openDays": "https://www.soas.ac.uk/soas-open-days",
+  "fees": "https://www.soas.ac.uk/study/student-fees-and-funding/tuition-fees/undergraduate-fees",
+  "contextual": "https://www.soas.ac.uk/study/undergraduate/contextual-offers",
+  "accommodation": "https://www.soas.ac.uk/study/accommodation/undergraduate-halls"
+ },
+ "courses": [
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: SOAS is not on UAT-UK's official TMUA list for 2027 entry and the course page names no test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "soas-bsc-economics",
+   "name": "Economics",
+   "degree": "BSc",
+   "ucasCode": "L100",
+   "lengthNote": "3 or 4 years: the optional Year in Industry placement or an optional year abroad makes it 4 years",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level, including at least grade B in A-level Maths (contextual offer BBB)",
+    "source": {
+     "url": "https://www.soas.ac.uk/study/find-course/bsc-economics",
+     "checked": "2026-10-22",
+     "evidence": "A Levels: ABB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "A-level Maths (or equivalent) at grade B or above is required for BSc Economics."
+    }
+   ],
+   "gcse": [],
+   "gcseText": null,
+   "subjectsEvidence": {
+    "url": "https://www.soas.ac.uk/study/find-course/bsc-economics",
+    "checked": "2026-10-22",
+    "evidence": "Subject required: minimum grade B in A Level maths or equivalent."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB if you are a UK applicant who meets at least one of SOAS's contextual criteria (contextual offers are not made for BTEC or for A levels combined with other qualifications, or through Clearing). SOAS says contextual offers can be up to two grades below the standard offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.soas.ac.uk/study/find-course/bsc-economics",
+      "checked": "2026-10-22",
+      "evidence": "Contextualised offer: BBB"
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.soas.ac.uk/study/find-course/bsc-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the SOAS course page does not say which entry year its requirements apply to (its fee table is labelled 2026/27 entrants); recorded as 2027 entry, and no 2028-entry information is published",
+    "gcse: the BSc Economics page lists no GCSE requirements",
+    "acceptsPsychology / acceptsGeography: the page does not list accepted or excluded A-level subjects",
+    "contextual offer: SOAS says 'Subject-specific requirements are not part of a contextual offer' - unclear whether a Maths requirement still applies to the BBB offer"
+   ],
+   "notes": "SOAS's main Economics degree, taught by the Department of Economics (pluralist, development-focused). A 4-year 'BSc Economics with Year in Industry' version exists. Students who do not meet the entry requirements can join SOAS's 4-year integrated Foundation Year and then move onto any undergraduate programme."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: SOAS is not on UAT-UK's official TMUA list for 2027 entry and the course page names no test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "soas-ba-economics",
+   "name": "Economics",
+   "degree": "BA",
+   "ucasCode": "L102",
+   "lengthNote": "3 or 4 years: the optional Year in Industry placement or an optional year abroad makes it 4 years",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (contextual offer BBB)",
+    "source": {
+     "url": "https://www.soas.ac.uk/study/find-course/ba-economics",
+     "checked": "2026-10-22",
+     "evidence": "A levels: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Only needed if you do not have A-level Maths (or equivalent): then GCSE Maths grade B / 6 is the minimum."
+    }
+   ],
+   "gcseText": "Applicants without A-level Maths (or equivalent) must have a minimum of grade B in GCSE Maths (or grade 6 in the new structure).",
+   "subjectsEvidence": {
+    "url": "https://www.soas.ac.uk/study/find-course/ba-economics",
+    "checked": "2026-10-22",
+    "evidence": "Applicants without A-level Maths (or equivalent) must have a minimum of grade B in GCSE Maths (or grade 6 in the new structure)."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB if you are a UK applicant who meets at least one of SOAS's contextual criteria (contextual offers are not made for BTEC or for A levels combined with other qualifications, or through Clearing). SOAS says contextual offers can be up to two grades below the standard offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.soas.ac.uk/study/find-course/ba-economics",
+      "checked": "2026-10-22",
+      "evidence": "Contextual: BBB"
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.soas.ac.uk/study/find-course/ba-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the SOAS course page does not say which entry year its requirements apply to (its fee table is labelled 2026/27 entrants); recorded as 2027 entry, and no 2028-entry information is published",
+    "acceptsPsychology / acceptsGeography: the page does not list accepted or excluded A-level subjects",
+    "contextual offer: SOAS says 'Subject-specific requirements are not part of a contextual offer' - unclear whether a Maths requirement still applies to the BBB offer"
+   ],
+   "notes": "Same department as BSc Economics but A-level Maths is not required. You can still graduate with a BSc Economics by completing the Mathematics for Economists and Econometrics modules. Students who do not meet the entry requirements can join SOAS's 4-year integrated Foundation Year and then move onto any undergraduate programme."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: SOAS is not on UAT-UK's official TMUA list for 2027 entry and the course page names no test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "soas-bsc-development-economics",
+   "name": "Development Economics",
+   "degree": "BSc",
+   "ucasCode": "L170",
+   "lengthNote": "3 or 4 years: an optional year abroad makes it 4 years",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-geography"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (contextual offer BBB)",
+    "source": {
+     "url": "https://www.soas.ac.uk/study/find-course/bsc-development-economics",
+     "checked": "2026-10-22",
+     "evidence": "A levels: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Only needed if you do not have A-level Maths (or equivalent): then GCSE Maths grade B / 6 is the minimum."
+    }
+   ],
+   "gcseText": "Applicants without A-level Maths (or equivalent) must have a minimum of grade B in GCSE Maths (or grade 6 in the new structure).",
+   "subjectsEvidence": {
+    "url": "https://www.soas.ac.uk/study/find-course/bsc-development-economics",
+    "checked": "2026-10-22",
+    "evidence": "Applicants without A-level Maths (or equivalent) must have a minimum of grade B in GCSE Maths (or grade 6 in the new structure)."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB if you are a UK applicant who meets at least one of SOAS's contextual criteria (contextual offers are not made for BTEC or for A levels combined with other qualifications, or through Clearing). SOAS says contextual offers can be up to two grades below the standard offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.soas.ac.uk/study/find-course/bsc-development-economics",
+      "checked": "2026-10-22",
+      "evidence": "Contextual: BBB"
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.soas.ac.uk/study/find-course/bsc-development-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the SOAS course page does not say which entry year its requirements apply to (its fee table is labelled 2026/27 entrants); recorded as 2027 entry, and no 2028-entry information is published",
+    "acceptsPsychology / acceptsGeography: the page does not list accepted or excluded A-level subjects",
+    "contextual offer: SOAS says 'Subject-specific requirements are not part of a contextual offer' - unclear whether a Maths requirement still applies to the BBB offer",
+    "placement: the page does not mention a Year in Industry placement for this course"
+   ],
+   "notes": "Taught by the Department of Economics, which specialises in the economics of growth and development as well as political economy. Students who do not meet the entry requirements can join SOAS's 4-year integrated Foundation Year and then move onto any undergraduate programme."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: SOAS is not on UAT-UK's official TMUA list for 2027 entry and the course page names no test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "soas-bsc-ppe",
+   "name": "Politics, Philosophy and Economics",
+   "degree": "BSc",
+   "ucasCode": "L0E0",
+   "lengthNote": "3 or 4 years: an optional year abroad makes it 4 years",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "available"
+   },
+   "types": [
+    "ppe"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (contextual offer BBB)",
+    "source": {
+     "url": "https://www.soas.ac.uk/study/find-course/bsc-politics-philosophy-and-economics",
+     "checked": "2026-10-22",
+     "evidence": "ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "gcse": [],
+   "gcseText": null,
+   "subjectsEvidence": null,
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB if you are a UK applicant who meets at least one of SOAS's contextual criteria (contextual offers are not made for BTEC or for A levels combined with other qualifications, or through Clearing). SOAS says contextual offers can be up to two grades below the standard offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.soas.ac.uk/study/find-course/bsc-politics-philosophy-and-economics",
+      "checked": "2026-10-22",
+      "evidence": "Contextual: BBB"
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.soas.ac.uk/study/find-course/bsc-politics-philosophy-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the SOAS course page does not say which entry year its requirements apply to (its fee table is labelled 2026/27 entrants); recorded as 2027 entry, and no 2028-entry information is published",
+    "subjects and gcse: the page lists no required or excluded A-level subjects and no GCSE requirements",
+    "acceptsPsychology / acceptsGeography: the page does not list accepted or excluded A-level subjects",
+    "placement: the page does not mention a Year in Industry placement for this course"
+   ],
+   "notes": "Taught jointly by the Department of Politics and International Studies and the Department of Economics. Students who do not meet the entry requirements can join SOAS's 4-year integrated Foundation Year and then move onto any undergraduate programme."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: SOAS is not on UAT-UK's official TMUA list for 2027 entry and the course page names no test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "soas-ba-economics-and",
+   "name": "Economics and... (two-subject degrees)",
+   "degree": "BA",
+   "ucasCode": null,
+   "lengthNote": "3 or 4 years depending on the subject combined with Economics (language combinations include a year abroad)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": "ABB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB is the headline offer; across the available combinations the range is AAB-ABB, set by the subject with the higher requirement (contextual offer BBB)",
+    "source": {
+     "url": "https://www.soas.ac.uk/study/find-course/ba-economics-and",
+     "checked": "2026-10-22",
+     "evidence": "For combinations available with this programme, the range is AAB–ABB."
+    }
+   },
+   "subjectRequirements": [],
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "From SOAS's entry requirements page for Economics combined honours: GCSE Maths grade 6/B or above."
+    }
+   ],
+   "gcseText": "GCSE Maths grade 6/B or above.",
+   "subjectsEvidence": {
+    "url": "https://www.soas.ac.uk/study/undergraduate/undergraduate-entry-requirements",
+    "checked": "2026-10-22",
+    "evidence": "GCSE Maths grade 6/B or above."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB if you are a UK applicant who meets at least one of SOAS's contextual criteria (contextual offers are not made for BTEC or for A levels combined with other qualifications, or through Clearing). SOAS says contextual offers can be up to two grades below the standard offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.soas.ac.uk/study/find-course/ba-economics-and",
+      "checked": "2026-10-22",
+      "evidence": "Contextual: BBB"
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.soas.ac.uk/study/find-course/ba-economics-and",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the SOAS course page does not say which entry year its requirements apply to (its fee table is labelled 2026/27 entrants); recorded as 2027 entry, and no 2028-entry information is published",
+    "ucasCode: each two-subject combination has its own UCAS code and the page lists none",
+    "offer: the page gives one range (AAB-ABB) for all combinations, not a grade for each pairing such as Economics and Politics",
+    "acceptsPsychology / acceptsGeography: the page does not list accepted or excluded A-level subjects",
+    "contextual offer: SOAS says 'Subject-specific requirements are not part of a contextual offer' - unclear whether a Maths requirement still applies to the BBB offer"
+   ],
+   "notes": "Combinations listed include Economics and Politics, Economics and Law, Economics and History, Global Development and Economics, International Relations and Economics and several language pairings. Students who do not meet the entry requirements can join SOAS's 4-year integrated Foundation Year and then move onto any undergraduate programme."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: SOAS is not on UAT-UK's official TMUA list for 2027 entry and the course page names no test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "soas-bsc-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc",
+   "ucasCode": "N400",
+   "lengthNote": "3 or 4 years: the optional Year in Industry placement or an optional year abroad makes it 4 years",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (contextual offer BBB)",
+    "source": {
+     "url": "https://www.soas.ac.uk/study/find-course/bsc-accounting-and-finance",
+     "checked": "2026-10-22",
+     "evidence": "A level: ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Only needed if you do not have A-level Maths (or equivalent): then GCSE Maths grade B / 6 is the minimum."
+    }
+   ],
+   "gcseText": "Applicants without A-level Maths (or equivalent) must have a minimum of grade B in GCSE Maths (or grade 6 in the new structure).",
+   "subjectsEvidence": {
+    "url": "https://www.soas.ac.uk/study/find-course/bsc-accounting-and-finance",
+    "checked": "2026-10-22",
+    "evidence": "Subject required: applicants without A level Maths (or equivalent) must have a minimum of grade B in GCSE Maths (grade 6 in the new structure)."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB if you are a UK applicant who meets at least one of SOAS's contextual criteria (contextual offers are not made for BTEC or for A levels combined with other qualifications, or through Clearing). SOAS says contextual offers can be up to two grades below the standard offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.soas.ac.uk/study/find-course/bsc-accounting-and-finance",
+      "checked": "2026-10-22",
+      "evidence": "Contextual: BBB"
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.soas.ac.uk/study/find-course/bsc-accounting-and-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the SOAS course page does not say which entry year its requirements apply to (its fee table is labelled 2026/27 entrants); recorded as 2027 entry, and no 2028-entry information is published",
+    "acceptsPsychology / acceptsGeography: the page does not list accepted or excluded A-level subjects",
+    "contextual offer: SOAS says 'Subject-specific requirements are not part of a contextual offer' - unclear whether a Maths requirement still applies to the BBB offer"
+   ],
+   "notes": "Taught by the School of Finance and Management; has ACCA, CIMA and ICAEW exemptions. Applicants with at least a Merit in the AAT Level 4 Diploma may be considered for direct entry to Year 2. Students who do not meet the entry requirements can join SOAS's 4-year integrated Foundation Year and then move onto any undergraduate programme."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test: SOAS is not on UAT-UK's official TMUA list for 2027 entry and the course page names no test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "soas-bsc-management",
+   "name": "Management",
+   "degree": "BSc",
+   "ucasCode": "4G55",
+   "lengthNote": "3 or 4 years: the optional Year in Industry placement or an optional year abroad makes it 4 years",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A level (contextual offer BBB)",
+    "source": {
+     "url": "https://www.soas.ac.uk/study/find-course/bsc-management",
+     "checked": "2026-10-22",
+     "evidence": "ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Only needed if you do not have A-level Maths (or equivalent): then GCSE Maths grade B / 6 is the minimum."
+    }
+   ],
+   "gcseText": "Applicants without A-level Maths (or equivalent) must have a minimum of grade B in GCSE Maths (or grade 6 in the new structure).",
+   "subjectsEvidence": {
+    "url": "https://www.soas.ac.uk/study/find-course/bsc-management",
+    "checked": "2026-10-22",
+    "evidence": "Subject required: Applicants without A level Maths (or equivalent) must have a minimum of grade B in GCSE Maths (or grade 6 in the new structure)"
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB if you are a UK applicant who meets at least one of SOAS's contextual criteria (contextual offers are not made for BTEC or for A levels combined with other qualifications, or through Clearing). SOAS says contextual offers can be up to two grades below the standard offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.soas.ac.uk/study/find-course/bsc-management",
+      "checked": "2026-10-22",
+      "evidence": "Contextual: BBB"
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.soas.ac.uk/study/find-course/bsc-management",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "entry year: the SOAS course page does not say which entry year its requirements apply to (its fee table is labelled 2026/27 entrants); recorded as 2027 entry, and no 2028-entry information is published",
+    "ucasCode: '4G55' is exactly as printed on the SOAS page (an unusual format); not checked on UCAS",
+    "acceptsPsychology / acceptsGeography: the page does not list accepted or excluded A-level subjects",
+    "contextual offer: SOAS says 'Subject-specific requirements are not part of a contextual offer' - unclear whether a Maths requirement still applies to the BBB offer"
+   ],
+   "notes": "Taught by the School of Finance and Management. Students who do not meet the entry requirements can join SOAS's 4-year integrated Foundation Year and then move onto any undergraduate programme."
+  }
+ ],
+ "notes": [
+  "SOAS course pages do not say which entry year they describe (their fee tables are for 2026/27 entrants), so offers are recorded as 2027 entry as seen on 2026-10-22; no 2028-entry information is published.",
+  "SOAS is not on UAT-UK's official TMUA list for 2027 entry and none of the Economics course pages names an admissions test.",
+  "BSc Economics needs A-level Maths at grade B or above. BA Economics, BSc Development Economics, BSc Accounting and Finance, BSc Management and the Economics two-subject degrees ask for GCSE Maths grade 6/B if you do not have A-level Maths.",
+  "SOAS's Economics department describes itself as specialising in political economy, heterodox (non-mainstream) approaches and the economics of development.",
+  "Students who do not meet the entry requirements can take SOAS's 4-year integrated Foundation Year (Home fee £5,760 in 2026/27) and then progress onto any undergraduate programme.",
+  "EPQ: SOAS takes an EPQ into consideration if you take it alongside 3 A levels, are predicted at least a B in it and your A-level predictions meet the entry requirements; it does not publish a lower offer for it.",
+  "SOAS runs on-campus masterclasses for Year 12 and 13 throughout the year; its page for schools says to sign up to its Access and Participation newsletter for teachers and advisers."
+ ],
+ "notConfirmed": [
+  "entry year: SOAS course pages do not state it; 2027 entry assumed and 2028 entry not published",
+  "undergraduate open days: none listed yet (only a Postgraduate Open House on 1 December 2026)",
+  "contextual offers: SOAS does not say which POLAR4 or IMD areas qualify, and its criteria list is only examples",
+  "2028/29 Home fee not announced yet (SOAS says likely a 2-4% increase)",
+  "2027 summer school dates and deadline are not announced yet (2026 details recorded)"
+ ]
+}

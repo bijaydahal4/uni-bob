@@ -1,0 +1,992 @@
+{
+ "id": "leeds",
+ "name": "University of Leeds",
+ "shortName": "Leeds",
+ "aliases": [
+  "Leeds",
+  "Leeds Uni",
+  "Leeds University",
+  "Uni of Leeds",
+  "UoLeeds"
+ ],
+ "city": "Leeds",
+ "region": "North",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.leeds.ac.uk/open-days-and-visits",
+  "checked": "2026-10-21",
+  "evidence": "Our beautiful and unique single-site campus has got everything you’d find in a small town and is just a short walk from the city centre."
+ },
+ "location": {
+  "postcode": "LS2 9JT",
+  "postcodeSource": "https://www.leeds.ac.uk/open-days-and-visits",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/LS29JT",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (Home) students starting in 2027/28. Leeds says fees from 2028/29 are likely to rise at least in line with inflation (the government sets the cap). A study abroad or work placement year costs £1,505 for students paying £10,050.",
+  "source": {
+   "url": "https://www.leeds.ac.uk/undergraduate-fees/doc/fees-undergraduate-fees",
+   "checked": "2026-10-21",
+   "evidence": "Tuition fees for UK undergraduate students starting in 2027/28 are £10,050."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 122,
+  "amountHigh": 273,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University self-catered accommodation costs about £122–£273 a week (average £198) in 2026/27, with bills and gym membership included; catered halls average £248 a week (£213–£283, 12 meals a week). Leeds estimates total living costs (rent plus food, bills and personal costs, excluding tuition fees) at about £6,670–£18,170 for a 39-week year, average £12,480. University rents are still provisional.",
+  "source": {
+   "url": "https://www.leeds.ac.uk/undergraduate-fees/doc/living-expenses",
+   "checked": "2026-10-21",
+   "evidence": "mean average £198 (£122 to £273)"
+  }
+ },
+ "openDays": {
+  "events": [],
+  "text": "Leeds' 2026 undergraduate open days have finished and 2027 dates are not announced yet. You can book a campus tour in the meantime.",
+  "url": "https://www.leeds.ac.uk/undergraduate-open-days",
+  "source": {
+   "url": "https://www.leeds.ac.uk/undergraduate-open-days",
+   "checked": "2026-10-21",
+   "evidence": "Our 2026 Open Days have now finished, but there are still plenty of ways to explore studying at Leeds."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Leeds' Access to Leeds scheme gives UK applicants who meet at least two of its criteria an offer up to two grades lower than the standard offer (for example ABB instead of AAA) if they also pass its module, and applicants from Low Participation Neighbourhoods may get one grade off automatically.",
+  "typicalReduction": "Access to Leeds: up to two grades lower than the standard offer (for example AAA becomes ABB). Low Participation Neighbourhoods: usually one A-level grade lower.",
+  "criteria": [
+   {
+    "key": "firstGen",
+    "detail": "Your parents or carers did not go to university: they have not completed an undergraduate degree at a university or polytechnic in the UK or overseas. You also count if they started but did not finish a degree, hold an HNC or HND, an Open University or similar distance-learning degree, a part-time work-based degree, or a degree but you are estranged from them with little or no contact.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   },
+   {
+    "key": "area",
+    "detail": "Your permanent home postcode (as on your UCAS application) is in an area with low levels of participation in higher education and/or high levels of socioeconomic deprivation, measured against government data. Leeds does not name the dataset on this page.",
+    "measure": "other",
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   },
+   {
+    "key": "income",
+    "detail": "Household income of £25,000 or below, or you were eligible for free school meals at any point during secondary school (also shown by receiving the 16-19 Bursary Fund or Learner Support because your income is £25,000 or below, or by a parent or carer income declaration). Together these count as one criterion.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": 25000,
+    "alone": false
+   },
+   {
+    "key": "school",
+    "detail": "You attended or attend a school that performed below the national average at GCSE (its Attainment 8 score compared with the England average). Independent fee-paying schools are not eligible under this criterion.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   },
+   {
+    "key": "other",
+    "detail": "Your personal circumstances have had a disruptive impact on your education, for example caring responsibilities or being a young carer, a recent close family bereavement, estrangement from your parents or carers, a mental or physical health condition or disability, being from a military service family, or refugee or asylum seeker status. Several instances count as one criterion.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   },
+   {
+    "key": "care",
+    "detail": "You are a care leaver or have experienced time in care: any time in local authority or formal kinship care, adopted from care, or on a child protection plan after age 11. Care leavers (at least 13 weeks in local authority care spanning their 16th birthday) also count under the personal circumstances criterion.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   }
+  ],
+  "minCriteria": 2,
+  "rulesText": "Access to Leeds: you must meet at least two separate criteria from the personal circumstances list, and also meet all the applicant requirements (UK applicant applying through UCAS to a full-time undergraduate course, holding or studying the required level 3 qualifications, no existing undergraduate degree, not taking a foundation course, no Access to HE Diploma except for Healthcare degrees). Leeds must be your firm choice and you need to pass the Access to Leeds module. Separately, if you live in a Low Participation Neighbourhood (assessed with the Indices of Multiple Deprivation), your offer could be reduced by one A-level grade in most cases; you do not apply separately.",
+  "url": "https://www.leeds.ac.uk/undergraduate-applying/doc/contextual-admissions",
+  "source": {
+   "url": "https://www.leeds.ac.uk/access-to-leeds/doc/am-i-eligible",
+   "checked": "2026-10-21",
+   "evidence": "You must meet at least two separate criteria from the following list:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "leeds-access-to-leeds",
+   "name": "Access to Leeds",
+   "provider": "University of Leeds",
+   "providerType": "university",
+   "uniIds": [
+    "leeds"
+   ],
+   "summary": "Leeds' contextual admissions programme: meet at least two of its criteria and you can get an offer up to two grades lower than the standard offer (for example ABB instead of AAA), plus a study module and support.",
+   "whoCanApply": "UK applicants applying through UCAS to a full-time undergraduate course at Leeds who meet at least two of the six personal circumstances criteria (parents or carers did not go to university; low-participation or deprived area; household income of £25,000 or below or free school meals; school below the national GCSE average; education disrupted by personal circumstances; care experienced) and all the applicant requirements.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "firstGen",
+    "area",
+    "income",
+    "school",
+    "other",
+    "care"
+   ],
+   "eligibilityDetail": "Meet at least two separate criteria from the personal circumstances list. You must also live permanently in the UK and be eligible for UK tuition fees, apply via UCAS to a full-time undergraduate course at Leeds, hold or be studying the required level 3 qualifications, not already hold an undergraduate degree, not be taking a foundation course, and not hold or be taking an Access to HE Diploma (except for Healthcare degrees). Leeds needs to be your firm choice on UCAS.",
+   "benefits": [
+    "An offer up to two grades lower than the standard offer (for example AAA could become ABB)",
+    "A study module, support and events to help prepare you for university",
+    "On-course support through the Plus Programme",
+    "Additional consideration if you apply for a means-tested scholarship"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "leeds"
+   ],
+   "offerReduction": "Up to two grades lower than the standard offer (for example AAA at A-level could become ABB)",
+   "cost": null,
+   "isFree": null,
+   "format": null,
+   "subjects": "All subjects (each course page shows its own Access to Leeds offer)",
+   "yearGroup": "Year 13 (apply through UCAS)",
+   "runs": {
+    "text": "2027-entry round: academic skills module April to May 2027, subject assignment module June to July 2027, module results early August, welcome event and course start mid-September 2027",
+    "start": null,
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "21 September 2026 (2027 entry)",
+    "date": "2026-09-21",
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "21 January 2027 for most courses (2027 entry); 21 October 2026 for medicine and dentistry",
+    "date": "2027-01-21",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "Dates shown are for the 2027-entry round. The 2028-entry round (the one you would apply for) has not been announced yet.",
+   "url": "https://www.leeds.ac.uk/access-to-leeds",
+   "source": {
+    "url": "https://www.leeds.ac.uk/access-to-leeds/doc/dates-diary",
+    "checked": "2026-10-21",
+    "evidence": "Access to Leeds application deadline for all other courses ( 21 January 2027)."
+   },
+   "notConfirmed": [
+    "2028-entry dates not published yet",
+    "Cost of the scheme and whether the module and events are online or on campus are not stated"
+   ]
+  },
+  {
+   "id": "leeds-leeds-futures",
+   "name": "Leeds Futures",
+   "provider": "University of Leeds",
+   "providerType": "university",
+   "uniIds": [
+    "leeds"
+   ],
+   "summary": "A mostly online outreach programme for Year 12 students who pick a subject strand, with webinars, study-skills sessions, one campus taster day and UCAS support in Year 13.",
+   "whoCanApply": "Year 12 students applying individually. Priority goes to students whose home postcode is in a low-participation area or who meet one or more Access to Leeds criteria. The page does not say whether other students can apply.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "area",
+    "firstGen",
+    "income",
+    "school",
+    "other",
+    "care"
+   ],
+   "eligibilityDetail": "Priority for places goes to students whose home postcode is in an area with low levels of participation in higher education, and to those who meet one or more Access to Leeds criteria: parents or carers did not go to university; household income of £25,000 or below; attended a school below the national GCSE average; personal circumstances that disrupted education; care experienced. Individual strands may have extra criteria.",
+   "benefits": [
+    "Subject webinars, study-skills sessions and Q&As with current students (Year 12 spring term)",
+    "A campus taster day with lectures, workshops, chats with students and a campus tour (Year 12 summer term)",
+    "Help with UCAS and personal statements in Year 13, plus an overview of Access to Leeds and the Plus Programme",
+    "Free lunch on campus days and a travel bursary for eligible students, subject to funding"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "mixed",
+   "subjects": "You choose one strand. Social sciences strands for 2027 are Politics and Sociology; other strands include Environment, English/History, Creative Industries, STEM and Health Sciences. No Economics or Business strand is listed.",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "From the spring term of Year 12 (2027) until you submit your UCAS application in Year 13; campus taster day in the Year 12 summer term (date not announced)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Monday 23 November 2026 (Health Sciences strands opened earlier)",
+    "date": "2026-11-23",
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Sunday 31 January 2027 (Health Sciences strands: Sunday 22 November 2026)",
+    "date": "2027-01-31",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "Details are for the 2027 Leeds Futures programme (Year 12 in 2026/27). The campus taster day date is not announced yet.",
+   "url": "https://www.leeds.ac.uk/undergraduate-teachers-supporting-students/doc/leeds-futures",
+   "source": {
+    "url": "https://www.leeds.ac.uk/undergraduate-teachers-supporting-students/doc/leeds-futures",
+    "checked": "2026-10-21",
+    "evidence": "Applications for all other Leeds Futures programmes will open on Monday 23 November 2026 and close on Sunday 31 January 2027."
+   },
+   "notConfirmed": [
+    "Cost not stated (the page only mentions free lunch on campus days and a travel bursary for eligible students)",
+    "Whether students outside the priority groups can apply is not stated",
+    "Extra criteria on each strand's own page (Politics, Sociology) not checked",
+    "Campus taster day date not announced"
+   ]
+  },
+  {
+   "id": "leeds-social-sciences-summer-school",
+   "name": "Social Sciences Summer School",
+   "provider": "University of Leeds",
+   "providerType": "university",
+   "uniIds": [
+    "leeds"
+   ],
+   "summary": "A three-day, two-night residential summer school for Year 12 students to try social sciences subjects, including Business, with lectures, seminars and workshops and a stay in university accommodation.",
+   "whoCanApply": "Year 12 students. Priority goes to students who live in an area of low progression to higher education and/or meet 1 or 2 of Leeds' listed criteria.",
+   "eligibility": "open",
+   "eligibilityCriteria": [
+    "area",
+    "firstGen",
+    "income",
+    "school",
+    "other",
+    "fsm",
+    "care",
+    "estranged"
+   ],
+   "eligibilityDetail": "All Year 12 students can apply, but priority is given to students who live in an area of low progression to higher education and/or meet 1 or 2 of: parents or carers did not go to university; household income of £25,000 or below; attended a school below the national average Attainment 8 score at GCSE; studies disrupted by personal circumstances; eligible for free school meals during GCSE studies or later; care experienced; estranged from parents or guardians.",
+   "benefits": [
+    "University-level lectures, seminars and workshops on the theme 'Creating Change'",
+    "Two nights in university accommodation with social activities run by student ambassadors",
+    "Online sessions after the event supporting your UCAS application and move to university",
+    "A contribution of up to £100 towards travel costs for eligible students"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "residential",
+   "subjects": "Social sciences, including Business, Environment, Geography, Sociology, Education, and Politics and International Studies",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Expected late June 2027, based on the 2026 summer school (Tuesday 23 to Thursday 25 June 2026); exact 2027 dates not announced",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Early 2027 (Leeds' Summer Schools page says applications for next year's summer schools open in early 2027)",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026 Social Sciences Summer School (23 to 25 June 2026). 2027 dates and the deadline are not announced yet.",
+   "url": "https://accessandoutreach.leeds.ac.uk/social-sciences/social-sciences-summer-school/",
+   "source": {
+    "url": "https://accessandoutreach.leeds.ac.uk/social-sciences/social-sciences-summer-school/",
+    "checked": "2026-10-21",
+    "evidence": "Our three-day, two-night Social Sciences Summer School, running from Tuesday 23 June - Thursday 25 June 2026"
+   },
+   "notConfirmed": [
+    "2027 dates and application deadline not published",
+    "Cost not stated (the page only mentions a travel contribution of up to £100 for eligible students)",
+    "Whether the summer school lowers offers is not stated"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.leeds.ac.uk/",
+  "courses": "https://courses.leeds.ac.uk/",
+  "economics": "https://business.leeds.ac.uk/departments-economics",
+  "openDays": "https://www.leeds.ac.uk/undergraduate-open-days",
+  "fees": "https://www.leeds.ac.uk/undergraduate-fees/doc/fees-undergraduate-fees",
+  "contextual": "https://www.leeds.ac.uk/undergraduate-applying/doc/contextual-admissions",
+  "accommodation": "https://accommodation.leeds.ac.uk/"
+ },
+ "courses": [
+  {
+   "id": "leeds-economics",
+   "name": "Economics",
+   "degree": "BSc",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Optional year abroad or industrial placement year; the Business School says a year in industry makes the degree a four-year programme",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level in any subjects",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/f836/economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Grade A/7. Core Maths is accepted instead at grade A, and if you miss the GCSE Maths grade an AS-level in Maths or Use of Maths at grade C or above is accepted (Business School entry requirements page)."
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "5",
+     "note": "Grade B/5 or equivalent. A grade C/4 in English Language is accepted if you have a B/5 in GCSE English Literature."
+    }
+   ],
+   "gcseText": "Applicants must demonstrate a broad general education with acceptable levels of Literacy and Numeracy, including Mathematics grade A/7 and English Language grade B/5 or equivalent, or an appropriate English language qualification. If you have a B/5 in GCSE English Literature, we will accept a Grade C/4 in GCSE English Language.",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking",
+    "Extended Project (EPQ)"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://business.leeds.ac.uk/undergraduate/doc/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "AAA in any subject"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course page, and Leeds is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/f836/economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Other course specific tests:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "ABB at A-level plus GCSE Mathematics grade A/7 and English Language or English Literature grade C/4, and you must pass the Access to Leeds module. You need to be a UK applicant who meets at least two Access to Leeds criteria.",
+     "programme": "Access to Leeds",
+     "source": {
+      "url": "https://courses.leeds.ac.uk/f836/economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "A level: ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.leeds.ac.uk/f836/economics-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027 entry only); 2027 entry used"
+   ],
+   "notes": "Business School 2027-entry table: AAA in any subject, GCSE Maths grade A/7 and English Language grade B/5. General Studies, Critical Thinking and the Extended Project do not count towards the A-level grades. The EPQ is not part of the offer, but the Business School may take your EPQ result into account if you narrowly miss your grades."
+  },
+  {
+   "id": "leeds-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc",
+   "ucasCode": "LN13",
+   "lengthYears": 3,
+   "lengthNote": "Optional year abroad or industrial placement year; the Business School says a year in industry makes the degree a four-year programme",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level in any subjects",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/g048/economics-and-finance-bsc",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Grade A/7. Core Maths is accepted instead at grade A, and if you miss the GCSE Maths grade an AS-level in Maths or Use of Maths at grade C or above is accepted (Business School entry requirements page)."
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "5",
+     "note": "Grade B/5 or equivalent. A grade C/4 in English Language is accepted if you have a B/5 in GCSE English Literature."
+    }
+   ],
+   "gcseText": "Applicants must demonstrate a broad general education with acceptable levels of Literacy and Numeracy, including Mathematics grade A/7 and English Language grade B/5 or equivalent, or an appropriate English language qualification. If you have a B/5 in GCSE English Literature, we will accept a Grade C/4 in GCSE English Language.",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking",
+    "Extended Project (EPQ)"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://business.leeds.ac.uk/undergraduate/doc/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "AAA in any subject"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course page, and Leeds is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/g048/economics-and-finance-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Other course specific tests:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "ABB at A-level plus GCSE Mathematics grade A/7 and English Language or English Literature grade C/4, and you must pass the Access to Leeds module. You need to be a UK applicant who meets at least two Access to Leeds criteria.",
+     "programme": "Access to Leeds",
+     "source": {
+      "url": "https://courses.leeds.ac.uk/g048/economics-and-finance-bsc",
+      "checked": "2026-10-21",
+      "evidence": "A level: ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.leeds.ac.uk/g048/economics-and-finance-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027 entry only); 2027 entry used"
+   ],
+   "notes": "Business School 2027-entry table: AAA in any subject, GCSE Maths grade A/7 and English Language grade B/5. General Studies, Critical Thinking and the Extended Project do not count towards the A-level grades. The EPQ is not part of the offer, but the Business School may take your EPQ result into account if you narrowly miss your grades."
+  },
+  {
+   "id": "leeds-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc",
+   "ucasCode": "L112",
+   "lengthYears": 3,
+   "lengthNote": "Optional year abroad or industrial placement year; the Business School says a year in industry makes the degree a four-year programme",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level in any subjects",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/f835/business-economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Grade A/7. Core Maths is accepted instead at grade A, and if you miss the GCSE Maths grade an AS-level in Maths or Use of Maths at grade C or above is accepted (Business School entry requirements page)."
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "5",
+     "note": "Grade B/5 or equivalent. A grade C/4 in English Language is accepted if you have a B/5 in GCSE English Literature."
+    }
+   ],
+   "gcseText": "Applicants must demonstrate a broad general education with acceptable levels of Literacy and Numeracy, including Mathematics grade A/7 and English Language grade B/5 or equivalent, or an appropriate English language qualification. If you have a B/5 in GCSE English Literature, we will accept a Grade C/4 in GCSE English Language.",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking",
+    "Extended Project (EPQ)"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://business.leeds.ac.uk/undergraduate/doc/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "AAA in any subject"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course page, and Leeds is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/f835/business-economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "Other course specific tests:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "ABB at A-level plus GCSE Mathematics grade A/7 and English Language or English Literature grade C/4, and you must pass the Access to Leeds module. You need to be a UK applicant who meets at least two Access to Leeds criteria.",
+     "programme": "Access to Leeds",
+     "source": {
+      "url": "https://courses.leeds.ac.uk/f835/business-economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "A level: ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.leeds.ac.uk/f835/business-economics-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027 entry only); 2027 entry used"
+   ],
+   "notes": "Business School 2027-entry table: AAA in any subject, GCSE Maths grade A/7 and English Language grade B/5. General Studies, Critical Thinking and the Extended Project do not count towards the A-level grades. The EPQ is not part of the offer, but the Business School may take your EPQ result into account if you narrowly miss your grades. Less emphasis on mathematics than Leeds' other economics courses (course page)."
+  },
+  {
+   "id": "leeds-economics-maths",
+   "name": "Economics and Mathematics",
+   "degree": "BSc",
+   "ucasCode": "GL11",
+   "lengthYears": 3,
+   "lengthNote": "Optional industrial placement or study abroad (the page does not say how this changes the length)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA or A*AB, including grade A in A-level Mathematics",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/4393/economics-and-mathematics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA/A*AB including Grade A in Mathematics."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "Grade A in A-level Mathematics is required (either offer, AAA or A*AB). The page does not say whether Further Mathematics can replace it."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade 6 (B) or higher, or an equivalent English language qualification; Level 2 Functional Skills English is accepted instead of GCSE English."
+    }
+   ],
+   "gcseText": "English Language grade 6 (B) or higher, or an equivalent English language qualification. We will accept Level 2 Functional Skills English instead of GCSE English.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.leeds.ac.uk/4393/economics-and-mathematics-bsc",
+    "checked": "2026-10-21",
+    "evidence": "A-level: AAA/A*AB including Grade A in Mathematics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course page, and Leeds is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/4393/economics-and-mathematics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA/A*AB including Grade A in Mathematics."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "ABB including grade A in Mathematics, and you must pass Access to Leeds. You need to be a UK applicant who meets at least two Access to Leeds criteria.",
+     "programme": "Access to Leeds",
+     "source": {
+      "url": "https://courses.leeds.ac.uk/4393/economics-and-mathematics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "Typical Access to Leeds offer: ABB including A in Mathematics and pass Access to Leeds."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.leeds.ac.uk/4393/economics-and-mathematics-bsc",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027 entry only); 2027 entry used",
+    "Other two A-level subjects: the page only requires grade A in Mathematics and does not say whether any subject is accepted, so Psychology and Geography are marked unknown",
+    "GCSE Mathematics requirement not stated on the page (A-level Mathematics grade A is required)"
+   ],
+   "notes": "Taught jointly by the School of Mathematics and Leeds University Business School. T-levels are not accepted. The EPQ and International Project Qualification are not part of the offer."
+  },
+  {
+   "id": "leeds-economics-politics",
+   "name": "Economics and Politics",
+   "degree": "BA",
+   "ucasCode": "LL12",
+   "lengthYears": 3,
+   "lengthNote": "Optional year abroad or industrial placement year (adds a year)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level; A-level Politics is not required",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/1000/economics-and-politics-ba",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Grade 7/A in Mathematics or equivalent."
+    }
+   ],
+   "gcseText": "Grade 7/A in Mathematics or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://courses.leeds.ac.uk/1000/economics-and-politics-ba",
+    "checked": "2026-10-21",
+    "evidence": "We welcome applicants with a broad range of A-level subjects, including non-traditional subjects."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course page, and Leeds is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/1000/economics-and-politics-ba",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "ABB at A-level plus 5 GCSEs at grade C/4 or higher including Mathematics at grade A/7 and English Language or English Literature at grade C/4, and you must pass the Access to Leeds module. You need to be a UK applicant who meets at least two Access to Leeds criteria.",
+     "programme": "Access to Leeds",
+     "source": {
+      "url": "https://courses.leeds.ac.uk/1000/economics-and-politics-ba",
+      "checked": "2026-10-21",
+      "evidence": "ABB. Applicants must also hold 5 GCSEs at grade C/4 or higher including Mathematics at grade A/7"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.leeds.ac.uk/1000/economics-and-politics-ba",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027 entry only); 2027 entry used",
+    "English GCSE requirement for the standard AAA offer not stated (only Mathematics grade 7); the Access to Leeds offer asks for English Language or Literature at C/4",
+    "The course summary box says 'AAA (specific subject requirements)' but the entry requirements section lists no required subjects"
+   ],
+   "notes": "Admissions are handled by the School of Politics and International Studies. A-level Maths is not required: the Mathematics and Statistics for Economics and Business 1A module is compulsory if you have not studied Maths at A level."
+  },
+  {
+   "id": "leeds-economics-geography",
+   "name": "Economics and Geography",
+   "degree": "BA",
+   "ucasCode": "LL17",
+   "lengthYears": 3,
+   "lengthNote": "Optional year abroad or industrial placement year; a placement year extends your studies by 12 months",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-geography"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level; Economics and Geography are not required",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/0930/economics-and-geography-ba",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA We do not require Economics or Geography."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": null
+    },
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "English Language or English Literature at grade 5; Level 2 Functional Skills English is accepted instead of GCSE English."
+    }
+   ],
+   "gcseText": "A minimum of Mathematics at 7, and English Language or English Literature at 5, or an equivalent English language and Mathematics qualification. We will accept Level 2 Functional Skills English instead of GCSE English.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://courses.leeds.ac.uk/0930/economics-and-geography-ba",
+    "checked": "2026-10-21",
+    "evidence": "A-level: AAA We do not require Economics or Geography."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course page, and Leeds is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/0930/economics-and-geography-ba",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA We do not require Economics or Geography."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "AAB",
+     "tariff": null,
+     "conditions": "AAB at A-level plus grade A in the Extended Project Qualification (EPQ) or International Project Qualification.",
+     "programme": null,
+     "source": {
+      "url": "https://courses.leeds.ac.uk/0930/economics-and-geography-ba",
+      "checked": "2026-10-21",
+      "evidence": "Extended Project Qualification, International Project Qualification: Grade A plus AAB at A-level."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "ABB at A-level (the course summary box says preferably including Geography) plus a pass in the Access to Leeds scheme. You need to be a UK applicant who meets at least two Access to Leeds criteria.",
+     "programme": "Access to Leeds",
+     "source": {
+      "url": "https://courses.leeds.ac.uk/0930/economics-and-geography-ba",
+      "checked": "2026-10-21",
+      "evidence": "Typical Access to Leeds A Level offer: ABB plus a pass in the Access to Leeds scheme."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.leeds.ac.uk/0930/economics-and-geography-ba",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027 entry only); 2027 entry used",
+    "The course summary box says 'AAA (specific subject requirements)' but the entry section only says Economics and Geography are not required; whether Psychology is accepted is not stated, so it is marked unknown"
+   ],
+   "notes": "Taught jointly by Leeds University Business School and the School of Geography. A-level Maths is not required: Mathematics and Statistics for Economics and Business 1A is compulsory for students without A-level maths."
+  },
+  {
+   "id": "leeds-ppe",
+   "name": "Philosophy, Politics and Economics",
+   "degree": "BA",
+   "ucasCode": "1LV0",
+   "lengthYears": 3,
+   "lengthNote": "Optional industrial placement year, horizon year abroad or summer abroad (the page does not say how a year out changes the length)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level (no required subjects are listed)",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/g460/philosophy-politics-and-economics-ba",
+     "checked": "2026-10-21",
+     "evidence": "A-level: AAA"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "7/A in Mathematics is required as a minimum."
+    }
+   ],
+   "gcseText": "7/A in Mathematics is required as a minimum.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.leeds.ac.uk/g460/philosophy-politics-and-economics-ba",
+    "checked": "2026-10-21",
+    "evidence": "A-level: AAA"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course page (its 'Other course specific tests' section only describes the EPQ), and Leeds is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://courses.leeds.ac.uk/g460/philosophy-politics-and-economics-ba",
+     "checked": "2026-10-21",
+     "evidence": "Other course specific tests:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "AAB",
+     "tariff": null,
+     "conditions": "AAB at A-level plus grade A in the EPQ, if your EPQ is in a relevant subject. Leeds says an EPQ 'might be considered' and 'may attract' this alternative offer, so it is not guaranteed.",
+     "programme": null,
+     "source": {
+      "url": "https://courses.leeds.ac.uk/g460/philosophy-politics-and-economics-ba",
+      "checked": "2026-10-21",
+      "evidence": "If you are taking A Levels, this would be AAB at A Level and grade A in the EPQ."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "ABB at A-level and you must pass Access to Leeds. You need to be a UK applicant who meets at least two Access to Leeds criteria.",
+     "programme": "Access to Leeds",
+     "source": {
+      "url": "https://courses.leeds.ac.uk/g460/philosophy-politics-and-economics-ba",
+      "checked": "2026-10-21",
+      "evidence": "Typical Access to Leeds offer: ABB at A Level and pass Access to Leeds."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.leeds.ac.uk/g460/philosophy-politics-and-economics-ba",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows 2027 entry only); 2027 entry used",
+    "The course summary box says 'AAA (specific subject requirements)' but the entry requirements section lists no required or excluded A-level subjects, so Psychology and Geography are marked unknown",
+    "English GCSE requirement not stated (only Mathematics grade 7)"
+   ],
+   "notes": "Students without A-level Maths also take Maths and Statistics for Economics and Business A. Taught across philosophy, politics and economics."
+  }
+ ],
+ "notes": [
+  "Leeds course pages show 2027 entry only (checked 2026-10-21): the 2028/29 version of the Economics BSc page (courses.leeds.ac.uk/202829/f836/economics-bsc) returns 404, so all courses use 2027 entry.",
+  "Leeds is not on UAT-UK's official TMUA list for 2027 entry, and none of these course pages names an admissions test.",
+  "Economics, Economics and Finance and Business Economics (Leeds University Business School) ask for AAA in any subject; Economics and Mathematics needs an A in A-level Mathematics. The Politics, Geography and PPE joint courses show AAA; their summary boxes say 'specific subject requirements' but the entry sections list none.",
+  "Access to Leeds can lower offers by up to two grades (usually to ABB) if you meet at least two criteria and pass its module; Low Participation Neighbourhood postcodes may get one grade off automatically.",
+  "Other Business School degrees (for example Accounting and Finance, Banking and Finance, Business Management) were not recorded. Insight2Uni, a mentoring partnership with the charity With Insight for black-heritage Year 12 students in Yorkshire and the Humber, is not recorded as a Leeds programme."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2027 open day dates not announced yet (the 2026 open days have finished)",
+  "Access to Leeds dates are for the 2027-entry round; 2028-entry dates not published",
+  "Social Sciences Summer School: 2027 dates and deadline not published (2026 edition used)"
+ ]
+}

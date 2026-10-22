@@ -1,0 +1,782 @@
+[
+ {
+  "i": 0,
+  "rank": "1",
+  "name": "University of Cambridge",
+  "slug": "university-of-cambridge"
+ },
+ {
+  "i": 1,
+  "rank": "2",
+  "name": "University of Oxford",
+  "slug": "university-of-oxford"
+ },
+ {
+  "i": 2,
+  "rank": "3",
+  "name": "London School of Economics and Political Science, University of London",
+  "slug": "london-school-of-economics-and-political-science-university-of-london"
+ },
+ {
+  "i": 3,
+  "rank": "4",
+  "name": "University of St Andrews",
+  "slug": "university-of-st-andrews"
+ },
+ {
+  "i": 4,
+  "rank": "5",
+  "name": "Imperial College London",
+  "slug": "imperial-college-london"
+ },
+ {
+  "i": 5,
+  "rank": "6",
+  "name": "Durham University",
+  "slug": "durham-university"
+ },
+ {
+  "i": 6,
+  "rank": "7",
+  "name": "University of Warwick",
+  "slug": "university-of-warwick"
+ },
+ {
+  "i": 7,
+  "rank": "8",
+  "name": "Loughborough University",
+  "slug": "loughborough-university"
+ },
+ {
+  "i": 8,
+  "rank": "9",
+  "name": "University of Bath",
+  "slug": "university-of-bath"
+ },
+ {
+  "i": 9,
+  "rank": "10",
+  "name": "Lancaster University",
+  "slug": "lancaster-university"
+ },
+ {
+  "i": 10,
+  "rank": "11",
+  "name": "University of Exeter",
+  "slug": "university-of-exeter"
+ },
+ {
+  "i": 11,
+  "rank": "12",
+  "name": "University of Birmingham",
+  "slug": "university-of-birmingham"
+ },
+ {
+  "i": 12,
+  "rank": "13",
+  "name": "University of Sheffield",
+  "slug": "university-of-sheffield"
+ },
+ {
+  "i": 13,
+  "rank": "13",
+  "name": "UCL (University College London)",
+  "slug": "university-college-london-university-of-london"
+ },
+ {
+  "i": 14,
+  "rank": "15",
+  "name": "University of Southampton",
+  "slug": "university-of-southampton"
+ },
+ {
+  "i": 15,
+  "rank": "16",
+  "name": "King's College London, University of London",
+  "slug": "kings-college-london-university-of-london"
+ },
+ {
+  "i": 16,
+  "rank": "17",
+  "name": "University of Bristol",
+  "slug": "university-of-bristol"
+ },
+ {
+  "i": 17,
+  "rank": "18",
+  "name": "University of Leeds",
+  "slug": "university-of-leeds"
+ },
+ {
+  "i": 18,
+  "rank": "19",
+  "name": "The University of Edinburgh",
+  "slug": "university-of-edinburgh"
+ },
+ {
+  "i": 19,
+  "rank": "20",
+  "name": "University of York",
+  "slug": "university-of-york"
+ },
+ {
+  "i": 20,
+  "rank": "21",
+  "name": "University of Surrey",
+  "slug": "university-of-surrey"
+ },
+ {
+  "i": 21,
+  "rank": "22",
+  "name": "University of Liverpool",
+  "slug": "university-of-liverpool"
+ },
+ {
+  "i": 22,
+  "rank": "23",
+  "name": "Queen's University Belfast",
+  "slug": "queens-university-belfast"
+ },
+ {
+  "i": 23,
+  "rank": "24",
+  "name": "University of Manchester",
+  "slug": "university-of-manchester"
+ },
+ {
+  "i": 24,
+  "rank": "25",
+  "name": "University of Dundee",
+  "slug": "university-of-dundee"
+ },
+ {
+  "i": 25,
+  "rank": "26",
+  "name": "University of Nottingham",
+  "slug": "university-of-nottingham"
+ },
+ {
+  "i": 26,
+  "rank": "27",
+  "name": "Cardiff University",
+  "slug": "cardiff-university"
+ },
+ {
+  "i": 27,
+  "rank": "27",
+  "name": "University of the Arts London",
+  "slug": "university-of-arts-london"
+ },
+ {
+  "i": 28,
+  "rank": "29",
+  "name": "University of Glasgow",
+  "slug": "university-of-glasgow"
+ },
+ {
+  "i": 29,
+  "rank": "30",
+  "name": "University of Essex",
+  "slug": "university-of-essex"
+ },
+ {
+  "i": 30,
+  "rank": "31",
+  "name": "Heriot-Watt University",
+  "slug": "heriot-watt-university"
+ },
+ {
+  "i": 31,
+  "rank": "32",
+  "name": "University of Aberdeen",
+  "slug": "university-of-aberdeen"
+ },
+ {
+  "i": 32,
+  "rank": "33",
+  "name": "University of Leicester",
+  "slug": "university-of-leicester"
+ },
+ {
+  "i": 33,
+  "rank": "34",
+  "name": "University of East Anglia UEA",
+  "slug": "university-of-east-anglia-uea"
+ },
+ {
+  "i": 34,
+  "rank": "35",
+  "name": "Newcastle University",
+  "slug": "newcastle-university"
+ },
+ {
+  "i": 35,
+  "rank": "36",
+  "name": "University of Sussex",
+  "slug": "university-of-sussex"
+ },
+ {
+  "i": 36,
+  "rank": "37",
+  "name": "Northumbria University, Newcastle",
+  "slug": "northumbria-university-newcastle"
+ },
+ {
+  "i": 37,
+  "rank": "38",
+  "name": "Harper Adams University",
+  "slug": "harper-adams-university"
+ },
+ {
+  "i": 38,
+  "rank": "39",
+  "name": "University of Strathclyde",
+  "slug": "university-of-strathclyde"
+ },
+ {
+  "i": 39,
+  "rank": "40",
+  "name": "Queen Mary University of London",
+  "slug": "queen-mary-university-of-london"
+ },
+ {
+  "i": 40,
+  "rank": "41",
+  "name": "Swansea University",
+  "slug": "swansea-university"
+ },
+ {
+  "i": 41,
+  "rank": "42",
+  "name": "Royal Holloway, University of London",
+  "slug": "royal-holloway-university-of-london"
+ },
+ {
+  "i": 42,
+  "rank": "43",
+  "name": "University of Reading",
+  "slug": "university-of-reading"
+ },
+ {
+  "i": 43,
+  "rank": "44",
+  "name": "University of Suffolk",
+  "slug": "university-of-suffolk"
+ },
+ {
+  "i": 44,
+  "rank": "45",
+  "name": "Oxford Brookes University",
+  "slug": "oxford-brookes-university"
+ },
+ {
+  "i": 45,
+  "rank": "46",
+  "name": "Nottingham Trent University",
+  "slug": "nottingham-trent-university"
+ },
+ {
+  "i": 46,
+  "rank": "47",
+  "name": "Ulster University",
+  "slug": "ulster-university"
+ },
+ {
+  "i": 47,
+  "rank": "48",
+  "name": "Brunel University of London",
+  "slug": "brunel-university-of-london"
+ },
+ {
+  "i": 48,
+  "rank": "49",
+  "name": "Bangor University",
+  "slug": "bangor-university"
+ },
+ {
+  "i": 49,
+  "rank": "50",
+  "name": "University of Lincoln",
+  "slug": "university-of-lincoln"
+ },
+ {
+  "i": 50,
+  "rank": "50",
+  "name": "University of Portsmouth",
+  "slug": "university-of-portsmouth"
+ },
+ {
+  "i": 51,
+  "rank": "52",
+  "name": "Aston University, Birmingham",
+  "slug": "aston-university"
+ },
+ {
+  "i": 52,
+  "rank": "53",
+  "name": "Manchester Metropolitan University",
+  "slug": "manchester-metropolitan-university"
+ },
+ {
+  "i": 53,
+  "rank": "54",
+  "name": "Keele University",
+  "slug": "keele-university"
+ },
+ {
+  "i": 54,
+  "rank": "55",
+  "name": "University of Stirling",
+  "slug": "university-of-stirling"
+ },
+ {
+  "i": 55,
+  "rank": "56",
+  "name": "Aberystwyth University",
+  "slug": "aberystwyth-university"
+ },
+ {
+  "i": 56,
+  "rank": "57",
+  "name": "Coventry University",
+  "slug": "coventry-university"
+ },
+ {
+  "i": 57,
+  "rank": "58",
+  "name": "Edge Hill University",
+  "slug": "edge-hill-university"
+ },
+ {
+  "i": 58,
+  "rank": "59",
+  "name": "City St George's, University of London",
+  "slug": "city-st-georges-university-of-london"
+ },
+ {
+  "i": 59,
+  "rank": "60",
+  "name": "Norwich University of the Arts",
+  "slug": "norwich-university-of-arts"
+ },
+ {
+  "i": 60,
+  "rank": "61",
+  "name": "Goldsmiths, University of London",
+  "slug": "goldsmiths-university-of-london"
+ },
+ {
+  "i": 61,
+  "rank": "62",
+  "name": "University of Kent",
+  "slug": "university-of-kent"
+ },
+ {
+  "i": 62,
+  "rank": "63",
+  "name": "University of Chichester",
+  "slug": "university-of-chichester"
+ },
+ {
+  "i": 63,
+  "rank": "64",
+  "name": "University of Hull",
+  "slug": "university-of-hull"
+ },
+ {
+  "i": 64,
+  "rank": "65",
+  "name": "Falmouth University",
+  "slug": "falmouth-university"
+ },
+ {
+  "i": 65,
+  "rank": "66",
+  "name": "University of Salford",
+  "slug": "university-of-salford"
+ },
+ {
+  "i": 66,
+  "rank": "67",
+  "name": "University of Plymouth",
+  "slug": "university-of-plymouth"
+ },
+ {
+  "i": 67,
+  "rank": "68",
+  "name": "University of Huddersfield",
+  "slug": "university-of-huddersfield"
+ },
+ {
+  "i": 68,
+  "rank": "68",
+  "name": "University of Sunderland",
+  "slug": "university-of-sunderland"
+ },
+ {
+  "i": 69,
+  "rank": "70",
+  "name": "University of Hertfordshire",
+  "slug": "university-of-hertfordshire"
+ },
+ {
+  "i": 70,
+  "rank": "71",
+  "name": "University of Derby",
+  "slug": "university-of-derby"
+ },
+ {
+  "i": 71,
+  "rank": "72",
+  "name": "Cardiff Metropolitan University",
+  "slug": "cardiff-metropolitan-university-uwic"
+ },
+ {
+  "i": 72,
+  "rank": "72",
+  "name": "Arts University Bournemouth",
+  "slug": "arts-university-bournemouth"
+ },
+ {
+  "i": 73,
+  "rank": "74",
+  "name": "Bristol, UWE",
+  "slug": "bristol-university-of-west-of-england"
+ },
+ {
+  "i": 74,
+  "rank": "75",
+  "name": "Robert Gordon University",
+  "slug": "robert-gordon-university"
+ },
+ {
+  "i": 75,
+  "rank": "76",
+  "name": "Liverpool John Moores University",
+  "slug": "liverpool-john-moores-university"
+ },
+ {
+  "i": 76,
+  "rank": "77",
+  "name": "Bournemouth University",
+  "slug": "bournemouth-university"
+ },
+ {
+  "i": 77,
+  "rank": "78",
+  "name": "University of Chester",
+  "slug": "university-of-chester"
+ },
+ {
+  "i": 78,
+  "rank": "79",
+  "name": "St Mary's University, Twickenham",
+  "slug": "st-marys-university-twickenham"
+ },
+ {
+  "i": 79,
+  "rank": "80",
+  "name": "University of Worcester",
+  "slug": "university-of-worcester"
+ },
+ {
+  "i": 80,
+  "rank": "81",
+  "name": "Sheffield Hallam University",
+  "slug": "sheffield-hallam-university"
+ },
+ {
+  "i": 81,
+  "rank": "81",
+  "name": "Edinburgh Napier University",
+  "slug": "edinburgh-napier-university"
+ },
+ {
+  "i": 82,
+  "rank": "83",
+  "name": "Liverpool Hope University",
+  "slug": "liverpool-hope-university"
+ },
+ {
+  "i": 83,
+  "rank": "84",
+  "name": "University of West London",
+  "slug": "university-of-west-london"
+ },
+ {
+  "i": 84,
+  "rank": "85",
+  "name": "University for the Creative Arts",
+  "slug": "university-for-creative-arts"
+ },
+ {
+  "i": 85,
+  "rank": "86",
+  "name": "Leeds Beckett University",
+  "slug": "leeds-beckett-university"
+ },
+ {
+  "i": 86,
+  "rank": "87",
+  "name": "Teesside University",
+  "slug": "teesside-university"
+ },
+ {
+  "i": 87,
+  "rank": "88",
+  "name": "Kingston University",
+  "slug": "kingston-university-london"
+ },
+ {
+  "i": 88,
+  "rank": "89",
+  "name": "Glasgow Caledonian University",
+  "slug": "glasgow-caledonian-university"
+ },
+ {
+  "i": 89,
+  "rank": "90",
+  "name": "University of Lancashire",
+  "slug": "university-of-lancashire"
+ },
+ {
+  "i": 90,
+  "rank": "91",
+  "name": "University of South Wales",
+  "slug": "university-of-south-wales"
+ },
+ {
+  "i": 91,
+  "rank": "92",
+  "name": "Bath Spa University",
+  "slug": "bath-spa-university"
+ },
+ {
+  "i": 92,
+  "rank": "92",
+  "name": "Canterbury Christ Church University",
+  "slug": "canterbury-christ-church-university"
+ },
+ {
+  "i": 93,
+  "rank": "94",
+  "name": "SOAS University of London",
+  "slug": "soas-university-of-london"
+ },
+ {
+  "i": 94,
+  "rank": "95",
+  "name": "Birmingham City University",
+  "slug": "birmingham-city-university"
+ },
+ {
+  "i": 95,
+  "rank": "96",
+  "name": "University of East London",
+  "slug": "university-of-east-london"
+ },
+ {
+  "i": 96,
+  "rank": "97",
+  "name": "University of Winchester",
+  "slug": "university-of-winchester"
+ },
+ {
+  "i": 97,
+  "rank": "98",
+  "name": "University of Gloucestershire",
+  "slug": "university-of-gloucestershire"
+ },
+ {
+  "i": 98,
+  "rank": "98",
+  "name": "University of Bradford",
+  "slug": "university-of-bradford"
+ },
+ {
+  "i": 99,
+  "rank": "98",
+  "name": "University of Wales Trinity Saint David",
+  "slug": "university-of-wales-trinity-saint-david"
+ },
+ {
+  "i": 100,
+  "rank": "101",
+  "name": "University of Wolverhampton",
+  "slug": "university-of-wolverhampton"
+ },
+ {
+  "i": 101,
+  "rank": "102",
+  "name": "Queen Margaret University, Edinburgh",
+  "slug": "queen-margaret-university-edinburgh"
+ },
+ {
+  "i": 102,
+  "rank": "102",
+  "name": "University of Greenwich",
+  "slug": "university-of-greenwich-london"
+ },
+ {
+  "i": 103,
+  "rank": "104",
+  "name": "University of Brighton",
+  "slug": "university-of-brighton"
+ },
+ {
+  "i": 104,
+  "rank": "105",
+  "name": "Abertay University",
+  "slug": "university-of-abertay-dundee"
+ },
+ {
+  "i": 105,
+  "rank": "106",
+  "name": "University of Bedfordshire",
+  "slug": "university-of-bedfordshire"
+ },
+ {
+  "i": 106,
+  "rank": "107",
+  "name": "Leeds Arts University",
+  "slug": "leeds-arts-university"
+ },
+ {
+  "i": 107,
+  "rank": "108",
+  "name": "York St John University",
+  "slug": "york-st-john-university"
+ },
+ {
+  "i": 108,
+  "rank": "109",
+  "name": "Royal Agricultural University",
+  "slug": "royal-agricultural-college"
+ },
+ {
+  "i": 109,
+  "rank": "110",
+  "name": "De Montfort University",
+  "slug": "de-montfort-university"
+ },
+ {
+  "i": 110,
+  "rank": "111",
+  "name": "University of Staffordshire",
+  "slug": "staffordshire-university"
+ },
+ {
+  "i": 111,
+  "rank": "112",
+  "name": "London South Bank University",
+  "slug": "london-south-bank-university"
+ },
+ {
+  "i": 112,
+  "rank": "113",
+  "name": "Anglia Ruskin University",
+  "slug": "anglia-ruskin-university"
+ },
+ {
+  "i": 113,
+  "rank": "114",
+  "name": "Lincoln Bishop University",
+  "slug": "lincoln-bishop-university"
+ },
+ {
+  "i": 114,
+  "rank": "115",
+  "name": "University of Westminster, London",
+  "slug": "university-of-westminster"
+ },
+ {
+  "i": 115,
+  "rank": "115",
+  "name": "Southampton, Solent University",
+  "slug": "solent-university-southampton"
+ },
+ {
+  "i": 116,
+  "rank": "117",
+  "name": "University of Cumbria",
+  "slug": "university-of-cumbria"
+ },
+ {
+  "i": 117,
+  "rank": "118",
+  "name": "University of Greater Manchester",
+  "slug": "university-of-greater-manchester"
+ },
+ {
+  "i": 118,
+  "rank": "119",
+  "name": "Arts University Plymouth",
+  "slug": "arts-university-plymouth"
+ },
+ {
+  "i": 119,
+  "rank": "120",
+  "name": "Bucks New University",
+  "slug": "bucks-new-university"
+ },
+ {
+  "i": 120,
+  "rank": "121",
+  "name": "University of Northampton",
+  "slug": "university-of-northampton"
+ },
+ {
+  "i": 121,
+  "rank": "122",
+  "name": "Middlesex University",
+  "slug": "middlesex-university"
+ },
+ {
+  "i": 122,
+  "rank": "123",
+  "name": "University of Roehampton",
+  "slug": "roehampton-university"
+ },
+ {
+  "i": 123,
+  "rank": "124",
+  "name": "University of Buckingham",
+  "slug": "university-of-buckingham"
+ },
+ {
+  "i": 124,
+  "rank": "125",
+  "name": "Leeds Trinity University",
+  "slug": "leeds-trinity-university"
+ },
+ {
+  "i": 125,
+  "rank": "125",
+  "name": "Plymouth Marjon University",
+  "slug": "plymouth-marjon-university-st-mark-and-st-john"
+ },
+ {
+  "i": 126,
+  "rank": "127",
+  "name": "Birmingham Newman University",
+  "slug": "newman-university"
+ },
+ {
+  "i": 127,
+  "rank": "128",
+  "name": "University of the West of Scotland",
+  "slug": "university-of-west-of-scotland"
+ },
+ {
+  "i": 128,
+  "rank": "129",
+  "name": "London Metropolitan University",
+  "slug": "london-metropolitan-university"
+ },
+ {
+  "i": 129,
+  "rank": "130",
+  "name": "Wrexham University",
+  "slug": "wrexham-university"
+ }
+]

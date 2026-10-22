@@ -1,0 +1,878 @@
+{
+ "id": "coventry",
+ "name": "Coventry University",
+ "shortName": "Coventry",
+ "aliases": [
+  "Coventry",
+  "Coventry Uni",
+  "Cov Uni",
+  "Coventry Univ"
+ ],
+ "city": "Coventry",
+ "region": "Midlands",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/",
+  "checked": "2026-10-21",
+  "evidence": "Coventry is a welcoming and affordable student city with a city‑centre campus, a strong sense of community and access to social, cultural and academic facilities."
+ },
+ "location": {
+  "postcode": "CV1 5FB",
+  "postcodeSource": "https://www.coventry.ac.uk/study-at-coventry/apply-now/fair-access-scheme/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/CV15FB",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 9790,
+  "academicYear": "2026/27",
+  "text": "£9,790 per year for UK students on full-time courses (2026/27). Coventry's course pages show the 2027/28 fee as TBC (to be confirmed). A placement or study abroad year costs £1,575 for UK students starting a placement in 2028/29.",
+  "source": {
+   "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/economics-bsc-hons/?term=2027-28",
+   "checked": "2026-10-21",
+   "evidence": "2026/27 fees: £9,790 per year"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 154,
+  "amountHigh": 232,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University-owned halls (Bishop Gate, Godiva Place, The Cycle Works) cost about £154 to £232 a week for a single room for undergraduates (2026/27), on 39- or 43-week contracts (about £6,006 to £9,976 for the year). Shared 'Twudio' rooms are £113 a week each. Coventry says advertised prices are a guide.",
+  "source": {
+   "url": "https://www.coventry.ac.uk/life-on-campus/accommodation/applying/accommodation-fees/",
+   "checked": "2026-10-21",
+   "evidence": "Deluxe Studio | £232 | 43 weeks"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-24",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-28",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days (in person): Saturday 24 October 2026 and Saturday 28 November 2026. No later dates are listed yet.",
+  "url": "https://www.coventry.ac.uk/study-at-coventry/visit-our-open-days/undergraduate-open-days/",
+  "source": {
+   "url": "https://www.coventry.ac.uk/study-at-coventry/visit-our-open-days/undergraduate-open-days/",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 24 October 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Coventry's Fair Access Offer automatically gives eligible UK undergraduate applicants a lower offer, usually 16 UCAS tariff points (about two A level grades) below the standard entry requirements.",
+  "typicalReduction": "Most eligible applicants receive a reduction of 16 UCAS tariff points (for example BBB becomes BCC).",
+  "criteria": [
+   {
+    "key": "other",
+    "detail": "You have a disability.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "You are a care leaver.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You are aged over 21 at the start of your course.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "You are a refugee or asylum seeker in the UK.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "You are estranged from your parents.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "You have long-term caring responsibilities for someone in your family.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "You may also be eligible based on where you live: your home postcode is in an area where progression to higher education is lower than the national average (Coventry uses UCAS's Modernised Contextualised Data Service; no POLAR, IMD or quintile cut-off is published).",
+    "measure": "other",
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "access",
+    "detail": "Pupils who take part in Coventry's Future Grads programme (chosen by partner schools) are given a Fair Access Offer.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "If you apply through UCAS for an undergraduate degree course, are a UK student and have declared any of the criteria, you will automatically be considered; there is no separate application. Eligibility is assessed from your UCAS application and UCAS contextual data (including whether your home postcode is in an area where fewer people progress to university than the national average). You must still meet the conditions of your offer and any specific course requirements.",
+  "url": "https://www.coventry.ac.uk/study-at-coventry/apply-now/fair-access-scheme/",
+  "source": {
+   "url": "https://www.coventry.ac.uk/study-at-coventry/apply-now/fair-access-scheme/",
+   "checked": "2026-10-21",
+   "evidence": "Most eligible applicants receive a reduction of 16 UCAS tariff points from the standard entry requirements for their chosen course."
+  }
+ },
+ "programmes": [
+  {
+   "id": "coventry-future-grads",
+   "name": "Future Grads",
+   "provider": "Coventry University",
+   "providerType": "university",
+   "uniIds": [
+    "coventry"
+   ],
+   "summary": "Free outreach programme of activities in school and on Coventry University campuses (including overnight stays) for pupils in Years 7 to 13 at partner schools; taking part earns a Fair Access (lower) offer at Coventry.",
+   "whoCanApply": "Pupils chosen by their school, which considers academic potential and widening participation criteria. The programme is currently at capacity with 7 schools (5 in Coventry, 2 in London); other schools can join a waiting list, so you cannot apply as an individual.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "firstGen",
+    "fsm",
+    "other",
+    "area",
+    "carer",
+    "care"
+   ],
+   "eligibilityDetail": "Chosen by your school. Criteria the school may consider: first in family to go to university; free school meals; disability; low participation neighbourhood; young carer; in local authority care (care experienced).",
+   "benefits": [
+    "Contextual (Fair Access) offer from Coventry: could reduce your offer by up to 16 UCAS tariff points or equivalent",
+    "Completely free: all costs are covered by Coventry University",
+    "Activities in school or on campus, with possible overnight residential experiences"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "coventry"
+   ],
+   "offerReduction": "Up to 16 UCAS tariff points (or equivalent), depending on the course and qualifications",
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "All subjects",
+   "yearGroup": "Years 7 to 13",
+   "runs": {
+    "text": "Activities run through the school year (specific dates not published)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Schools are chosen to take part (no individual application)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "None published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "The page is undated and says the programme is currently at capacity with 7 schools; schools can ask to join the waiting list via the widening participation team.",
+   "url": "https://www.coventry.ac.uk/study-at-coventry/parents-and-teachers/our-programmes/future-grads/",
+   "source": {
+    "url": "https://www.coventry.ac.uk/study-at-coventry/parents-and-teachers/our-programmes/future-grads/",
+    "checked": "2026-10-21",
+    "evidence": "Students are chosen by their school for the Future Grads programme."
+   },
+   "notConfirmed": [
+    "Dates of 2026/27 and 2027/28 activities are not published",
+    "Only open to partner schools; the page says the programme is at capacity"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.coventry.ac.uk/",
+  "courses": "https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/",
+  "economics": "https://www.coventry.ac.uk/study-at-coventry/undergraduate-study/undergraduate-subjects/economics-finance-accounting/",
+  "openDays": "https://www.coventry.ac.uk/study-at-coventry/visit-our-open-days/undergraduate-open-days/",
+  "fees": "https://www.coventry.ac.uk/study-at-coventry/finance/undergraduate-finance/",
+  "contextual": "https://www.coventry.ac.uk/study-at-coventry/apply-now/fair-access-scheme/",
+  "accommodation": "https://www.coventry.ac.uk/life-on-campus/accommodation/applying/accommodation-fees/"
+ },
+ "courses": [
+  {
+   "id": "coventry-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course (optional placement or study abroad year) and with an integrated foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points (A level BBC). The course page lists no specific A level subjects.",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/economics-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "UCAS points | 112 | A level | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    }
+   ],
+   "gcseText": "GCSE maths and English at grade 4 / C or Functional Skills Level 2, or other equivalent Level 2 awards",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.coventry.ac.uk/study-at-coventry/apply-now/entry-requirements-uk-eu-students/",
+    "checked": "2026-10-21",
+    "evidence": "Some courses require specific A Level subjects. Check the relevant course page."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in this course's typical entry requirements (Coventry is also not on UAT-UK's official TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/economics-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "Typical entry requirements:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Fair Access Offer: if you meet Coventry's criteria you could automatically receive an offer 16 UCAS points lower than the standard 112, so 96 points (Coventry's own example is BBB becoming BCC). No separate application; the offer grades are not published for this course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/economics-bsc-hons/?term=2027-28",
+      "checked": "2026-10-21",
+      "evidence": "If you meet the criteria for our Fair Access Offer, you could automatically receive a contextual offer which is 16 UCAS points lower than our standard entry requirements."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.coventry.ac.uk/course-structure/ug/fbl/economics-bsc-hons/?term=2027-28",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry (2028-29) is not published yet: the course page's Year of entry options are 2026-27 and 2027-28, so 2027 entry is used",
+    "2027/28 tuition fee is shown as TBC on the course page (2026/27 fee is £9,790 a year)",
+    "A level subjects: the course page lists no required or excluded subjects and does not say whether every subject counts towards the UCAS points",
+    "GCSEs: the course page lists only maths and English at grade 4, but Coventry's general entry requirements page says nearly all courses need at least five GCSEs at grade 4 or above including English Language and Maths; check with admissions"
+   ],
+   "notes": "No specific A level subjects are listed on the course page; only GCSE Maths and English at grade 4. Other qualifications listed: BTEC DMM; T level overall Merit; IB Diploma 29 points; Access to HE Diploma with 30 Level 3 credits at Merit. Also has start dates in Nov 2027 and Jan, Mar, May and Jul 2028; September 2027 is used here."
+  },
+  {
+   "id": "coventry-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L112",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course (optional placement or study abroad year) and with an integrated foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BCC",
+    "low": null,
+    "tariff": 104,
+    "tariffLow": null,
+    "text": "104 UCAS tariff points (A level BCC). The course page lists no specific A level subjects.",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/business-economics-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "UCAS points | 104 | A level | BCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    }
+   ],
+   "gcseText": "GCSE maths and English at grade 4 / C or Functional Skills Level 2, or other equivalent Level 2 awards",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.coventry.ac.uk/study-at-coventry/apply-now/entry-requirements-uk-eu-students/",
+    "checked": "2026-10-21",
+    "evidence": "Some courses require specific A Level subjects. Check the relevant course page."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in this course's typical entry requirements (Coventry is also not on UAT-UK's official TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/business-economics-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "Typical entry requirements:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 88,
+     "conditions": "Fair Access Offer: if you meet Coventry's criteria you could automatically receive an offer 16 UCAS points lower than the standard 104, so 88 points (Coventry's own example is BBB becoming BCC). No separate application; the offer grades are not published for this course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/business-economics-bsc-hons/?term=2027-28",
+      "checked": "2026-10-21",
+      "evidence": "If you meet the criteria for our Fair Access Offer, you could automatically receive a contextual offer which is 16 UCAS points lower than our standard entry requirements."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.coventry.ac.uk/course-structure/ug/fbl/business-economics-bsc-hons/?term=2027-28",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry (2028-29) is not published yet: the course page's Year of entry options are 2026-27 and 2027-28, so 2027 entry is used",
+    "2027/28 tuition fee is shown as TBC on the course page (2026/27 fee is £9,790 a year)",
+    "A level subjects: the course page lists no required or excluded subjects and does not say whether every subject counts towards the UCAS points",
+    "GCSEs: the course page lists only maths and English at grade 4, but Coventry's general entry requirements page says nearly all courses need at least five GCSEs at grade 4 or above including English Language and Maths; check with admissions"
+   ],
+   "notes": "Lower entry tariff (104 points) than Coventry's Economics degree (112). No specific A level subjects are listed on the course page. Other qualifications listed: BTEC DMM; T level overall Merit; IB Diploma 24 points; Access to HE Diploma with 30 Level 3 credits at Merit. Also has start dates in Nov 2027 and Jan, Mar, May and Jul 2028; September 2027 is used here."
+  },
+  {
+   "id": "coventry-financial-economics",
+   "name": "Financial Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L111",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course (optional placement or study abroad year) and with an integrated foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points (A level BBC). The course page lists no specific A level subjects.",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/financial-economics-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "UCAS points | 112 | A level | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    }
+   ],
+   "gcseText": "GCSE maths and English at grade 4 / C or Functional Skills Level 2, or other equivalent Level 2 awards",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.coventry.ac.uk/study-at-coventry/apply-now/entry-requirements-uk-eu-students/",
+    "checked": "2026-10-21",
+    "evidence": "Some courses require specific A Level subjects. Check the relevant course page."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in this course's typical entry requirements (Coventry is also not on UAT-UK's official TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/financial-economics-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "Typical entry requirements:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Fair Access Offer: if you meet Coventry's criteria you could automatically receive an offer 16 UCAS points lower than the standard 112, so 96 points (Coventry's own example is BBB becoming BCC). No separate application; the offer grades are not published for this course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/financial-economics-bsc-hons/?term=2027-28",
+      "checked": "2026-10-21",
+      "evidence": "If you meet the criteria for our Fair Access Offer, you could automatically receive a contextual offer which is 16 UCAS points lower than our standard entry requirements."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.coventry.ac.uk/course-structure/ug/fbl/financial-economics-bsc-hons/?term=2027-28",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry (2028-29) is not published yet: the course page's Year of entry options are 2026-27 and 2027-28, so 2027 entry is used",
+    "2027/28 tuition fee is shown as TBC on the course page (2026/27 fee is £9,790 a year)",
+    "A level subjects: the course page lists no required or excluded subjects and does not say whether every subject counts towards the UCAS points",
+    "GCSEs: the course page lists only maths and English at grade 4, but Coventry's general entry requirements page says nearly all courses need at least five GCSEs at grade 4 or above including English Language and Maths; check with admissions"
+   ],
+   "notes": "Economics with a finance focus (financial markets, corporate finance, portfolio management). No specific A level subjects are listed on the course page. Other qualifications listed: BTEC DMM; T level overall Merit; IB Diploma 24 points; Access to HE Diploma with 30 Level 3 credits at Merit. Also has start dates in Nov 2027 and Jan, Mar, May and Jul 2028; September 2027 is used here."
+  },
+  {
+   "id": "coventry-banking-finance",
+   "name": "Banking and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N310",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course (optional placement or study abroad year) and with an integrated foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points (A level BBC). The course page lists no specific A level subjects.",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/banking-and-finance-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "UCAS points | 112 | A level | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    }
+   ],
+   "gcseText": "GCSE maths and English at grade 4 / C or Functional Skills Level 2, or other equivalent Level 2 awards",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.coventry.ac.uk/study-at-coventry/apply-now/entry-requirements-uk-eu-students/",
+    "checked": "2026-10-21",
+    "evidence": "Some courses require specific A Level subjects. Check the relevant course page."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in this course's typical entry requirements (Coventry is also not on UAT-UK's official TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/banking-and-finance-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "Typical entry requirements:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Fair Access Offer: if you meet Coventry's criteria you could automatically receive an offer 16 UCAS points lower than the standard 112, so 96 points (Coventry's own example is BBB becoming BCC). No separate application; the offer grades are not published for this course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/banking-and-finance-bsc-hons/?term=2027-28",
+      "checked": "2026-10-21",
+      "evidence": "If you meet the criteria for our Fair Access Offer, you could automatically receive a contextual offer which is 16 UCAS points lower than our standard entry requirements."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.coventry.ac.uk/course-structure/ug/fbl/banking-and-finance-bsc-hons/?term=2027-28",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry (2028-29) is not published yet: the course page's Year of entry options are 2026-27 and 2027-28, so 2027 entry is used",
+    "2027/28 tuition fee is shown as TBC on the course page (2026/27 fee is £9,790 a year)",
+    "A level subjects: the course page lists no required or excluded subjects and does not say whether every subject counts towards the UCAS points",
+    "GCSEs: the course page lists only maths and English at grade 4, but Coventry's general entry requirements page says nearly all courses need at least five GCSEs at grade 4 or above including English Language and Maths; check with admissions"
+   ],
+   "notes": "Finance degree with a banking focus; first year is shared with closely related courses. No specific A level subjects are listed on the course page. Other qualifications listed: BTEC DMM; T level overall Merit; IB Diploma 28 points; Access to HE Diploma with 30 Level 3 credits at Merit. Also has start dates in Nov 2027 and Jan, Mar, May and Jul 2028; September 2027 is used here."
+  },
+  {
+   "id": "coventry-finance-investment",
+   "name": "Finance and Investment",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N300",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course (optional placement or study abroad year) and with an integrated foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points (A level BBC). The course page lists no specific A level subjects.",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/finance-and-investment-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "UCAS points | 112 | A level | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    }
+   ],
+   "gcseText": "GCSE maths and English at grade 4 / C or Functional Skills Level 2, or other equivalent Level 2 awards",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.coventry.ac.uk/study-at-coventry/apply-now/entry-requirements-uk-eu-students/",
+    "checked": "2026-10-21",
+    "evidence": "Some courses require specific A Level subjects. Check the relevant course page."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in this course's typical entry requirements (Coventry is also not on UAT-UK's official TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/finance-and-investment-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "Typical entry requirements:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Fair Access Offer: if you meet Coventry's criteria you could automatically receive an offer 16 UCAS points lower than the standard 112, so 96 points (Coventry's own example is BBB becoming BCC). No separate application; the offer grades are not published for this course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/finance-and-investment-bsc-hons/?term=2027-28",
+      "checked": "2026-10-21",
+      "evidence": "If you meet the criteria for our Fair Access Offer, you could automatically receive a contextual offer which is 16 UCAS points lower than our standard entry requirements."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.coventry.ac.uk/course-structure/ug/fbl/finance-and-investment-bsc-hons/?term=2027-28",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry (2028-29) is not published yet: the course page's Year of entry options are 2026-27 and 2027-28, so 2027 entry is used",
+    "2027/28 tuition fee is shown as TBC on the course page (2026/27 fee is £9,790 a year)",
+    "A level subjects: the course page lists no required or excluded subjects and does not say whether every subject counts towards the UCAS points",
+    "GCSEs: the course page lists only maths and English at grade 4, but Coventry's general entry requirements page says nearly all courses need at least five GCSEs at grade 4 or above including English Language and Maths; check with admissions"
+   ],
+   "notes": "Finance degree focused on investment, risk and portfolio management. IELTS for international students is 6.0 with 5.5 in each part. No specific A level subjects are listed on the course page. Other qualifications listed: BTEC DMM; T level overall Merit; IB Diploma 24 points; Access to HE Diploma with 30 Level 3 credits at Merit. Also has start dates in Nov 2027 and Jan, Mar, May and Jul 2028; September 2027 is used here."
+  },
+  {
+   "id": "coventry-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN34",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course (optional placement or study abroad year) and with an integrated foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points (A level BBC). The course page lists no specific A level subjects.",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/accounting-and-finance-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "UCAS points | 112 | A level | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    }
+   ],
+   "gcseText": "GCSE maths and English at grade 4 / C or Functional Skills Level 2, or other equivalent Level 2 awards",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.coventry.ac.uk/study-at-coventry/apply-now/entry-requirements-uk-eu-students/",
+    "checked": "2026-10-21",
+    "evidence": "Some courses require specific A Level subjects. Check the relevant course page."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in this course's typical entry requirements (Coventry is also not on UAT-UK's official TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/accounting-and-finance-bsc-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "Typical entry requirements:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Fair Access Offer: if you meet Coventry's criteria you could automatically receive an offer 16 UCAS points lower than the standard 112, so 96 points (Coventry's own example is BBB becoming BCC). No separate application; the offer grades are not published for this course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/accounting-and-finance-bsc-hons/?term=2027-28",
+      "checked": "2026-10-21",
+      "evidence": "If you meet the criteria for our Fair Access Offer, you could automatically receive a contextual offer which is 16 UCAS points lower than our standard entry requirements."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.coventry.ac.uk/course-structure/ug/fbl/accounting-and-finance-bsc-hons/?term=2027-28",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry (2028-29) is not published yet: the course page's Year of entry options are 2026-27 and 2027-28, so 2027 entry is used",
+    "2027/28 tuition fee is shown as TBC on the course page (2026/27 fee is £9,790 a year)",
+    "A level subjects: the course page lists no required or excluded subjects and does not say whether every subject counts towards the UCAS points",
+    "GCSEs: the course page lists only maths and English at grade 4, but Coventry's general entry requirements page says nearly all courses need at least five GCSEs at grade 4 or above including English Language and Maths; check with admissions"
+   ],
+   "notes": "No specific A level subjects are listed on the course page. Other qualifications listed: BTEC DMM; T level overall Merit; IB Diploma 24 points; Access to HE Diploma with 30 Level 3 credits at Merit. Also has start dates in Nov 2027 and Jan, Mar, May and Jul 2028; September 2027 is used here."
+  },
+  {
+   "id": "coventry-business-management",
+   "name": "Business Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N221",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year sandwich course (optional placement or study abroad year) and with an integrated foundation year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points (A level BBC). The course page lists no specific A level subjects.",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/business-management-ba-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "UCAS points | 112 | A level | BBC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Grade 4 / C, or Functional Skills Level 2 or another equivalent Level 2 award"
+    }
+   ],
+   "gcseText": "GCSE maths and English at grade 4 / C or Functional Skills Level 2, or other equivalent Level 2 awards",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.coventry.ac.uk/study-at-coventry/apply-now/entry-requirements-uk-eu-students/",
+    "checked": "2026-10-21",
+    "evidence": "Some courses require specific A Level subjects. Check the relevant course page."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in this course's typical entry requirements (Coventry is also not on UAT-UK's official TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/business-management-ba-hons/?term=2027-28",
+     "checked": "2026-10-21",
+     "evidence": "Typical entry requirements:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "Fair Access Offer: if you meet Coventry's criteria you could automatically receive an offer 16 UCAS points lower than the standard 112, so 96 points (Coventry's own example is BBB becoming BCC). No separate application; the offer grades are not published for this course.",
+     "programme": null,
+     "source": {
+      "url": "https://www.coventry.ac.uk/course-structure/ug/fbl/business-management-ba-hons/?term=2027-28",
+      "checked": "2026-10-21",
+      "evidence": "If you meet the criteria for our Fair Access Offer, you could automatically receive a contextual offer which is 16 UCAS points lower than our standard entry requirements."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.coventry.ac.uk/course-structure/ug/fbl/business-management-ba-hons/?term=2027-28",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry (2028-29) is not published yet: the course page's Year of entry options are 2026-27 and 2027-28, so 2027 entry is used",
+    "2027/28 tuition fee is shown as TBC on the course page (2026/27 fee is £9,790 a year)",
+    "A level subjects: the course page lists no required or excluded subjects and does not say whether every subject counts towards the UCAS points",
+    "GCSEs: the course page lists only maths and English at grade 4, but Coventry's general entry requirements page says nearly all courses need at least five GCSEs at grade 4 or above including English Language and Maths; check with admissions"
+   ],
+   "notes": "No specific A level subjects are listed on the course page. Other qualifications listed: BTEC DMM; T level overall Merit; IB Diploma 28 points; Access to HE Diploma with 30 Level 3 credits at Merit. Also has start dates in Nov 2027 and Jan, Mar, May and Jul 2028; September 2027 is used here."
+  }
+ ],
+ "notes": [
+  "Coventry publishes entry requirements as UCAS tariff points with an A level equivalent (112 points = BBC, 104 points = BCC), so every course is recorded as a tariff offer.",
+  "No 2028-entry pages yet: the course pages' Year of entry options are 2026-27 and 2027-28 (checked 2026-10-21), so all courses use 2027 entry (September 2027 start).",
+  "No admissions test is named on any course page, and Coventry is not on UAT-UK's official TMUA list for 2027 entry.",
+  "Only courses taught at the main Coventry campus (listed as 'Coventry University (Coventry)') are recorded. Coventry University London, CU Coventry, CU London and CU Scarborough are separate (for example Financial Economics and Banking BSc is a London course).",
+  "A levels: UCAS tariff points from three A levels; AS grades may be considered but two AS levels are not accepted in place of one A level.",
+  "Fair Access (contextual) offers are 16 UCAS points lower than the standard offer, for example 112 becomes 96 points."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2027/28 tuition fee shows as TBC on every course page; the 2026/27 fee (£9,790) is recorded",
+  "No Year 12 Economics taster day or summer school found on Coventry's outreach pages; the only relevant programme is the school-nominated Future Grads (currently at capacity)",
+  "Open days: only the two autumn 2026 dates are published; no 2027 dates yet",
+  "Contextual offers: Coventry does not publish a POLAR, IMD or quintile cut-off for the home-postcode criterion, nor free school meals or first-in-family criteria on its Fair Access page",
+  "A level subjects: no course page lists required or excluded subjects, so acceptance of Geography and Psychology is not confirmed"
+ ]
+}

@@ -1,0 +1,1550 @@
+{
+  "id": "birmingham",
+  "name": "University of Birmingham",
+  "shortName": "Birmingham",
+  "aliases": [
+    "UoB",
+    "Birmingham Uni",
+    "Bham",
+    "Uni of Birmingham"
+  ],
+  "city": "Birmingham",
+  "region": "Midlands",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc",
+    "checked": "2026-10-17",
+    "evidence": "Our beautiful campus is the place where our diverse community comes together to learn and socialise. Like a town of its own, it’s just minutes from the hustle and bustle of the UK’s second city."
+  },
+  "location": {
+    "postcode": "B15 2TT",
+    "postcodeSource": "https://www.birmingham.ac.uk/contact",
+    "lat": 52.453282,
+    "lng": -1.92789,
+    "coordsSource": "https://api.postcodes.io/postcodes/B152TT",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK students starting in 2027 (the University says it 'expects' this fee); 2028 fees not announced yet",
+    "source": {
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/fees-funding/tuition",
+      "checked": "2026-10-17",
+      "evidence": "If your offer is for 2027 year of entry, we expect that the tuition fee for your first year of study will be £10,050."
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 107,
+    "amountHigh": 321,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "University halls cost about £107-£321 a week (2026/27 undergraduate prices; bills, Wi-Fi and contents insurance included)",
+    "source": {
+      "url": "https://www.birmingham.ac.uk/study/accommodation/our-accommodation/accommodation-fees",
+      "checked": "2026-10-17",
+      "evidence": "High-speed Wi-Fi, contents insurance, and utility bills are all included in our fees ... Undergraduate accommodation fees 2026/2027 ... Maple Bank ... £107.00 ... Studio Apartment ... £321.00"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-11-14",
+        "endDate": null,
+        "label": "Undergraduate Open Day",
+        "format": "in person",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next open day: Saturday 14 November 2026 (Edgbaston campus). 2027 dates not announced yet; Birmingham says its pre-application open days start in June of Year 12.",
+    "url": "https://www.birmingham.ac.uk/study/undergraduate/open-days",
+    "source": {
+      "url": "https://www.birmingham.ac.uk/events/undergraduate-open-day",
+      "checked": "2026-10-17",
+      "evidence": "Join us at our Edgbaston campus on Saturday 14 November 2026."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Birmingham makes a contextual offer, usually one grade lower, to applicants who have had free school meals in the last six years or have spent time in local authority care; it is applied automatically and only if Birmingham is your firm choice.",
+    "typicalReduction": "typically one grade lower than the standard offer (firm choice only); may vary by subject",
+    "criteria": [
+      {
+        "key": "fsm",
+        "detail": "Received Free School Meals at any point in the last six years",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Spent time in local authority care",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "Our contextual offer scheme recognises the potential of those students who meet one of three criteria (only two are listed: free school meals in the last six years; time in local authority care). If you meet one of the eligibility criteria, you may receive a contextual offer. Pathways to Birmingham is a separate scheme with its own offer.",
+    "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/how-we-make-offers",
+    "source": {
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/how-we-make-offers",
+      "checked": "2026-10-17",
+      "evidence": "Our contextual offer scheme recognises the potential of those students who meet one of three criteria: ... Those who have been in receipt of Free School Meals in the last six years ... Those who have spent time in local authority care"
+    }
+  },
+  "programmes": [
+    {
+      "id": "birmingham-nass",
+      "name": "National Access Summer School (NASS)",
+      "provider": "University of Birmingham",
+      "providerType": "university",
+      "uniIds": [
+        "birmingham"
+      ],
+      "summary": "A free four-day, three-night residential at Birmingham for Year 12 students from under-represented backgrounds, with taster lectures, life in halls and e-mentoring afterwards.",
+      "whoCanApply": "Year 12 students at state schools in England and Wales whose school is a Pathways to Birmingham partner and who meet the Pathways to Birmingham criteria. Students at a Pathways to Birmingham partner school or college (state-funded, non-selective through GCSEs) with Home fee status, who have been in care OR meet at least three measures: free school meals in the last 6 years; school below national average; low-progression postcode (TUNDRA/POLAR quintile 1 or IMD decile 1-2 count as two points; quintile 2 or IMD decile 3-4 one point); first generation; household income below £42,875; disability or long-term illness; estranged; young carer. Meeting two plus significant extenuating circumstances can also be considered.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "care",
+        "fsm",
+        "school",
+        "area",
+        "firstGen",
+        "income",
+        "estranged",
+        "carer",
+        "other"
+      ],
+      "eligibilityDetail": "Students at a Pathways to Birmingham partner school or college (state-funded, non-selective through GCSEs) with Home fee status, who have been in care OR meet at least three measures: free school meals in the last 6 years; school below national average; low-progression postcode (TUNDRA/POLAR quintile 1 or IMD decile 1-2 count as two points; quintile 2 or IMD decile 3-4 one point); first generation; household income below £42,875; disability or long-term illness; estranged; young carer. Meeting two plus significant extenuating circumstances can also be considered. If your school isn't a partner but you think you're eligible, the page says to email the NASS team.",
+      "benefits": [
+        "Pathways to Birmingham offer at Birmingham, typically up to two A-level grades lower (e.g. BBB rather than AAB), if Birmingham is your firm choice",
+        "Eligible for Pathways to Birmingham financial support",
+        "Guaranteed interviews for Medicine, Dentistry, Nursing, Physiotherapy and Pharmacy",
+        "E-mentoring from a current undergraduate"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "birmingham"
+      ],
+      "offerReduction": "Typically a reduction of up to two A level grades (e.g. BBB rather than AAB)",
+      "cost": "Free (travel, accommodation, meals and social activities covered)",
+      "isFree": true,
+      "format": "residential",
+      "subjects": "Various academic subjects",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Expected late July 2027 (2026 ran Monday 20 - Thursday 23 July 2026)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "January 2027",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": null,
+      "infoYear": 2026,
+      "infoNote": "Dates are for NASS 2026. The page confirms NASS 2027 applications open in January 2027; 2027 dates and deadline not announced yet.",
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/pathways-to-birmingham/national-access-summer-school",
+      "source": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/pathways-to-birmingham/national-access-summer-school",
+        "checked": "2026-10-17",
+        "evidence": "The National Access Summer School (NASS) is a four-day residential programme for Year 12 students from across the UK. ... Applications for NASS 2027 will open in January 2027. ... Dates: Monday 20 July - Thursday 23 July 2026"
+      },
+      "notConfirmed": [
+        "deadline: 2027 application deadline not published",
+        "runs: 2027 dates not published"
+      ]
+    },
+    {
+      "id": "birmingham-belong",
+      "name": "Belong at Birmingham",
+      "provider": "University of Birmingham",
+      "providerType": "university",
+      "uniIds": [
+        "birmingham"
+      ],
+      "summary": "A Year 13 Pathways to Birmingham programme for eligible students outside the West Midlands: online sessions, funded campus visits, a study-skills quiz and a reflective assignment.",
+      "whoCanApply": "Year 13 (final-year) students at Pathways to Birmingham partner schools/colleges outside the West Midlands who meet the Pathways to Birmingham criteria and apply to Birmingham through UCAS. Where oversubscribed, priority goes to students who had free school meals in the last six years or have been in care. Students at a Pathways to Birmingham partner school or college (state-funded, non-selective through GCSEs) with Home fee status, who have been in care OR meet at least three measures: free school meals in the last 6 years; school below national average; low-progression postcode (TUNDRA/POLAR quintile 1 or IMD decile 1-2 count as two points; quintile 2 or IMD decile 3-4 one point); first generation; household income below £42,875; disability or long-term illness; estranged; young carer. Meeting two plus significant extenuating circumstances can also be considered.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "care",
+        "fsm",
+        "school",
+        "area",
+        "firstGen",
+        "income",
+        "estranged",
+        "carer",
+        "other"
+      ],
+      "eligibilityDetail": "Students at a Pathways to Birmingham partner school or college (state-funded, non-selective through GCSEs) with Home fee status, who have been in care OR meet at least three measures: free school meals in the last 6 years; school below national average; low-progression postcode (TUNDRA/POLAR quintile 1 or IMD decile 1-2 count as two points; quintile 2 or IMD decile 3-4 one point); first generation; household income below £42,875; disability or long-term illness; estranged; young carer. Meeting two plus significant extenuating circumstances can also be considered.",
+      "benefits": [
+        "Alternative offer at least two grades below the standard offer (e.g. AAB becomes BBB), if Birmingham is your firm choice",
+        "Enhanced financial support while studying at Birmingham",
+        "On-course support (peer mentors, academic guidance, careers support)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "birmingham"
+      ],
+      "offerReduction": "At least two grades below the standard offer for that programme (e.g. an AAB standard offer will become BBB)",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 13",
+      "runs": {
+        "text": "During Year 13, alongside your UCAS application (expected to follow the 2026/27 pattern)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": null,
+      "deadline": {
+        "text": "Expected around October 2027 (the 2026/27 round was expected to close in October 2026; places allocated on a rolling basis)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2026/27 programme (applications open as of October 2026). Some eligibility text on the page still refers to 2025/26.",
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/pathways-to-birmingham/belong-at-birmingham",
+      "source": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/pathways-to-birmingham/belong-at-birmingham",
+        "checked": "2026-10-17",
+        "evidence": "A programme for eligible students in partner schools and colleges outside the West Midlands region ... An alternative offer at least two grades below our standard offer for that programme (e.g. an AAB standard offer will become BBB if you complete this programme)"
+      },
+      "notConfirmed": [
+        "cost: page doesn't state a cost",
+        "opens: 2027/28 opening date not published"
+      ]
+    },
+    {
+      "id": "birmingham-a2b",
+      "name": "Access to Birmingham (A2B)",
+      "provider": "University of Birmingham",
+      "providerType": "university",
+      "uniIds": [
+        "birmingham"
+      ],
+      "summary": "A Year 13 programme for eligible applicants at non-selective state schools in the West Midlands: launch day, online Skills4Uni module and a subject academic activity, leading to an alternative offer and funding.",
+      "whoCanApply": "Year 13 students (or mature learners) at Pathways to Birmingham partner institutions in the West Midlands, applying to a full-time undergraduate course at Birmingham, who meet the Pathways to Birmingham criteria. Students at a Pathways to Birmingham partner school or college (state-funded, non-selective through GCSEs) with Home fee status, who have been in care OR meet at least three measures: free school meals in the last 6 years; school below national average; low-progression postcode (TUNDRA/POLAR quintile 1 or IMD decile 1-2 count as two points; quintile 2 or IMD decile 3-4 one point); first generation; household income below £42,875; disability or long-term illness; estranged; young carer. Meeting two plus significant extenuating circumstances can also be considered.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "care",
+        "fsm",
+        "school",
+        "area",
+        "firstGen",
+        "income",
+        "estranged",
+        "carer",
+        "other"
+      ],
+      "eligibilityDetail": "Students at a Pathways to Birmingham partner school or college (state-funded, non-selective through GCSEs) with Home fee status, who have been in care OR meet at least three measures: free school meals in the last 6 years; school below national average; low-progression postcode (TUNDRA/POLAR quintile 1 or IMD decile 1-2 count as two points; quintile 2 or IMD decile 3-4 one point); first generation; household income below £42,875; disability or long-term illness; estranged; young carer. Meeting two plus significant extenuating circumstances can also be considered. A2B applicants must also make Birmingham their firm choice and be taking at least one A level or equivalent.",
+      "benefits": [
+        "Pathways to Birmingham offer, typically up to two A-level grades lower (e.g. BBB rather than AAB), if Birmingham is your firm choice",
+        "Financial support",
+        "Induction event and Birmingham Scholar support"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "birmingham"
+      ],
+      "offerReduction": "Typically a reduction of up to two A level grades (e.g. BBB rather than AAB)",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 13",
+      "runs": {
+        "text": "During Year 13",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Expected September 2027 (A2B applications open in September of Year 13)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Expected February 2028 (2026/27 deadline: 11 February 2027 for non-Medicine/Dentistry applicants)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2026/27 round. West Midlands partner schools only.",
+      "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/pathways-to-birmingham/access-to-birmingham",
+      "source": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/pathways-to-birmingham/access-to-birmingham",
+        "checked": "2026-10-17",
+        "evidence": "A programme for eligible students in non-selective state schools across the West Midlands ... The deadline for applying is 12 November 2026 for Medicine and Dentistry applicants and 11 February 2027 for all other applicants."
+      },
+      "notConfirmed": [
+        "cost: page doesn't state a cost",
+        "2027/28 dates not published"
+      ]
+    },
+    {
+      "id": "birmingham-economics-in-action",
+      "name": "Economics in Action",
+      "provider": "University of Birmingham with Education in Action",
+      "providerType": "university",
+      "uniIds": [
+        "birmingham"
+      ],
+      "summary": "A one-day on-campus economics event for post-16 students with interactive sessions, case studies, expert speakers and exam support.",
+      "whoCanApply": "Designed for A-level, IB, BTEC Level 3 and T Level Economics students; register via the event page (run with Education in Action)",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "This event is designed for A-level, IB, BTEC Level 3 and T Level Economics students",
+      "benefits": [
+        "Insight into university study and careers in economics, business, finance and public policy"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "day",
+      "subjects": "Economics",
+      "yearGroup": "Year 12 and Year 13",
+      "runs": {
+        "text": "Thursday 26 November 2026, 10:00-15:00",
+        "start": "2026-11-26",
+        "end": "2026-11-26",
+        "status": "Confirmed"
+      },
+      "opens": null,
+      "deadline": null,
+      "infoYear": 2026,
+      "infoNote": "Single event in the 2026/27 series run with Education in Action.",
+      "url": "https://www.birmingham.ac.uk/events/economics-in-action-1",
+      "source": {
+        "url": "https://www.birmingham.ac.uk/events/economics-in-action-1",
+        "checked": "2026-10-17",
+        "evidence": "For post-16 economics students: explore microeconomics, global markets and real-world issues through interactive sessions and debates. ... Thursday, 26 November 2026 (10:00 - 15:00) (UK)"
+      },
+      "notConfirmed": [
+        "cost: event page doesn't state a price",
+        "whether individual students (not just schools) can book isn't stated"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.birmingham.ac.uk/",
+    "courses": "https://www.birmingham.ac.uk/study/undergraduate/subjects",
+    "economics": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses",
+    "openDays": "https://www.birmingham.ac.uk/study/undergraduate/open-days",
+    "fees": "https://www.birmingham.ac.uk/study/undergraduate/fees-funding/tuition",
+    "contextual": "https://www.birmingham.ac.uk/study/undergraduate/apply/how-we-make-offers",
+    "accommodation": "https://www.birmingham.ac.uk/study/accommodation"
+  },
+  "courses": [
+    {
+      "id": "birmingham-economics-bsc",
+      "name": "Economics",
+      "degree": "BSc",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "Can be extended with a placement year, a year abroad, or a Year in Artificial Intelligence and Data Science / Year in Computer Science",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including Mathematics",
+        "source": {
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc",
+          "checked": "2026-10-17",
+          "evidence": "AAA including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Maths at grade A (part of AAA)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements; the course page lists no higher grade"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements"
+        }
+      ],
+      "gcseText": "We require literacy and numeracy skills which can normally be demonstrated if you have the following: GCSE English and GCSE mathematics (including IGCSEs), both grade 4 or above.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Use of Maths"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc",
+        "checked": "2026-10-17",
+        "evidence": "A level subjects excluded for entry: General Studies, Critical Thinking, and Use of Maths."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test (such as the TMUA) is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Made alongside the typical offer: one grade lower plus grade B in the EPQ. Only applies if Birmingham is your firm choice. Reductions aren't applied to a required subject, so Maths stays at grade A.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the EPQ and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in the EPQ."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Music: one grade lower if you have (or will have) a Level 3 music performance exam at Grade 8 or above, listed on your UCAS form. Firm choice only. Reductions aren't applied to a required subject, so Maths stays at grade A.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "plus an alternative offer which will be one grade lower plus the Music qualification. This alternative offer would apply if you make Birmingham your firm choice."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Sport: one grade lower if you play sport at county level or above. Firm choice only. Maximum one grade reduction overall. Reductions aren't applied to a required subject, so Maths stays at grade A.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who play sport at county level or above will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "If you meet Birmingham's contextual criteria (free school meals in the last six years, or time in local authority care). Applied automatically; firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Contextual Offer ... AAB (including Mathematics)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you complete a Pathways to Birmingham programme (e.g. National Access Summer School, Belong at Birmingham, Access to Birmingham) and make Birmingham your firm choice.",
+          "programme": "Pathways to Birmingham",
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Students who are eligible and complete a Pathways to Birmingham programme will receive an alternative offer, which is typically two grades below the standard offer. ... Pathways to Birmingham ... ABB"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-bsc",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/496a80f0-0bd9-584b-fe4f-41c31b2bac54"
+      },
+      "notConfirmed": [
+        "gcse: course page lists no GCSE grades; University-wide minimum (grade 4 English and Maths) recorded from the general entry requirements page",
+        "entryYear: course page shows a September 2027 start; no 2028 entry page published yet",
+        "ucas: UCAS course page blocked automated reading (bot check), so it was not used as a second source"
+      ],
+      "notes": "The more mathematical of Birmingham's two Economics degrees. Core Maths alternative offer not available (course requires A-level Maths)."
+    },
+    {
+      "id": "birmingham-economics-ba",
+      "name": "Economics",
+      "degree": "BA",
+      "ucasCode": "L101",
+      "lengthYears": 3,
+      "lengthNote": "Can be extended with a placement year (Year in Industry), a year abroad, or a Year in Artificial Intelligence and Data Science / Year in Computer Science",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA (no A-level Maths required)",
+        "source": {
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba",
+          "checked": "2026-10-17",
+          "evidence": "A Level ... AAA ... IB ... 6,6,6 with a minimum of 32 points overall."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements; the course page lists no higher grade"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements"
+        }
+      ],
+      "gcseText": "We require literacy and numeracy skills which can normally be demonstrated if you have the following: GCSE English and GCSE mathematics (including IGCSEs), both grade 4 or above.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Use of Maths"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba",
+        "checked": "2026-10-17",
+        "evidence": "It doesn't require A-level Maths. ... A level subjects excluded for entry: General Studies, Critical Thinking, and Use of Maths."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test (such as the TMUA) is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Made alongside the typical offer: one grade lower plus grade B in the EPQ. Only applies if Birmingham is your firm choice.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the EPQ and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in the EPQ."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Core Maths: one grade lower plus grade B in Core Maths. Not available if you are also taking A-level Maths. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the Core Maths qualification and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in Core Maths."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Music: one grade lower if you have (or will have) a Level 3 music performance exam at Grade 8 or above, listed on your UCAS form. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "plus an alternative offer which will be one grade lower plus the Music qualification. This alternative offer would apply if you make Birmingham your firm choice."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Sport: one grade lower if you play sport at county level or above. Firm choice only. Maximum one grade reduction overall.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who play sport at county level or above will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer is listed on the page as 'AAA or AAB (including Maths)', which doesn't match the stated 'one grade lower' rule; check the exact offer with Birmingham. Criteria: free school meals in the last six years or time in care; firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Contextual Offer ... AAA or AAB (including Maths)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you complete a Pathways to Birmingham programme (e.g. National Access Summer School, Belong at Birmingham, Access to Birmingham) and make Birmingham your firm choice.",
+          "programme": "Pathways to Birmingham",
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Students who are eligible and complete a Pathways to Birmingham programme will receive an alternative offer, which is typically two grades below the standard offer. ... Pathways to Birmingham ... ABB"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-ba",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/a23c60aa-c657-494c-986a-45c80ddb9a77"
+      },
+      "notConfirmed": [
+        "contextual offer: page lists it as 'AAA or AAB (including Maths)', which is unclear for a course with no Maths requirement",
+        "gcse: course page lists no GCSE grades; University-wide minimum recorded",
+        "entryYear: course page shows a September 2027 start; no 2028 entry page published yet",
+        "ucas: UCAS course page blocked automated reading (bot check), so it was not used as a second source"
+      ],
+      "notes": "Built around graphical and written analysis rather than advanced maths; doesn't require A-level Maths."
+    },
+    {
+      "id": "birmingham-economics-politics",
+      "name": "Economics and Politics",
+      "degree": "BSc",
+      "ucasCode": "LL12",
+      "lengthYears": 3,
+      "lengthNote": "4 years if you transfer to Economics and Politics with Placement (apply in Year 2)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB (no specific subjects required)",
+        "source": {
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-and-politics-bsc",
+          "checked": "2026-10-17",
+          "evidence": "A Level ... AAB ... IB ... 6,6,5 at Higher Level with a minimum of 32 points overall"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements; the course page lists no higher grade"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements"
+        }
+      ],
+      "gcseText": "We require literacy and numeracy skills which can normally be demonstrated if you have the following: GCSE English and GCSE mathematics (including IGCSEs), both grade 4 or above.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Use of Maths"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-and-politics-bsc",
+        "checked": "2026-10-17",
+        "evidence": "Students without A-Level Mathematics or with A-Level Mathematics grade C or below or equivalent should choose module Introduction to Mathematics for Economics. ... A level subjects excluded for entry: General Studies, Critical Thinking, and Use of Maths."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test (such as the TMUA) is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Made alongside the typical offer: one grade lower plus grade B in the EPQ. Only applies if Birmingham is your firm choice.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-and-politics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the EPQ and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in the EPQ."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Core Maths: one grade lower plus grade B in Core Maths. Not available if you are also taking A-level Maths. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-and-politics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the Core Maths qualification and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in Core Maths."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Music: one grade lower if you have (or will have) a Level 3 music performance exam at Grade 8 or above, listed on your UCAS form. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-and-politics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "plus an alternative offer which will be one grade lower plus the Music qualification. This alternative offer would apply if you make Birmingham your firm choice."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Sport: one grade lower if you play sport at county level or above. Firm choice only. Maximum one grade reduction overall.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-and-politics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who play sport at county level or above will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "University-wide scheme: typically one grade lower than the standard offer if you've had free school meals in the last six years or spent time in local authority care; firm choice only. The exact contextual offer isn't listed on this course page.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/how-we-make-offers",
+            "checked": "2026-10-17",
+            "evidence": "If you are eligible for a contextual offer, you will receive an offer that is typically one grade lower than the standard offer, which is only applicable if you make Birmingham your firm choice."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Typically two grades below the standard offer if you complete a Pathways to Birmingham programme and make Birmingham your firm choice. The exact offer isn't listed on this course page.",
+          "programme": "Pathways to Birmingham",
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/apply/how-we-make-offers",
+            "checked": "2026-10-17",
+            "evidence": "The Pathways to Birmingham offer is typically two grades below the standard offer."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/economics-and-politics-bsc",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/27b113dd-3426-ee33-f433-95fe6692fbb5"
+      },
+      "notConfirmed": [
+        "contextual and Pathways offers: not listed on this course page; University-wide rules recorded instead",
+        "yearAbroad: page mentions an option to study abroad at a partner institution but doesn't say it is a full year",
+        "gcse: course page lists no GCSE grades; University-wide minimum recorded",
+        "entryYear: course page shows a September 2027 start; no 2028 entry page published yet",
+        "ucas: UCAS course page blocked automated reading (bot check), so it was not used as a second source"
+      ],
+      "notes": "Placement: 'BSc Economics and Politics students can apply for a placement year in their second year, transitioning to the four-year Economics and Politics with Placement degree.'"
+    },
+    {
+      "id": "birmingham-ppe",
+      "name": "Politics, Philosophy and Economics",
+      "degree": "BA",
+      "ucasCode": "L0V0",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "unknown",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB (no specific subjects required)",
+        "source": {
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba",
+          "checked": "2026-10-17",
+          "evidence": "A Level ... AAB ... IB ... 6,6,5 at Higher Level, to include English with a minimum of 32 points overall"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements; the course page lists no higher grade"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements"
+        }
+      ],
+      "gcseText": "We require literacy and numeracy skills which can normally be demonstrated if you have the following: GCSE English and GCSE mathematics (including IGCSEs), both grade 4 or above.",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba",
+        "checked": "2026-10-17",
+        "evidence": "Number of A levels required: 3 ... General Studies: not accepted"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test (such as the TMUA) is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Made alongside the typical offer: one grade lower plus grade B in the EPQ. Only applies if Birmingham is your firm choice.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the EPQ and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in the EPQ."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Core Maths: one grade lower plus grade B in Core Maths. Not available if you are also taking A-level Maths. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the Core Maths qualification and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in Core Maths."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Music: one grade lower if you have (or will have) a Level 3 music performance exam at Grade 8 or above, listed on your UCAS form. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "plus an alternative offer which will be one grade lower plus the Music qualification. This alternative offer would apply if you make Birmingham your firm choice."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Sport: one grade lower if you play sport at county level or above. Firm choice only. Maximum one grade reduction overall.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who play sport at county level or above will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you meet Birmingham's contextual criteria (free school meals in the last six years, or time in local authority care). Applied automatically; firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Contextual Offer ... ABB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you complete a Pathways to Birmingham programme (e.g. National Access Summer School, Belong at Birmingham, Access to Birmingham) and make Birmingham your firm choice.",
+          "programme": "Pathways to Birmingham",
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba",
+            "checked": "2026-10-17",
+            "evidence": "Students who are eligible and complete a Pathways to Birmingham programme will receive an alternative offer, which is typically two grades below the standard offer. ... Pathways to Birmingham ... BBB"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.birmingham.ac.uk/study/undergraduate/subjects/politics-international-relations-and-development-courses/politics-philosophy-and-economics-ba",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/44fb47d6-be10-46cb-800c-cffa5410cd6c"
+      },
+      "notConfirmed": [
+        "options: page doesn't say whether a year abroad or placement year is available (it mentions 'options for placements' within the course)",
+        "gcse: course page lists no GCSE grades; University-wide minimum recorded",
+        "entryYear: course page shows a September 2027 start; no 2028 entry page published yet",
+        "ucas: UCAS course page blocked automated reading (bot check), so it was not used as a second source"
+      ],
+      "notes": null
+    },
+    {
+      "id": "birmingham-mathematical-economics-statistics",
+      "name": "Mathematical Economics and Statistics",
+      "degree": "BSc",
+      "ucasCode": "LG13",
+      "lengthYears": 3,
+      "lengthNote": "Can be extended with a placement year, a year abroad, or a Year in Artificial Intelligence and Data Science / Year in Computer Science",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including Maths, plus GCSE Maths at grade 7",
+        "source": {
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/mathematical-economics-and-statistics-bsc",
+          "checked": "2026-10-21",
+          "evidence": "A Level AAA (including Maths) ... DDD in Business or Information Technology, plus A level grade A Maths Number of A levels required: 3 GCSE: Mathematics is required at grade 7."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Maths at grade A (part of AAA)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": null
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements"
+        }
+      ],
+      "gcseText": "GCSE: Mathematics is required at grade 7.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Use of Maths"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/mathematical-economics-and-statistics-bsc",
+        "checked": "2026-10-17",
+        "evidence": "GCSE: Mathematics is required at grade 7. ... A level subjects excluded for entry: General Studies, Critical Thinking, and Use of Maths."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test (such as the TMUA) is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Made alongside the typical offer: one grade lower plus grade B in the EPQ. Only applies if Birmingham is your firm choice. Reductions aren't applied to a required subject, so Maths stays at grade A.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/mathematical-economics-and-statistics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the EPQ and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in the EPQ."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Music: one grade lower if you have (or will have) a Level 3 music performance exam at Grade 8 or above, listed on your UCAS form. Firm choice only. Reductions aren't applied to a required subject, so Maths stays at grade A.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/mathematical-economics-and-statistics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "plus an alternative offer which will be one grade lower plus the Music qualification. This alternative offer would apply if you make Birmingham your firm choice."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Sport: one grade lower if you play sport at county level or above. Firm choice only. Maximum one grade reduction overall. Reductions aren't applied to a required subject, so Maths stays at grade A.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/mathematical-economics-and-statistics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who play sport at county level or above will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "If you meet Birmingham's contextual criteria (free school meals in the last six years, or time in local authority care). Applied automatically; firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/mathematical-economics-and-statistics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Contextual Offer ... AAB (including A in Maths)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you complete a Pathways to Birmingham programme (e.g. National Access Summer School, Belong at Birmingham, Access to Birmingham) and make Birmingham your firm choice.",
+          "programme": "Pathways to Birmingham",
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/mathematical-economics-and-statistics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Students who are eligible and complete a Pathways to Birmingham programme will receive an alternative offer, which is typically two grades below the standard offer. ... ABB (including A in Maths)"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/mathematical-economics-and-statistics-bsc",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/7dcb2064-fbbd-dfaf-8d13-b455b2d82b7c"
+      },
+      "notConfirmed": [
+        "entryYear: course page shows a September 2027 start; no 2028 entry page published yet",
+        "ucas: UCAS course page blocked automated reading (bot check), so it was not used as a second source"
+      ],
+      "notes": "Contextual offer AAB and Pathways offer ABB both still need grade A in Maths."
+    },
+    {
+      "id": "birmingham-money-banking-finance",
+      "name": "Money, Banking and Finance",
+      "degree": "BSc",
+      "ucasCode": "N300",
+      "lengthYears": 3,
+      "lengthNote": "Can be extended with a placement year (Year in Industry), a year abroad, or a Year in Artificial Intelligence and Data Science / Year in Computer Science",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-finance",
+        "finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB including Mathematics",
+        "source": {
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/money-banking-and-finance-bsc",
+          "checked": "2026-10-17",
+          "evidence": "AAB including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths required (grade not specified beyond the overall AAB)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements; the course page lists no higher grade"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements"
+        }
+      ],
+      "gcseText": "We require literacy and numeracy skills which can normally be demonstrated if you have the following: GCSE English and GCSE mathematics (including IGCSEs), both grade 4 or above.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Use of Maths"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/money-banking-and-finance-bsc",
+        "checked": "2026-10-17",
+        "evidence": "AAB including Mathematics ... A level subjects excluded for entry: General Studies, Critical Thinking, and Use of Maths."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test (such as the TMUA) is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Made alongside the typical offer: one grade lower plus grade B in the EPQ. Only applies if Birmingham is your firm choice. Reductions aren't applied to a required subject, so Maths stays at grade A.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/money-banking-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the EPQ and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in the EPQ."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Music: one grade lower if you have (or will have) a Level 3 music performance exam at Grade 8 or above, listed on your UCAS form. Firm choice only. Reductions aren't applied to a required subject, so Maths stays at grade A.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/money-banking-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "plus an alternative offer which will be one grade lower plus the Music qualification. This alternative offer would apply if you make Birmingham your firm choice."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Sport: one grade lower if you play sport at county level or above. Firm choice only. Maximum one grade reduction overall. Reductions aren't applied to a required subject, so Maths stays at grade A.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/money-banking-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who play sport at county level or above will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Contextual offer is listed on the page as 'AAA or AAB (including Maths)', which is not lower than the standard AAB offer; check the exact offer with Birmingham. Criteria: free school meals in the last six years or time in care; firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/money-banking-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Contextual Offer ... AAA or AAB (including Maths)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you complete a Pathways to Birmingham programme (e.g. National Access Summer School, Belong at Birmingham, Access to Birmingham) and make Birmingham your firm choice.",
+          "programme": "Pathways to Birmingham",
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/money-banking-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Students who are eligible and complete a Pathways to Birmingham programme will receive an alternative offer, which is typically two grades below the standard offer. ... Pathways to Birmingham ... ABB"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.birmingham.ac.uk/study/undergraduate/subjects/economics-courses/money-banking-and-finance-bsc",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/7d650ea3-f49e-989d-6cfb-5c91730214f0"
+      },
+      "notConfirmed": [
+        "contextual offer: page lists 'AAA or AAB (including Maths)', which looks like a page error (standard offer is AAB)",
+        "subjectRequirements: grade needed in Maths isn't stated separately",
+        "gcse: course page lists no GCSE grades; University-wide minimum recorded",
+        "entryYear: course page shows a September 2027 start; no 2028 entry page published yet",
+        "ucas: UCAS course page blocked automated reading (bot check), so it was not used as a second source"
+      ],
+      "notes": "Bridges economic theory and financial practice."
+    },
+    {
+      "id": "birmingham-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc",
+      "ucasCode": "N400",
+      "lengthYears": 3,
+      "lengthNote": "Optional placement year; option of an international exchange period in Year 2",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA, plus GCSE Maths at grade 6",
+        "source": {
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
+          "checked": "2026-10-17",
+          "evidence": "A Level AAA. GCSE Mathematics grade 6."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements"
+        }
+      ],
+      "gcseText": "A Level AAA. GCSE Mathematics grade 6.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Use of Maths"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
+        "checked": "2026-10-17",
+        "evidence": "A level subjects excluded for entry: General Studies, Critical Thinking, and Use of Maths."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test (such as the TMUA) is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Made alongside the typical offer: one grade lower plus grade B in the EPQ. Only applies if Birmingham is your firm choice.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the EPQ and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in the EPQ."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Core Maths: one grade lower plus grade B in Core Maths. Not available if you are also taking A-level Maths. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the Core Maths qualification and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in Core Maths."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Music: one grade lower if you have (or will have) a Level 3 music performance exam at Grade 8 or above, listed on your UCAS form. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "plus an alternative offer which will be one grade lower plus the Music qualification. This alternative offer would apply if you make Birmingham your firm choice."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Sport: one grade lower if you play sport at county level or above. Firm choice only. Maximum one grade reduction overall.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who play sport at county level or above will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "If you meet Birmingham's contextual criteria (free school meals in the last six years, or time in local authority care). Applied automatically; firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Contextual Offer ... AAB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you complete a Pathways to Birmingham programme (e.g. National Access Summer School, Belong at Birmingham, Access to Birmingham) and make Birmingham your firm choice.",
+          "programme": "Pathways to Birmingham",
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Students who are eligible and complete a Pathways to Birmingham programme will receive an alternative offer, which is typically two grades below the standard offer. ... Pathways to Birmingham ... ABB"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.birmingham.ac.uk/study/undergraduate/subjects/accounting-and-finance-courses/accounting-and-finance-bsc",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/b3f75d9e-dcaf-8f5e-6555-6b6fe55878e3"
+      },
+      "notConfirmed": [
+        "yearAbroad: page mentions an international exchange period in Year 2, not a full year abroad",
+        "entryYear: course page shows a September 2027 start; no 2028 entry page published yet",
+        "ucas: UCAS course page blocked automated reading (bot check), so it was not used as a second source"
+      ],
+      "notes": "A separate BSc Accounting and Finance with Business Analytics is also offered."
+    },
+    {
+      "id": "birmingham-business-management",
+      "name": "Business Management",
+      "degree": "BSc",
+      "ucasCode": "N200",
+      "lengthYears": 3,
+      "lengthNote": "Placement available via the separate BSc Business Management with Year in Industry; can add a Year in Artificial Intelligence and Data Science / Year in Computer Science",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB, plus GCSE Maths at grade 5",
+        "source": {
+          "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+          "checked": "2026-10-17",
+          "evidence": "AAB. GCSE: Maths 5/B"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "Shown as 'Maths 5/B'"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "University-wide minimum from the general entry requirements"
+        }
+      ],
+      "gcseText": "AAB. GCSE: Maths 5/B",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking",
+        "Use of Maths"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+        "checked": "2026-10-17",
+        "evidence": "3 A Level subjects are required, excluding: General Studies, Critical Thinking, and Use of Maths."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test (such as the TMUA) is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Made alongside the typical offer: one grade lower plus grade B in the EPQ. Only applies if Birmingham is your firm choice.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the EPQ and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in the EPQ."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Core Maths: one grade lower plus grade B in Core Maths. Not available if you are also taking A-level Maths. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who take the Core Maths qualification and meet our offer criteria will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower plus a grade B in Core Maths."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Music: one grade lower if you have (or will have) a Level 3 music performance exam at Grade 8 or above, listed on your UCAS form. Firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "plus an alternative offer which will be one grade lower plus the Music qualification. This alternative offer would apply if you make Birmingham your firm choice."
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Sport: one grade lower if you play sport at county level or above. Firm choice only. Maximum one grade reduction overall.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who play sport at county level or above will be made the typical offer for their programme of choice, plus an alternative offer which will be one grade lower."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you meet Birmingham's contextual criteria (free school meals in the last six years, or time in local authority care). Applied automatically; firm choice only.",
+          "programme": null,
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Contextual Offer ... ABB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you complete a Pathways to Birmingham programme (e.g. National Access Summer School, Belong at Birmingham, Access to Birmingham) and make Birmingham your firm choice.",
+          "programme": "Pathways to Birmingham",
+          "source": {
+            "url": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Students who are eligible and complete a Pathways to Birmingham programme will receive an alternative offer, which is typically two grades below the standard offer. ... Pathways to Birmingham ... BBB"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.birmingham.ac.uk/study/undergraduate/subjects/business-and-management-courses/business-management-bsc",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/d69f4cf3-0c40-397f-85c1-e6d37db547a5"
+      },
+      "notConfirmed": [
+        "yearAbroad: not mentioned on the course page (it points to BSc International Business instead)",
+        "entryYear: course page shows a September 2027 start; no 2028 entry page published yet",
+        "ucas: UCAS course page blocked automated reading (bot check), so it was not used as a second source"
+      ],
+      "notes": "GCSE Maths grade 5 appears in the page summary but not in the detailed A-level section."
+    }
+  ],
+  "notes": [
+    "No admissions test (TMUA or other) is listed for any of these courses.",
+    "Birmingham's alternative offers (EPQ, Core Maths, music, sport, contextual, Pathways) apply only if Birmingham is your firm choice, and only one reduction is applied: 'we will only apply one reduction to your offer (i.e. these are not stackable, except for EDCAP)'.",
+    "From 2027 entry the EPQ and Core Maths alternative offers need grade B (previously grade A); reductions are not applied to a subject the offer specifically requires.",
+    "Around 10% of Birmingham's annual undergraduate intake has come through a Pathways to Birmingham programme in recent years (Birmingham widening participation page).",
+    "Pathways to Birmingham programmes need the student's school or college to be a P2B partner and a nominated teacher to support the application.",
+    "Birmingham names Realising Opportunities in its A2B rules (you can't do A2B if you've already completed RO) but doesn't publish a separate RO alternative offer on the pages checked."
+  ],
+  "notConfirmed": [
+    "entry year: all course pages show a September 2027 start; 2028 entry requirements not published yet (fees page says 2028 fees will be advised closer to the time)",
+    "contextual: offers page says 'one of three criteria' but lists only two (free school meals, care)",
+    "UCAS course pages couldn't be read (bot check), so UCAS wasn't used as a second source",
+    "accommodation: 2027/28 hall prices not published yet; 2026/27 prices recorded"
+  ]
+}

@@ -1,0 +1,1533 @@
+{
+  "id": "qmul",
+  "name": "Queen Mary University of London",
+  "shortName": "Queen Mary",
+  "aliases": [
+    "QMUL",
+    "Queen Mary",
+    "QM",
+    "Queen Mary London",
+    "Queen Mary University"
+  ],
+  "city": "London",
+  "region": "London",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.qmul.ac.uk/residences/",
+    "checked": "2026-10-17",
+    "evidence": "At Queen Mary, you can experience campus life while living in one of the most exciting cities in the world."
+  },
+  "location": {
+    "postcode": "E1 4NS",
+    "postcodeSource": "https://www.qmul.ac.uk/about/howtofindus/mileend/",
+    "lat": 51.524637,
+    "lng": -0.040683,
+    "coordsSource": "https://api.postcodes.io/postcodes/E14NS",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for Home students (2027 entry)",
+    "source": {
+      "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics/",
+      "checked": "2026-10-17",
+      "evidence": "Home fees\n£10,050"
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 176.75,
+    "amountHigh": 329.07,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "Queen Mary halls cost about £176.75–£329.07 a week for a single room (2026/27, 38.3-week contracts)",
+    "source": {
+      "url": "https://www.qmul.ac.uk/residences/college/fees/",
+      "checked": "2026-10-17",
+      "evidence": "Residential fees for 2026-27 range from £6,769.53 (£176.75 per week), to £12,603.38 (£329.07 per week) for a single room over 38.3 weeks"
+    }
+  },
+  "openDays": {
+    "events": [],
+    "text": "Next undergraduate open day: June 2027 (exact date and booking not announced yet)",
+    "url": "https://www.qmul.ac.uk/events/university-days/open-days/",
+    "source": {
+      "url": "https://www.qmul.ac.uk/events/university-days/open-days/",
+      "checked": "2026-10-17",
+      "evidence": "Our next Undergraduate Open Day is scheduled for:\nJune 2027"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Queen Mary makes standard contextual offers (up to two grades lower) and enhanced contextual offers (up to three grades lower) to Home applicants who meet one of its criteria.",
+    "typicalReduction": "Standard contextual offer: up to two grades below the standard A-level offer; enhanced contextual offer: up to three grades below",
+    "criteria": [
+      {
+        "key": "area",
+        "detail": "Live in an area of disadvantage defined using ACORN (groups M, N, P, Q, R, S or U)",
+        "measure": "ACORN",
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "Received free school meals on any day before finishing Key Stage 4 (Year 11)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "school",
+        "detail": "Your school or college is sponsored by Queen Mary (Drapers' Academy, St Paul's Way Trust School or Royal Greenwich Trust School)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "school",
+        "detail": "Your GCSE and/or A-level school or college performed below the national average over the last three years — counts only if you also live in an IMD quintile 1 or 2 area",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "area",
+        "detail": "Home postcode in IMD quintile 1 or 2 — counts only together with a below-average-performing school",
+        "measure": "IMD",
+        "quintiles": [
+          1,
+          2
+        ],
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "care",
+        "detail": "Care experienced (standard offer); care leavers get the enhanced offer",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged (aged 18–24 and not communicating with either parent)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "You have a declared disability",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "Immigration permission confirming you are a refugee, an asylum seeker, or entered via a Ukraine scheme",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Successfully completed Access to Queen Mary or Realising Opportunities (enhanced offer); Bridge the Gap and Pathways to Law count for Medicine/Dentistry and Law only",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "To be eligible you must meet one of the listed criteria (the school-performance criterion only counts together with an IMD area). Enhanced offers are for care leavers and those who complete a Queen Mary sustained/partnered access scheme. Home fee status only; A-levels, Scottish Highers and IB are eligible.",
+    "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+    "source": {
+      "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+      "checked": "2026-10-17",
+      "evidence": "Our standard contextual offer is up to a two grade reduction from our standard A-level offer"
+    }
+  },
+  "programmes": [
+    {
+      "id": "qmul-access-to-queen-mary",
+      "name": "Access to Queen Mary",
+      "provider": "Queen Mary University of London",
+      "providerType": "university",
+      "uniIds": [
+        "qmul"
+      ],
+      "summary": "An 18-month programme for Year 12 students from under-represented backgrounds, with academic tutoring, UCAS support, campus and online events and a non-residential summer school; completing it can earn an enhanced contextual offer.",
+      "whoCanApply": "Year 12 students with Home fee status who have at least five GCSEs at A*–B / 5–9 (including grade 5 in English and Maths), live in Greater London or within a 60-minute commute of the Mile End campus, and meet one priority or two standard widening participation criteria.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "care",
+        "estranged",
+        "other",
+        "firstGen",
+        "fsm",
+        "area",
+        "refugee",
+        "school",
+        "carer"
+      ],
+      "eligibilityDetail": "Must meet one priority criterion (care experience or estrangement; disability) or two standard criteria (first in family; free school meals in Years 10–11 or 16–19 Bursary; Gypsy, Roma or Traveller background; home postcode in IMD decile 1–2 or ACORN groups M, N, P, Q, R, S or U; refugee or asylum seeker; attending a Queen Mary sponsored academy; young carer). Oversubscribed places are prioritised by criteria met.",
+      "benefits": [
+        "Enhanced contextual offer at Queen Mary of up to three A-level grades below the standard entry requirement (e.g. BBB including Maths for Economics)",
+        "£500 bursary if you study at Queen Mary within two years of completing (for 20 volunteer hours) plus supported entry to the Student Ambassador scheme",
+        "UCAS and personal statement support",
+        "Subject-specific tuition",
+        "Non-residential summer school"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "qmul"
+      ],
+      "offerReduction": "Enhanced contextual offer of up to three A-level grades below the standard entry requirement",
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects (support tailored to your chosen subject area)",
+      "yearGroup": "Year 12 (runs through Year 13)",
+      "runs": {
+        "text": "18 months from Year 12 (2026/27) into Year 13",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Applications open now (as of 17 October 2026)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "13 November 2026, 23:55",
+        "date": "2026-11-13",
+        "status": "Confirmed"
+      },
+      "infoYear": 2026,
+      "infoNote": "Details for the cohort applying in autumn 2026 (current Year 12 students). Exact programme dates aren't published.",
+      "url": "https://www.qmul.ac.uk/outreach/access-programmes/access-to-queen-mary/",
+      "source": {
+        "url": "https://www.qmul.ac.uk/outreach/access-programmes/access-to-queen-mary/",
+        "checked": "2026-10-17",
+        "evidence": "Application Deadline: 13 November 2026 23:55"
+      },
+      "notConfirmed": [
+        "cost: page doesn't say whether it is free",
+        "runs: start and end dates not published"
+      ]
+    },
+    {
+      "id": "qmul-queen-mary-futures",
+      "name": "Queen Mary Futures (Economics and Finance strand)",
+      "provider": "Queen Mary University of London",
+      "providerType": "university",
+      "uniIds": [
+        "qmul"
+      ],
+      "summary": "A 4-week after-school programme at the Mile End campus for Year 12 students from under-represented backgrounds, with subject strands including Economics and Finance and Business and Management.",
+      "whoCanApply": "Year 12 students at a state-funded UK school or college with Home fee status, at least five GCSEs at 9–5 (including grade 4 in English and Maths), who meet at least one widening participation criterion; the Economics and Finance strand requires A-level Maths.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "care",
+        "estranged",
+        "other",
+        "firstGen",
+        "fsm",
+        "area",
+        "refugee",
+        "school",
+        "carer"
+      ],
+      "eligibilityDetail": "Must meet all core requirements and at least one of Queen Mary's widening participation criteria (care experience or estrangement; disability; first in family; free school meals in Years 10–11 or 16–19 Bursary; Gypsy, Roma or Traveller background; IMD decile 1–2 or ACORN M, N, P, Q, R, S or U postcode; refugee or asylum seeker; Queen Mary sponsored academy; young carer).",
+      "benefits": [
+        "Insight into studying Economics and Finance (or Business and Management) at university",
+        "Preparation for university-level study"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "day",
+      "subjects": "Economics and Finance; Business and Management (other strands available)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Thursdays 5, 12, 19 and 26 November 2026, after school (Humanities and Social Sciences strands), Mile End campus",
+        "start": "2026-11-05",
+        "end": "2026-11-26",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Applications open now (as of 17 October 2026)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "23:59 on Sunday 18 October 2026",
+        "date": "2026-10-18",
+        "status": "Confirmed"
+      },
+      "infoYear": 2026,
+      "infoNote": "These are the dates for the Autumn 2026/27 round. Its deadline (23:59 on Sunday 18 October 2026) has now passed, and when Queen Mary's page was re-read on 20 October 2026 it still showed only this round and had not announced the next one yet. The page also mentions a deadline of 'Monday 19 October' in one place; the application section says 23:59 on Sunday 18 October 2026. Popular strands may close early. The schedule doesn't print the year, but it is the Autumn 2026/27 programme.",
+      "url": "https://www.qmul.ac.uk/outreach/access-programmes/queen-mary-futures/",
+      "source": {
+        "url": "https://www.qmul.ac.uk/outreach/access-programmes/queen-mary-futures/",
+        "checked": "2026-10-20",
+        "evidence": "The deadline for applications is 23:59 on Sunday 18 October 2026."
+      },
+      "notConfirmed": [
+        "cost: not stated",
+        "whether it runs again later in 2027 isn't stated",
+        "deadline: dates for the next round aren't announced yet (page re-read on 20 October 2026 still shows only the Autumn 2026/27 round)"
+      ]
+    },
+    {
+      "id": "qmul-queen-mary-futures-online",
+      "name": "Queen Mary Futures Online",
+      "provider": "Queen Mary University of London",
+      "providerType": "university",
+      "uniIds": [
+        "qmul"
+      ],
+      "summary": "An online programme of interactive activities for Year 12 and 13 students to explore university subjects, build skills and plan future study and careers, with a certificate on completion.",
+      "whoCanApply": "Mainly Year 12 and 13 students in the UK and overseas (aged 15 or over); others welcome, with priority to Years 12 and 13 if places are limited.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Designed mainly for students in Years 12 and 13 (or equivalent) in the UK and overseas; must be aged 15 or over.",
+      "benefits": [
+        "Certificate of achievement on completion",
+        "Online subject insights from experts"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "online",
+      "subjects": "Various university subjects",
+      "yearGroup": "Year 12 and Year 13",
+      "runs": {
+        "text": "Autumn 2026/27 (online, self-paced on QMplus)",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Registration open now (as of 17 October 2026)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "23:59 on Sunday 15 November 2026",
+        "date": "2026-11-15",
+        "status": "Confirmed"
+      },
+      "infoYear": 2026,
+      "infoNote": "Autumn 2026/27 round. The page gives the deadline as 'Sunday 15th November' without a year; it's the Autumn 2026/27 registration, and 15 November 2026 is a Sunday. Completing it doesn't automatically qualify you for a contextual offer.",
+      "url": "https://www.qmul.ac.uk/outreach/access-programmes/queen-mary-futures/queen-mary-futures-online/",
+      "source": {
+        "url": "https://www.qmul.ac.uk/outreach/access-programmes/queen-mary-futures/queen-mary-futures-online/",
+        "checked": "2026-10-17",
+        "evidence": "The deadline for registrations is 23:59 on Sunday 15th November."
+      },
+      "notConfirmed": [
+        "cost: not stated",
+        "economics content: specific subjects covered aren't listed"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.qmul.ac.uk/",
+    "courses": "https://www.qmul.ac.uk/undergraduate/coursefinder/",
+    "economics": "https://www.qmul.ac.uk/study/economics-finance/",
+    "openDays": "https://www.qmul.ac.uk/events/university-days/open-days/",
+    "fees": "https://www.qmul.ac.uk/undergraduate/feesandfunding/",
+    "contextual": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+    "accommodation": "https://www.qmul.ac.uk/residences/"
+  },
+  "courses": [
+    {
+      "id": "qmul-economics",
+      "name": "Economics",
+      "degree": "BSc (Econ) (Hons)",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Year in Industry (L109) or Year Abroad (L10Y) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level, including A-level Mathematics",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics/",
+          "checked": "2026-10-17",
+          "evidence": "This must include A-Level Mathematics. Grades AAA at A-Level."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics must be one of the AAA grades"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade B or 5"
+        }
+      ],
+      "gcseText": "Both GCSE English at grade C or 4 and Maths at grade B or 5 (or an acceptable equivalent will be required.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics/",
+        "checked": "2026-10-17",
+        "evidence": "Please note that General Studies and Critical Thinking are excluded from any A-Level offer and cannot be considered."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer (ABB with A in Maths) if you meet one of Queen Mary's contextual criteria, e.g. ACORN or IMD-plus-low-performing-school area, free school meals in KS4, care experienced, estranged, declared disability, refugee/asylum seeker (Home fee status only)",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics/",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer: ABB with A in Maths at A-Level."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you are a care leaver",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics/",
+            "checked": "2026-10-17",
+            "evidence": "Our enhanced contextual offer: BBB including Maths at A-Level."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you successfully complete the Access to Queen Mary programme",
+          "programme": "Access to Queen Mary",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Access to Queen Mary programme."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you complete the Realising Opportunities programme (at any institution)",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Realising Opportunities programme at any institution."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Alternative (dual) offers may be made if you're taking the EPQ alongside three A-levels and are predicted an A in it (Home fee status only). The course page doesn't give the EPQ grades; Queen Mary's example is ABB or BBB plus A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers may be made to applicants taking the Extended Project Qualification."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Queen Mary hasn't published 2028-entry course pages yet (2028 URL not found), so 2027 entry is used",
+        "alternativeOffers: exact EPQ offer grades for this course aren't published"
+      ],
+      "notes": "Integrated Foundation Year versions are for international students only (Home students are considered for the 3- or 4-year degree)."
+    },
+    {
+      "id": "qmul-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BSc (Econ) (Hons)",
+      "ucasCode": "LN13",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Year in Industry (L1N3) or Year Abroad (LN3Y) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level, including A-level Mathematics",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-finance/",
+          "checked": "2026-10-17",
+          "evidence": "Grades AAA at A-Level. This must include A-Level Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics must be one of the AAA grades"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade B or 5"
+        }
+      ],
+      "gcseText": "Both GCSE English at grade C or 4 and Maths at grade B or 5 (or an acceptable equivalent will be required.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-finance/",
+        "checked": "2026-10-17",
+        "evidence": "Please note that General Studies and Critical Thinking are excluded from any A-Level offer and cannot be considered."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-finance/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer (ABB with A in Maths) if you meet one of Queen Mary's contextual criteria, e.g. ACORN or IMD-plus-low-performing-school area, free school meals in KS4, care experienced, estranged, declared disability, refugee/asylum seeker (Home fee status only)",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer: ABB with A in Maths at A-Level."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you are a care leaver",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Our enhanced contextual offer: BBB including Maths at A-Level."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you successfully complete the Access to Queen Mary programme",
+          "programme": "Access to Queen Mary",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Access to Queen Mary programme."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you complete the Realising Opportunities programme (at any institution)",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Realising Opportunities programme at any institution."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Alternative (dual) offers may be made if you're taking the EPQ alongside three A-levels and are predicted an A in it (Home fee status only). The course page doesn't give the EPQ grades; Queen Mary's example is ABB or BBB plus A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers may be made to applicants taking the Extended Project Qualification."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Queen Mary hasn't published 2028-entry course pages yet (2028 URL not found), so 2027 entry is used",
+        "alternativeOffers: exact EPQ offer grades for this course aren't published"
+      ],
+      "notes": "Integrated Foundation Year versions are for international students only (Home students are considered for the 3- or 4-year degree)."
+    },
+    {
+      "id": "qmul-economics-politics",
+      "name": "Economics and Politics",
+      "degree": "BSc (Econ) (Hons)",
+      "ucasCode": "LL12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Year in Industry (LL19) or Year Abroad (LL2Y) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level, including A-level Mathematics",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-politics/",
+          "checked": "2026-10-17",
+          "evidence": "Grades AAA at A-Level. This must include A-Level Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics must be one of the AAA grades"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade B or 5"
+        }
+      ],
+      "gcseText": "Both GCSE English at grade C or 4 and Maths at grade B or 5 (or an acceptable equivalent will be required.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-politics/",
+        "checked": "2026-10-17",
+        "evidence": "Please note that General Studies and Critical Thinking are excluded from any A-Level offer and cannot be considered."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-politics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer (ABB with A in Maths) if you meet one of Queen Mary's contextual criteria, e.g. ACORN or IMD-plus-low-performing-school area, free school meals in KS4, care experienced, estranged, declared disability, refugee/asylum seeker (Home fee status only)",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-politics/",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer: ABB with A in Maths at A-Level."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you are a care leaver",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-politics/",
+            "checked": "2026-10-17",
+            "evidence": "Our enhanced contextual offer: BBB including Maths at A-Level."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you successfully complete the Access to Queen Mary programme",
+          "programme": "Access to Queen Mary",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Access to Queen Mary programme."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you complete the Realising Opportunities programme (at any institution)",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Realising Opportunities programme at any institution."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Alternative (dual) offers may be made if you're taking the EPQ alongside three A-levels and are predicted an A in it (Home fee status only). The course page doesn't give the EPQ grades; Queen Mary's example is ABB or BBB plus A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-politics/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers may be made to applicants taking the Extended Project Qualification."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-and-politics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Queen Mary hasn't published 2028-entry course pages yet (2028 URL not found), so 2027 entry is used",
+        "alternativeOffers: exact EPQ offer grades for this course aren't published"
+      ],
+      "notes": "Integrated Foundation Year versions are for international students only (Home students are considered for the 3- or 4-year degree)."
+    },
+    {
+      "id": "qmul-economics-statistics-mathematics",
+      "name": "Economics, Statistics and Mathematics",
+      "degree": "BSc (Econ) (Hons)",
+      "ucasCode": "LG11",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Year in Industry (LG19) or Year Abroad (LG1Y) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level, including A-level Mathematics",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-statistics-and-mathematics/",
+          "checked": "2026-10-17",
+          "evidence": "Grades AAA at A-Level. This must include A-Level Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics must be one of the AAA grades"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade B or 5"
+        }
+      ],
+      "gcseText": "Both GCSE English at grade C or 4 and Maths at grade B or 5 (or an acceptable equivalent will be required.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-statistics-and-mathematics/",
+        "checked": "2026-10-17",
+        "evidence": "Please note that General Studies and Critical Thinking are excluded from any A-Level offer and cannot be considered."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-statistics-and-mathematics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer (ABB with A in Maths) if you meet one of Queen Mary's contextual criteria, e.g. ACORN or IMD-plus-low-performing-school area, free school meals in KS4, care experienced, estranged, declared disability, refugee/asylum seeker (Home fee status only)",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-statistics-and-mathematics/",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer: ABB with A in Maths at A-Level."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you are a care leaver",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-statistics-and-mathematics/",
+            "checked": "2026-10-17",
+            "evidence": "Our enhanced contextual offer: BBB including Maths at A-Level."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you successfully complete the Access to Queen Mary programme",
+          "programme": "Access to Queen Mary",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Access to Queen Mary programme."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you complete the Realising Opportunities programme (at any institution)",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Realising Opportunities programme at any institution."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Alternative (dual) offers may be made if you're taking the EPQ alongside three A-levels and are predicted an A in it (Home fee status only). The course page doesn't give the EPQ grades; Queen Mary's example is ABB or BBB plus A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-statistics-and-mathematics/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers may be made to applicants taking the Extended Project Qualification."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-statistics-and-mathematics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Queen Mary hasn't published 2028-entry course pages yet (2028 URL not found), so 2027 entry is used",
+        "alternativeOffers: exact EPQ offer grades for this course aren't published"
+      ],
+      "notes": "Integrated Foundation Year versions are for international students only (Home students are considered for the 3- or 4-year degree). Further Maths isn't mentioned in the entry requirements."
+    },
+    {
+      "id": "qmul-economics-finance-management",
+      "name": "Economics, Finance and Management",
+      "degree": "BSc (Econ) (Hons)",
+      "ucasCode": "LN12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Year in Industry (LN19) or Year Abroad (LN2Y) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-management",
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level, including A-level Mathematics",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-finance-and-management/",
+          "checked": "2026-10-17",
+          "evidence": "Grades AAA at A-Level. This must include A-Level Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics must be one of the AAA grades"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade B or 5"
+        }
+      ],
+      "gcseText": "Both GCSE English at grade C or 4 and Maths at grade B or 5 (or an acceptable equivalent will be required.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-finance-and-management/",
+        "checked": "2026-10-17",
+        "evidence": "Please note that General Studies and Critical Thinking are excluded from any A-Level offer and cannot be considered."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-finance-and-management/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer (ABB with A in Maths) if you meet one of Queen Mary's contextual criteria, e.g. ACORN or IMD-plus-low-performing-school area, free school meals in KS4, care experienced, estranged, declared disability, refugee/asylum seeker (Home fee status only)",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-finance-and-management/",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer: ABB with A in Maths at A-Level."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you are a care leaver",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-finance-and-management/",
+            "checked": "2026-10-17",
+            "evidence": "Our enhanced contextual offer: BBB including Maths at A-Level."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you successfully complete the Access to Queen Mary programme",
+          "programme": "Access to Queen Mary",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Access to Queen Mary programme."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you complete the Realising Opportunities programme (at any institution)",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Realising Opportunities programme at any institution."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Alternative (dual) offers may be made if you're taking the EPQ alongside three A-levels and are predicted an A in it (Home fee status only). The course page doesn't give the EPQ grades; Queen Mary's example is ABB or BBB plus A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-finance-and-management/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers may be made to applicants taking the Extended Project Qualification."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/economics-finance-and-management/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Queen Mary hasn't published 2028-entry course pages yet (2028 URL not found), so 2027 entry is used",
+        "alternativeOffers: exact EPQ offer grades for this course aren't published"
+      ],
+      "notes": "Integrated Foundation Year versions are for international students only (Home students are considered for the 3- or 4-year degree)."
+    },
+    {
+      "id": "qmul-finance",
+      "name": "Finance",
+      "degree": "BSc (Econ) (Hons)",
+      "ucasCode": "L10D",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Year in Industry (L10B) or Year Abroad (L10C) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level, including A-level Mathematics",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/finance/",
+          "checked": "2026-10-17",
+          "evidence": "Grades AAA at A-Level. This must include A-Level Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics must be one of the AAA grades"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade B or 5"
+        }
+      ],
+      "gcseText": "Both GCSE English at grade C or 4 and Maths at grade B or 5 (or an acceptable equivalent will be required.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/finance/",
+        "checked": "2026-10-17",
+        "evidence": "Please note that General Studies and Critical Thinking are excluded from any A-Level offer and cannot be considered."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/finance/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer (ABB with A in Maths) if you meet one of Queen Mary's contextual criteria, e.g. ACORN or IMD-plus-low-performing-school area, free school meals in KS4, care experienced, estranged, declared disability, refugee/asylum seeker (Home fee status only)",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/finance/",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer: ABB with A in Maths at A-Level."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you are a care leaver",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/finance/",
+            "checked": "2026-10-17",
+            "evidence": "Our enhanced contextual offer: BBB including Maths at A-Level."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you successfully complete the Access to Queen Mary programme",
+          "programme": "Access to Queen Mary",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Access to Queen Mary programme."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB including Maths) if you complete the Realising Opportunities programme (at any institution)",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Realising Opportunities programme at any institution."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Alternative (dual) offers may be made if you're taking the EPQ alongside three A-levels and are predicted an A in it (Home fee status only). The course page doesn't give the EPQ grades; Queen Mary's example is ABB or BBB plus A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/finance/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers may be made to applicants taking the Extended Project Qualification."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Queen Mary hasn't published 2028-entry course pages yet (2028 URL not found), so 2027 entry is used",
+        "alternativeOffers: exact EPQ offer grades for this course aren't published"
+      ],
+      "notes": "Integrated Foundation Year versions are for international students only (Home students are considered for the 3- or 4-year degree)."
+    },
+    {
+      "id": "qmul-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "N400",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Year in Industry (N402) or Year Abroad (N404) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/accounting-and-finance/",
+          "checked": "2026-10-17",
+          "evidence": "Grades AAA at A-Level."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "grade A or 7"
+        }
+      ],
+      "gcseText": "Both GCSE English at grade C or 4 and Maths at grade A or 7 (or an acceptable equivalent will be required.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/accounting-and-finance/",
+        "checked": "2026-10-17",
+        "evidence": "Please note that General Studies and Critical Thinking are excluded from any A-Level offer and cannot be considered."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/accounting-and-finance/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer (ABB) if you meet one of Queen Mary's contextual criteria, e.g. ACORN or IMD-plus-low-performing-school area, free school meals in KS4, care experienced, estranged, declared disability, refugee/asylum seeker (Home fee status only)",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/accounting-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer: ABB at A-Level."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB) if you are a care leaver",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/accounting-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Our enhanced contextual offer: BBB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB) if you successfully complete the Access to Queen Mary programme",
+          "programme": "Access to Queen Mary",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Access to Queen Mary programme."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB) if you complete the Realising Opportunities programme (at any institution)",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Realising Opportunities programme at any institution."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Alternative (dual) offers may be made if you're taking the EPQ alongside three A-levels and are predicted an A in it (Home fee status only). The course page doesn't give the EPQ grades; Queen Mary's example is ABB or BBB plus A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/accounting-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers may be made to applicants taking the Extended Project Qualification."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/accounting-and-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Queen Mary hasn't published 2028-entry course pages yet (2028 URL not found), so 2027 entry is used",
+        "alternativeOffers: exact EPQ offer grades for this course aren't published"
+      ],
+      "notes": "No A-level subject requirement, but GCSE Maths grade 7 (A) is needed. The Integrated Foundation Year version is for international students."
+    },
+    {
+      "id": "qmul-business-management",
+      "name": "Business Management",
+      "degree": "BSc (Hons)",
+      "ucasCode": "NN12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Year in Industry (NN16) or Year Abroad (NN17) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/business-management/",
+          "checked": "2026-10-17",
+          "evidence": "Grades AAA at A-Level."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        }
+      ],
+      "gcseText": "Both GCSE English and Maths at grade C or 4 or an acceptable equivalent will be required.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/business-management/",
+        "checked": "2026-10-17",
+        "evidence": "Please note that General Studies and Critical Thinking are excluded from any A-Level offer and cannot be considered."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/business-management/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Standard contextual offer (ABB) if you meet one of Queen Mary's contextual criteria, e.g. ACORN or IMD-plus-low-performing-school area, free school meals in KS4, care experienced, estranged, declared disability, refugee/asylum seeker (Home fee status only)",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/business-management/",
+            "checked": "2026-10-17",
+            "evidence": "Our standard contextual offer: ABB at A-Level."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB) if you are a care leaver",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/business-management/",
+            "checked": "2026-10-17",
+            "evidence": "Our enhanced contextual offer: BBB"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB) if you successfully complete the Access to Queen Mary programme",
+          "programme": "Access to Queen Mary",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Access to Queen Mary programme."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Enhanced contextual offer (BBB) if you complete the Realising Opportunities programme (at any institution)",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/apply/entry/contextualised-admissions/",
+            "checked": "2026-10-17",
+            "evidence": "You have completed the Realising Opportunities programme at any institution."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Alternative (dual) offers may be made if you're taking the EPQ alongside three A-levels and are predicted an A in it (Home fee status only). The course page doesn't give the EPQ grades; Queen Mary's example is ABB or BBB plus A in the EPQ.",
+          "programme": null,
+          "source": {
+            "url": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/business-management/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers may be made to applicants taking the Extended Project Qualification."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.qmul.ac.uk/undergraduate/coursefinder/courses/2027/business-management/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Queen Mary hasn't published 2028-entry course pages yet (2028 URL not found), so 2027 entry is used",
+        "alternativeOffers: exact EPQ offer grades for this course aren't published"
+      ],
+      "notes": "No A-level subject requirement. The Integrated Foundation Year version is for international students only."
+    }
+  ],
+  "notes": [
+    "All Economics-family courses (School of Economics and Finance) ask for AAA including A-level Maths; Business Management and Accounting and Finance ask for AAA with no required subject.",
+    "Completing Realising Opportunities (a national programme) at any institution makes you eligible for Queen Mary's enhanced contextual offer.",
+    "Queen Mary Business School is getting a new building near Mile End station in 2027 (stated on the Business Management and Accounting and Finance pages).",
+    "No 2028-entry pages yet; all course facts are for 2027 entry."
+  ],
+  "notConfirmed": [
+    "2028 entry: not published yet; 2027 entry used for all courses",
+    "openDays: exact June 2027 open day date not announced",
+    "competition: Queen Mary doesn't publish offer rates or applications per place on its course pages"
+  ]
+}

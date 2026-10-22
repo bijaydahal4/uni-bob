@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22355C"/>
+      <stop offset="1" stop-color="#1B2A4A"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <g transform="translate(256 238)">
+    <path d="M-150 -18 0 -86 150 -18 0 50Z" fill="#FFFFFF"/>
+    <path d="M-88 14v64c0 22 40 48 88 48s88-26 88-48V14L0 54Z" fill="#F2A7C1"/>
+    <path d="M150 -18v86" stroke="#F2A7C1" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="150" cy="78" r="14" fill="#F2A7C1"/>
+  </g>
+  <text x="256" y="430" text-anchor="middle" font-family="-apple-system, system-ui, Helvetica Neue, sans-serif" font-size="72" font-weight="700" letter-spacing="2" fill="#FFFFFF">UB</text>
+</svg>

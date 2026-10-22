@@ -1,0 +1,1224 @@
+{
+  "id": "durham",
+  "name": "Durham University",
+  "shortName": "Durham",
+  "aliases": [
+    "Durham",
+    "Durham Uni",
+    "DU",
+    "Durham Business School",
+    "DUBS"
+  ],
+  "city": "Durham",
+  "region": "North",
+  "country": "England",
+  "setting": "mixed",
+  "settingEvidence": {
+    "url": "https://www.durham.ac.uk/business/courses/economics-l130/",
+    "checked": "2026-10-17",
+    "evidence": "You’ll be taught across the University campus by world leading academics from the Business School. The University campus is within walking distance of the historic centre of Durham"
+  },
+  "location": {
+    "postcode": "DH1 3LB",
+    "postcodeSource": "https://www.durham.ac.uk/business/contact-us/",
+    "lat": 54.764487,
+    "lng": -1.586174,
+    "coordsSource": "https://api.postcodes.io/postcodes/DH13LB",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for Home students starting in 2027/28 (subject to parliamentary approval)",
+    "source": {
+      "url": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+      "checked": "2026-10-17",
+      "evidence": "The tuition fee level for home students starting their course in 2026/27 is £9,790. This tuition fee will increase to £10,050 in 2027/28. Please note that these figures remain subject to parliamentary approval."
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 6597,
+    "amountHigh": 12020,
+    "period": "year",
+    "academicYear": "2026/27",
+    "text": "College rooms for new undergraduates cost about £6,597 (self-catered) to £12,020 (catered) for a 39-week let in 2026/27; catered prices include a £3,213.57 catering charge",
+    "source": {
+      "url": "https://www.durham.ac.uk/colleges-and-student-experience/accommodation-and-catering/residence-charges/undergraduate-residence-charges/",
+      "checked": "2026-10-17",
+      "evidence": "New Undergraduate Residence Charges 2026/27 ... New undergraduate accommodation offers, with limited exceptions, cover a 39-week period from 26 September to 26 June. ... £6,596.85 ... £12,020.43"
+    }
+  },
+  "openDays": {
+    "events": [],
+    "text": "The last 2026 open days were on 18–19 September 2026; 2027 open day dates have not been announced yet",
+    "url": "https://www.durham.ac.uk/visit-us/open-days/undergraduate/",
+    "source": {
+      "url": "https://www.durham.ac.uk/visit-us/open-days/undergraduate/",
+      "checked": "2026-10-17",
+      "evidence": "Join us for final set of Open Days in 2026, taking place on Friday 18th September and Saturday 19th September."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Durham makes a reduced contextual offer (shown on each course page) to Home-fee applicants who were eligible for free school meals, or who meet two or more of its other criteria.",
+    "typicalReduction": null,
+    "criteria": [
+      {
+        "key": "fsm",
+        "detail": "Have been eligible for free school meals (regardless of school type); checked using UCAS-matched government data, not the UCAS self-declared answer",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Home postcode is TUNDRA LSOA quintile 1 or 2 and/or TUNDRA MSOA quintile 1 or 2",
+        "measure": "TUNDRA",
+        "quintiles": [
+          1,
+          2
+        ],
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "area",
+        "detail": "Home postcode is classified as Censation Affluence level E",
+        "measure": "other",
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "school",
+        "detail": "Current or most recently attended school is a UK state school (not those at an independent school on a scholarship)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "care",
+        "detail": "Care-experienced (care givers are not included)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged student",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": false
+      }
+    ],
+    "minCriteria": 2,
+    "rulesText": "You may be made a contextual offer if you’ve been eligible for free school meals, or if you meet two (or more) of: TUNDRA quintile 1–2 postcode, Censation Affluence level E postcode, UK state school, care-experienced, estranged. Only for Home-fee applicants; use your home address on UCAS and apply by the UCAS equal consideration date. Not available through Clearing.",
+    "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/contextual-offers/",
+    "source": {
+      "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/contextual-offers/",
+      "checked": "2026-10-17",
+      "evidence": "you've been eligible for free school meals (regardless of school type). ... or you meet two (or more) of the following criteria: ... Your home address postcode is classified as TUNDRA LSOA Quintile 1 or 2 and/or TUNDRA MSOA Quintile 1 or 2"
+    }
+  },
+  "programmes": [
+    {
+      "id": "durham-destination-durham",
+      "name": "Destination Durham",
+      "provider": "Durham University",
+      "providerType": "university",
+      "uniIds": [
+        "durham"
+      ],
+      "summary": "Non-residential access programme for Year 12 and 13 students from the North East, with several campus, department and college visits and an assessed project in a subject of your choice.",
+      "whoCanApply": "Year 12 students based in the North East of England at a state school or college, from neighbourhoods with low progression to higher education or high deprivation, with a GCSE score of at least 48 from their top 8 GCSEs (including English Language and Maths).",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other",
+        "school",
+        "area",
+        "care",
+        "estranged",
+        "fsm",
+        "firstGen"
+      ],
+      "eligibilityDetail": "Essential: in Year 12 and based in the North East of England; at a state school or college; lived in the UK for at least three years; UK national or settled status; studying subjects related to the chosen subject stream; from a neighbourhood with low progression to higher education or high deprivation (TUNDRA MSOA/LSOA quintiles 1–2 prioritised; ACORN groups N–U considered); total GCSE score of at least 48 from top 8 GCSEs including English Language and Maths. May prioritise: care-experienced, estranged, free school meals, first generation to university.",
+      "benefits": [
+        "Guaranteed alternative offer from Durham, typically two A-level grades below the standard offer, on successful completion (subject requirements apply; Economics needs A-level Maths)",
+        "Several visits to campus, departments and colleges",
+        "Assessed project in a subject of your choice"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "durham"
+      ],
+      "offerReduction": "Typically two A-level grades below the standard entry requirements for the degree",
+      "cost": null,
+      "isFree": null,
+      "format": "day",
+      "subjects": "Range of subject strands, including Economics and Finance, Business and Accounting",
+      "yearGroup": "Year 12 (continues into Year 13)",
+      "runs": {
+        "text": "Through Year 12 and Year 13 (exact dates not published)",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "Expected January 2027 (2026 applications opened on Monday 12 January 2026)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Expected March 2027 (2026 applications closed on Friday 20 March 2026)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2026 programme. 2027 application dates not announced yet; expected dates are based on the 2026 dates.",
+      "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/destination-durham/",
+      "source": {
+        "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/destination-durham/destination-durham-eligibility-and-selection-criteria/",
+        "checked": "2026-10-17",
+        "evidence": "Be in Year 12 and be based in the North East of England.1 ... Have achieved a total GCSE score of at least 48 from your top 8 GCSEs, this must include English Language and Mathematics."
+      },
+      "notConfirmed": [
+        "cost: page doesn't say whether it is free",
+        "runs: programme dates not published"
+      ]
+    },
+    {
+      "id": "durham-step",
+      "name": "Space to Explore Potential (STEP)",
+      "provider": "Durham University",
+      "providerType": "university",
+      "uniIds": [
+        "durham"
+      ],
+      "summary": "Residential summer school for Year 12 Black heritage students: stay in a Durham college, take academic sessions and complete an assessed project in your chosen subject.",
+      "whoCanApply": "Year 12 Black heritage students at a state school or college, living in the UK for at least three years, from neighbourhoods with low progression to higher education or high deprivation, with a GCSE score of at least 48 from their top 8 GCSEs (including English Language and Maths).",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other",
+        "school",
+        "area",
+        "care",
+        "estranged",
+        "fsm",
+        "firstGen"
+      ],
+      "eligibilityDetail": "Essential: Black heritage/descent; in Year 12 at a state school or college; lived in the UK for at least three years; UK national or settled status; studying subjects related to the chosen stream; from a neighbourhood with low progression to higher education or high deprivation (TUNDRA MSOA/LSOA quintiles 1–2 prioritised; ACORN groups N–U considered); total GCSE score of at least 48 from top 8 GCSEs including English Language and Maths. May prioritise: care-experienced, estranged, free school meals, first generation to university.",
+      "benefits": [
+        "A guaranteed, alternative offer at Durham (typically two A-level grades below the standard offer; subject-specific eligibility criteria apply)",
+        "Stay in a Durham college",
+        "University-level academic subject sessions and an assessed project",
+        "Application advice and support from student ambassadors"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "durham"
+      ],
+      "offerReduction": "Typically two A-level grades below the standard entry requirements for the degree",
+      "cost": null,
+      "isFree": null,
+      "format": "residential",
+      "subjects": "Range of subject strands",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Summer (dates not published)",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "Applications are not yet open for 2027",
+        "date": null,
+        "status": null
+      },
+      "deadline": {
+        "text": null,
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2027,
+      "infoNote": "The page says applications are not yet open for 2027; no dates published yet.",
+      "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/step/",
+      "source": {
+        "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/step/",
+        "checked": "2026-10-17",
+        "evidence": "STEP is a residential programme specifically for Black heritage students from across England who meet our widening participation criteria ... Applications are not yet open for 2027"
+      },
+      "notConfirmed": [
+        "cost: page doesn't say whether it is free",
+        "runs/opens/deadline: 2027 dates not published",
+        "subjects: list of STEP subject strands not confirmed"
+      ]
+    },
+    {
+      "id": "durham-asian-access",
+      "name": "Asian Access",
+      "provider": "Durham University",
+      "providerType": "university",
+      "uniIds": [
+        "durham"
+      ],
+      "summary": "Residential access programme for Year 12 students of Asian heritage from neighbourhoods with low progression to higher education or high deprivation.",
+      "whoCanApply": "Year 12 students of Asian heritage at a state school or college, living in the UK for at least three years, from neighbourhoods with low progression to higher education or high deprivation, with a GCSE score of at least 48 from their top 8 GCSEs (including English Language and Maths).",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other",
+        "school",
+        "area",
+        "care",
+        "estranged",
+        "fsm",
+        "firstGen"
+      ],
+      "eligibilityDetail": "Essential: from a neighbourhood with low progression to higher education or high deprivation (TUNDRA MSOA/LSOA quintiles 1–2 prioritised; ACORN groups N–U considered); Asian heritage/descent; in Year 12 at a state school or college; lived in the UK for at least three years; UK national or settled status; studying subjects related to the chosen stream; total GCSE score of at least 48 from top 8 GCSEs including English Language and Maths. May prioritise: care-experienced, estranged, free school meals, first generation to university.",
+      "benefits": [
+        "Contextual (guaranteed alternative) offer from Durham on successful completion, typically two A-level grades below the standard offer (subject requirements apply)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "durham"
+      ],
+      "offerReduction": "Typically two A-level grades below the standard entry requirements for the degree",
+      "cost": null,
+      "isFree": null,
+      "format": "residential",
+      "subjects": "Range of subject strands",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Dates not published",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": null,
+        "date": null,
+        "status": null
+      },
+      "deadline": {
+        "text": "Expected April 2027 (2026 applications closed on Sunday 19 April 2026)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2026 programme. 2027 dates not announced yet; expected deadline is based on the 2026 closing date.",
+      "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/asian-access/",
+      "source": {
+        "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/asian-access/",
+        "checked": "2026-10-17",
+        "evidence": "Asian Access is a new residential programme ... Applications for Asian Access closed on Sunday 19 April 2026."
+      },
+      "notConfirmed": [
+        "cost: page doesn't say whether it is free",
+        "runs: programme dates not published",
+        "opens: 2026 opening date not shown"
+      ]
+    },
+    {
+      "id": "durham-global-futures",
+      "name": "Global Futures Pre-University Summer School",
+      "provider": "Durham University",
+      "providerType": "university",
+      "uniIds": [
+        "durham"
+      ],
+      "summary": "Paid 10-day residential summer school where 16–17 year olds live in a Durham college and follow a 24-hour academic pathway (Arts and Humanities, Science or Social Sciences).",
+      "whoCanApply": "Students aged 16–17 for the whole programme who are doing well in their studies (minimum B2 English); applications are made by a parent, guardian or carer, with a short personal statement and a teacher recommendation.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Must be aged 16–17 for the full duration; performing well in current studies; minimum B2 level English. Places are limited and the aim is a diverse international cohort.",
+      "benefits": [
+        "24 hours of university-level teaching in your chosen pathway",
+        "Nine nights in en-suite college accommodation with all meals",
+        "Trips and social activities",
+        "Durham University certificate of attendance"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "£5,000 (10% early-bird discount if the full fee is paid by Friday 8 January 2027; £500 deposit on application)",
+      "isFree": false,
+      "format": "residential",
+      "subjects": "Social Sciences pathway (Anthropology, Archaeology, Education, Geography, Government and International Affairs, Law, Sociology, Sport and Exercise Sciences); also Arts and Humanities or Science pathways",
+      "yearGroup": "Aged 16–17",
+      "runs": {
+        "text": "12–21 July 2027",
+        "start": "2027-07-12",
+        "end": "2027-07-21",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Applications open now",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "No closing date published; early-bird discount if the full fee is paid by Friday 8 January 2027",
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2027,
+      "infoNote": null,
+      "url": "https://www.durham.ac.uk/departments/academic/education/cpd/global-futures-summer-school/",
+      "source": {
+        "url": "https://www.durham.ac.uk/departments/academic/education/cpd/global-futures-summer-school/gfss-application-information/",
+        "checked": "2026-10-17",
+        "evidence": "The Global Futures Summer School will take place at Durham University from 12–21 July 2027. ... The student must be aged 16–17 for the full duration of the programme. ... The Global Futures Summer School 2027 programme fee is £5,000."
+      },
+      "notConfirmed": [
+        "deadline: no application closing date published",
+        "subjects: no Economics-specific session listed"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.durham.ac.uk/",
+    "courses": "https://www.durham.ac.uk/study/courses/",
+    "economics": "https://www.durham.ac.uk/business/about/departments/economics/",
+    "openDays": "https://www.durham.ac.uk/visit-us/open-days/undergraduate/",
+    "fees": "https://www.durham.ac.uk/study/undergraduate/fees-and-funding/tuition-fees/",
+    "contextual": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/what-happens-to-your-application/contextual-offers/",
+    "accommodation": "https://www.durham.ac.uk/colleges-and-student-experience/accommodation-and-catering/residence-charges/undergraduate-residence-charges/"
+  },
+  "courses": [
+    {
+      "id": "durham-economics",
+      "name": "Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L130",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (L131) or study abroad (L132)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including Mathematics; you don't need to have studied Economics at A-level",
+        "source": {
+          "url": "https://www.durham.ac.uk/business/courses/economics-l130/",
+          "checked": "2026-10-21",
+          "evidence": "A*AA including Mathematics. You do not need to have studied Economics at A-Level to apply for this programme. ... ABB including a grade A from A Level Mathematics ... D*DD and Mathematics A level at grade A (or equivalent) is required."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Maths required as part of A*AA (the page doesn't say Maths must be the A*)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives & Research"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.dur.ac.uk/study/undergraduate/how-to-apply/entry-requirements/uk-students/",
+        "checked": "2026-10-17",
+        "evidence": "Our offers are usually based on the grades you achieve from your best three A levels, with grades ranging from A*A*A to BBB, but we don’t accept General Studies or Global Perspectives & Research."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test for this course",
+        "source": {
+          "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/entry-requirements/",
+          "checked": "2026-10-17",
+          "evidence": "For most undergraduate courses at Durham, you won’t need to sit an additional test as part of the selection process. For courses in Law and Mathematics however, you are strongly encouraged to sit the subject specific test"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Including grade A in A-level Maths, if you meet Durham's contextual criteria",
+          "programme": null,
+          "source": {
+            "url": "https://www.durham.ac.uk/business/courses/economics-l130/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ABB including a grade A from A Level Mathematics"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed alternative offer, typically two A-level grades below the standard offer, if you successfully complete Destination Durham, STEP, the Sutton Trust Summer School at Durham or Asian Access (A-levels must include Maths for Economics)",
+          "programme": "Destination Durham; Space to Explore Potential (STEP); Sutton Trust Summer School; Asian Access",
+          "source": {
+            "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/subject-requirements-access-programmes/",
+            "checked": "2026-10-17",
+            "evidence": "The guaranteed alternative offer is typically two A-level grades below the standard entry requirements for that degree programme. ... Economics: A levels must include Maths for this subject."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.durham.ac.uk/business/courses/economics-l130/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: course page doesn't list GCSE requirements",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "The older page address (economics-l100) now shows course code L130 for 2027 entry. Economics with Foundation (L123) leads into this degree."
+    },
+    {
+      "id": "durham-economics-management",
+      "name": "Economics with Management",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L133",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a placement year (L134) or study abroad (L135)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including Mathematics; you don't need to have studied Economics at A-level",
+        "source": {
+          "url": "https://www.durham.ac.uk/business/courses/economics-with-management-l133/",
+          "checked": "2026-10-21",
+          "evidence": "A*AA including Mathematics. You do not need to have studied Economics at A-Level to apply for this programme. ... ABB a grade A from A Level Mathematics ... D*DD and Mathematics A level at grade A (or equivalent) is required."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Maths required as part of A*AA (the page doesn't say Maths must be the A*)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives & Research"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.dur.ac.uk/study/undergraduate/how-to-apply/entry-requirements/uk-students/",
+        "checked": "2026-10-17",
+        "evidence": "Our offers are usually based on the grades you achieve from your best three A levels, with grades ranging from A*A*A to BBB, but we don’t accept General Studies or Global Perspectives & Research."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test for this course",
+        "source": {
+          "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/entry-requirements/",
+          "checked": "2026-10-17",
+          "evidence": "For most undergraduate courses at Durham, you won’t need to sit an additional test as part of the selection process. For courses in Law and Mathematics however, you are strongly encouraged to sit the subject specific test"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Including grade A in A-level Maths, if you meet Durham's contextual criteria",
+          "programme": null,
+          "source": {
+            "url": "https://www.durham.ac.uk/business/courses/economics-with-management-l133/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ABB a grade A from A Level Mathematics"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed alternative offer, typically two A-level grades below the standard offer, if you successfully complete Destination Durham, STEP, the Sutton Trust Summer School at Durham or Asian Access (A-levels must include Maths for Economics)",
+          "programme": "Destination Durham; Space to Explore Potential (STEP); Sutton Trust Summer School; Asian Access",
+          "source": {
+            "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/subject-requirements-access-programmes/",
+            "checked": "2026-10-17",
+            "evidence": "The guaranteed alternative offer is typically two A-level grades below the standard entry requirements for that degree programme. ... Economics: A levels must include Maths for this subject."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.durham.ac.uk/business/courses/economics-with-management-l133/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: course page doesn't list GCSE requirements",
+        "foundationYear: no 'with Foundation' version of this course seen",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": null
+    },
+    {
+      "id": "durham-economics-politics",
+      "name": "Economics and Politics",
+      "degree": "BA (Hons)",
+      "ucasCode": "LL12",
+      "lengthYears": 3,
+      "lengthNote": "4 years if you add a placement year or a year abroad",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including Mathematics and a social sciences or humanities subject",
+        "source": {
+          "url": "https://www.durham.ac.uk/business/courses/economics-and-politics-ll12/",
+          "checked": "2026-10-21",
+          "evidence": "A*AA including Mathematics and a social sciences or humanities subject. ... ABB including grade A in Mathematics plus a social sciences or humanities subject."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Maths required as part of A*AA (the page doesn't say Maths must be the A*)"
+        },
+        {
+          "subjects": [
+            "a social sciences or humanities subject"
+          ],
+          "minGrade": "A",
+          "note": "A social sciences or humanities A-level is required as part of A*AA"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives & Research"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.dur.ac.uk/study/undergraduate/how-to-apply/entry-requirements/uk-students/",
+        "checked": "2026-10-17",
+        "evidence": "Our offers are usually based on the grades you achieve from your best three A levels, with grades ranging from A*A*A to BBB, but we don’t accept General Studies or Global Perspectives & Research."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test for this course",
+        "source": {
+          "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/entry-requirements/",
+          "checked": "2026-10-17",
+          "evidence": "For most undergraduate courses at Durham, you won’t need to sit an additional test as part of the selection process. For courses in Law and Mathematics however, you are strongly encouraged to sit the subject specific test"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Including grade A in Maths plus a social sciences or humanities subject, if you meet Durham's contextual criteria",
+          "programme": null,
+          "source": {
+            "url": "https://www.durham.ac.uk/business/courses/economics-and-politics-ll12/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer ABB including grade A in Mathematics plus a social sciences or humanities subject."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed alternative offer, typically two A-level grades below the standard offer, if you successfully complete Destination Durham, STEP, the Sutton Trust Summer School at Durham or Asian Access (subject requirements apply)",
+          "programme": "Destination Durham; Space to Explore Potential (STEP); Sutton Trust Summer School; Asian Access",
+          "source": {
+            "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/subject-requirements-access-programmes/",
+            "checked": "2026-10-17",
+            "evidence": "The guaranteed alternative offer is typically two A-level grades below the standard entry requirements for that degree programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.durham.ac.uk/business/courses/economics-and-politics-ll12/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: Durham doesn't list which A-levels count as 'social sciences or humanities' (whether Psychology or Geography count is not stated)",
+        "foundationYear: no 'with Foundation' version of this course seen",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": null
+    },
+    {
+      "id": "durham-ppe",
+      "name": "Philosophy, Politics and Economics",
+      "degree": "BA (Hons)",
+      "ucasCode": "VL52",
+      "lengthYears": 3,
+      "lengthNote": "4 years if you add a placement year or a year abroad",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including an arts/humanities or social sciences subject and Mathematics; Economics A-level not needed",
+        "source": {
+          "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+          "checked": "2026-10-21",
+          "evidence": "A*AA including an arts/humanities or social sciences subject and Mathematics. You do not need to have studied Economics at A-Level to apply for this programme. ... ABB or equivalent, with an A in Mathematics and at least a B in an arts/humanities or social sciences subject. ... D*DD and A level with an A in Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Maths required as part of A*AA (the page doesn't say Maths must be the A*)"
+        },
+        {
+          "subjects": [
+            "an arts/humanities or social sciences subject"
+          ],
+          "minGrade": "A",
+          "note": "An arts/humanities or social sciences A-level is required as part of A*AA"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives & Research"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.dur.ac.uk/study/undergraduate/how-to-apply/entry-requirements/uk-students/",
+        "checked": "2026-10-17",
+        "evidence": "Our offers are usually based on the grades you achieve from your best three A levels, with grades ranging from A*A*A to BBB, but we don’t accept General Studies or Global Perspectives & Research."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test for this course",
+        "source": {
+          "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/entry-requirements/",
+          "checked": "2026-10-17",
+          "evidence": "For most undergraduate courses at Durham, you won’t need to sit an additional test as part of the selection process. For courses in Law and Mathematics however, you are strongly encouraged to sit the subject specific test"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "With an A in Maths and at least a B in an arts/humanities or social sciences subject, if you meet Durham's contextual criteria",
+          "programme": null,
+          "source": {
+            "url": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+            "checked": "2026-10-17",
+            "evidence": "ABB or equivalent, with an A in Mathematics and at least a B in an arts/humanities or social sciences subject."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed alternative offer, typically two A-level grades below the standard offer, if you successfully complete Destination Durham, STEP, the Sutton Trust Summer School at Durham or Asian Access (subject requirements apply)",
+          "programme": "Destination Durham; Space to Explore Potential (STEP); Sutton Trust Summer School; Asian Access",
+          "source": {
+            "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/subject-requirements-access-programmes/",
+            "checked": "2026-10-17",
+            "evidence": "The guaranteed alternative offer is typically two A-level grades below the standard entry requirements for that degree programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.durham.ac.uk/business/courses/philosophy-politics-and-economics-vl52/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: course page doesn't list GCSE requirements",
+        "subjects: Durham doesn't list which A-levels count as 'arts/humanities or social sciences' (whether Psychology or Geography count is not stated)",
+        "foundationYear: no 'with Foundation' version of this course seen",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": null
+    },
+    {
+      "id": "durham-economics-mathematics",
+      "name": "Economics and Mathematics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "L125",
+      "lengthYears": 3,
+      "lengthNote": "Students can apply in Year 2 to transfer to the year abroad or placement pathway (4 years)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including A*A (either way round) in Maths and Further Maths; or A* in Maths plus A in AS Further Maths if you can't take A-level Further Maths",
+        "source": {
+          "url": "https://www.durham.ac.uk/study/courses/economics-and-mathematics-l125/",
+          "checked": "2026-10-17",
+          "evidence": "A*AA including either A*A in any order in Maths and Further Maths at A level or or A* in Mathematics and A at AS Further Mathematics for students unable to take A Level Further Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A*A across Maths and Further Maths in either order; if only AS Further Maths is possible, A* in Maths is required"
+        },
+        {
+          "subjects": [
+            "Further Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Further Maths (A* or A), or grade A in AS Further Maths for students unable to take the full A-level"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "required",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives & Research"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.dur.ac.uk/study/undergraduate/how-to-apply/entry-requirements/uk-students/",
+        "checked": "2026-10-17",
+        "evidence": "Our offers are usually based on the grades you achieve from your best three A levels, with grades ranging from A*A*A to BBB, but we don’t accept General Studies or Global Perspectives & Research."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test for this course (Durham's TMUA/STEP tests are only used for its Mathematics and Mathematics and Statistics degrees)",
+        "source": {
+          "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/entry-requirements/mathematics/",
+          "checked": "2026-10-17",
+          "evidence": "To help us select the candidates most likely to succeed on our Mathematics (G100 or G103) or Mathematics and Statistics (G111 or G114) courses, you’re strongly encouraged to sit one of the optional tests below."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "A*AC / A*BB",
+          "tariff": null,
+          "conditions": "A*AC including A*A in Maths and Further Maths (either way), or A*BB including A* in Maths plus A in AS Further Maths, if you meet Durham's contextual criteria",
+          "programme": null,
+          "source": {
+            "url": "https://www.durham.ac.uk/study/courses/economics-and-mathematics-l125/",
+            "checked": "2026-10-17",
+            "evidence": "A*AC including A*A in Maths and Further Maths either way OR A*BB including A* in Maths plus A in AS Further Mathematics for students unable to take A Level Further Mathematics."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed alternative offer, typically two A-level grades below the standard offer, if you successfully complete Destination Durham, STEP, the Sutton Trust Summer School at Durham or Asian Access (subject requirements apply)",
+          "programme": "Destination Durham; Space to Explore Potential (STEP); Sutton Trust Summer School; Asian Access",
+          "source": {
+            "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/subject-requirements-access-programmes/",
+            "checked": "2026-10-17",
+            "evidence": "The guaranteed alternative offer is typically two A-level grades below the standard entry requirements for that degree programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.durham.ac.uk/study/courses/economics-and-mathematics-l125/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: course page doesn't list GCSE requirements",
+        "foundationYear: no 'with Foundation' version of this course seen",
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "Further Maths is required (A-level, or AS-level if your school can't offer the full A-level)."
+    },
+    {
+      "id": "durham-finance",
+      "name": "Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "N305",
+      "lengthYears": 3,
+      "lengthNote": "Also offered with a placement year or study abroad (4 years)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB; plus GCSE Maths grade A/7 or above (or B/5 in Core Maths) if you're not taking A-level Maths",
+        "source": {
+          "url": "https://www.durham.ac.uk/business/courses/finance-n305/",
+          "checked": "2026-10-17",
+          "evidence": "AAB and a grade A/7 or above in GCSE Mathematics (if Mathematics is not studied at A-Level). or B/5 in Core Maths if Maths not taken as an A level."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Only if Maths is not studied at A-level (B/5 in Core Maths also accepted)"
+        }
+      ],
+      "gcseText": "a grade A/7 or above in GCSE Mathematics (if Mathematics is not studied at A-Level). or B/5 in Core Maths if Maths not taken as an A level.",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives & Research"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.dur.ac.uk/study/undergraduate/how-to-apply/entry-requirements/uk-students/",
+        "checked": "2026-10-17",
+        "evidence": "Our offers are usually based on the grades you achieve from your best three A levels, with grades ranging from A*A*A to BBB, but we don’t accept General Studies or Global Perspectives & Research."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test for this course",
+        "source": {
+          "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/entry-requirements/",
+          "checked": "2026-10-17",
+          "evidence": "For most undergraduate courses at Durham, you won’t need to sit an additional test as part of the selection process. For courses in Law and Mathematics however, you are strongly encouraged to sit the subject specific test"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB / ABC",
+          "tariff": null,
+          "conditions": "Plus GCSE Maths B/6 if not taking A-level Maths (grade 5 accepted if taking an Economics, Science or Maths-related A-level), if you meet Durham's contextual criteria",
+          "programme": null,
+          "source": {
+            "url": "https://www.durham.ac.uk/business/courses/finance-n305/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer BBB/ABC and a grade B/6 or above in GCSE Mathematics (if Mathematics is not studied at A-Level). For contextual applicants, we will accept GCSE Mathematics at grade 5, if you are taking an Economics, Science or Mathematics related A-Level."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed alternative offer, typically two A-level grades below the standard offer, if you successfully complete Destination Durham, STEP, the Sutton Trust Summer School at Durham or Asian Access (subject requirements apply)",
+          "programme": "Destination Durham; Space to Explore Potential (STEP); Sutton Trust Summer School; Asian Access",
+          "source": {
+            "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/subject-requirements-access-programmes/",
+            "checked": "2026-10-17",
+            "evidence": "The guaranteed alternative offer is typically two A-level grades below the standard entry requirements for that degree programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.durham.ac.uk/business/courses/finance-n305/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "A Finance with Foundation version is listed on the course page."
+    },
+    {
+      "id": "durham-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "N311",
+      "lengthYears": 3,
+      "lengthNote": "Also offered with a placement year or study abroad (4 years)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB; plus GCSE Maths grade B/6 or above if you're not taking A-level Maths",
+        "source": {
+          "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-n311/",
+          "checked": "2026-10-17",
+          "evidence": "AAB and a grade B/6 or above in GCSE Mathematics (if Mathematics is not studied at A-Level)."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Only if Maths is not studied at A-level"
+        }
+      ],
+      "gcseText": "a grade B/6 or above in GCSE Mathematics (if Mathematics is not studied at A-Level).",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives & Research"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.dur.ac.uk/study/undergraduate/how-to-apply/entry-requirements/uk-students/",
+        "checked": "2026-10-17",
+        "evidence": "Our offers are usually based on the grades you achieve from your best three A levels, with grades ranging from A*A*A to BBB, but we don’t accept General Studies or Global Perspectives & Research."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test for this course",
+        "source": {
+          "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/entry-requirements/",
+          "checked": "2026-10-17",
+          "evidence": "For most undergraduate courses at Durham, you won’t need to sit an additional test as part of the selection process. For courses in Law and Mathematics however, you are strongly encouraged to sit the subject specific test"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB / ABC",
+          "tariff": null,
+          "conditions": "Plus GCSE Maths B/6 if not taking A-level Maths (grade 5 accepted if taking an Economics, Science or Maths-related A-level), if you meet Durham's contextual criteria",
+          "programme": null,
+          "source": {
+            "url": "https://www.durham.ac.uk/business/courses/accounting-and-finance-n311/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer BBB/ABC and a grade B/6 or above in GCSE Mathematics (if Mathematics is not studied at A-Level)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed alternative offer, typically two A-level grades below the standard offer, if you successfully complete Destination Durham, STEP, the Sutton Trust Summer School at Durham or Asian Access (subject requirements apply)",
+          "programme": "Destination Durham; Space to Explore Potential (STEP); Sutton Trust Summer School; Asian Access",
+          "source": {
+            "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/subject-requirements-access-programmes/",
+            "checked": "2026-10-17",
+            "evidence": "The guaranteed alternative offer is typically two A-level grades below the standard entry requirements for that degree programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.durham.ac.uk/business/courses/accounting-and-finance-n311/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "An Accounting and Finance with Foundation version is listed among similar courses."
+    },
+    {
+      "id": "durham-business-management",
+      "name": "Business and Management",
+      "degree": "BA (Hons)",
+      "ucasCode": "N201",
+      "lengthYears": 3,
+      "lengthNote": "Also offered with a placement year or study abroad (4 years)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB; plus GCSE Maths grade 6/B or above if you're not taking A-level Maths",
+        "source": {
+          "url": "https://www.durham.ac.uk/business/courses/business-and-management-n201/",
+          "checked": "2026-10-17",
+          "evidence": "AAB and a grade 6/B or above in GCSE Mathematics (if Mathematics is not studied at A-Level)."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Only if Maths is not studied at A-level"
+        }
+      ],
+      "gcseText": "a grade 6/B or above in GCSE Mathematics (if Mathematics is not studied at A-Level).",
+      "notAccepted": [
+        "General Studies",
+        "Global Perspectives & Research"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.dur.ac.uk/study/undergraduate/how-to-apply/entry-requirements/uk-students/",
+        "checked": "2026-10-17",
+        "evidence": "Our offers are usually based on the grades you achieve from your best three A levels, with grades ranging from A*A*A to BBB, but we don’t accept General Studies or Global Perspectives & Research."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test for this course",
+        "source": {
+          "url": "https://www.durham.ac.uk/study/undergraduate/how-to-apply/entry-requirements/",
+          "checked": "2026-10-17",
+          "evidence": "For most undergraduate courses at Durham, you won’t need to sit an additional test as part of the selection process. For courses in Law and Mathematics however, you are strongly encouraged to sit the subject specific test"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB / ABC",
+          "tariff": null,
+          "conditions": "Plus GCSE Maths 6/B if not taking A-level Maths (grade 5 accepted if taking an Economics, Science or Maths-related A-level), if you meet Durham's contextual criteria",
+          "programme": null,
+          "source": {
+            "url": "https://www.durham.ac.uk/business/courses/business-and-management-n201/",
+            "checked": "2026-10-17",
+            "evidence": "Contextual offer BBB/ABC and a grade 6/B or above in GCSE Mathematics (if Mathematics is not studied at A-Level)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed alternative offer, typically two A-level grades below the standard offer, if you successfully complete Destination Durham, STEP, the Sutton Trust Summer School at Durham or Asian Access (subject requirements apply)",
+          "programme": "Destination Durham; Space to Explore Potential (STEP); Sutton Trust Summer School; Asian Access",
+          "source": {
+            "url": "https://www.durham.ac.uk/visit-us/schools/access-engagement/subject-requirements-access-programmes/",
+            "checked": "2026-10-17",
+            "evidence": "The guaranteed alternative offer is typically two A-level grades below the standard entry requirements for that degree programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.durham.ac.uk/business/courses/business-and-management-n201/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "ucas: UCAS course page not checked (UCAS search blocked automated access)"
+      ],
+      "notes": "A Business and Management with Foundation version is listed on the course page."
+    }
+  ],
+  "notes": [
+    "All course pages are for September 2027 entry; no 2028-entry course pages were published when checked (2026-10-17).",
+    "No admissions test is needed for any of these courses. Durham only uses the TMUA/STEP for its Mathematics and Mathematics and Statistics degrees, where a TMUA score of 5.0+ can mean a one-grade-lower offer.",
+    "Durham values the EPQ but it does not form part of its offers.",
+    "Durham gives a guaranteed alternative offer (typically two A-level grades below the standard offer) to students who successfully complete its Sutton Trust Summer School, as well as its own Destination Durham, STEP and Asian Access programmes.",
+    "Durham has a collegiate system; first-year accommodation is in its colleges (prices vary by college and room type)."
+  ],
+  "notConfirmed": [
+    "openDays: 2027 open day dates not announced yet",
+    "contextual: no general size of reduction stated; the contextual offer is listed on each course page",
+    "programmes: STEP, Asian Access and Destination Durham costs and programme dates are not published on their pages",
+    "courses: UCAS course pages not checked because UCAS search blocked automated access; codes taken from Durham's own course pages"
+  ]
+}

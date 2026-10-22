@@ -1,0 +1,370 @@
+{
+ "built": "2026-10-20",
+ "tmua2027": {
+  "source": {
+   "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+   "checked": "2026-10-20",
+   "title": "UAT-UK: Check if your courses require an admissions test (2027 entry)"
+  },
+  "about": {
+   "url": "https://esat-tmua.ac.uk/about-the-tests/tmua-test/",
+   "text": "Only these universities use the TMUA (UAT-UK lists seven, including Cambridge and Oxford). At every other uni in the app, only record a test if the course page itself names one."
+  },
+  "unis": {
+   "durham": {
+    "header": "Durham University (D86)",
+    "notes": [
+     "For each of the courses listed below, the TMUA is recommended:"
+    ],
+    "courses": [
+     {
+      "name": "BSc Mathematics",
+      "ucasCode": "G100",
+      "rule": "recommended",
+      "line": "BSc Mathematics G100 TMUA N/A"
+     },
+     {
+      "name": "MMath Mathematics",
+      "ucasCode": "G103",
+      "rule": "recommended",
+      "line": "MMath Mathematics G103 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics & Statistics",
+      "ucasCode": "G111",
+      "rule": "recommended",
+      "line": "G111 TMUA N/A"
+     },
+     {
+      "name": "MMath Mathematics & Statistics",
+      "ucasCode": "G114",
+      "rule": "recommended",
+      "line": "G114 TMUA N/A"
+     }
+    ]
+   },
+   "imperial": {
+    "header": "Imperial College London (I50)",
+    "notes": [
+     "For each of the courses listed below, either the ESAT or the TMUA is compulsory:"
+    ],
+    "courses": [
+     {
+      "name": "Physics BEng Computing",
+      "ucasCode": "G400",
+      "rule": "compulsory",
+      "line": "BEng Computing  G400 TMUA N/A"
+     },
+     {
+      "name": "MEng Computing",
+      "ucasCode": "G401",
+      "rule": "compulsory",
+      "line": "MEng Computing G401 TMUA N/A"
+     },
+     {
+      "name": "MEng Computing (Artificial Intelligence and Machine Learning)",
+      "ucasCode": "G700",
+      "rule": "compulsory",
+      "line": "G700 TMUA N/A"
+     },
+     {
+      "name": "MEng Computing (International Programme of Study)",
+      "ucasCode": "G402",
+      "rule": "compulsory",
+      "line": "G402 TMUA N/A"
+     },
+     {
+      "name": "MEng Computing (Management and Finance)",
+      "ucasCode": "G501",
+      "rule": "compulsory",
+      "line": "G501 TMUA N/A"
+     },
+     {
+      "name": "MEng Computing (Security and Reliability)",
+      "ucasCode": "G610",
+      "rule": "compulsory",
+      "line": "G610 TMUA N/A"
+     },
+     {
+      "name": "MEng Computing (Software Engineering)",
+      "ucasCode": "G600",
+      "rule": "compulsory",
+      "line": "G600 TMUA N/A"
+     },
+     {
+      "name": "MEng Computing (Visual Computing and Robotics)",
+      "ucasCode": "GG47",
+      "rule": "compulsory",
+      "line": "GG47 TMUA N/A"
+     },
+     {
+      "name": "BSc Economics, Finance and Data Science",
+      "ucasCode": "L1N3",
+      "rule": "compulsory",
+      "line": "L1N3 TMUA N/A"
+     },
+     {
+      "name": "MSci Mathematics",
+      "ucasCode": "G103",
+      "rule": "compulsory",
+      "line": "G103 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics",
+      "ucasCode": "G100",
+      "rule": "compulsory",
+      "line": "G100 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics (Pure Mathematics)",
+      "ucasCode": "G125",
+      "rule": "compulsory",
+      "line": "G125 TMUA N/A"
+     },
+     {
+      "name": "BEng Mathematics and Computer Science",
+      "ucasCode": "GG14",
+      "rule": "compulsory",
+      "line": "GG14 TMUA N/A"
+     },
+     {
+      "name": "MEng Mathematics and Computer Science",
+      "ucasCode": "GG41",
+      "rule": "compulsory",
+      "line": "GG41 TMUA N/A"
+     },
+     {
+      "name": "MSci Mathematics with a Year Abroad",
+      "ucasCode": "G104",
+      "rule": "compulsory",
+      "line": "G104 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics with Applied Mathematics/Mathematical Physics",
+      "ucasCode": "G1F3",
+      "rule": "compulsory",
+      "line": "G1F3 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics with Mathematical Computation",
+      "ucasCode": "G102",
+      "rule": "compulsory",
+      "line": "G102 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics with Statistics",
+      "ucasCode": "G1G3",
+      "rule": "compulsory",
+      "line": "G1G3 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics with Statistics for Finance",
+      "ucasCode": "G1GH",
+      "rule": "compulsory",
+      "line": "G1GH TMUA N/A"
+     }
+    ]
+   },
+   "lse": {
+    "header": "The London School of Economics and Political Science (L72)",
+    "notes": [
+     "*For LSE, the TMUA is compulsory",
+     "Economics. For all other listed courses, the TMUA is recommended*"
+    ],
+    "courses": [
+     {
+      "name": "for BSc Economics and BSc Econometrics and Mathematical BSc Economics",
+      "ucasCode": "L101",
+      "rule": "compulsory",
+      "line": "*BSc Economics* L101 TMUA N/A"
+     },
+     {
+      "name": "BSc Econometrics and Mathematical Economics",
+      "ucasCode": "L140",
+      "rule": "compulsory",
+      "line": "L140 TMUA N/A"
+     },
+     {
+      "name": "BSc Actuarial Science",
+      "ucasCode": "N321",
+      "rule": "recommended",
+      "line": "BSc Actuarial Science N321 TMUA N/A"
+     },
+     {
+      "name": "BSc Actuarial Science (with a placement year)",
+      "ucasCode": "N321",
+      "rule": "recommended",
+      "line": "N321 TMUA N/A"
+     },
+     {
+      "name": "BSc Data Science",
+      "ucasCode": "N3UD",
+      "rule": "recommended",
+      "line": "BSc Data Science N3UD TMUA N/A"
+     },
+     {
+      "name": "BSc Economics and Data Science",
+      "ucasCode": "L1N3",
+      "rule": "recommended",
+      "line": "L1N3 TMUA N/A"
+     },
+     {
+      "name": "BSc Financial Mathematics and Statistics",
+      "ucasCode": "GN13",
+      "rule": "recommended",
+      "line": "GN13 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics, Statistics, and Business",
+      "ucasCode": "G0N0",
+      "rule": "recommended",
+      "line": "G0N0 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics with Data Science",
+      "ucasCode": "G140",
+      "rule": "recommended",
+      "line": "BSc Mathematics with Data Science G140 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics with Economics",
+      "ucasCode": "G1L1",
+      "rule": "recommended",
+      "line": "BSc Mathematics with Economics G1L1 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics and Economics",
+      "ucasCode": "GL11",
+      "rule": "recommended",
+      "line": "GL11 TMUA N/A"
+     }
+    ]
+   },
+   "warwick": {
+    "header": "The University of Warwick (W20)",
+    "notes": [
+     "For each of the courses listed below, the TMUA is compulsory",
+     "For each of the courses listed below, the TMUA is recommended:"
+    ],
+    "courses": [
+     {
+      "name": "(except for those eligible for a contextual offer): BSc Computer Science",
+      "ucasCode": "G400",
+      "rule": "compulsory",
+      "line": "BSc Computer Science G400 TMUA N/A"
+     },
+     {
+      "name": "MEng Computer Science",
+      "ucasCode": "G403",
+      "rule": "compulsory",
+      "line": "G403 TMUA N/A"
+     },
+     {
+      "name": "BSc Computer Science with Business Studies",
+      "ucasCode": "GN42",
+      "rule": "compulsory",
+      "line": "GN42 TMUA N/A"
+     },
+     {
+      "name": "BSc Discrete Mathematics",
+      "ucasCode": "G190",
+      "rule": "compulsory",
+      "line": "BSc Discrete Mathematics G190 TMUA N/A"
+     },
+     {
+      "name": "MEng Discrete Mathematics",
+      "ucasCode": "G4G3",
+      "rule": "compulsory",
+      "line": "MEng Discrete Mathematics  G4G3 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics",
+      "ucasCode": "G100",
+      "rule": "compulsory",
+      "line": "BSc Mathematics G100 TMUA N/A"
+     },
+     {
+      "name": "MMath Mathematics",
+      "ucasCode": "G103",
+      "rule": "compulsory",
+      "line": "MMath Mathematics  G103  TMUA N/A"
+     },
+     {
+      "name": "BSc Data Science",
+      "ucasCode": "7G73",
+      "rule": "recommended",
+      "line": "7G73 TMUA N/A"
+     },
+     {
+      "name": "MSci Data Science",
+      "ucasCode": "G304",
+      "rule": "recommended",
+      "line": "MSci Data Science G304 TMUA N/A"
+     },
+     {
+      "name": "BSc Economics",
+      "ucasCode": "L100",
+      "rule": "recommended",
+      "line": "BSc Economics L100 TMUA N/A"
+     },
+     {
+      "name": "BSc Economics and Management",
+      "ucasCode": "LN12",
+      "rule": "recommended",
+      "line": "LN12 TMUA N/A"
+     },
+     {
+      "name": "BSc/BA Economics, Politics and International Studies",
+      "ucasCode": "LLD2",
+      "rule": "recommended",
+      "line": "LLD2 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics and Statistics",
+      "ucasCode": "GG13",
+      "rule": "recommended",
+      "line": "GG13 TMUA N/A"
+     },
+     {
+      "name": "MMathStat Mathematics and Statistics",
+      "ucasCode": "GGC3",
+      "rule": "recommended",
+      "line": "GGC3 TMUA N/A"
+     },
+     {
+      "name": "BSc Mathematics, Operational Research, Statistics and Economics",
+      "ucasCode": "GLN0",
+      "rule": "recommended",
+      "line": "GLN0 TMUA N/A"
+     },
+     {
+      "name": "MMORSE Mathematics, Operational Research, Statistics and Economics",
+      "ucasCode": "G0L0",
+      "rule": "recommended",
+      "line": "G0L0 TMUA N/A"
+     }
+    ]
+   },
+   "ucl": {
+    "header": "UCL (U80)",
+    "notes": [
+     "For each of the courses listed below, either the ESAT, the TARA, or the TMUA is compulsory:"
+    ],
+    "courses": [
+     {
+      "name": "BSc Economics",
+      "ucasCode": "L100",
+      "rule": "compulsory",
+      "line": "BSc Economics L100 TMUA N/A"
+     },
+     {
+      "name": "BSc Economics with Study abroad",
+      "ucasCode": "L101",
+      "rule": "compulsory",
+      "line": "BSc Economics with Study abroad L101 TMUA"
+     }
+    ]
+   }
+  }
+ }
+}

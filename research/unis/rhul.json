@@ -1,0 +1,1176 @@
+{
+ "id": "rhul",
+ "name": "Royal Holloway, University of London",
+ "shortName": "Royal Holloway",
+ "aliases": [
+  "RHUL",
+  "Royal Holloway",
+  "Holloway",
+  "Royal Holloway London",
+  "Egham"
+ ],
+ "city": "Egham",
+ "region": "South East",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.royalholloway.ac.uk/student-life/our-campus/",
+  "checked": "2026-10-21",
+  "evidence": "Our Egham campus is one of the most beautiful in the world, with numerous teaching and study spaces, bars and cafés, high-quality accommodation and sports facilities."
+ },
+ "location": {
+  "postcode": "TW20 0EX",
+  "postcodeSource": "https://www.royalholloway.ac.uk/about-us/more/how-to-find-us/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/TW200EX",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (Home) students starting in 2027/28. Different fees apply to some Foundation Year and accelerated degree courses and to a year spent abroad or working in industry. Fees are reviewed each year and may rise for continuing students.",
+  "source": {
+   "url": "https://www.royalholloway.ac.uk/studying-here/fees-and-funding/undergraduate/tuition-fees/",
+   "checked": "2026-10-21",
+   "evidence": "The tuition fee for students starting their degree in 2027/28 will be £10,050 for that year."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 111.02,
+  "amountHigh": 257.81,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Undergraduate halls at Egham cost about £111–£258 a week in 2026/27 (£111.02 is a shared bedroom in Founder's Building; en-suite rooms are mostly £204–£258). Halls such as George Eliot, Gowar and Founder's are on 38-week contracts (September to June). Bills and internet are included; Founder's and Reid are catered (one meal a day plus a £25 weekly allowance).",
+  "source": {
+   "url": "https://www.royalholloway.ac.uk/student-life/accommodation/explore-our-halls/",
+   "checked": "2026-10-21",
+   "evidence": "£257.81"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-04",
+    "endDate": null,
+    "label": "Online open day",
+    "format": "online",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-14",
+    "endDate": null,
+    "label": "Undergraduate open day (Egham campus)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-12-09",
+    "endDate": null,
+    "label": "Online open day",
+    "format": "online",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next Egham campus open day: Saturday 14 November 2026. Online open days: Wednesday 4 November and Wednesday 9 December 2026. No 2027 dates listed yet.",
+  "url": "https://www.royalholloway.ac.uk/student-life/visit-royal-holloway/undergraduate-events/",
+  "source": {
+   "url": "https://www.royalholloway.ac.uk/student-life/visit-royal-holloway/undergraduate-events/",
+   "checked": "2026-10-21",
+   "evidence": "Our next Open Day will be taking place on Saturday 14 November."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "UK-resident applicants who meet the course entry requirements and Royal Holloway's widening access criteria automatically get a contextual offer of up to 2 A-level grades lower; there is no separate application.",
+  "typicalReduction": "Up to 2 A-level grades lower than the entry requirements advertised (subject-specific grades and GCSEs are not reduced; not for Integrated Foundation Year courses)",
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "In Local Authority care for more than 3 months at the time of applying: you automatically get a contextual offer if you meet all the course entry requirements (you may also be eligible for the £3,000-a-year bursary).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Disability or health condition that impacts your daily life (guided by the definitions on the UCAS form, which typically follow the Equality Act 2010).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Mature student (aged 21 or over when the course starts).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged from parents.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Refugee or asylum seeker.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "In receipt of free school meals.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Have caring responsibilities.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "school",
+    "detail": "Attend an 'Aspiring School': the lowest 30% of colleges and lowest 20% of schools on pupils' performance in three academic qualifications (Gov.UK data); Royal Holloway publishes a list. Counts towards the 'meet 2 of these 3' route.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   },
+   {
+    "key": "area",
+    "detail": "Home postcode in IMD quintile 1 or 2 (English indices of deprivation 2025, deciles 1 to 4). Counts towards the 'meet 2 of these 3' route.",
+    "measure": "IMD",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": false
+   },
+   {
+    "key": "area",
+    "detail": "Home postcode in a lower participation in higher education neighbourhood (POLAR4 quintile 1). Counts towards the 'meet 2 of these 3' route.",
+    "measure": "POLAR4",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": false
+   }
+  ],
+  "minCriteria": 2,
+  "rulesText": "You must be a UK resident and currently or previously at a UK school or college. Then either (1) you have been in Local Authority care for more than 3 months, or (2) you meet 1 of: disability or health condition, mature student, estranged from parents, refugee or asylum seeker, free school meals, caring responsibilities, or (3) you meet 2 of: attend an Aspiring School, IMD quintile 1/2 postcode, POLAR4 quintile 1 postcode. Nothing extra to do: Royal Holloway uses your UCAS form. minCriteria 2 applies to route (3) only.",
+  "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+  "source": {
+   "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+   "checked": "2026-10-21",
+   "evidence": "You must then meet 1 of the Widening Access criteria, which are listed below:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "rhul-summer-university-y12",
+   "name": "Summer University - Year 12",
+   "provider": "Royal Holloway, University of London",
+   "providerType": "university",
+   "uniIds": [
+    "rhul"
+   ],
+   "summary": "Free two-day residential at Royal Holloway for Year 12 students from widening access backgrounds, with subject insight sessions, social activities and a night in campus accommodation.",
+   "whoCanApply": "Year 12 students studying A levels (or equivalent) predicted no lower than CCC, with 5 GCSEs at grades 9 to 4 including Maths and English, who do not attend a fee-paying school, have lived in the UK for at least 3 years and meet the widening access criteria (see details). Get your school's permission before applying.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "care",
+    "firstGen",
+    "fsm",
+    "other",
+    "area",
+    "carer",
+    "refugee",
+    "estranged"
+   ],
+   "eligibilityDetail": "Must be in Year 12; study A levels or equivalent predicted no lower than CCC; have 5 GCSEs at 9 to 4 including Maths and English; not attend a fee-paying school; have lived in the UK for at least three years; AND 'meet this criteria' OR two of these other widening access criteria: in or has been in Local Authority care; both parents/guardians have no experience of UK higher education; eligible for free school meals, pupil premium or other additional funding; disability or health condition affecting daily life; home postcode in IMD Q1/2 or POLAR4 Q1; Black or Mixed Black heritage; care responsibilities; armed forces family; refugee or asylum seeker who has lived in the UK for at least 3 years; estranged from parents/carers.",
+   "benefits": [
+    "Free: accommodation, all food and drink, and all resources and academic activities are covered",
+    "Subject insight sessions (seminars and lectures) led by staff and current student ambassadors",
+    "Stay in your own en-suite student room on campus and experience university life",
+    "Information sessions on your next steps after school or college"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "residential",
+   "subjects": "Subject insight sessions matched to the subjects you study (subjects not guaranteed)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Thursday 8 to Friday 9 July 2027",
+    "start": "2027-07-08",
+    "end": "2027-07-09",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Applications for 2027 are not yet open",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "2027 dates published (8 to 9 July 2027); applications are not open yet and the deadline is not published.",
+   "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/summer-university-year-12",
+   "source": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/summer-university-year-12",
+    "checked": "2026-10-21",
+    "evidence": "Thursday 8 to Friday 9 July 2027."
+   },
+   "notConfirmed": [
+    "2027 application opening date and deadline not published",
+    "The page does not make clear which single criterion is meant by 'Meet this criteria' (the other route is 'two of these other Widening Access criteria'), so the exact combination is not confirmed",
+    "The page does not say whether completing Summer University lowers an offer"
+   ]
+  },
+  {
+   "id": "rhul-link",
+   "name": "Royal Holloway Link",
+   "provider": "Royal Holloway, University of London",
+   "providerType": "university",
+   "uniIds": [
+    "rhul"
+   ],
+   "summary": "Free series of four sessions for Year 13 students (mostly online, some on campus) with advice from student ambassadors on study skills, applying through UCAS, finance and accommodation.",
+   "whoCanApply": "All Year 13 students are welcome (UK residents studying A levels or equivalent predicted no lower than CCC, with 5 GCSEs at 9 to 4), with priority for students who meet widening access criteria.",
+   "eligibility": "open",
+   "eligibilityCriteria": [
+    "other",
+    "area",
+    "fsm",
+    "school",
+    "care",
+    "carer",
+    "estranged",
+    "refugee"
+   ],
+   "eligibilityDetail": "Priority (not a requirement) goes to students who: have a disability or health condition; live in a POLAR4 Q1 or IMD deciles 1 to 4 postcode; are or will be mature students; receive free school meals; attend a Widening Access partner school; are or have been in local authority care; are young carers or have caring responsibilities; are estranged from both parents/carers; or are refugees or asylum seekers.",
+   "benefits": [
+    "Study and revision skills for Year 13 and higher education",
+    "Advice on applying to higher education (personal statement, finance, accommodation)",
+    "Meet students from other schools and current Royal Holloway students"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free (travel to the on-campus sessions is not reimbursed)",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "All subjects (study skills and university applications)",
+   "yearGroup": "Year 13",
+   "runs": {
+    "text": "Four sessions from Saturday 31 October 2026 to Saturday 20 February 2027 (2026/27 round)",
+    "start": "2026-10-31",
+    "end": "2027-02-20",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "2026/27 applications are closed; 2027/28 opening date not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026/27 programme for current Year 13 students (applications closed). A Year 12 student now would be eligible in 2027/28; those dates are not announced yet.",
+   "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/rh-link/",
+   "source": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/rh-link/",
+    "checked": "2026-10-21",
+    "evidence": "Royal Holloway Link is a series of sessions for Year 13s, taking place across the school year"
+   },
+   "notConfirmed": [
+    "2027/28 programme dates, opening date and deadline not published",
+    "The page does not say that Link lowers offers; it only says that, depending on the criteria you meet, you may be eligible for a contextual offer"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.royalholloway.ac.uk/",
+  "courses": "https://www.royalholloway.ac.uk/studying-here/",
+  "economics": "https://www.royalholloway.ac.uk/research-and-education/subjects/economics/",
+  "openDays": "https://www.royalholloway.ac.uk/student-life/visit-royal-holloway/undergraduate-events/",
+  "fees": "https://www.royalholloway.ac.uk/studying-here/fees-and-funding/undergraduate/tuition-fees/",
+  "contextual": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+  "accommodation": "https://www.royalholloway.ac.uk/student-life/accommodation/explore-our-halls/"
+ },
+ "courses": [
+  {
+   "id": "rhul-economics",
+   "name": "Economics",
+   "degree": "BSc (Econ)",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a Year in Business placement (UCAS code L102)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A levels AAB to BBB (a range; Royal Holloway says the course finder shows the minimum grades needed and your particular offer may require higher grades)",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE Mathematics at grade 7 (A); GCSE English Language at grade 4 (C)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics/",
+    "checked": "2026-10-21",
+    "evidence": "GCSE Mathematics at grade 7 (A)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course: the entry requirements on the course page are A-level grades and GCSEs only. Royal Holloway says none of its undergraduate courses currently require an interview.",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to 2 A-level grades lower than the entry requirements advertised for this course (the reduced grades are not published per course). Made automatically if you are a UK resident who meets the course entry requirements and Royal Holloway's widening access criteria. Subject-specific grades and GCSEs are not reduced.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Our contextual offer is a reduction of the equivalent of up to 2 A-Level grades lower* compared to the original entry requirements advertised on our website and undergraduate prospectus."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Taking an Extended Project Qualification (EPQ) alongside your A-levels will be taken into consideration and could result in lower entry requirements in your offer; no fixed reduction is published (the page's example is an offer of BBB with B in the EPQ instead of ABB). It can stack with a contextual offer, up to a maximum of 2 A-level grades lower in total. If you miss the EPQ part on results day, the offer defaults to the standard offer, one grade higher.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Where an applicant is taking the Extended Project Qualification (EPQ) alongside A-Levels the EPQ will be taken into consideration and could result in lower entry requirements in an offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the 2028 course page address returns 404 and the year picker lists only 2026 and 2027); 2027 entry recorded",
+    "Reduced grades for contextual and EPQ offers are not published for this course (only 'up to 2 A-level grades lower' and 'could result in lower entry requirements')",
+    "A-level subjects: the course page lists only GCSE requirements and does not say which A-level subjects are accepted, preferred or excluded, so Psychology and Geography acceptance is not confirmed"
+   ],
+   "notes": "No A-level subject is required (the 'Required Subjects' list is GCSE Maths grade 7 and English Language grade 4). Principles of Economics in year 1 is suitable with or without A-level Economics. Accredited by CIMA (4 exemptions)."
+  },
+  {
+   "id": "rhul-financial-business-economics",
+   "name": "Financial and Business Economics",
+   "degree": "BSc (Econ)",
+   "ucasCode": "L111",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a Year in Business placement (UCAS code L112)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance",
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A levels AAB to BBB (a range; Royal Holloway says the course finder shows the minimum grades needed and your particular offer may require higher grades)",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/financial-and-business-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "We require Maths GCSE at grade 6 (B); we require English Language GCSE at grade 4/C",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/financial-and-business-economics/",
+    "checked": "2026-10-21",
+    "evidence": "We require Maths GCSE at grade 6 (B)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course: the entry requirements on the course page are A-level grades and GCSEs only. Royal Holloway says none of its undergraduate courses currently require an interview.",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/financial-and-business-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to 2 A-level grades lower than the entry requirements advertised for this course (the reduced grades are not published per course). Made automatically if you are a UK resident who meets the course entry requirements and Royal Holloway's widening access criteria. Subject-specific grades and GCSEs are not reduced.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Our contextual offer is a reduction of the equivalent of up to 2 A-Level grades lower* compared to the original entry requirements advertised on our website and undergraduate prospectus."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Taking an Extended Project Qualification (EPQ) alongside your A-levels will be taken into consideration and could result in lower entry requirements in your offer; no fixed reduction is published (the page's example is an offer of BBB with B in the EPQ instead of ABB). It can stack with a contextual offer, up to a maximum of 2 A-level grades lower in total. If you miss the EPQ part on results day, the offer defaults to the standard offer, one grade higher.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Where an applicant is taking the Extended Project Qualification (EPQ) alongside A-Levels the EPQ will be taken into consideration and could result in lower entry requirements in an offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/financial-and-business-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the 2028 course page address returns 404 and the year picker lists only 2026 and 2027); 2027 entry recorded",
+    "Reduced grades for contextual and EPQ offers are not published for this course (only 'up to 2 A-level grades lower' and 'could result in lower entry requirements')",
+    "A-level subjects: the course page lists only GCSE requirements and does not say which A-level subjects are accepted, preferred or excluded, so Psychology and Geography acceptance is not confirmed"
+   ],
+   "notes": "No A-level subject is required. GCSE Maths grade 6 (a grade lower than Royal Holloway's Economics degree asks for)."
+  },
+  {
+   "id": "rhul-economics-management",
+   "name": "Economics and Management",
+   "degree": "BSc",
+   "ucasCode": "LN12",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a Year in Business placement (UCAS code LN21)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A levels AAB to BBB (a range; Royal Holloway says the course finder shows the minimum grades needed and your particular offer may require higher grades)",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-management/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE Maths at grade 7 (A); GCSE English Language at grade 4 (C)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-management/",
+    "checked": "2026-10-21",
+    "evidence": "GCSE Maths at grade 7 (A)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course: the entry requirements on the course page are A-level grades and GCSEs only. Royal Holloway says none of its undergraduate courses currently require an interview.",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-management/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to 2 A-level grades lower than the entry requirements advertised for this course (the reduced grades are not published per course). Made automatically if you are a UK resident who meets the course entry requirements and Royal Holloway's widening access criteria. Subject-specific grades and GCSEs are not reduced.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Our contextual offer is a reduction of the equivalent of up to 2 A-Level grades lower* compared to the original entry requirements advertised on our website and undergraduate prospectus."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Taking an Extended Project Qualification (EPQ) alongside your A-levels will be taken into consideration and could result in lower entry requirements in your offer; no fixed reduction is published (the page's example is an offer of BBB with B in the EPQ instead of ABB). It can stack with a contextual offer, up to a maximum of 2 A-level grades lower in total. If you miss the EPQ part on results day, the offer defaults to the standard offer, one grade higher.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Where an applicant is taking the Extended Project Qualification (EPQ) alongside A-Levels the EPQ will be taken into consideration and could result in lower entry requirements in an offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-management/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the 2028 course page address returns 404 and the year picker lists only 2026 and 2027); 2027 entry recorded",
+    "Reduced grades for contextual and EPQ offers are not published for this course (only 'up to 2 A-level grades lower' and 'could result in lower entry requirements')",
+    "A-level subjects: the course page lists only GCSE requirements and does not say which A-level subjects are accepted, preferred or excluded, so Psychology and Geography acceptance is not confirmed"
+   ],
+   "notes": "No A-level subject is required. Taught jointly by the Department of Economics and Royal Holloway Business School."
+  },
+  {
+   "id": "rhul-economics-political-studies",
+   "name": "Economics with Political Studies",
+   "degree": "BSc (Econ)",
+   "ucasCode": "L1L2",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a Year in Business placement (UCAS code L12L)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A levels AAB to BBB (a range; Royal Holloway says the course finder shows the minimum grades needed and your particular offer may require higher grades)",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-with-political-studies/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "We require Maths GCSE at grade 7 (A); we require English Language GCSE at grade 4 (C)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-with-political-studies/",
+    "checked": "2026-10-21",
+    "evidence": "We require Maths GCSE at grade 7 (A)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course: the entry requirements on the course page are A-level grades and GCSEs only. Royal Holloway says none of its undergraduate courses currently require an interview.",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-with-political-studies/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to 2 A-level grades lower than the entry requirements advertised for this course (the reduced grades are not published per course). Made automatically if you are a UK resident who meets the course entry requirements and Royal Holloway's widening access criteria. Subject-specific grades and GCSEs are not reduced.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Our contextual offer is a reduction of the equivalent of up to 2 A-Level grades lower* compared to the original entry requirements advertised on our website and undergraduate prospectus."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Taking an Extended Project Qualification (EPQ) alongside your A-levels will be taken into consideration and could result in lower entry requirements in your offer; no fixed reduction is published (the page's example is an offer of BBB with B in the EPQ instead of ABB). It can stack with a contextual offer, up to a maximum of 2 A-level grades lower in total. If you miss the EPQ part on results day, the offer defaults to the standard offer, one grade higher.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Where an applicant is taking the Extended Project Qualification (EPQ) alongside A-Levels the EPQ will be taken into consideration and could result in lower entry requirements in an offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-with-political-studies/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the 2028 course page address returns 404 and the year picker lists only 2026 and 2027); 2027 entry recorded",
+    "Reduced grades for contextual and EPQ offers are not published for this course (only 'up to 2 A-level grades lower' and 'could result in lower entry requirements')",
+    "A-level subjects: the course page lists only GCSE requirements and does not say which A-level subjects are accepted, preferred or excluded, so Psychology and Geography acceptance is not confirmed"
+   ],
+   "notes": "No A-level subject is required. Economics with a smaller share of political studies."
+  },
+  {
+   "id": "rhul-economics-mathematics",
+   "name": "Economics and Mathematics",
+   "degree": "BSc",
+   "ucasCode": "LG11",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a Year in Business placement (UCAS code L11G)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": "ABC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A levels AAB to ABC (a range; Royal Holloway says the course finder shows the minimum grades needed and your particular offer may require higher grades)",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-mathematics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-ABC"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "A-level Mathematics at grade A. This grade is not reduced by a contextual offer."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "We require English Language and Mathematics GCSE at grade 4 (C)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-mathematics/",
+    "checked": "2026-10-21",
+    "evidence": "A-level Mathematics at grade A"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course: the entry requirements on the course page are A-level grades and GCSEs only. Royal Holloway says none of its undergraduate courses currently require an interview.",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-mathematics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-ABC"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to 2 A-level grades lower than the entry requirements advertised for this course (the reduced grades are not published per course). Made automatically if you are a UK resident who meets the course entry requirements and Royal Holloway's widening access criteria. Subject-specific grades and GCSEs are not reduced. The required A-level subject grade still applies.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Our contextual offer is a reduction of the equivalent of up to 2 A-Level grades lower* compared to the original entry requirements advertised on our website and undergraduate prospectus."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Taking an Extended Project Qualification (EPQ) alongside your A-levels will be taken into consideration and could result in lower entry requirements in your offer; no fixed reduction is published (the page's example is an offer of BBB with B in the EPQ instead of ABB). It can stack with a contextual offer, up to a maximum of 2 A-level grades lower in total. If you miss the EPQ part on results day, the offer defaults to the standard offer, one grade higher.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Where an applicant is taking the Extended Project Qualification (EPQ) alongside A-Levels the EPQ will be taken into consideration and could result in lower entry requirements in an offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-mathematics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the 2028 course page address returns 404 and the year picker lists only 2026 and 2027); 2027 entry recorded",
+    "Reduced grades for contextual and EPQ offers are not published for this course (only 'up to 2 A-level grades lower' and 'could result in lower entry requirements')",
+    "The page names the required A-level subject but does not list any excluded or preferred subjects, so Psychology and Geography acceptance is not confirmed"
+   ],
+   "notes": "A-level Mathematics at grade A is required. Further Maths is not mentioned on the page."
+  },
+  {
+   "id": "rhul-economics-data-science",
+   "name": "Economics and Data Science",
+   "degree": "BSc (Econ)",
+   "ucasCode": "L140",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a Year in Business placement (UCAS code L141)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A levels AAB to BBB (a range; Royal Holloway says the course finder shows the minimum grades needed and your particular offer may require higher grades)",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-data-science/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "A-level B in Mathematics. This grade is not reduced by a contextual offer."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "We require English Language and plus Mathematics GCSE grade 4 (C)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-data-science/",
+    "checked": "2026-10-21",
+    "evidence": "A-level B in Mathematics"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course: the entry requirements on the course page are A-level grades and GCSEs only. Royal Holloway says none of its undergraduate courses currently require an interview.",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-data-science/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to 2 A-level grades lower than the entry requirements advertised for this course (the reduced grades are not published per course). Made automatically if you are a UK resident who meets the course entry requirements and Royal Holloway's widening access criteria. Subject-specific grades and GCSEs are not reduced. The required A-level subject grade still applies.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Our contextual offer is a reduction of the equivalent of up to 2 A-Level grades lower* compared to the original entry requirements advertised on our website and undergraduate prospectus."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Taking an Extended Project Qualification (EPQ) alongside your A-levels will be taken into consideration and could result in lower entry requirements in your offer; no fixed reduction is published (the page's example is an offer of BBB with B in the EPQ instead of ABB). It can stack with a contextual offer, up to a maximum of 2 A-level grades lower in total. If you miss the EPQ part on results day, the offer defaults to the standard offer, one grade higher.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Where an applicant is taking the Extended Project Qualification (EPQ) alongside A-Levels the EPQ will be taken into consideration and could result in lower entry requirements in an offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/economics-and-data-science/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the 2028 course page address returns 404 and the year picker lists only 2026 and 2027); 2027 entry recorded",
+    "Reduced grades for contextual and EPQ offers are not published for this course (only 'up to 2 A-level grades lower' and 'could result in lower entry requirements')",
+    "The page names the required A-level subject but does not list any excluded or preferred subjects, so Psychology and Geography acceptance is not confirmed"
+   ],
+   "notes": "A-level Mathematics at grade B is required (lower than Economics and Mathematics). Further Maths is not mentioned on the page."
+  },
+  {
+   "id": "rhul-ppe",
+   "name": "Politics, Philosophy and Economics",
+   "degree": "BA",
+   "ucasCode": "L0V0",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A levels ABB to BBB (a range; Royal Holloway says the course finder shows the minimum grades needed and your particular offer may require higher grades)",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/politics-and-international-relations/politics-philosophy-and-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: ABB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "GCSE Mathematics at grade 7 (A); English Language GCSE at grade 4 (C)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/politics-and-international-relations/politics-philosophy-and-economics/",
+    "checked": "2026-10-21",
+    "evidence": "GCSE Mathematics at grade 7 (A)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course: the entry requirements on the course page are A-level grades and GCSEs only. Royal Holloway says none of its undergraduate courses currently require an interview.",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/politics-and-international-relations/politics-philosophy-and-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: ABB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to 2 A-level grades lower than the entry requirements advertised for this course (the reduced grades are not published per course). Made automatically if you are a UK resident who meets the course entry requirements and Royal Holloway's widening access criteria. Subject-specific grades and GCSEs are not reduced.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Our contextual offer is a reduction of the equivalent of up to 2 A-Level grades lower* compared to the original entry requirements advertised on our website and undergraduate prospectus."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Taking an Extended Project Qualification (EPQ) alongside your A-levels will be taken into consideration and could result in lower entry requirements in your offer; no fixed reduction is published (the page's example is an offer of BBB with B in the EPQ instead of ABB). It can stack with a contextual offer, up to a maximum of 2 A-level grades lower in total. If you miss the EPQ part on results day, the offer defaults to the standard offer, one grade higher.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Where an applicant is taking the Extended Project Qualification (EPQ) alongside A-Levels the EPQ will be taken into consideration and could result in lower entry requirements in an offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.royalholloway.ac.uk/studying-here/undergraduate/politics-and-international-relations/politics-philosophy-and-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the 2028 course page address returns 404 and the year picker lists only 2026 and 2027); 2027 entry recorded",
+    "Reduced grades for contextual and EPQ offers are not published for this course (only 'up to 2 A-level grades lower' and 'could result in lower entry requirements')",
+    "A-level subjects: the course page lists only GCSE requirements and does not say which A-level subjects are accepted, preferred or excluded, so Psychology and Geography acceptance is not confirmed"
+   ],
+   "notes": "No A-level subject is required. Taught in the Department of Politics and International Relations; only a 3-year version is listed (no Year in Business version). The course page lists a third-year assessed 'Politics in Action' placement course unit."
+  },
+  {
+   "id": "rhul-finance-mathematics",
+   "name": "Finance and Mathematics",
+   "degree": "BSc",
+   "ucasCode": "NG31",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year course with a Year in Business placement (UCAS code N3G1)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": "ABC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A levels AAB to ABC (a range; Royal Holloway says the course finder shows the minimum grades needed and your particular offer may require higher grades)",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/finance-and-mathematics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-ABC"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "A-level Mathematics at grade A. This grade is not reduced by a contextual offer."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "We require English Language and Mathematics GCSE at grade 4 (C)",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/finance-and-mathematics/",
+    "checked": "2026-10-21",
+    "evidence": "A-level Mathematics at grade A"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course: the entry requirements on the course page are A-level grades and GCSEs only. Royal Holloway says none of its undergraduate courses currently require an interview.",
+    "source": {
+     "url": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/finance-and-mathematics/",
+     "checked": "2026-10-21",
+     "evidence": "A Levels: AAB-ABC"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to 2 A-level grades lower than the entry requirements advertised for this course (the reduced grades are not published per course). Made automatically if you are a UK resident who meets the course entry requirements and Royal Holloway's widening access criteria. Subject-specific grades and GCSEs are not reduced. The required A-level subject grade still applies.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Our contextual offer is a reduction of the equivalent of up to 2 A-Level grades lower* compared to the original entry requirements advertised on our website and undergraduate prospectus."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Taking an Extended Project Qualification (EPQ) alongside your A-levels will be taken into consideration and could result in lower entry requirements in your offer; no fixed reduction is published (the page's example is an offer of BBB with B in the EPQ instead of ABB). It can stack with a contextual offer, up to a maximum of 2 A-level grades lower in total. If you miss the EPQ part on results day, the offer defaults to the standard offer, one grade higher.",
+     "programme": null,
+     "source": {
+      "url": "https://www.royalholloway.ac.uk/studying-here/schools-and-colleges/widening-access/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "Where an applicant is taking the Extended Project Qualification (EPQ) alongside A-Levels the EPQ will be taken into consideration and could result in lower entry requirements in an offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.royalholloway.ac.uk/studying-here/undergraduate/economics/finance-and-mathematics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the 2028 course page address returns 404 and the year picker lists only 2026 and 2027); 2027 entry recorded",
+    "Reduced grades for contextual and EPQ offers are not published for this course (only 'up to 2 A-level grades lower' and 'could result in lower entry requirements')",
+    "The page names the required A-level subject but does not list any excluded or preferred subjects, so Psychology and Geography acceptance is not confirmed"
+   ],
+   "notes": "A-level Mathematics at grade A is required. A maths-heavy finance degree taught in the Department of Economics."
+  }
+ ],
+ "notes": [
+  "No 2028-entry course pages yet (checked 2026-10-21: royalholloway.ac.uk/studying-here/2028/undergraduate/economics/economics returns 404; the course year picker lists only 2026 and 2027), so all courses use 2027 entry.",
+  "A-level offers are published as ranges (for example AAB-BBB). Royal Holloway's entry requirements page says the course finder shows the minimum grades needed and that your particular offer may require higher grades. The top of the range is recorded as the typical offer.",
+  "No admissions test or interview: none of the course pages names an admissions test, and the entry requirements page says none of the undergraduate courses currently require an interview. Royal Holloway is not on UAT-UK's 2027 TMUA list.",
+  "Each Economics-department course also has a 4-year 'with a Year in Business' version with its own UCAS code. Economics, Politics and International Relations (LL12) is also offered but not recorded here.",
+  "The open days page gives day and month only (no year); the weekdays match 2026.",
+  "Hall prices are labelled 2026/27 on each hall's page; 2027/28 prices are not published yet."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "Contextual and EPQ offers: only 'up to 2 A-level grades lower' / 'could result in lower entry requirements' are published, not the reduced grades for each course",
+  "Whether the A-level subjects Psychology and Geography are accepted: the pages list no excluded or preferred A-level subjects, so they are marked 'unknown'",
+  "Year abroad and foundation year options for these courses are not mentioned on the course pages",
+  "Summer University 2027: opening date and deadline not published; Royal Holloway Link 2027/28 round not announced",
+  "2027/28 hall prices not published (2026/27 prices recorded)"
+ ]
+}

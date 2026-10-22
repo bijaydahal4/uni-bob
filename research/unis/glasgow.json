@@ -1,0 +1,1057 @@
+{
+ "id": "glasgow",
+ "name": "University of Glasgow",
+ "shortName": "Glasgow",
+ "aliases": [
+  "Glasgow",
+  "Glasgow Uni",
+  "Uni of Glasgow",
+  "Glasgow University",
+  "UofG",
+  "UoG"
+ ],
+ "city": "Glasgow",
+ "region": "Scotland",
+ "country": "Scotland",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.gla.ac.uk/explore/visit/undergraduate/opendays/",
+  "checked": "2026-10-21",
+  "evidence": "University of Glasgow main campus, located in the West End of Glasgow."
+ },
+ "location": {
+  "postcode": "G11 6EY",
+  "postcodeSource": "https://www.gla.ac.uk/schools/business/contact/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/G116EY",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 9790,
+  "academicYear": "2026/27",
+  "text": "£9,790 a year for students from England, Wales and Northern Ireland starting in 2026/27. Glasgow's 2027/28 fee is still shown as 'TBC', and Glasgow says these students' fees rise each year of study in line with the UK Government's tuition fee cap.",
+  "source": {
+   "url": "https://www.gla.ac.uk/undergraduate/fees/ukfees/",
+   "checked": "2026-10-21",
+   "evidence": "Tuition fees 2026/27 | Tuition fees for students from England, Wales and Northern Ireland | Cost per year | Standard cost | £9,790"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 129.92,
+  "amountHigh": 239.4,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University halls cost about £130 to £239 a week in 2026/27: shared rooms from £129.92, single rooms from £168, ensuite singles about £209.51 and studios up to £239.40. Rent includes heating, utilities, Wi-Fi and contents insurance. Most contracts run from 11 September 2026 to 11 June 2027.",
+  "source": {
+   "url": "https://www.gla.ac.uk/undergraduate/accommodation/fees/",
+   "checked": "2026-10-21",
+   "evidence": "Shared | £5,066.88 | £129.92"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-24",
+    "endDate": null,
+    "label": "October Open Day (Glasgow campus, 9am to 3pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open day: Saturday 24 October 2026, 9am to 3pm on the Glasgow campus. No later open days are listed yet.",
+  "url": "https://www.gla.ac.uk/explore/visit/undergraduate/opendays/",
+  "source": {
+   "url": "https://www.gla.ac.uk/explore/visit/undergraduate/opendays/",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 24 October, 9am - 3pm"
+  }
+ },
+ "contextual": {
+  "offersContextual": false,
+  "summary": "Glasgow's lower 'adjusted' offers are only for applicants living in Scotland. Students from England, Wales or Northern Ireland can only get a possible adjusted offer by completing Glasgow's Sutton Trust Summer School, and Glasgow does not publish the A-level grades.",
+  "typicalReduction": null,
+  "criteria": [],
+  "minCriteria": null,
+  "rulesText": "Glasgow says it operates contextualised admissions for applicants living in Scotland. The groups it lists for guaranteed adjusted offers are people living in a Scottish postcode area in SIMD deciles 1-4 (MD20/40), people with care experience, estranged from family, carers, people seeking asylum and people with refugee status. Adjusted grades are published for Scottish Highers only, not A-levels. Completing a Glasgow pre-entry programme (including the Sutton Trust Summer School) 'may lead to' an adjusted offer.",
+  "url": "https://www.gla.ac.uk/study/wp/adjustedoffers/",
+  "source": {
+   "url": "https://www.gla.ac.uk/study/wp/adjustedoffers/",
+   "checked": "2026-10-21",
+   "evidence": "we operate a system of contextualised admissions for applicants living in Scotland."
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.gla.ac.uk/",
+  "courses": "https://www.gla.ac.uk/undergraduate/degrees/",
+  "economics": "https://www.gla.ac.uk/subjects/economics/",
+  "openDays": "https://www.gla.ac.uk/explore/visit/undergraduate/opendays/",
+  "fees": "https://www.gla.ac.uk/undergraduate/fees/ukfees/",
+  "contextual": "https://www.gla.ac.uk/study/wp/adjustedoffers/",
+  "accommodation": "https://www.gla.ac.uk/undergraduate/accommodation/fees/"
+ },
+ "courses": [
+  {
+   "id": "glasgow-economics",
+   "name": "Economics",
+   "degree": "MA(SocSci) (Hons)",
+   "ucasCode": "L150",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish degree: Honours is years 3 and 4, and in years 1 and 2 you also study other subjects (Glasgow's 'flexible degrees'). Optional study abroad of up to a year (usually in year 3).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB in three A-levels (England, Wales and Northern Ireland), including A-level Mathematics at B and an A-level in English or a Humanities subject",
+    "source": {
+     "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+     "checked": "2026-10-21",
+     "evidence": "Summary of entry requirements for Economics - MA(SocSci) A-level standard entry requirements AAB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "A-level Mathematics at B. Further Mathematics counts as an extra A-level but cannot be used in place of Mathematics where Mathematics is a required subject."
+    },
+    {
+     "subjects": [
+      "English Language",
+      "English Language and Literature",
+      "English Literature",
+      "Accounting",
+      "Ancient History",
+      "Arabic",
+      "Art and Design",
+      "Business",
+      "Chinese",
+      "Classical Civilisation",
+      "Classical Greek",
+      "Drama and Theatre",
+      "Economics",
+      "French",
+      "Geography",
+      "German",
+      "History",
+      "History of Art",
+      "Italian",
+      "Japanese",
+      "Latin",
+      "Law",
+      "Music",
+      "Philosophy",
+      "Politics",
+      "Psychology",
+      "Religious Studies",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Urdu"
+     ],
+     "minGrade": "B",
+     "note": "An A-level in English or a Humanities subject. The page says 'at A/B', read here as grade B or above. Glasgow's admissions guidance classes Geography and Psychology as Humanities subjects, so either counts. General Studies is not accepted."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "checked": "2026-10-21",
+    "evidence": "Additional Requirement: A-level Mathematics at B"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course, and Glasgow is not on UAT-UK's list of universities using the TMUA for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our admissions tests."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Open to Year 12 students in England or Wales (Year 13 in Northern Ireland) who have always attended a state-funded school or college, plus extra Sutton Trust criteria (applications open early January and close early March 2027). Completing Glasgow's own Sutton Trust Summer School, taking part in the academic sessions and passing its Academic Skills module may lead to an adjusted (lower) offer. Glasgow does not publish the adjusted A-level grades. Only the Glasgow programme counts, not a Sutton Trust summer school at another university.",
+     "programme": "Sutton Trust Summer School (at Glasgow)",
+     "source": {
+      "url": "https://www.gla.ac.uk/study/wp/suttontrust/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of our Sutton Trust Summer School may lead to an adjusted offer of entry."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "ucas": "https://www.ucas.com/explore/courses/a8b77123-337d-863c-fe08-27dce9fb7e2b/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Glasgow's degree pages are for entry in 2027, no 2028 pages found); 2027 entry recorded",
+    "No lower (contextual) A-level offer is published for students from England, Wales or Northern Ireland; Glasgow's adjusted offers are Highers-based for applicants living in Scotland",
+    "GCSE requirements: none listed in Glasgow's entry requirements summary for this course",
+    "The English/Humanities wording 'at A/B' is not explained; treated as grade B or above"
+   ],
+   "notes": "Glasgow's main Economics degree. Because of high demand, Glasgow says that to be considered for Honours Economics you must apply with an Economics UCAS code (single or joint honours). Entry requirements were read with England selected on Glasgow's page; with Wales or Northern Ireland selected the A-level requirements for Economics are the same. Glasgow welcomes the EPQ but does not require it."
+  },
+  {
+   "id": "glasgow-business-economics",
+   "name": "Business Economics",
+   "degree": "MA(SocSci) (Hons)",
+   "ucasCode": "L112",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish degree: Honours is years 3 and 4, and in years 1 and 2 you also study other subjects (Glasgow's 'flexible degrees'). Optional study abroad of up to a year (usually in year 3).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB in three A-levels (England, Wales and Northern Ireland), including A-level Mathematics and an A-level in English or a Humanities subject",
+    "source": {
+     "url": "https://www.gla.ac.uk/undergraduate/degrees/businesseconomics/",
+     "checked": "2026-10-21",
+     "evidence": "Summary of entry requirements for Business Economics - MA(SocSci) A-level standard entry requirements AAB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": null,
+     "note": "A-level Mathematics is required; the page gives no separate grade for it (it counts towards the AAB). Further Mathematics counts as an extra A-level but cannot be used in place of Mathematics where Mathematics is a required subject."
+    },
+    {
+     "subjects": [
+      "English Language",
+      "English Language and Literature",
+      "English Literature",
+      "Accounting",
+      "Ancient History",
+      "Arabic",
+      "Art and Design",
+      "Business",
+      "Chinese",
+      "Classical Civilisation",
+      "Classical Greek",
+      "Drama and Theatre",
+      "Economics",
+      "French",
+      "Geography",
+      "German",
+      "History",
+      "History of Art",
+      "Italian",
+      "Japanese",
+      "Latin",
+      "Law",
+      "Music",
+      "Philosophy",
+      "Politics",
+      "Psychology",
+      "Religious Studies",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Urdu"
+     ],
+     "minGrade": null,
+     "note": "An A-level in English or a Humanities subject; the page gives no separate grade for it (it counts towards the AAB). Glasgow's admissions guidance classes Geography and Psychology as Humanities subjects, so either counts. General Studies is not accepted."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.gla.ac.uk/undergraduate/degrees/businesseconomics/",
+    "checked": "2026-10-21",
+    "evidence": "Additional Requirement: A-level Mathematics"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course, and Glasgow is not on UAT-UK's list of universities using the TMUA for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our admissions tests."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Open to Year 12 students in England or Wales (Year 13 in Northern Ireland) who have always attended a state-funded school or college, plus extra Sutton Trust criteria (applications open early January and close early March 2027). Completing Glasgow's own Sutton Trust Summer School, taking part in the academic sessions and passing its Academic Skills module may lead to an adjusted (lower) offer. Glasgow does not publish the adjusted A-level grades. Only the Glasgow programme counts, not a Sutton Trust summer school at another university.",
+     "programme": "Sutton Trust Summer School (at Glasgow)",
+     "source": {
+      "url": "https://www.gla.ac.uk/study/wp/suttontrust/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of our Sutton Trust Summer School may lead to an adjusted offer of entry."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gla.ac.uk/undergraduate/degrees/businesseconomics/",
+    "ucas": "https://www.ucas.com/explore/courses/3c53ff37-cc84-d337-5fae-b2c34a24a830/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Glasgow's degree pages are for entry in 2027, no 2028 pages found); 2027 entry recorded",
+    "No lower (contextual) A-level offer is published for students from England, Wales or Northern Ireland; Glasgow's adjusted offers are Highers-based for applicants living in Scotland",
+    "GCSE requirements: none listed in Glasgow's entry requirements summary for this course"
+   ],
+   "notes": "Glasgow says you do not need to have studied business or economics before to enter the first year. Honours Business Economics is chosen with a Business Economics UCAS code (single or joint honours). Business Economics/Psychology (LC18) and Business Economics/Politics (LLC2) show the same AAB with Mathematics and English or Humanities."
+  },
+  {
+   "id": "glasgow-economics-politics",
+   "name": "Economics and Politics",
+   "degree": "MA(SocSci) (Hons)",
+   "ucasCode": "LL12",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish degree: Honours is years 3 and 4, and in years 1 and 2 you also study other subjects (Glasgow's 'flexible degrees'). Optional study abroad of up to a year (usually in year 3).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB in three A-levels (England, Wales and Northern Ireland), including A-level Mathematics at B and an A-level in English or a Humanities subject",
+    "source": {
+     "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+     "checked": "2026-10-21",
+     "evidence": "Summary of entry requirements for Economics/Politics - MA(SocSci) A-level standard entry requirements AAB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "A-level Mathematics at B. Further Mathematics counts as an extra A-level but cannot be used in place of Mathematics where Mathematics is a required subject."
+    },
+    {
+     "subjects": [
+      "English Language",
+      "English Language and Literature",
+      "English Literature",
+      "Accounting",
+      "Ancient History",
+      "Arabic",
+      "Art and Design",
+      "Business",
+      "Chinese",
+      "Classical Civilisation",
+      "Classical Greek",
+      "Drama and Theatre",
+      "Economics",
+      "French",
+      "Geography",
+      "German",
+      "History",
+      "History of Art",
+      "Italian",
+      "Japanese",
+      "Latin",
+      "Law",
+      "Music",
+      "Philosophy",
+      "Politics",
+      "Psychology",
+      "Religious Studies",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Urdu"
+     ],
+     "minGrade": "B",
+     "note": "An A-level in English or a Humanities subject. The page says 'at A/B', read here as grade B or above. Glasgow's admissions guidance classes Geography and Psychology as Humanities subjects, so either counts. General Studies is not accepted."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "checked": "2026-10-21",
+    "evidence": "Additional Requirement: A-level Mathematics at B"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course, and Glasgow is not on UAT-UK's list of universities using the TMUA for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our admissions tests."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Open to Year 12 students in England or Wales (Year 13 in Northern Ireland) who have always attended a state-funded school or college, plus extra Sutton Trust criteria (applications open early January and close early March 2027). Completing Glasgow's own Sutton Trust Summer School, taking part in the academic sessions and passing its Academic Skills module may lead to an adjusted (lower) offer. Glasgow does not publish the adjusted A-level grades. Only the Glasgow programme counts, not a Sutton Trust summer school at another university.",
+     "programme": "Sutton Trust Summer School (at Glasgow)",
+     "source": {
+      "url": "https://www.gla.ac.uk/study/wp/suttontrust/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of our Sutton Trust Summer School may lead to an adjusted offer of entry."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "ucas": "https://www.ucas.com/explore/courses/ce8606dc-5532-a6c4-be92-0e15b1e21d01/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Glasgow's degree pages are for entry in 2027, no 2028 pages found); 2027 entry recorded",
+    "No lower (contextual) A-level offer is published for students from England, Wales or Northern Ireland; Glasgow's adjusted offers are Highers-based for applicants living in Scotland",
+    "GCSE requirements: none listed in Glasgow's entry requirements summary for this course",
+    "The English/Humanities wording 'at A/B' is not explained; treated as grade B or above"
+   ],
+   "notes": "Joint honours: Economics and Politics, with the same entry requirements as single honours Economics. Glasgow says to be considered for Honours Economics you must apply with an Economics UCAS code, which this joint code is."
+  },
+  {
+   "id": "glasgow-economics-geography",
+   "name": "Economics and Geography",
+   "degree": "MA(SocSci) (Hons)",
+   "ucasCode": "LL17",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish degree: Honours is years 3 and 4, and in years 1 and 2 you also study other subjects (Glasgow's 'flexible degrees'). Optional study abroad of up to a year (usually in year 3).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-geography"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB in three A-levels (England, Wales and Northern Ireland), including A-level Mathematics at B and an A-level in English or a Humanities subject",
+    "source": {
+     "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+     "checked": "2026-10-21",
+     "evidence": "Summary of entry requirements for Economics/Geography - MA(SocSci) A-level standard entry requirements AAB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "A-level Mathematics at B. Further Mathematics counts as an extra A-level but cannot be used in place of Mathematics where Mathematics is a required subject."
+    },
+    {
+     "subjects": [
+      "English Language",
+      "English Language and Literature",
+      "English Literature",
+      "Accounting",
+      "Ancient History",
+      "Arabic",
+      "Art and Design",
+      "Business",
+      "Chinese",
+      "Classical Civilisation",
+      "Classical Greek",
+      "Drama and Theatre",
+      "Economics",
+      "French",
+      "Geography",
+      "German",
+      "History",
+      "History of Art",
+      "Italian",
+      "Japanese",
+      "Latin",
+      "Law",
+      "Music",
+      "Philosophy",
+      "Politics",
+      "Psychology",
+      "Religious Studies",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Urdu"
+     ],
+     "minGrade": "B",
+     "note": "An A-level in English or a Humanities subject. The page says 'at A/B', read here as grade B or above. Glasgow's admissions guidance classes Geography and Psychology as Humanities subjects, so either counts. General Studies is not accepted."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "checked": "2026-10-21",
+    "evidence": "Additional Requirement: A-level Mathematics at B"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course, and Glasgow is not on UAT-UK's list of universities using the TMUA for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our admissions tests."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Open to Year 12 students in England or Wales (Year 13 in Northern Ireland) who have always attended a state-funded school or college, plus extra Sutton Trust criteria (applications open early January and close early March 2027). Completing Glasgow's own Sutton Trust Summer School, taking part in the academic sessions and passing its Academic Skills module may lead to an adjusted (lower) offer. Glasgow does not publish the adjusted A-level grades. Only the Glasgow programme counts, not a Sutton Trust summer school at another university.",
+     "programme": "Sutton Trust Summer School (at Glasgow)",
+     "source": {
+      "url": "https://www.gla.ac.uk/study/wp/suttontrust/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of our Sutton Trust Summer School may lead to an adjusted offer of entry."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "ucas": "https://www.ucas.com/explore/courses/304a0f59-18c1-5b15-598f-2b4a911d0eee/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Glasgow's degree pages are for entry in 2027, no 2028 pages found); 2027 entry recorded",
+    "No lower (contextual) A-level offer is published for students from England, Wales or Northern Ireland; Glasgow's adjusted offers are Highers-based for applicants living in Scotland",
+    "GCSE requirements: none listed in Glasgow's entry requirements summary for this course",
+    "The English/Humanities wording 'at A/B' is not explained; treated as grade B or above"
+   ],
+   "notes": "Joint honours: Economics and Geography, with the same entry requirements as single honours Economics. Glasgow's Geography page says the only route to Economics or Business with Geography is the MA(SocSci)."
+  },
+  {
+   "id": "glasgow-economics-psychology",
+   "name": "Economics and Psychology",
+   "degree": "MA(SocSci) (Hons)",
+   "ucasCode": "CL81",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish degree: Honours is years 3 and 4, and in years 1 and 2 you also study other subjects (Glasgow's 'flexible degrees'). Optional study abroad of up to a year (usually in year 3).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "behavioural-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB in three A-levels (England, Wales and Northern Ireland), including A-level Mathematics at B and an A-level in English or a Humanities subject",
+    "source": {
+     "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+     "checked": "2026-10-21",
+     "evidence": "Summary of entry requirements for Economics/Psychology - MA(SocSci) A-level standard entry requirements AAB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "A-level Mathematics at B. Further Mathematics counts as an extra A-level but cannot be used in place of Mathematics where Mathematics is a required subject."
+    },
+    {
+     "subjects": [
+      "English Language",
+      "English Language and Literature",
+      "English Literature",
+      "Accounting",
+      "Ancient History",
+      "Arabic",
+      "Art and Design",
+      "Business",
+      "Chinese",
+      "Classical Civilisation",
+      "Classical Greek",
+      "Drama and Theatre",
+      "Economics",
+      "French",
+      "Geography",
+      "German",
+      "History",
+      "History of Art",
+      "Italian",
+      "Japanese",
+      "Latin",
+      "Law",
+      "Music",
+      "Philosophy",
+      "Politics",
+      "Psychology",
+      "Religious Studies",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Urdu"
+     ],
+     "minGrade": "B",
+     "note": "An A-level in English or a Humanities subject. The page says 'at A/B', read here as grade B or above. Glasgow's admissions guidance classes Geography and Psychology as Humanities subjects, so either counts. General Studies is not accepted."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "checked": "2026-10-21",
+    "evidence": "Additional Requirement: A-level Mathematics at B"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course, and Glasgow is not on UAT-UK's list of universities using the TMUA for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our admissions tests."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Open to Year 12 students in England or Wales (Year 13 in Northern Ireland) who have always attended a state-funded school or college, plus extra Sutton Trust criteria (applications open early January and close early March 2027). Completing Glasgow's own Sutton Trust Summer School, taking part in the academic sessions and passing its Academic Skills module may lead to an adjusted (lower) offer. Glasgow does not publish the adjusted A-level grades. Only the Glasgow programme counts, not a Sutton Trust summer school at another university.",
+     "programme": "Sutton Trust Summer School (at Glasgow)",
+     "source": {
+      "url": "https://www.gla.ac.uk/study/wp/suttontrust/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of our Sutton Trust Summer School may lead to an adjusted offer of entry."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "ucas": "https://www.ucas.com/explore/courses/03befa56-2089-6f11-a2b3-4653a943c017/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Glasgow's degree pages are for entry in 2027, no 2028 pages found); 2027 entry recorded",
+    "No lower (contextual) A-level offer is published for students from England, Wales or Northern Ireland; Glasgow's adjusted offers are Highers-based for applicants living in Scotland",
+    "GCSE requirements: none listed in Glasgow's entry requirements summary for this course",
+    "The English/Humanities wording 'at A/B' is not explained; treated as grade B or above",
+    "Whether the 'Psychology requirements' add anything beyond the Economics/Psychology summary shown on the page"
+   ],
+   "notes": "Joint honours: Economics and Psychology. Glasgow's Economics page says applicants must also meet the Psychology requirements (on Glasgow's Psychology MA(SocSci) page: AAB, English or Humanities and GCSE Mathematics at B or 5-6). The Economics/Psychology summary itself lists A-level Mathematics at B. Glasgow's Psychology page says getting into Honours Psychology is competitive and decided at the end of second year."
+  },
+  {
+   "id": "glasgow-economics-maths",
+   "name": "Economics and Mathematics",
+   "degree": "MA(SocSci) (Hons)",
+   "ucasCode": "GL11",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish degree: Honours is years 3 and 4, and in years 1 and 2 you also study other subjects (Glasgow's 'flexible degrees'). Optional study abroad of up to a year (usually in year 3).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB in three A-levels (England, Wales and Northern Ireland), including A-level Mathematics at B and an A-level in English or a Humanities subject",
+    "source": {
+     "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+     "checked": "2026-10-21",
+     "evidence": "Summary of entry requirements for Economics/Mathematics - MA(SocSci) A-level standard entry requirements AAB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "A-level Mathematics at B. Further Mathematics counts as an extra A-level but cannot be used in place of Mathematics where Mathematics is a required subject."
+    },
+    {
+     "subjects": [
+      "English Language",
+      "English Language and Literature",
+      "English Literature",
+      "Accounting",
+      "Ancient History",
+      "Arabic",
+      "Art and Design",
+      "Business",
+      "Chinese",
+      "Classical Civilisation",
+      "Classical Greek",
+      "Drama and Theatre",
+      "Economics",
+      "French",
+      "Geography",
+      "German",
+      "History",
+      "History of Art",
+      "Italian",
+      "Japanese",
+      "Latin",
+      "Law",
+      "Music",
+      "Philosophy",
+      "Politics",
+      "Psychology",
+      "Religious Studies",
+      "Russian",
+      "Sociology",
+      "Spanish",
+      "Urdu"
+     ],
+     "minGrade": "B",
+     "note": "An A-level in English or a Humanities subject. The page says 'at A/B', read here as grade B or above. Glasgow's admissions guidance classes Geography and Psychology as Humanities subjects, so either counts. General Studies is not accepted."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "checked": "2026-10-21",
+    "evidence": "Additional Requirement: A-level Mathematics at B"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course, and Glasgow is not on UAT-UK's list of universities using the TMUA for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our admissions tests."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Open to Year 12 students in England or Wales (Year 13 in Northern Ireland) who have always attended a state-funded school or college, plus extra Sutton Trust criteria (applications open early January and close early March 2027). Completing Glasgow's own Sutton Trust Summer School, taking part in the academic sessions and passing its Academic Skills module may lead to an adjusted (lower) offer. Glasgow does not publish the adjusted A-level grades. Only the Glasgow programme counts, not a Sutton Trust summer school at another university.",
+     "programme": "Sutton Trust Summer School (at Glasgow)",
+     "source": {
+      "url": "https://www.gla.ac.uk/study/wp/suttontrust/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of our Sutton Trust Summer School may lead to an adjusted offer of entry."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gla.ac.uk/undergraduate/degrees/economics/",
+    "ucas": "https://www.ucas.com/explore/courses/a08dd08f-642a-2b77-ddf9-3aa9f73aa09c/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Glasgow's degree pages are for entry in 2027, no 2028 pages found); 2027 entry recorded",
+    "No lower (contextual) A-level offer is published for students from England, Wales or Northern Ireland; Glasgow's adjusted offers are Highers-based for applicants living in Scotland",
+    "GCSE requirements: none listed in Glasgow's entry requirements summary for this course",
+    "The English/Humanities wording 'at A/B' is not explained; treated as grade B or above"
+   ],
+   "notes": "Joint honours: Economics and Mathematics (social sciences route). There is also a BSc version, Mathematics/Economics (LG1D), which shows AAB with A-level Mathematics at A and no English or Humanities requirement."
+  },
+  {
+   "id": "glasgow-finance",
+   "name": "Finance",
+   "degree": "BFin",
+   "ucasCode": "NL30",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish degree. Optional study abroad of up to a year or one semester (done in year 3).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB in three A-levels (England, Wales and Northern Ireland), including A-level Mathematics at A",
+    "source": {
+     "url": "https://www.gla.ac.uk/undergraduate/degrees/finance/",
+     "checked": "2026-10-21",
+     "evidence": "Summary of entry requirements for Finance - BFin A-level standard entry requirements AAB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "A-level Mathematics at A. Further Mathematics counts as an extra A-level but cannot be used in place of Mathematics where Mathematics is a required subject."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English at grade B, or 5/6 in the new grading"
+    }
+   ],
+   "gcseText": "GCSE English at Grade B (or 5/6)",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.gla.ac.uk/undergraduate/degrees/finance/",
+    "checked": "2026-10-21",
+    "evidence": "Additional Requirement: A-level Mathematics at A"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course, and Glasgow is not on UAT-UK's list of universities using the TMUA for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our admissions tests."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Open to Year 12 students in England or Wales (Year 13 in Northern Ireland) who have always attended a state-funded school or college, plus extra Sutton Trust criteria (applications open early January and close early March 2027). Completing Glasgow's own Sutton Trust Summer School, taking part in the academic sessions and passing its Academic Skills module may lead to an adjusted (lower) offer. Glasgow does not publish the adjusted A-level grades. Only the Glasgow programme counts, not a Sutton Trust summer school at another university.",
+     "programme": "Sutton Trust Summer School (at Glasgow)",
+     "source": {
+      "url": "https://www.gla.ac.uk/study/wp/suttontrust/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of our Sutton Trust Summer School may lead to an adjusted offer of entry."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gla.ac.uk/undergraduate/degrees/finance/",
+    "ucas": "https://www.ucas.com/explore/courses/b1598ab0-bc3c-4b7a-8efe-b319357dc58f/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Glasgow's degree pages are for entry in 2027, no 2028 pages found); 2027 entry recorded",
+    "No lower (contextual) A-level offer is published for students from England, Wales or Northern Ireland; Glasgow's adjusted offers are Highers-based for applicants living in Scotland"
+   ],
+   "notes": "Glasgow's Finance (BFin) degree in the Adam Smith Business School. No English or Humanities A-level is asked for; the GCSE English requirement is B (or 5/6)."
+  },
+  {
+   "id": "glasgow-accountancy-finance",
+   "name": "Accountancy with Finance",
+   "degree": "BAcc",
+   "ucasCode": "N4N3",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish degree. Optional study abroad of up to a year.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB in three A-levels (England, Wales and Northern Ireland), including A-level Mathematics at A",
+    "source": {
+     "url": "https://www.gla.ac.uk/undergraduate/degrees/accountancy/",
+     "checked": "2026-10-21",
+     "evidence": "Summary of entry requirements for Accountancy with Finance - BAcc A-level standard entry requirements AAB"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "A-level Mathematics at A. Further Mathematics counts as an extra A-level but cannot be used in place of Mathematics where Mathematics is a required subject."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "5",
+     "note": "GCSE English at grade B, or 5/6 in the new grading"
+    }
+   ],
+   "gcseText": "GCSE English at Grade B (or 5/6)",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.gla.ac.uk/undergraduate/degrees/accountancy/",
+    "checked": "2026-10-21",
+    "evidence": "Additional Requirement: A-level Mathematics at A"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course, and Glasgow is not on UAT-UK's list of universities using the TMUA for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our admissions tests."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Open to Year 12 students in England or Wales (Year 13 in Northern Ireland) who have always attended a state-funded school or college, plus extra Sutton Trust criteria (applications open early January and close early March 2027). Completing Glasgow's own Sutton Trust Summer School, taking part in the academic sessions and passing its Academic Skills module may lead to an adjusted (lower) offer. Glasgow does not publish the adjusted A-level grades. Only the Glasgow programme counts, not a Sutton Trust summer school at another university.",
+     "programme": "Sutton Trust Summer School (at Glasgow)",
+     "source": {
+      "url": "https://www.gla.ac.uk/study/wp/suttontrust/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of our Sutton Trust Summer School may lead to an adjusted offer of entry."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.gla.ac.uk/undergraduate/degrees/accountancy/",
+    "ucas": "https://www.ucas.com/explore/courses/7e84ac92-2d52-bdbb-16a1-5965f8ab0665/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Glasgow's degree pages are for entry in 2027, no 2028 pages found); 2027 entry recorded",
+    "No lower (contextual) A-level offer is published for students from England, Wales or Northern Ireland; Glasgow's adjusted offers are Highers-based for applicants living in Scotland"
+   ],
+   "notes": "Part of Glasgow's Accountancy & Finance (BAcc) programme, which Glasgow describes as professionally accredited. The other BAcc routes show the same requirements: Accountancy (N400), with International Accounting (N401) and with Languages (N4T9, study abroad required)."
+  }
+ ],
+ "notes": [
+  "Scottish university: these degrees are 4 years (Honours in years 3 and 4) and years 1 and 2 also include other subjects. Glasgow's degree pages are for entry in 2027; no 2028 pages yet (checked 2026-10-21), so all courses use 2027 entry.",
+  "Glasgow's degree pages fill in the A-level entry requirements with a degree picker and a country picker. This record uses the England selection for every course (Wales and Northern Ireland show the same A-level requirements for Economics).",
+  "Standard A-level offer is AAB for every course recorded. Glasgow's published widening-access (adjusted) offers are for Scottish Highers and applicants living in Scotland, so no lower A-level offer is recorded.",
+  "The only route to an adjusted offer for Year 12 students from England, Wales or Northern Ireland is the Sutton Trust Summer School hosted at Glasgow (recorded in each course's alternative offers). Glasgow's own Top-Up, Reach, Access to a Career, Taster Week and WP Summer School programmes are for pupils in Scotland, SIMD postcode areas or school leavers holding an adjusted offer, so none is listed as a programme.",
+  "No admissions test: Glasgow is not on UAT-UK's TMUA list for 2027 entry and none is listed in the entry requirements shown for these courses.",
+  "Glasgow RUK Access Bursary (2027-28 entry): £2,500 a year if household income is under £25,001, £1,500 a year if between £25,000 and £35,000. RUK Excellence Scholarship: £3,000 for the first year for A*AA or better at A-level in one sitting (fees page).",
+  "Other economics joint degrees on Glasgow's Economics page (not recorded as separate courses, England selection): Economics/Business & Management LN12 (AAB, English or Humanities, Mathematics), Economics/Accountancy BAcc LN14 (AAB, Mathematics at A, English or Humanities, GCSE English B or 5/6), Mathematics/Economics BSc LG1D and Economics/Statistics BSc GL31 (AAB, Mathematics at A), Economics/Philosophy LVC5 (as Economics).",
+  "Postcode is the Adam Smith Building, 2 Discovery Place, home of the Adam Smith Business School that runs these degrees; Glasgow says its main entrance faces the main University campus and Kelvingrove Park. The degree pages say the courses are taught at the Gilmorehill campus."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2027/28 tuition fee for students from England, Wales and Northern Ireland still 'TBC' on Glasgow's page; the 2026/27 fee (£9,790) is recorded",
+  "2027 open day dates not announced; only 24 October 2026 is listed",
+  "No A-level contextual or adjusted offer is published for students from outside Scotland; the Sutton Trust Summer School adjusted-offer grades are not published",
+  "Whether a placement year is available is not stated on the course pages",
+  "Wording 'at A/B' for the English/Humanities A-level is not explained on Glasgow's page"
+ ]
+}

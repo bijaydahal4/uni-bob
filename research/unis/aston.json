@@ -1,0 +1,981 @@
+{
+ "id": "aston",
+ "name": "Aston University",
+ "shortName": "Aston",
+ "aliases": [
+  "Aston",
+  "Aston Uni",
+  "Aston University Birmingham",
+  "AstonUni"
+ ],
+ "city": "Birmingham",
+ "region": "Midlands",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.aston.ac.uk/study/courses/international-business-and-economics-bsc",
+  "checked": "2026-10-21",
+  "evidence": "Our campus is based in the centre of Birmingham, the youngest major city in Europe and a great place to live, work and study."
+ },
+ "location": {
+  "postcode": "B4 7ET",
+  "postcodeSource": "https://www.aston.ac.uk/about/visit/contact",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/B47ET",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (Home) students starting in 2027/28. Aston's course pages say this is expected and subject to parliamentary approval, and that fees will then rise each year in line with inflation (the 2028/29 fee is not published). The placement year is charged at £1,250 (a figure Aston gives for 2026 entry).",
+  "source": {
+   "url": "https://www.aston.ac.uk/current-students/fees-and-finance/undergraduate/home",
+   "checked": "2026-10-21",
+   "evidence": "From 2027/8, tuition fees will be £10,050."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 170,
+  "amountHigh": 182,
+  "period": "week",
+  "academicYear": "2027/28",
+  "text": "On-campus ensuite halls (run with Unite Students) cost £170 a week (7-bed flat) to £182 a week (5-bed flat) for September 2027 starters on 44-week contracts, with all bills (except a TV Licence) and Wi-Fi included. There is no deposit, but a £250 advance fee is deducted from your first rent payment.",
+  "source": {
+   "url": "https://www.aston.ac.uk/undergraduate/your-application/accommodation/accommodation-for-new-undergraduate-students",
+   "checked": "2026-10-21",
+   "evidence": "Available for £170.00 per week, with 44-week contracts available."
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-28",
+    "endDate": null,
+    "label": "Undergraduate open day (9am to 3pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open day: Saturday 28 November 2026, 9am to 3pm (Aston's last of 2026). 2027 dates aren't announced yet. There is also an online Virtual Open Day.",
+  "url": "https://www.aston.ac.uk/open-days/undergraduate",
+  "source": {
+   "url": "https://www.aston.ac.uk/open-days/undergraduate",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 28th November 2026, 9:00am-3:00pm"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "UK (Home) fee students from state schools who meet any one of Aston's criteria can get a lower 'Aston Ready' offer, assessed automatically when they apply.",
+  "typicalReduction": "One or two grades lower than the standard offer (for example, ABB becomes BBB).",
+  "criteria": [
+   {
+    "key": "fsm",
+    "detail": "Eligible for free school meals by the end of key stage 4, within the last 6 years (Aston gets this from UCAS' Modernised Contextual Data Service).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Live in a low participation neighbourhood: POLAR 4 quintile 1 or 2.",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Declared a disability (Aston uses the information on your UCAS form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "access",
+    "detail": "Completed an Aston Pathways programme during Year 12 and 13 (email the Pathway Team with your UCAS number when you apply). Aston's Pathways to the Professions programmes cover Medicine, Healthcare and Engineering and Technology (STEM).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "school",
+    "detail": "Studying at a school in the Aston University STEM Education Academy Trust: Aston University Engineering Academy, Aston University Maths School or Aston University Goldsmith's Institute.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Spent time in local authority care (declare that you are a care leaver on your UCAS form; your referee is normally expected to confirm).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Granted refugee status by the Home Office.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "To receive a contextual offer you must have attended a state school and be assessed as a Home student for fee purposes, and meet one of the listed criteria. Typically the Aston Ready offer is one or two grades lower than the standard offer. It is assessed at the point of application (no extra forms), except that Pathways completers must email the Pathway Team with their UCAS number. It does not apply to the Business and Social Sciences Foundation Year.",
+  "url": "https://www.aston.ac.uk/undergraduate/contextual-offer-aston-ready",
+  "source": {
+   "url": "https://www.aston.ac.uk/undergraduate/contextual-offer-aston-ready",
+   "checked": "2026-10-21",
+   "evidence": "Our contextual offer scheme could reduce your undergraduate offer by one or two grades."
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.aston.ac.uk/",
+  "courses": "https://www.aston.ac.uk/courses",
+  "economics": "https://www.aston.ac.uk/study/courses/economics-bsc",
+  "openDays": "https://www.aston.ac.uk/open-days/undergraduate",
+  "fees": "https://www.aston.ac.uk/current-students/fees-and-finance/undergraduate/home",
+  "contextual": "https://www.aston.ac.uk/undergraduate/contextual-offer-aston-ready",
+  "accommodation": "https://www.aston.ac.uk/undergraduate/your-application/accommodation/accommodation-for-new-undergraduate-students"
+ },
+ "courses": [
+  {
+   "id": "aston-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 4,
+   "lengthNote": "4 years with an integrated placement year. The placement year is compulsory for UK (Home) students; international students can ask to opt out. Studying abroad is an alternative to a work placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "required",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A level (standard offer)",
+    "source": {
+     "url": "https://www.aston.ac.uk/study/courses/economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "BBB (standard offer)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "GCSE Maths grade B/5"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English Language or English Literature, grade C/4"
+    }
+   ],
+   "gcseText": "GCSE Maths – grade B/5. GCSE English Language or English Literature – grade C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.aston.ac.uk/study/courses/economics-bsc",
+    "checked": "2026-10-21",
+    "evidence": "BBB (standard offer)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aston is not on UAT-UK's official list of courses that need the TMUA or another UAT-UK test for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "BBC with an EPQ at minimum grade B.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBC (with EPQ minimum grade B)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Aston Ready contextual offer, for UK (Home) fee students from state schools who meet one of Aston's criteria (for example free school meals, a low-participation area, disability, care experience, refugee status or completing an Aston Pathways programme).",
+     "programme": "Aston Ready",
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBC (contextual offer)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.aston.ac.uk/study/courses/economics-bsc",
+    "ucas": "https://www.ucas.com/explore/courses/5ddba4db-4ea9-4c1c-802a-398390d585b1/course"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Aston's course pages show a September 2027 start and a September 2028 page returns 404); 2027 entry used",
+    "A-level subjects: the course page lists grades only, with no required or excluded subjects, so it isn't stated whether every subject (for example Psychology, Geography or General Studies) counts"
+   ],
+   "notes": "Aston's main Economics degree. The Economics Foundation Programme (UCAS L10F, A level entry CCC) is a route onto this degree for students who don't yet meet the standard offer."
+  },
+  {
+   "id": "aston-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN13",
+   "lengthYears": 4,
+   "lengthNote": "4 years with an integrated placement year. The placement year is compulsory for UK (Home) students; international students can ask to opt out. Studying abroad is an alternative to a work placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "required",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A level (standard offer)",
+    "source": {
+     "url": "https://www.aston.ac.uk/study/courses/economics-and-finance-bsc/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "BBB (standard offer)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "GCSE Maths grade B/5"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English Language or English Literature, grade C/4"
+    }
+   ],
+   "gcseText": "GCSE Maths – grade B/5. GCSE English Language or English Literature – grade C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.aston.ac.uk/study/courses/economics-and-finance-bsc/september-2027",
+    "checked": "2026-10-21",
+    "evidence": "BBB (standard offer)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aston is not on UAT-UK's official list of courses that need the TMUA or another UAT-UK test for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "BBC with an EPQ at minimum grade B.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/economics-and-finance-bsc/september-2027",
+      "checked": "2026-10-21",
+      "evidence": "BBC (with EPQ minimum grade B)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Aston Ready contextual offer, for UK (Home) fee students from state schools who meet one of Aston's criteria (for example free school meals, a low-participation area, disability, care experience, refugee status or completing an Aston Pathways programme).",
+     "programme": "Aston Ready",
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/economics-and-finance-bsc/september-2027",
+      "checked": "2026-10-21",
+      "evidence": "BBC (contextual offer)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.aston.ac.uk/study/courses/economics-and-finance-bsc/september-2027",
+    "ucas": "https://www.ucas.com/explore/courses/0c3a3ef4-e757-4eaa-9474-19aca4892a60/economics-and-finance?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Aston's course pages show a September 2027 start and a September 2028 page returns 404); 2027 entry used",
+    "A-level subjects: the course page lists grades only, with no required or excluded subjects, so it isn't stated whether every subject (for example Psychology, Geography or General Studies) counts"
+   ],
+   "notes": "Delivered by Aston Business School, with a distinctive focus on the real estate sector. Aston's Economics and Business Economics Foundation Programme pages say you can progress to any Aston Business School degree after the foundation year, but this course is not named, so a foundation route is not confirmed."
+  },
+  {
+   "id": "aston-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN10",
+   "lengthYears": 4,
+   "lengthNote": "4 years with an integrated placement year. The placement year is compulsory for UK (Home) students; international students can ask to opt out. Studying abroad is an alternative to a work placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "required",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A level (standard offer)",
+    "source": {
+     "url": "https://www.aston.ac.uk/study/courses/business-economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "BBB (standard offer)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "GCSE Maths grade B/5"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English Language or English Literature, grade C/4"
+    }
+   ],
+   "gcseText": "GCSE Maths – grade B/5. GCSE English Language or English Literature – grade C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.aston.ac.uk/study/courses/business-economics-bsc",
+    "checked": "2026-10-21",
+    "evidence": "BBB (standard offer)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aston is not on UAT-UK's official list of courses that need the TMUA or another UAT-UK test for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "BBC with an EPQ at minimum grade B.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/business-economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBC (with EPQ minimum grade B)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Aston Ready contextual offer, for UK (Home) fee students from state schools who meet one of Aston's criteria (for example free school meals, a low-participation area, disability, care experience, refugee status or completing an Aston Pathways programme).",
+     "programme": "Aston Ready",
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/business-economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBC (contextual offer)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.aston.ac.uk/study/courses/business-economics-bsc",
+    "ucas": "https://www.ucas.com/explore/courses/d314d391-08da-40f7-822a-7b5857d92c76/course"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Aston's course pages show a September 2027 start and a September 2028 page returns 404); 2027 entry used",
+    "A-level subjects: the course page lists grades only, with no required or excluded subjects, so it isn't stated whether every subject (for example Psychology, Geography or General Studies) counts"
+   ],
+   "notes": "Economics applied to business decisions, with data analysis in Excel and a business management simulation. The Business Economics Foundation Programme (UCAS LN1F, A level entry CCC) is a route onto this degree."
+  },
+  {
+   "id": "aston-international-business-economics",
+   "name": "International Business and Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LNC1",
+   "lengthYears": 4,
+   "lengthNote": "4 years with an integrated placement year. The placement year is compulsory for UK (Home) students; international students can ask to opt out. Studying abroad is an alternative to a work placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "required",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A level (standard offer)",
+    "source": {
+     "url": "https://www.aston.ac.uk/study/courses/international-business-and-economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "BBB (standard offer)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "GCSE Maths grade B/5"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English Language or English Literature, grade C/4"
+    }
+   ],
+   "gcseText": "GCSE Maths – grade B/5. GCSE English Language or English Literature – grade C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.aston.ac.uk/study/courses/international-business-and-economics-bsc",
+    "checked": "2026-10-21",
+    "evidence": "BBB (standard offer)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aston is not on UAT-UK's official list of courses that need the TMUA or another UAT-UK test for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "BBC with an EPQ at minimum grade B.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/international-business-and-economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBC (with EPQ minimum grade B)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Aston Ready contextual offer, for UK (Home) fee students from state schools who meet one of Aston's criteria (for example free school meals, a low-participation area, disability, care experience, refugee status or completing an Aston Pathways programme).",
+     "programme": "Aston Ready",
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/international-business-and-economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBC (contextual offer)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.aston.ac.uk/study/courses/international-business-and-economics-bsc",
+    "ucas": "https://www.ucas.com/explore/courses/f197d48b-518a-2a83-b52c-231506a01325/course"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Aston's course pages show a September 2027 start and a September 2028 page returns 404); 2027 entry used",
+    "A-level subjects: the course page lists grades only, with no required or excluded subjects, so it isn't stated whether every subject (for example Psychology, Geography or General Studies) counts"
+   ],
+   "notes": "Offers an Exchange Partnership Second Degree Pathway: study overseas at a partner institution during the placement year and graduate with two undergraduate degrees. Foundation route not confirmed for this course (the page does not mention one)."
+  },
+  {
+   "id": "aston-economics-politics",
+   "name": "Economics and Politics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LL12",
+   "lengthYears": 4,
+   "lengthNote": "4 years with an integrated placement year. The placement year is compulsory for UK (Home) students; international students can ask to opt out. Studying abroad is an alternative to a work placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "required",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC at A level (standard offer)",
+    "source": {
+     "url": "https://www.aston.ac.uk/study/courses/economics-and-politics-bsc/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "BBC (standard offer)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "GCSE Maths grade B/5"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English Language or English Literature, grade C/4"
+    }
+   ],
+   "gcseText": "GCSE Maths – grade B/5. GCSE English Language or English Literature – grade C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.aston.ac.uk/study/courses/economics-and-politics-bsc/september-2027",
+    "checked": "2026-10-21",
+    "evidence": "BBC (standard offer)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aston is not on UAT-UK's official list of courses that need the TMUA or another UAT-UK test for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "BCC with an EPQ at minimum grade B.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/economics-and-politics-bsc/september-2027",
+      "checked": "2026-10-21",
+      "evidence": "BCC (with EPQ minimum grade B)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Aston Ready contextual offer, for UK (Home) fee students from state schools who meet one of Aston's criteria (for example free school meals, a low-participation area, disability, care experience, refugee status or completing an Aston Pathways programme).",
+     "programme": "Aston Ready",
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/economics-and-politics-bsc/september-2027",
+      "checked": "2026-10-21",
+      "evidence": "BCC (contextual offer)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.aston.ac.uk/study/courses/economics-and-politics-bsc/september-2027",
+    "ucas": "https://www.ucas.com/explore/courses/354abf4c-85ec-969f-a5e7-56c6ea3b777b/economics-and-politics"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Aston's course pages show a September 2027 start and a September 2028 page returns 404); 2027 entry used",
+    "A-level subjects: the course page lists grades only, with no required or excluded subjects, so it isn't stated whether every subject (for example Psychology, Geography or General Studies) counts"
+   ],
+   "notes": "Politics and economics together, with an integrated placement year in the UK or abroad. Foundation route not confirmed for this course (the page does not mention one)."
+  },
+  {
+   "id": "aston-maths-economics",
+   "name": "Mathematics with Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "G1L1",
+   "lengthYears": 4,
+   "lengthNote": "4 years; the module list includes a placement year between years 2 and 3, and the page says 'We encourage all our students to partake in a mathematics placement year'.",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB including A level Maths at minimum grade A",
+    "source": {
+     "url": "https://www.aston.ac.uk/study/courses/mathematics-economics-bsc",
+     "checked": "2026-10-21",
+     "evidence": "ABB, to include A level Maths at minimum grade A"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "A level Maths at minimum grade A for the standard ABB offer; the EPQ and contextual offers need Maths at minimum grade B."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "GCSE Mathematics minimum grade C/4"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English Language or Literature minimum grade C/4"
+    }
+   ],
+   "gcseText": "GCSE English Language or Literature minimum grade C/4. GCSE Mathematics minimum grade C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.aston.ac.uk/study/courses/mathematics-economics-bsc",
+    "checked": "2026-10-21",
+    "evidence": "ABB, to include A level Maths at minimum grade A"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aston is not on UAT-UK's official list of courses that need the TMUA or another UAT-UK test for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBB",
+     "tariff": null,
+     "conditions": "BBB including A level Maths at minimum grade B, with an EPQ at grade B.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/mathematics-economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBB, to include A level Maths at minimum grade B (with an EPQ at grade B)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "BBC including A level Maths at minimum grade B. Aston Ready contextual offer, for UK (Home) fee students from state schools who meet one of Aston's criteria (for example free school meals, a low-participation area, disability, care experience, refugee status or completing an Aston Pathways programme).",
+     "programme": "Aston Ready",
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/mathematics-economics-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBC, to include A level Maths at minimum grade B (contextual offer)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.aston.ac.uk/study/courses/mathematics-economics-bsc",
+    "ucas": "https://www.ucas.com/explore/courses/33a097bc-ed6d-b8f6-e437-6adf5d465d3a/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Aston's course pages show a September 2027 start and a September 2028 page returns 404); 2027 entry used",
+    "A-level subjects: only Maths is required; the page doesn't say whether the other A levels (for example Psychology or Geography) can be any subject",
+    "Placement year: the page encourages every student to take one but doesn't say whether it is compulsory"
+   ],
+   "notes": "Delivered jointly by the School of Engineering and Innovation and Aston Business School. The page says the course is accredited by the Institute of Mathematics and its Applications (re-accreditation under way). The Mathematics with Economics Foundation Programme guarantees progression onto this degree on successful completion."
+  },
+  {
+   "id": "aston-finance",
+   "name": "Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N300",
+   "lengthYears": 4,
+   "lengthNote": "4 years with an integrated placement year. The placement year is compulsory for UK (Home) students; international students can ask to opt out. Studying abroad is an alternative to a work placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "required",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A level (standard offer)",
+    "source": {
+     "url": "https://www.aston.ac.uk/study/courses/finance-bsc",
+     "checked": "2026-10-21",
+     "evidence": "BBB (standard offer)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "GCSE Maths grade B/5"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English Language or English Literature, grade C/4"
+    }
+   ],
+   "gcseText": "GCSE Maths – grade B/5. GCSE English Language or English Literature – grade C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.aston.ac.uk/study/courses/finance-bsc",
+    "checked": "2026-10-21",
+    "evidence": "BBB (standard offer)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aston is not on UAT-UK's official list of courses that need the TMUA or another UAT-UK test for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "BBC with an EPQ at minimum grade B.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/finance-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBC (with EPQ minimum grade B)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Aston Ready contextual offer, for UK (Home) fee students from state schools who meet one of Aston's criteria (for example free school meals, a low-participation area, disability, care experience, refugee status or completing an Aston Pathways programme).",
+     "programme": "Aston Ready",
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/finance-bsc",
+      "checked": "2026-10-21",
+      "evidence": "BBC (contextual offer)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.aston.ac.uk/study/courses/finance-bsc",
+    "ucas": "https://www.ucas.com/explore/courses/991aed67-996b-cc19-c7e7-1d8baae31b11/course"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Aston's course pages show a September 2027 start and a September 2028 page returns 404); 2027 entry used",
+    "A-level subjects: the course page lists grades only, with no required or excluded subjects, so it isn't stated whether every subject (for example Psychology, Geography or General Studies) counts"
+   ],
+   "notes": "Finance (Finance, Investment and Banking) with a Bloomberg finance lab on campus. Offers an Exchange Partnership Second Degree Pathway during the placement year. The Finance Foundation Programme (UCAS N30F, A level entry CCC) is a route onto this degree."
+  },
+  {
+   "id": "aston-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N420",
+   "lengthYears": 4,
+   "lengthNote": "4 years with an integrated placement year. The placement year is compulsory for UK (Home) students; international students can ask to opt out. Studying abroad is an alternative to a work placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "required",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A level (standard offer)",
+    "source": {
+     "url": "https://www.aston.ac.uk/study/courses/accounting-and-finance-bsc/september-2027",
+     "checked": "2026-10-21",
+     "evidence": "BBB (standard offer)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "GCSE Maths grade B/5"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English Language or English Literature, grade C/4"
+    }
+   ],
+   "gcseText": "GCSE Maths – grade B/5. GCSE English Language or English Literature – grade C/4.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.aston.ac.uk/study/courses/accounting-and-finance-bsc/september-2027",
+    "checked": "2026-10-21",
+    "evidence": "BBB (standard offer)"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aston is not on UAT-UK's official list of courses that need the TMUA or another UAT-UK test for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "BBC with an EPQ at minimum grade B.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/accounting-and-finance-bsc/september-2027",
+      "checked": "2026-10-21",
+      "evidence": "BBC (with EPQ minimum grade B)"
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "BBC",
+     "tariff": null,
+     "conditions": "Aston Ready contextual offer, for UK (Home) fee students from state schools who meet one of Aston's criteria (for example free school meals, a low-participation area, disability, care experience, refugee status or completing an Aston Pathways programme).",
+     "programme": "Aston Ready",
+     "source": {
+      "url": "https://www.aston.ac.uk/study/courses/accounting-and-finance-bsc/september-2027",
+      "checked": "2026-10-21",
+      "evidence": "BBC (contextual offer)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.aston.ac.uk/study/courses/accounting-and-finance-bsc/september-2027",
+    "ucas": "https://www.ucas.com/explore/courses/18c94680-1d4a-4691-28e4-c47ad9171db5/accounting-and-finance"
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Aston's course pages show a September 2027 start and a September 2028 page returns 404); 2027 entry used",
+    "A-level subjects: the course page lists grades only, with no required or excluded subjects, so it isn't stated whether every subject (for example Psychology, Geography or General Studies) counts"
+   ],
+   "notes": "The page says the programme may lead to exemptions from exams of professional bodies including CIMA, ACCA and ICAEW. The Accounting and Finance Foundation Programme (UCAS N42F, A level entry CCC) is a route onto this degree."
+  }
+ ],
+ "notes": [
+  "All Aston course pages checked on 2026-10-21 show a September 2027 start and there are no 2028-entry pages yet (a September 2028 course URL returns 404), so every course uses 2027 entry.",
+  "Most Aston economics, finance and business degrees are 4-year courses with an integrated placement year. It is compulsory for UK (Home) students; international students can ask to opt out. Studying abroad is an alternative to a work placement.",
+  "Aston is not on UAT-UK's 2027-entry list of courses needing the TMUA or another UAT-UK test, and no Aston course page mentions an admissions test.",
+  "Foundation Programmes (A level entry CCC) exist for Economics (L10F), Business Economics (LN1F), Finance (N30F) and Accounting and Finance (N42F), and there is a Mathematics with Economics Foundation Programme. The first four also let you progress to other Aston Business School degrees (you still need the GCSE requirements).",
+  "Aston's Pathways to the Professions (Year 12 access programmes) are for Medicine, Healthcare and Engineering and Technology (STEM) only, so none is recorded as an Economics programme; completing one still counts as an Aston Ready contextual criterion. Schools can book KS5 Campus Experience Days that include Economics and Business subject tasters (not open to individual sign-up).",
+  "Aston is a compact single-site campus in the centre of Birmingham, with on-campus halls run with Unite Students."
+ ],
+ "notConfirmed": [
+  "2028 entry: no 2028 course requirements, fees, contextual criteria or open days are published yet; 2027 entry and 2027/28 figures are recorded",
+  "2027/28 Home fee (£10,050) is 'expected' and subject to parliamentary approval; the 2028/29 fee is not published",
+  "Placement-year fee for 2027 entry not confirmed: pages show £1,250 but say this is the September 2026 entry figure",
+  "Open days after 28 November 2026 not announced yet",
+  "Contextual criteria are published as the '2026 Aston Contextual Offer'; 2028-entry criteria not published",
+  "No Economics or business-specific Year 12 programme or summer school found; Business and Social Sciences subject tasters for 2026/27 are not published",
+  "A-level subject rules: none of the economics, finance or business course pages list required or excluded A-level subjects (apart from Maths for Mathematics with Economics)"
+ ]
+}

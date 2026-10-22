@@ -1,0 +1,884 @@
+{
+ "id": "swansea",
+ "name": "Swansea University",
+ "shortName": "Swansea",
+ "aliases": [
+  "Swansea",
+  "Swansea Uni",
+  "Swansea Univ",
+  "Swansea University"
+ ],
+ "city": "Swansea",
+ "region": "Wales",
+ "country": "Wales",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.swansea.ac.uk/the-university/location/",
+  "checked": "2026-10-21",
+  "evidence": "Swansea University spans two stunning campuses at each end of Swansea’s waterfront."
+ },
+ "location": {
+  "postcode": "SA1 8EN",
+  "postcodeSource": "https://www.swansea.ac.uk/contact-us/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/SA18EN",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 9790,
+  "academicYear": "2027/28",
+  "text": "£9,790 per year for UK (Home) students starting in September 2027 (2027/28), the same as the 2026/27 fee. Swansea says any future Welsh Government fee changes (such as inflation-linked rises) will be reflected in what it charges. A Year Abroad is charged at 15% and a Year in Industry at 20% of the standard fee.",
+  "source": {
+   "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics/",
+   "checked": "2026-10-21",
+   "evidence": "Sep 2027 | £ 9,790"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 130,
+  "amountHigh": 258,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University halls cost £130–£258 a week depending on the room (average £185 a week, about £7,400 for a 40-week contract, for a medium en-suite); utilities, internet and contents insurance are included and a £100 reservation deposit is payable (2026/27). A room in a private shared house averages about £122 a week rent plus about £16 a week bills.",
+  "source": {
+   "url": "https://www.swansea.ac.uk/undergraduate/fees-and-funding/cost-of-living/",
+   "checked": "2026-10-21",
+   "evidence": "University accommodation costs range from £130 per week - £258 per week depending on requirements"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "Undergraduate open day (Singleton Park and Bay campuses)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open day: Saturday 7 November 2026 (registration from 8:30am to about 4pm on both campuses; book in advance). Spring open days are mentioned but their dates aren't published yet. Online 'Masterclass Series' course webinars run in Autumn 2026.",
+  "url": "https://www.swansea.ac.uk/open-days/",
+  "source": {
+   "url": "https://www.swansea.ac.uk/open-days/",
+   "checked": "2026-10-21",
+   "evidence": "Sign up for our next open day 7th November"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Swansea doesn't publish a general contextual-offer scheme with criteria for these courses; its admissions policy says finishing its Step Up programme, or being a care leaver, may lead to a reduced offer (the size of the reduction isn't stated).",
+  "typicalReduction": "A tariff point reduction / reduced offer (amount not stated on the pages checked)",
+  "criteria": [
+   {
+    "key": "access",
+    "detail": "Successfully completing the Step Up to Swansea University programme (for first-year A-Level/BTEC students at schools and colleges in South West Wales) may lead to a reduced offer for certain undergraduate programmes. Applicants who completed a similar compact or summer school at another university can send full details to the Admissions Office to ask for the same points reduction.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "care",
+    "detail": "Students who have been in care for more than 3 months and have a Care Leavers' Pathway Plan get a support package that may lead to a reduced offer.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": null,
+  "rulesText": "Swansea says each application is still considered on its merits. Successful completion of the Step Up programme may lead to a reduced offer for certain undergraduate programmes, and the care-leaver support package may lead to a reduced offer. No other contextual criteria or grade reductions are published on the pages checked.",
+  "url": "https://www.swansea.ac.uk/media/overarching-admissions-policy-2023.pdf",
+  "source": {
+   "url": "https://www.swansea.ac.uk/media/overarching-admissions-policy-2023.pdf",
+   "checked": "2026-10-21",
+   "evidence": "Successful completion of the Step Up programme may lead to a reduced offer"
+  }
+ },
+ "programmes": [
+  {
+   "id": "swansea-step-up",
+   "name": "Step Up to Swansea University",
+   "provider": "Swansea University",
+   "providerType": "university",
+   "uniIds": [
+    "swansea"
+   ],
+   "summary": "A series of day events (information, guidance and subject taster days) plus a short summer school for first-year A-Level and BTEC students from under-represented backgrounds in South West Wales, with a tariff point reduction for Swansea courses if you complete it.",
+   "whoCanApply": "First-year A-Level and BTEC students from backgrounds under-represented in higher education, including young carers, care experienced young people and young people living in the lower 40% of the Welsh Index of Multiple Deprivation. Swansea says the Step Up team can only work with schools and colleges in South West Wales, so students elsewhere (for example Bournemouth) are pointed to the Swansea Recruitment Team instead.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "care",
+    "carer",
+    "area"
+   ],
+   "eligibilityDetail": "A targeted programme for students from backgrounds under-represented in higher education, 'including, but not limited to' young carers, care experienced young people, and young people living in areas in the lower 40% of the Welsh Index of Multiple Deprivation. Only schools and colleges in South West Wales are supported. Students apply individually; selection is in February and students are told by early March.",
+   "benefits": [
+    "Tariff point reduction for Swansea University courses if you successfully complete the programme (size not stated)",
+    "Information and guidance on applications and university life",
+    "Subject taster days and a short summer school"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "swansea"
+   ],
+   "offerReduction": "A tariff point reduction (amount not stated); Swansea's admissions policy says it may lead to a reduced offer for certain undergraduate programmes",
+   "cost": "Not stated",
+   "isFree": null,
+   "format": "mixed",
+   "subjects": "All subjects (subject taster days)",
+   "yearGroup": "Year 12 (first year of A-Level or BTEC)",
+   "runs": {
+    "text": "Day events and a short summer school in the first year of A-Level/BTEC study (dates not published)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "January (the page says applications open each January; no 2027 date given)",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published (selection takes place in February; students told by early March)",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "The page gives no dated round: it only says applications open in January, selection is in February and students are notified by early March, so those timings are expectations.",
+   "url": "https://www.swansea.ac.uk/reaching-wider/step-up-to-swansea-university/",
+   "source": {
+    "url": "https://www.swansea.ac.uk/reaching-wider/step-up-to-swansea-university/",
+    "checked": "2026-10-21",
+    "evidence": "Students who successfully complete the programme will be eligible for a tariff point reduction for Swansea University courses."
+   },
+   "notConfirmed": [
+    "cost: the page doesn't say whether the programme is free",
+    "runs/deadline: no dates published",
+    "offerReduction: the size of the tariff point reduction isn't stated",
+    "eligibility: only schools and colleges in South West Wales are supported, so a student in Bournemouth can't join"
+   ]
+  },
+  {
+   "id": "swansea-summer-school",
+   "name": "Swansea University Undergraduate Summer School",
+   "provider": "Swansea University",
+   "providerType": "university",
+   "uniIds": [
+    "swansea"
+   ],
+   "summary": "A July summer school for Year 12 students with a 3-day residential (or day passes) of hands-on workshops in courses including Business, Law, Medicine and Engineering.",
+   "whoCanApply": "Year 12 students curious about university life or considering a degree. Applications are reviewed after the deadline, so a place isn't automatic.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Open to Year 12 students; financial assistance may be offered to successful UK applicants if the cost is a barrier.",
+   "benefits": [
+    "Live on a real university campus and try subject workshops (Business is one of the listed courses)",
+    "Personal statement workshop",
+    "Financial assistance may be available to successful UK applicants"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "£225 per person for the 3-day residential; £80 for a 3-day day pass (2026 prices)",
+   "isFree": false,
+   "format": "residential",
+   "subjects": "Mixed: courses such as Medicine, Biomedical Science, Law, Business and Engineering",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Held every July; the 2026 summer school ran 5th - 8th July 2026 (2027 dates not announced)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published (you can register your interest to hear the 2027 dates)",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "2027 deadline not published (the 2026 deadline was 18 May)",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026 summer school (applications for 2026 are closed). Swansea says it is held every July; 2027 dates and prices aren't announced yet.",
+   "url": "https://www.swansea.ac.uk/undergraduate/summerschool/",
+   "source": {
+    "url": "https://www.swansea.ac.uk/undergraduate/summerschool/",
+    "checked": "2026-10-21",
+    "evidence": "Our 3-day Residential Summer School costs £225 per person."
+   },
+   "notConfirmed": [
+    "runs/opens/deadline: 2027 dates not announced",
+    "cost: 2027 prices not announced (2026 prices recorded)"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.swansea.ac.uk/",
+  "courses": "https://www.swansea.ac.uk/undergraduate/courses/",
+  "economics": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/",
+  "openDays": "https://www.swansea.ac.uk/open-days/",
+  "fees": "https://www.swansea.ac.uk/undergraduate/fees-and-funding/tuition-fees/",
+  "contextual": "https://www.swansea.ac.uk/media/overarching-admissions-policy-2023.pdf",
+  "accommodation": "https://www.swansea.ac.uk/accommodation/accommodation-fees/"
+ },
+ "courses": [
+  {
+   "id": "swansea-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a Year Abroad (L101), a Year in Industry (L1W0) or a classroom-based Foundation Year (L10F, typical offer CCD-DDD)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A level typical offer ABB-BCC",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A level (or equivalent) typical offer ABB - BCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics/",
+    "checked": "2026-10-21",
+    "evidence": "ECO1002 is for students who do NOT have an A-Level in Maths."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (Swansea is not on UAT-UK's official TMUA list for 2027 entry)",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics/",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you are predicted grade B or above in the EPQ you get an offer one grade lower plus the EPQ at B (Swansea's example: an offer of AAB becomes ABB plus EPQ B). Swansea doesn't say how this applies to its offer ranges.",
+     "programme": null,
+     "source": {
+      "url": "https://www.swansea.ac.uk/undergraduate/courses/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "applicants predicted grade B or above in EPQ will receive an offer with a one-grade reduction"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Successfully completing Swansea's Step Up programme (for first-year A-Level/BTEC students at schools and colleges in South West Wales) makes you eligible for a tariff point reduction; the size of the reduction isn't stated and the admissions policy says it applies to 'certain' undergraduate programmes.",
+     "programme": "Step Up to Swansea University",
+     "source": {
+      "url": "https://www.swansea.ac.uk/reaching-wider/step-up-to-swansea-university/",
+      "checked": "2026-10-21",
+      "evidence": "Students who successfully complete the programme will be eligible for a tariff point reduction for Swansea University courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics/",
+    "ucas": "https://www.ucas.com/explore/courses/014f5282-7df2-4286-a9ef-5d2bec183c5f/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry: no 2028-entry requirements are published (the page lists September 2027 starts); 2027 entry used",
+    "gcse: the course page doesn't list GCSE requirements (the UCAS course page can't be opened by scripts)",
+    "subjects: the page lists no required, preferred or excluded A-level subjects, so which subjects are accepted can't be confirmed",
+    "campus: the key-details box says Singleton Park Campus, but the page says all Economics programmes move to Bay Campus from September 2027"
+   ],
+   "notes": "The page says that from September 2027 the Economics Department will be based at Bay Campus, where all Economics programmes will be taught. A-level Maths isn't listed as a requirement: the first-year maths guidance covers students who don't have A-level Maths, who take ECO1002 instead of ECO1001. Mixed qualifications: 104-128 UCAS tariff points from your 3 highest qualifications. The foundation-year route costs £5,760 in year 1."
+  },
+  {
+   "id": "swansea-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L111",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a Year Abroad (L1W4), a Year in Industry (L1W1) or a classroom-based Foundation Year (L11F, typical offer CCD-DDD)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A level typical offer ABB-BCC",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-finance/",
+     "checked": "2026-10-21",
+     "evidence": "A level (or equivalent) typical offer ABB - BCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-finance/",
+    "checked": "2026-10-21",
+    "evidence": "ECO1002 is for students who do not have an A-Level in Maths or have achieved a Grade D or below"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (Swansea is not on UAT-UK's official TMUA list for 2027 entry)",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-finance/",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you are predicted grade B or above in the EPQ you get an offer one grade lower plus the EPQ at B (Swansea's example: an offer of AAB becomes ABB plus EPQ B). Swansea doesn't say how this applies to its offer ranges.",
+     "programme": null,
+     "source": {
+      "url": "https://www.swansea.ac.uk/undergraduate/courses/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "applicants predicted grade B or above in EPQ will receive an offer with a one-grade reduction"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Successfully completing Swansea's Step Up programme (for first-year A-Level/BTEC students at schools and colleges in South West Wales) makes you eligible for a tariff point reduction; the size of the reduction isn't stated and the admissions policy says it applies to 'certain' undergraduate programmes.",
+     "programme": "Step Up to Swansea University",
+     "source": {
+      "url": "https://www.swansea.ac.uk/reaching-wider/step-up-to-swansea-university/",
+      "checked": "2026-10-21",
+      "evidence": "Students who successfully complete the programme will be eligible for a tariff point reduction for Swansea University courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-finance/",
+    "ucas": "https://www.ucas.com/explore/courses/814236e5-7573-b93b-54fa-f365eafda83d/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry: no 2028-entry requirements are published (the page lists September 2027 starts); 2027 entry used",
+    "gcse: the course page doesn't list GCSE requirements (the UCAS course page can't be opened by scripts)",
+    "subjects: the page lists no required, preferred or excluded A-level subjects, so which subjects are accepted can't be confirmed",
+    "campus: the key-details box says Singleton Park Campus; Swansea's BSc Economics course page says its Economics programmes move to Bay Campus from September 2027, but this page doesn't say so"
+   ],
+   "notes": "Swansea's BSc Economics course page says that from September 2027 the Economics Department will be based at Bay Campus, where all Economics programmes will be taught; this page's key-details box still says Singleton Park Campus. First-year maths guidance: students with A-level Maths at grade C or above take ECO1001; students without A-level Maths (or grade D or below) take ECO1002. The page says the degree is accredited by ACCA and CIMA (subject to module selections). Mixed qualifications: 104-128 UCAS tariff points from your 3 highest qualifications."
+  },
+  {
+   "id": "swansea-economics-business",
+   "name": "Economics and Business",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L112",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a Year Abroad (L1W3), a Year in Industry (L1W2) or a classroom-based Foundation Year (L12F, typical offer CCD-DDD)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A level typical offer BBB-BCC",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-business/",
+     "checked": "2026-10-21",
+     "evidence": "A level (or equivalent) typical offer BBB-BCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-business/",
+    "checked": "2026-10-21",
+    "evidence": "ECO1002 is for students who do not have an A-Level in Maths or have achieved a Grade D or below"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (Swansea is not on UAT-UK's official TMUA list for 2027 entry)",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-business/",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you are predicted grade B or above in the EPQ you get an offer one grade lower plus the EPQ at B (Swansea's example: an offer of AAB becomes ABB plus EPQ B). Swansea doesn't say how this applies to its offer ranges.",
+     "programme": null,
+     "source": {
+      "url": "https://www.swansea.ac.uk/undergraduate/courses/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "applicants predicted grade B or above in EPQ will receive an offer with a one-grade reduction"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Successfully completing Swansea's Step Up programme (for first-year A-Level/BTEC students at schools and colleges in South West Wales) makes you eligible for a tariff point reduction; the size of the reduction isn't stated and the admissions policy says it applies to 'certain' undergraduate programmes.",
+     "programme": "Step Up to Swansea University",
+     "source": {
+      "url": "https://www.swansea.ac.uk/reaching-wider/step-up-to-swansea-university/",
+      "checked": "2026-10-21",
+      "evidence": "Students who successfully complete the programme will be eligible for a tariff point reduction for Swansea University courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/economics/bsc-economics-business/",
+    "ucas": "https://www.ucas.com/explore/courses/e2b5b5df-6fc5-81a5-2243-dc936d0f22dd/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry: no 2028-entry requirements are published (the page lists September 2027 starts); 2027 entry used",
+    "gcse: the course page doesn't list GCSE requirements (the UCAS course page can't be opened by scripts)",
+    "subjects: the page lists no required, preferred or excluded A-level subjects, so which subjects are accepted can't be confirmed",
+    "campus: the key-details box says Singleton Park Campus; Swansea's BSc Economics course page says its Economics programmes move to Bay Campus from September 2027, but this page doesn't say so"
+   ],
+   "notes": "Swansea's BSc Economics course page says that from September 2027 the Economics Department will be based at Bay Campus, where all Economics programmes will be taught; this page's key-details box still says Singleton Park Campus. First-year maths guidance: students with A-level Maths at grade C or above take ECO1001; students without A-level Maths (or grade D or below) take ECO1002. Mixed qualifications: 104-128 UCAS tariff points from your 3 highest qualifications."
+  },
+  {
+   "id": "swansea-ppe",
+   "name": "Philosophy, Politics and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L0V0",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a Year Abroad (L0V2) or a Year in Industry (L0V3); no foundation-year route is listed",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "none"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A level typical offer BBB-BCC",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/politics-philosophy-international-relations/ba-philosophy-politics-economics/",
+     "checked": "2026-10-21",
+     "evidence": "A level (or equivalent) typical offer BBB-BCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/politics-philosophy-international-relations/ba-philosophy-politics-economics/",
+    "checked": "2026-10-21",
+    "evidence": "We consider all applicants on their own merits and welcome applications from students with a wide range of qualifications."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (Swansea is not on UAT-UK's official TMUA list for 2027 entry)",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/politics-philosophy-international-relations/ba-philosophy-politics-economics/",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you are predicted grade B or above in the EPQ you get an offer one grade lower plus the EPQ at B (Swansea's example: an offer of AAB becomes ABB plus EPQ B). Swansea doesn't say how this applies to its offer ranges.",
+     "programme": null,
+     "source": {
+      "url": "https://www.swansea.ac.uk/undergraduate/courses/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "applicants predicted grade B or above in EPQ will receive an offer with a one-grade reduction"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Successfully completing Swansea's Step Up programme (for first-year A-Level/BTEC students at schools and colleges in South West Wales) makes you eligible for a tariff point reduction; the size of the reduction isn't stated and the admissions policy says it applies to 'certain' undergraduate programmes.",
+     "programme": "Step Up to Swansea University",
+     "source": {
+      "url": "https://www.swansea.ac.uk/reaching-wider/step-up-to-swansea-university/",
+      "checked": "2026-10-21",
+      "evidence": "Students who successfully complete the programme will be eligible for a tariff point reduction for Swansea University courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.swansea.ac.uk/undergraduate/courses/social-sciences/politics-philosophy-international-relations/ba-philosophy-politics-economics/",
+    "ucas": "https://www.ucas.com/explore/courses/62cd0f31-974b-becf-5ca2-1335101ec3b6/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry: no 2028-entry requirements are published (the page lists September 2027 starts); 2027 entry used",
+    "gcse: the course page doesn't list GCSE requirements (the UCAS course page can't be opened by scripts)",
+    "subjects: the page lists no required, preferred or excluded A-level subjects, so which subjects are accepted can't be confirmed"
+   ],
+   "notes": "Taught at Singleton Park Campus according to the course page. Mixed qualifications: 120 UCAS tariff points from your 3 highest qualifications."
+  },
+  {
+   "id": "swansea-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN43",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a Year Abroad (NN54), a Year in Industry (NN44) or a classroom-based Foundation Year (NN4F, typical offer CCD-DDD)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A level typical offer ABB-BCC",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-accounting-finance/",
+     "checked": "2026-10-21",
+     "evidence": "A level (or equivalent) typical offer ABB - BCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-accounting-finance/",
+    "checked": "2026-10-21",
+    "evidence": "We consider all applicants on their own merits and welcome applications from students with a wide range of qualifications."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (Swansea is not on UAT-UK's official TMUA list for 2027 entry)",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-accounting-finance/",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you are predicted grade B or above in the EPQ you get an offer one grade lower plus the EPQ at B (Swansea's example: an offer of AAB becomes ABB plus EPQ B). Swansea doesn't say how this applies to its offer ranges.",
+     "programme": null,
+     "source": {
+      "url": "https://www.swansea.ac.uk/undergraduate/courses/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "applicants predicted grade B or above in EPQ will receive an offer with a one-grade reduction"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Successfully completing Swansea's Step Up programme (for first-year A-Level/BTEC students at schools and colleges in South West Wales) makes you eligible for a tariff point reduction; the size of the reduction isn't stated and the admissions policy says it applies to 'certain' undergraduate programmes.",
+     "programme": "Step Up to Swansea University",
+     "source": {
+      "url": "https://www.swansea.ac.uk/reaching-wider/step-up-to-swansea-university/",
+      "checked": "2026-10-21",
+      "evidence": "Students who successfully complete the programme will be eligible for a tariff point reduction for Swansea University courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-accounting-finance/",
+    "ucas": "https://www.ucas.com/explore/courses/3f793a83-010d-9426-db39-4b9e8189396c/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry: no 2028-entry requirements are published (the page lists September 2027 starts); 2027 entry used",
+    "gcse: the course page doesn't list GCSE requirements (the UCAS course page can't be opened by scripts)",
+    "subjects: the page lists no required, preferred or excluded A-level subjects, so which subjects are accepted can't be confirmed"
+   ],
+   "notes": "Taught at Bay Campus in the School of Management. The page says the degree gives a head start towards Chartered Accountant status. Mixed qualifications: 104-128 UCAS tariff points from your 3 highest qualifications."
+  },
+  {
+   "id": "swansea-finance",
+   "name": "Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N300",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a Year Abroad (N303), a Year in Industry (N301) or a classroom-based Foundation Year (N30F, typical offer CCD-DDD)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A level typical offer ABB-BCC",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-finance/",
+     "checked": "2026-10-21",
+     "evidence": "A level (or equivalent) typical offer ABB - BCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-finance/",
+    "checked": "2026-10-21",
+    "evidence": "We consider all applicants on their own merits and welcome applications from students with a wide range of qualifications."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (Swansea is not on UAT-UK's official TMUA list for 2027 entry)",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-finance/",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you are predicted grade B or above in the EPQ you get an offer one grade lower plus the EPQ at B (Swansea's example: an offer of AAB becomes ABB plus EPQ B). Swansea doesn't say how this applies to its offer ranges.",
+     "programme": null,
+     "source": {
+      "url": "https://www.swansea.ac.uk/undergraduate/courses/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "applicants predicted grade B or above in EPQ will receive an offer with a one-grade reduction"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Successfully completing Swansea's Step Up programme (for first-year A-Level/BTEC students at schools and colleges in South West Wales) makes you eligible for a tariff point reduction; the size of the reduction isn't stated and the admissions policy says it applies to 'certain' undergraduate programmes.",
+     "programme": "Step Up to Swansea University",
+     "source": {
+      "url": "https://www.swansea.ac.uk/reaching-wider/step-up-to-swansea-university/",
+      "checked": "2026-10-21",
+      "evidence": "Students who successfully complete the programme will be eligible for a tariff point reduction for Swansea University courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.swansea.ac.uk/undergraduate/courses/som/accounting-finance/bsc-finance/",
+    "ucas": "https://www.ucas.com/explore/courses/b2d68a41-002e-0c76-3045-c9045c31a683/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry: no 2028-entry requirements are published (the page lists September 2027 starts); 2027 entry used",
+    "gcse: the course page doesn't list GCSE requirements (the UCAS course page can't be opened by scripts)",
+    "subjects: the page lists no required, preferred or excluded A-level subjects, so which subjects are accepted can't be confirmed"
+   ],
+   "notes": "Taught at Bay Campus in the School of Management. Mixed qualifications: 104-128 UCAS tariff points from your 3 highest qualifications."
+  },
+  {
+   "id": "swansea-business-management",
+   "name": "Business Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N100",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a Year Abroad (NN13), a Year in Industry (N103) or a classroom-based Foundation Year (N10F, typical offer CCD-DDD)",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": "CCC",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A level typical offer BBB-CCC",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/som/business-management/bsc-business-management/",
+     "checked": "2026-10-21",
+     "evidence": "A level (or equivalent) typical offer BBB - CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.swansea.ac.uk/undergraduate/courses/som/business-management/bsc-business-management/",
+    "checked": "2026-10-21",
+    "evidence": "We consider all applicants on their own merits and welcome applications from students with a wide range of qualifications."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page (Swansea is not on UAT-UK's official TMUA list for 2027 entry)",
+    "source": {
+     "url": "https://www.swansea.ac.uk/undergraduate/courses/som/business-management/bsc-business-management/",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "epq",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you are predicted grade B or above in the EPQ you get an offer one grade lower plus the EPQ at B (Swansea's example: an offer of AAB becomes ABB plus EPQ B). Swansea doesn't say how this applies to its offer ranges.",
+     "programme": null,
+     "source": {
+      "url": "https://www.swansea.ac.uk/undergraduate/courses/entry-requirements/",
+      "checked": "2026-10-21",
+      "evidence": "applicants predicted grade B or above in EPQ will receive an offer with a one-grade reduction"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Successfully completing Swansea's Step Up programme (for first-year A-Level/BTEC students at schools and colleges in South West Wales) makes you eligible for a tariff point reduction; the size of the reduction isn't stated and the admissions policy says it applies to 'certain' undergraduate programmes.",
+     "programme": "Step Up to Swansea University",
+     "source": {
+      "url": "https://www.swansea.ac.uk/reaching-wider/step-up-to-swansea-university/",
+      "checked": "2026-10-21",
+      "evidence": "Students who successfully complete the programme will be eligible for a tariff point reduction for Swansea University courses."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.swansea.ac.uk/undergraduate/courses/som/business-management/bsc-business-management/",
+    "ucas": "https://www.ucas.com/explore/courses/6b96e457-8f47-fa38-eda9-0c49e378aff3/course?studyYear=2027"
+   },
+   "notConfirmed": [
+    "2028 entry: no 2028-entry requirements are published (the page lists September 2027 starts); 2027 entry used",
+    "gcse: the course page doesn't list GCSE requirements (the UCAS course page can't be opened by scripts)",
+    "subjects: the page lists no required, preferred or excluded A-level subjects, so which subjects are accepted can't be confirmed"
+   ],
+   "notes": "Taught at Bay Campus in the School of Management. A Modern Languages version is listed as a separate course. Mixed qualifications: 96-120 UCAS tariff points from your 3 highest qualifications."
+  }
+ ],
+ "notes": [
+  "No 2028-entry pages yet: the course pages list September 2027 starts (and January 2028 for January-start versions), so all courses use 2027 entry.",
+  "Swansea's BSc Economics page says all Economics programmes will be taught at Bay Campus (SA1 8EN) from September 2027 (the Economics, Economics and Finance and Economics and Business key-details boxes still say Singleton Park Campus). Accounting and Finance, Finance and Business Management are taught at Bay Campus; the PPE page lists Singleton Park Campus (SA2 8PP).",
+  "Swansea is not on UAT-UK's official TMUA list for 2027 entry, and no course page names an admissions test.",
+  "Swansea says it guarantees a conditional offer to every UK undergraduate applicant studying the qualifications required for their chosen course (not professional courses).",
+  "Swansea says that if you obtain grades AAA-AAB or equivalent you qualify for an Excellence or Merit Scholarship.",
+  "Swansea says applicants predicted grade B or above in an EPQ get an offer one grade lower, e.g. AAB becomes ABB plus EPQ B.",
+  "The year of the 7 November open day (2026) is shown on Swansea's booking page (tickettailor.com/events/swanseauniversity1/2339398); the swansea.ac.uk open days page only says '7th November'."
+ ],
+ "notConfirmed": [
+  "2028 entry: Swansea hasn't published 2028-entry requirements; 2027 entry used for all courses",
+  "gcse: the course pages don't list GCSE requirements and the UCAS course pages can't be opened by scripts (HTTP 403), so GCSE requirements are not confirmed",
+  "subjects: the course pages list no required, preferred or excluded A-level subjects, so subject acceptance (including Geography and Psychology) is not confirmed",
+  "fees: £9,790 for 2027/28 comes from the course pages' September 2027 start; Swansea says Welsh Government changes will be reflected in future fees and the 2028/29 fee isn't published",
+  "livingCosts: 2027/28 accommodation prices will be published later; 2026/27 figures used",
+  "openDays: only the 7 November 2026 open day is listed; spring open day dates aren't published",
+  "contextual: Swansea publishes no general contextual criteria or grade reductions for these courses (only Step Up and care-leaver reduced offers, with no amount)",
+  "programmes: Step Up cost, dates and the size of its tariff reduction aren't published, and it only supports South West Wales schools and colleges; the summer school's 2027 dates and prices aren't announced",
+  "competition: Swansea doesn't publish offer rates or applications per place on its course pages"
+ ]
+}

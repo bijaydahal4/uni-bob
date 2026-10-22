@@ -1,0 +1,1285 @@
+{
+  "id": "cardiff",
+  "name": "Cardiff University",
+  "shortName": "Cardiff",
+  "aliases": [
+    "Cardiff Uni",
+    "Cardiff University",
+    "Cardiff",
+    "Prifysgol Caerdydd"
+  ],
+  "city": "Cardiff",
+  "region": "Wales",
+  "country": "Wales",
+  "setting": "city",
+  "settingEvidence": {
+    "url": "https://www.cardiff.ac.uk/study/accommodation/residences",
+    "checked": "2026-10-17",
+    "evidence": "A large hall of residence very close to the City Centre and Cathays Park campus."
+  },
+  "location": {
+    "postcode": "CF10 3EJ",
+    "postcodeSource": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-bsc",
+    "lat": 51.491882,
+    "lng": -3.18685,
+    "coordsSource": "https://api.postcodes.io/postcodes/CF103EJ",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 9790,
+    "academicYear": "2027/28",
+    "text": "£9,790 per year for Home students, as shown on the course page for 2027 entry (Cardiff charges the maximum regulated fee, which can change; the 2027/28 fee is still described as awaiting confirmation on one course page)",
+    "source": {
+      "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-bsc",
+      "checked": "2026-10-17",
+      "evidence": "Tuition fees for 2027 entry ... Fees for home status ... £9,790"
+    }
+  },
+  "livingCosts": {
+    "kind": "living cost estimate",
+    "amountLow": 11743.2,
+    "amountHigh": 13510.92,
+    "period": "year",
+    "academicYear": "2026/27",
+    "text": "Cardiff estimates about £11,743 a year in university accommodation (en-suite room in Talybont North, 40-week contract, rent £6,695 included) or about £13,511 a year in a private shared house (2026/27)",
+    "source": {
+      "url": "https://www.cardiff.ac.uk/study/student-life/cost-of-living/living-costs-calculator",
+      "checked": "2026-10-17",
+      "evidence": "The living costs shown are estimates for 2026/27. ... University accommodation - based on an en-suite room in Talybont North (40 week contract). ... GBP 11,743.20 ... GBP 13,510.92"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-10-17",
+        "endDate": null,
+        "label": "Undergraduate Open Day (fully booked)",
+        "format": "in person",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2026-11-25",
+        "endDate": null,
+        "label": "Ask Cardiff webinar, 17:00-18:00",
+        "format": "online",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "The Saturday 17 October 2026 open day is fully booked. The next event listed is the online Ask Cardiff webinar on Wednesday 25 November 2026 (the page doesn't print the year). No later on-campus open day dates are listed yet.",
+    "url": "https://www.cardiff.ac.uk/study/open-days-and-visits/undergraduate",
+    "source": {
+      "url": "https://www.cardiff.ac.uk/study/open-days-and-visits/undergraduate",
+      "checked": "2026-10-17",
+      "evidence": "Our upcoming event on Saturday 17 October is fully booked. The next chance to meet us will be at our Ask Cardiff webinar on Wednesday 25 November."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Cardiff treats you as a contextual applicant if you answer yes to any of its UCAS-form circumstances (or complete one of its access programmes), or if a weighted score of area, school and parental-education data reaches 100, and then usually gives a lower offer.",
+    "typicalReduction": "One or two grades below the standard offer (typically the middle to lower end of the advertised grade range)",
+    "criteria": [
+      {
+        "key": "care",
+        "detail": "Care leaver or care experienced (e.g. lived in public care, foster care, kinship care or a residential children's home)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "A parent or have parenting responsibilities (including pregnant, adopting, or a guardian or foster carer of a child)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "Currently receiving, or received/eligible for, free school meals during secondary education",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "carer",
+        "detail": "Have caring responsibilities (unpaid care for a family member or friend with an illness, disability, mental health condition or addiction)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "Official refugee status in the UK, an asylum seeker, or limited leave to remain (also Ukraine scheme arrivals)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged from both parents (not in contact with and supported by either of them)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Completed Cardiff's Confident Futures or Step Up to University (or Sutton Trust Medicine and Dentistry Summer Schools, Pathways to Engineering, Pathways to Law), or at another university Sutton Trust Pathways to Banking and Finance (including online), Engineering or Law; applying in the same year or the year after",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "POLAR4 (how likely young people in your area are to go to higher education): living in a low-participation area earns points towards your contextual score",
+        "measure": "POLAR4",
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "area",
+        "detail": "Welsh, English, Scottish and Northern Irish indices of multiple deprivation for your home postcode: more deprived areas earn more points",
+        "measure": "IMD",
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "area",
+        "detail": "DWP average household gross annual earnings for your home postcode: lower average earnings earn more points",
+        "measure": "other",
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "school",
+        "detail": "Welsh and English sixth form performance data and free school meal rates for your school's postcode",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      },
+      {
+        "key": "firstGen",
+        "detail": "Parents or guardians do not have a higher education qualification such as a degree (collected on the UCAS form)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": null
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "You are classed as contextual if you answer yes to any of the listed UCAS-form questions or complete one of the listed access activities. Otherwise Cardiff adds weighted points for area (POLAR4, deprivation indices, average household earnings), school (sixth form performance, free school meal rates) and parents without a degree into a score from 0-330: 0-99 is non-contextual and 100 or above signals disadvantage. Only information in the original UCAS application is used. Most applicants are not classed as contextual.",
+    "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+    "source": {
+      "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+      "checked": "2026-10-17",
+      "evidence": "You will be classed as contextual if, on your UCAS application, you answer yes to any of the following questions ... be given an offer made at one or two grades lower than the standard offer"
+    }
+  },
+  "programmes": [
+    {
+      "id": "cardiff-step-up-summer-school",
+      "name": "Step Up Summer School",
+      "provider": "Cardiff University",
+      "providerType": "university",
+      "uniIds": [
+        "cardiff"
+      ],
+      "summary": "A free three-day residential summer school at Cardiff University for 16-17 year olds from under-represented backgrounds, with university-life sessions and taster lectures, including a Law, Politics and Business strand.",
+      "whoCanApply": "Year 12 students aged 16-17 who live in Wales (Welsh postcode), attend a state-funded non-fee-paying school or college, have five GCSEs at A*-C including English and Maths, and meet at least one widening participation criterion.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area",
+        "care",
+        "fsm",
+        "firstGen",
+        "refugee",
+        "school",
+        "carer",
+        "estranged",
+        "income",
+        "other"
+      ],
+      "eligibilityDetail": "Required: live in Wales with a Welsh postcode; attend (and have always attended) a state-funded, non-fee-paying school or college; be 16 or 17 and in the first year of college (level 4) or sixth form (Year 12); have at least five GCSEs at A*-C including at least a C in English Language or Literature and Maths; and meet at least one additional criterion: live in an area where few people go to university or with high deprivation, be or have been in care, qualify for free school meals, be among the first generation of your family to attend university, be an asylum seeker or refugee, attend a school or college performing below the national average at Key Stage 4/5, be a young carer, be disabled, be an estranged young person, have a household income under £35,000, or be eligible for Education Maintenance Allowance. The more additional criteria you meet, the more likely you are to get a place.",
+      "benefits": [
+        "Free to attend, including all meals and travel to and from Cardiff University campus",
+        "Stay in university halls and attend taster lectures, including subject-specific activities in Law, Politics and Business",
+        "Support with personal statements and budgeting",
+        "Completing Step Up to University means Cardiff classes you as a contextual applicant (usually an offer one or two grades lower)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "cardiff"
+      ],
+      "offerReduction": "Classed as a contextual applicant: usually an offer one or two grades lower than the standard offer (typically the middle to lower end of the advertised grade range)",
+      "cost": "Free",
+      "isFree": true,
+      "format": "residential",
+      "subjects": "All subjects (subject strands: Arts, Humanities and Social Sciences; Law, Politics and Business; Medicine, Dentistry and Healthcare Sciences; Engineering, Mathematics and Physical Sciences)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Three days in summer (2027 dates not published)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Usually April to May (2027 date not published)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "Cardiff publishes no dated round for 2027: the page only says applications are 'usually open between April and May', so the opening time is an expectation based on that. The contextual admissions page lists 'Step Up to University' as a qualifying programme; the Step Up pages don't say whether the summer school and the masterclasses both count.",
+      "url": "https://www.cardiff.ac.uk/community/education-for-all/widening-participation/our-work/step-up-programme/summer-school",
+      "source": {
+        "url": "https://www.cardiff.ac.uk/community/education-for-all/widening-participation/our-work/step-up-programme/summer-school",
+        "checked": "2026-10-17",
+        "evidence": "This opportunity is free to attend, including all meals whilst you are with us and travel to and from Cardiff University campus before, during and after the summer school."
+      },
+      "notConfirmed": [
+        "runs: summer 2027 dates not published",
+        "deadline: closing date not published",
+        "lowersOffer: the contextual page names 'Step Up to University'; it isn't stated that the summer school specifically counts"
+      ]
+    },
+    {
+      "id": "cardiff-step-up-masterclasses",
+      "name": "Step Up Masterclasses (Business, Accounting and Economics)",
+      "provider": "Cardiff University",
+      "providerType": "university",
+      "uniIds": [
+        "cardiff"
+      ],
+      "summary": "A series of six academic masterclasses at Cardiff University for 16-17 year olds from under-represented backgrounds, with a Business, Accounting and Economics subject option.",
+      "whoCanApply": "Year 12 students aged 16-17 who live in Wales (Welsh postcode) within 90 minutes of Cardiff University, attend a state-funded non-fee-paying school or college, have five GCSEs at A*-C including English and Maths, and meet at least one widening participation criterion.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area",
+        "care",
+        "fsm",
+        "firstGen",
+        "refugee",
+        "school",
+        "carer",
+        "estranged",
+        "income",
+        "other"
+      ],
+      "eligibilityDetail": "Required: live in Wales with a Welsh postcode; attend (and have always attended) a state-funded, non-fee-paying school or college; be 16 or 17 and in the first year of college (level 4) or sixth form (Year 12); have at least five GCSEs at A*-C including at least a C in English Language or Literature and Maths; and meet at least one additional criterion: live in an area where few people go to university or with high deprivation, be or have been in care, qualify for free school meals, be among the first generation of your family to attend university, be an asylum seeker or refugee, attend a school or college performing below the national average at Key Stage 4/5, be a young carer, be disabled, be an estranged young person, have a household income under £35,000, or be eligible for Education Maintenance Allowance. The more additional criteria you meet, the more likely you are to get a place. For the masterclasses only: you must also live within 90 minutes of Cardiff University.",
+      "benefits": [
+        "Six academic masterclasses in your chosen subject, including Business, Accounting and Economics",
+        "Insight into university learning and teaching and an experience to add to UCAS applications",
+        "Completing Step Up to University means Cardiff classes you as a contextual applicant (usually an offer one or two grades lower)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "cardiff"
+      ],
+      "offerReduction": "Classed as a contextual applicant: usually an offer one or two grades lower than the standard offer (typically the middle to lower end of the advertised grade range)",
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "day",
+      "subjects": "Business, Accounting and Economics (other subjects: Humanities and Social Sciences; Language, Literature and Media; Law and Politics; Medicine; Dentistry; Science, Technology and Maths; Healthcare Sciences)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Six masterclasses (dates not published)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Usually November to January (so the 2026/27 round is expected from November 2026; date not published)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "Cardiff publishes no dated round: the page only says applications are 'usually open between November and January', so the opening time is an expectation based on that. The contextual admissions page lists 'Step Up to University' as a qualifying programme; the Step Up pages don't say whether the masterclasses and the summer school both count.",
+      "url": "https://www.cardiff.ac.uk/community/education-for-all/widening-participation/our-work/step-up-programme/step-up-masterclasses",
+      "source": {
+        "url": "https://www.cardiff.ac.uk/community/education-for-all/widening-participation/our-work/step-up-programme/step-up-masterclasses",
+        "checked": "2026-10-17",
+        "evidence": "Applications are usually open between November and January."
+      },
+      "notConfirmed": [
+        "runs: masterclass dates and venue details not published",
+        "cost: page doesn't say whether it is free",
+        "deadline: closing date not published",
+        "lowersOffer: the contextual page names 'Step Up to University'; it isn't stated that the masterclasses specifically count"
+      ]
+    },
+    {
+      "id": "cardiff-confident-futures",
+      "name": "Confident Futures (Campus Days)",
+      "provider": "Cardiff University",
+      "providerType": "university",
+      "uniIds": [
+        "cardiff"
+      ],
+      "summary": "Campus days at Cardiff University for young people aged 14+ who are care-experienced, adopted, estranged or young carers to explore higher education; completing Confident Futures makes you a contextual applicant at Cardiff.",
+      "whoCanApply": "Young people aged 14+ who are care-experienced, adopted, estranged or young carers; you can sign up as an individual or as a school or organisation group.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "care",
+        "estranged",
+        "carer",
+        "other"
+      ],
+      "eligibilityDetail": "Aged 14+ and care-experienced, adopted, estranged, or a young carer.",
+      "benefits": [
+        "Find out what higher education offers and explore the campus",
+        "Wellbeing and budgeting tips, with lunch and refreshments provided and travel support available",
+        "Completing Confident Futures means Cardiff classes you as a contextual applicant (usually an offer one or two grades lower)"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "cardiff"
+      ],
+      "offerReduction": "Classed as a contextual applicant: usually an offer one or two grades lower than the standard offer (typically the middle to lower end of the advertised grade range)",
+      "cost": "Not stated (lunch and refreshments provided; travel support available)",
+      "isFree": null,
+      "format": "day",
+      "subjects": "All subjects (general information about higher education)",
+      "yearGroup": "Aged 14+",
+      "runs": {
+        "text": "No events currently listed",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "The Campus days page says there are currently no events available (checked 17 October 2026).",
+      "url": "https://www.cardiff.ac.uk/community/education-for-all/widening-participation/our-work/confident-futures/campus-days",
+      "source": {
+        "url": "https://www.cardiff.ac.uk/community/education-for-all/widening-participation/our-work/confident-futures/campus-days",
+        "checked": "2026-10-17",
+        "evidence": "designed to support young people aged 14+ who are care-experienced, adopted, estranged, or young carers"
+      },
+      "notConfirmed": [
+        "runs: no event dates published",
+        "cost: page doesn't say whether it is free"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.cardiff.ac.uk/",
+    "courses": "https://www.cardiff.ac.uk/study/undergraduate/courses",
+    "economics": "https://www.cardiff.ac.uk/study/undergraduate/subjects/economics",
+    "openDays": "https://www.cardiff.ac.uk/study/open-days-and-visits/undergraduate",
+    "fees": "https://www.cardiff.ac.uk/study/undergraduate/tuition-fees",
+    "contextual": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+    "accommodation": "https://www.cardiff.ac.uk/study/accommodation"
+  },
+  "courses": [
+    {
+      "id": "cardiff-economics",
+      "name": "Economics",
+      "degree": "BSc",
+      "ucasCode": "L101",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a professional placement year (separate UCAS code R644)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": "BBB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB-BBB at A-level, including Maths (the range covers the standard offer and contextual offers)",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-bsc",
+          "checked": "2026-10-17",
+          "evidence": "Typical offers are as follows: A level AAB-BBB. Must include Maths."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths must be one of your A-levels (no separate grade is given; the offer range is AAB-BBB)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels)"
+        }
+      ],
+      "gcseText": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels).",
+      "notAccepted": [
+        "Critical Thinking",
+        "General Studies",
+        "Citizenship Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-bsc",
+        "checked": "2026-10-17",
+        "evidence": "Typical offers are as follows: A level AAB-BBB. Must include Maths. ... We do not accept Critical Thinking, General Studies, Citizenship Studies, or other similar equivalent subjects."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-bsc",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer (subject requirements must still be met). Cardiff doesn't give the resulting grades.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you are classed as contextual (see Cardiff's contextual admissions page) you'll usually get an offer at the middle or lower end of the advertised AAB-BBB range, i.e. one or two grades below the standard offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Eligible students will be given an offer that is lower than the standard offer (usually the middle or lower end of the advertised grade range)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Step Up to University at Cardiff (applying in the same year or the year after) means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Step Up to University",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Step Up to University"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Confident Futures at Cardiff means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Confident Futures",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Confident Futures"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Sutton Trust Pathways to Banking and Finance (including the online version) at another university also means you're classed as contextual at Cardiff (not for Medicine or Dentistry), so you can get a lower offer.",
+          "programme": "Sutton Trust Pathways to Banking and Finance",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "you will also be classed as contextual if you complete any of the following widening participation activities at other higher education institutions ... Sutton Trust Pathways to Banking and Finance"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Cardiff hasn't published 2028-entry course pages (the page says 'Next intake: September 2027'), so 2027 entry is used",
+        "alternativeOffers: exact EPQ and contextual offer grades aren't published (EPQ is 'one grade lower than the standard offer'; contextual offers are 'usually the middle or lower end' of AAB-BBB)",
+        "admissionsTest: the page doesn't mention any admissions test, so it is recorded as none",
+        "competition: Cardiff doesn't publish offer rates or applications per place on this page",
+        "foundationYear: only a September 2026 entry page was found for Economics with a Foundation Year (L111); nothing for 2027 entry"
+      ],
+      "notes": "Also offered as a 4-year degree with a professional placement year (R644). Cardiff also runs Economics with a Foundation Year (L111, 4 years, A level CCD-CDD including grade C in Maths), but the foundation page found is for September 2026 entry only."
+    },
+    {
+      "id": "cardiff-business-economics",
+      "name": "Business Economics",
+      "degree": "BSc",
+      "ucasCode": "L115",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a professional placement year (separate UCAS code M298)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": "BBB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB-BBB at A-level, including Maths (the range covers the standard offer and contextual offers)",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-economics-bsc",
+          "checked": "2026-10-17",
+          "evidence": "Typical offers are as follows: A level AAB-BBB. Must include Maths."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths must be one of your A-levels (no separate grade is given; the offer range is AAB-BBB)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels)"
+        }
+      ],
+      "gcseText": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels).",
+      "notAccepted": [
+        "Critical Thinking",
+        "General Studies",
+        "Citizenship Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-economics-bsc",
+        "checked": "2026-10-17",
+        "evidence": "Typical offers are as follows: A level AAB-BBB. Must include Maths. ... We do not accept Critical Thinking, General Studies, Citizenship Studies, or other similar equivalent subjects."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-economics-bsc",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer (subject requirements must still be met). Cardiff doesn't give the resulting grades.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you are classed as contextual (see Cardiff's contextual admissions page) you'll usually get an offer at the middle or lower end of the advertised AAB-BBB range, i.e. one or two grades below the standard offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-economics-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Eligible students will be given an offer that is lower than the standard offer (usually the middle or lower end of the advertised grade range)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Step Up to University at Cardiff (applying in the same year or the year after) means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Step Up to University",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Step Up to University"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Confident Futures at Cardiff means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Confident Futures",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Confident Futures"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Sutton Trust Pathways to Banking and Finance (including the online version) at another university also means you're classed as contextual at Cardiff (not for Medicine or Dentistry), so you can get a lower offer.",
+          "programme": "Sutton Trust Pathways to Banking and Finance",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "you will also be classed as contextual if you complete any of the following widening participation activities at other higher education institutions ... Sutton Trust Pathways to Banking and Finance"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-economics-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Cardiff hasn't published 2028-entry course pages (the page says 'Next intake: September 2027'), so 2027 entry is used",
+        "alternativeOffers: exact EPQ and contextual offer grades aren't published (EPQ is 'one grade lower than the standard offer'; contextual offers are 'usually the middle or lower end' of AAB-BBB)",
+        "admissionsTest: the page doesn't mention any admissions test, so it is recorded as none",
+        "competition: Cardiff doesn't publish offer rates or applications per place on this page"
+      ],
+      "notes": "Also offered as a 4-year degree with a professional placement year (M298)."
+    },
+    {
+      "id": "cardiff-economics-management",
+      "name": "Economics and Management",
+      "degree": "BSc",
+      "ucasCode": "LN12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a professional placement year (separate UCAS code LN24)",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": "BBB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB-BBB at A-level (the range covers the standard offer and contextual offers)",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-and-management-bsc",
+          "checked": "2026-10-17",
+          "evidence": "Typical offers are as follows: A level AAB-BBB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "GCSE Maths grade B/6 or equivalent; not required if you are taking A-level Maths (or equivalent); Core Maths may also be accepted"
+        }
+      ],
+      "gcseText": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels). GCSE Maths grade B/6 or equivalent qualification (subject and grade). If you are taking A-level Maths (or equivalent), GCSE Maths is not required. Core Maths may also be accepted in place of GCSE Maths.",
+      "notAccepted": [
+        "Critical Thinking",
+        "General Studies",
+        "Citizenship Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-and-management-bsc",
+        "checked": "2026-10-17",
+        "evidence": "Typical offers are as follows: A level AAB-BBB ... We do not accept Critical Thinking, General Studies, Citizenship Studies, or other similar equivalent subjects."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-and-management-bsc",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer (subject requirements must still be met). Cardiff doesn't give the resulting grades.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-and-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you are classed as contextual (see Cardiff's contextual admissions page) you'll usually get an offer at the middle or lower end of the advertised AAB-BBB range, i.e. one or two grades below the standard offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-and-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Eligible students will be given an offer that is lower than the standard offer (usually the middle or lower end of the advertised grade range)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Step Up to University at Cardiff (applying in the same year or the year after) means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Step Up to University",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Step Up to University"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Confident Futures at Cardiff means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Confident Futures",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Confident Futures"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Sutton Trust Pathways to Banking and Finance (including the online version) at another university also means you're classed as contextual at Cardiff (not for Medicine or Dentistry), so you can get a lower offer.",
+          "programme": "Sutton Trust Pathways to Banking and Finance",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "you will also be classed as contextual if you complete any of the following widening participation activities at other higher education institutions ... Sutton Trust Pathways to Banking and Finance"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/economics-and-management-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Cardiff hasn't published 2028-entry course pages (the page says 'Next intake: September 2027'), so 2027 entry is used",
+        "alternativeOffers: exact EPQ and contextual offer grades aren't published (EPQ is 'one grade lower than the standard offer'; contextual offers are 'usually the middle or lower end' of AAB-BBB)",
+        "admissionsTest: the page doesn't mention any admissions test, so it is recorded as none",
+        "competition: Cardiff doesn't publish offer rates or applications per place on this page",
+        "yearAbroad: the page doesn't mention a year abroad option"
+      ],
+      "notes": "No A-level Maths needed: the page says 'No advanced maths required', but GCSE Maths grade B/6 is needed unless you take A-level Maths. Also offered with a professional placement year (LN24)."
+    },
+    {
+      "id": "cardiff-banking-finance",
+      "name": "Banking and Finance",
+      "degree": "BSc",
+      "ucasCode": "N301",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a professional placement year (separate UCAS code 97K6)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "finance",
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": "BBB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB-BBB at A-level, including Maths (the range covers the standard offer and contextual offers)",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/banking-and-finance-bsc",
+          "checked": "2026-10-17",
+          "evidence": "Typical offers are as follows: A level AAB-BBB. Must include Maths."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Maths must be one of your A-levels (no separate grade is given; the offer range is AAB-BBB)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels)"
+        }
+      ],
+      "gcseText": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels).",
+      "notAccepted": [
+        "Critical Thinking",
+        "General Studies",
+        "Citizenship Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/banking-and-finance-bsc",
+        "checked": "2026-10-17",
+        "evidence": "Typical offers are as follows: A level AAB-BBB. Must include Maths. ... We do not accept Critical Thinking, General Studies, Citizenship Studies, or other similar equivalent subjects."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/banking-and-finance-bsc",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer (subject requirements must still be met). Cardiff doesn't give the resulting grades.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/banking-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you are classed as contextual (see Cardiff's contextual admissions page) you'll usually get an offer at the middle or lower end of the advertised AAB-BBB range, i.e. one or two grades below the standard offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/banking-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Eligible students will be given an offer that is lower than the standard offer (usually the middle or lower end of the advertised grade range)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Step Up to University at Cardiff (applying in the same year or the year after) means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Step Up to University",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Step Up to University"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Confident Futures at Cardiff means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Confident Futures",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Confident Futures"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Sutton Trust Pathways to Banking and Finance (including the online version) at another university also means you're classed as contextual at Cardiff (not for Medicine or Dentistry), so you can get a lower offer.",
+          "programme": "Sutton Trust Pathways to Banking and Finance",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "you will also be classed as contextual if you complete any of the following widening participation activities at other higher education institutions ... Sutton Trust Pathways to Banking and Finance"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/banking-and-finance-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Cardiff hasn't published 2028-entry course pages (the page says 'Next intake: September 2027'), so 2027 entry is used",
+        "alternativeOffers: exact EPQ and contextual offer grades aren't published (EPQ is 'one grade lower than the standard offer'; contextual offers are 'usually the middle or lower end' of AAB-BBB)",
+        "admissionsTest: the page doesn't mention any admissions test, so it is recorded as none",
+        "competition: Cardiff doesn't publish offer rates or applications per place on this page",
+        "fees: this course page says Cardiff is 'currently awaiting confirmation on tuition fees for the 2027/28 academic year' (other course pages show £9,790)"
+      ],
+      "notes": "Cardiff's nearest equivalent to an Economics and Finance degree: the page describes rigorous training in economics applied to financial analysis, taught in a 56-terminal trading room. Also offered with a professional placement year (97K6)."
+    },
+    {
+      "id": "cardiff-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc",
+      "ucasCode": "N490",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a professional placement year (separate UCAS code 751G); a Year Abroad can be added by applying during your second year",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": "BBB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB-BBB at A-level (the range covers the standard offer and contextual offers)",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/accounting-and-finance-bsc",
+          "checked": "2026-10-17",
+          "evidence": "Typical offers are as follows: A level AAB-BBB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "GCSE Maths grade B/6 or equivalent; not required if you are taking A-level Maths (or equivalent); Core Maths may also be accepted"
+        }
+      ],
+      "gcseText": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels). GCSE Maths grade B/6 or equivalent qualification (subject and grade). If you are taking A-level Maths (or equivalent), GCSE Maths is not required. Core Maths may also be accepted in place of GCSE Maths.",
+      "notAccepted": [
+        "Critical Thinking",
+        "General Studies",
+        "Citizenship Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/accounting-and-finance-bsc",
+        "checked": "2026-10-17",
+        "evidence": "Typical offers are as follows: A level AAB-BBB ... We do not accept Critical Thinking, General Studies, Citizenship Studies, or other similar equivalent subjects."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/accounting-and-finance-bsc",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer (subject requirements must still be met). Cardiff doesn't give the resulting grades.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/accounting-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you are classed as contextual (see Cardiff's contextual admissions page) you'll usually get an offer at the middle or lower end of the advertised AAB-BBB range, i.e. one or two grades below the standard offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/accounting-and-finance-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Eligible students will be given an offer that is lower than the standard offer (usually the middle or lower end of the advertised grade range)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Step Up to University at Cardiff (applying in the same year or the year after) means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Step Up to University",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Step Up to University"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Confident Futures at Cardiff means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Confident Futures",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Confident Futures"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Sutton Trust Pathways to Banking and Finance (including the online version) at another university also means you're classed as contextual at Cardiff (not for Medicine or Dentistry), so you can get a lower offer.",
+          "programme": "Sutton Trust Pathways to Banking and Finance",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "you will also be classed as contextual if you complete any of the following widening participation activities at other higher education institutions ... Sutton Trust Pathways to Banking and Finance"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/accounting-and-finance-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Cardiff hasn't published 2028-entry course pages (the page says 'Next intake: September 2027'), so 2027 entry is used",
+        "alternativeOffers: exact EPQ and contextual offer grades aren't published (EPQ is 'one grade lower than the standard offer'; contextual offers are 'usually the middle or lower end' of AAB-BBB)",
+        "admissionsTest: the page doesn't mention any admissions test, so it is recorded as none",
+        "competition: Cardiff doesn't publish offer rates or applications per place on this page"
+      ],
+      "notes": "Accredited by the accounting professional bodies (the page lists CIMA, ACCA, ICAEW and ICAS). No required A-level subject, but GCSE Maths grade B/6 is needed unless you take A-level Maths."
+    },
+    {
+      "id": "cardiff-business-management",
+      "name": "Business Management",
+      "degree": "BSc",
+      "ucasCode": "N201",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a professional placement year (separate UCAS code 457D)",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": "BBB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB-BBB at A-level (the range covers the standard offer and contextual offers)",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-management-bsc",
+          "checked": "2026-10-17",
+          "evidence": "Typical offers are as follows: A level AAB-BBB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels)"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "GCSE Maths grade B/6 or equivalent; not required if you are taking A-level Maths (or equivalent); Core Maths may also be accepted"
+        }
+      ],
+      "gcseText": "English language or Welsh language at GCSE grade C/4 or an equivalent (such as A-levels). GCSE Maths grade B/6 or equivalent qualification (subject and grade). If you are taking A-level Maths (or equivalent), GCSE Maths is not required. Core Maths may also be accepted in place of GCSE Maths.",
+      "notAccepted": [
+        "Critical Thinking",
+        "General Studies",
+        "Citizenship Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-management-bsc",
+        "checked": "2026-10-17",
+        "evidence": "Typical offers are as follows: A level AAB-BBB ... We do not accept Critical Thinking, General Studies, Citizenship Studies, or other similar equivalent subjects."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-management-bsc",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer (subject requirements must still be met). Cardiff doesn't give the resulting grades.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants with grade A in the EPQ/IPQ will typically receive an offer one grade lower than the standard offer."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you are classed as contextual (see Cardiff's contextual admissions page) you'll usually get an offer at the middle or lower end of the advertised AAB-BBB range, i.e. one or two grades below the standard offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-management-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Eligible students will be given an offer that is lower than the standard offer (usually the middle or lower end of the advertised grade range)."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Step Up to University at Cardiff (applying in the same year or the year after) means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Step Up to University",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Step Up to University"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Confident Futures at Cardiff means you're classed as contextual, so you can get a lower offer (usually one or two grades below the standard offer).",
+          "programme": "Confident Futures",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "You will also be classed as contextual if you complete any of the following widening participation activities at Cardiff University ... Confident Futures"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Completing Sutton Trust Pathways to Banking and Finance (including the online version) at another university also means you're classed as contextual at Cardiff (not for Medicine or Dentistry), so you can get a lower offer.",
+          "programme": "Sutton Trust Pathways to Banking and Finance",
+          "source": {
+            "url": "https://www.cardiff.ac.uk/study/undergraduate/applying/contextual-data",
+            "checked": "2026-10-17",
+            "evidence": "you will also be classed as contextual if you complete any of the following widening participation activities at other higher education institutions ... Sutton Trust Pathways to Banking and Finance"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.cardiff.ac.uk/study/undergraduate/courses/course/business-management-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Cardiff hasn't published 2028-entry course pages (the page says 'Next intake: September 2027'), so 2027 entry is used",
+        "alternativeOffers: exact EPQ and contextual offer grades aren't published (EPQ is 'one grade lower than the standard offer'; contextual offers are 'usually the middle or lower end' of AAB-BBB)",
+        "admissionsTest: the page doesn't mention any admissions test, so it is recorded as none",
+        "competition: Cardiff doesn't publish offer rates or applications per place on this page",
+        "yearAbroad: the page only mentions 'opportunities for ... study abroad', not a dedicated year abroad option"
+      ],
+      "notes": "Cardiff also offers Business Management with Marketing, Supply Chain Management, International Management and Welsh as separate courses. No required A-level subject, but GCSE Maths grade B/6 is needed unless you take A-level Maths."
+    }
+  ],
+  "notes": [
+    "All six courses are taught by Cardiff Business School (Colum Road, Cathays, in the Cathays Park area of the city) and all ask for AAB-BBB at A-level.",
+    "Economics, Business Economics and Banking and Finance require A-level Maths. Economics and Management, Accounting and Finance and Business Management have no required A-level subject but ask for GCSE Maths grade B/6 unless you take A-level Maths.",
+    "The advertised AAB-BBB range covers the standard and contextual offers; a grade A in the EPQ typically earns an offer one grade lower than the standard offer.",
+    "Cardiff's Step Up programmes (including Business, Accounting and Economics masterclasses) are only open to students living in Wales with a Welsh postcode.",
+    "Halls rents (2026/27) start from about £131.81 to £186.76 a week depending on the hall (40-week contracts); 2027/28 prices will be available from May 2027.",
+    "Every course also has a 4-year version with a professional placement year under its own UCAS code."
+  ],
+  "notConfirmed": [
+    "2028 entry: Cardiff hasn't published 2028-entry course pages (pages say 'Next intake: September 2027'); 2027 entry used for all courses",
+    "fees: Cardiff's course pages show £9,790 for 2027 entry, but the Banking and Finance page says 2027/28 fees are still awaiting confirmation; the fee for 2028/29 isn't published",
+    "livingCosts: 2027/28 halls prices will only be available from May 2027; the 2026/27 estimates are used",
+    "openDays: only the fully booked 17 October 2026 open day and the 25 November webinar are listed; no later on-campus open days are published yet",
+    "contextual: the weights given to each score indicator, POLAR4 quintile cut-offs and the exact grade reduction per course aren't published",
+    "programmes: Step Up 2027 dates and deadlines aren't published (only 'usually open' windows); Confident Futures has no events listed",
+    "competition: Cardiff doesn't publish offer rates or applications per place on its course pages"
+  ]
+}

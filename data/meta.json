@@ -1,0 +1,37 @@
+{
+ "home": {
+  "name": "Bournemouth town centre (The Square)",
+  "lat": 50.7202084,
+  "lng": -1.8794037,
+  "source": "https://www.openstreetmap.org/way/1213063868",
+  "checked": "2026-10-17"
+ },
+ "leagueTable": {
+  "name": "Complete University Guide 2027",
+  "year": 2027,
+  "published": "2026-06-02",
+  "url": "https://www.thecompleteuniversityguide.co.uk/league-tables/rankings",
+  "economicsUrl": "https://www.thecompleteuniversityguide.co.uk/league-tables/rankings/economics",
+  "checked": "2026-10-17"
+ },
+ "cycleYear": 2027,
+ "startYear": 2028,
+ "lastChecked": "2026-10-22",
+ "oldestChecked": "2026-10-17",
+ "entryYears": [
+  2026,
+  2027
+ ],
+ "counts": {
+  "unis": 64,
+  "courses": 436,
+  "programmes": 130
+ },
+ "sourceCount": 922,
+ "tmuaUrl": "https://esat-tmua.ac.uk/about-the-tests/tmua-test/",
+ "reference": {
+  "polarCheckerUrl": "https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/search-by-postcode/",
+  "schoolPerformanceUrl": "https://www.gov.uk/school-performance-tables"
+ },
+ "dataVersion": "2026-10-22-25def059ae78"
+}

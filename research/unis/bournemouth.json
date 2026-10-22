@@ -1,0 +1,708 @@
+{
+ "id": "bournemouth",
+ "name": "Bournemouth University",
+ "shortName": "Bournemouth",
+ "aliases": [
+  "BU",
+  "Bournemouth",
+  "Bournemouth Uni",
+  "Bournemouth Univ"
+ ],
+ "city": "Poole",
+ "region": "South West",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.bournemouth.ac.uk/study/courses/bsc-hons-economics",
+  "checked": "2026-10-22",
+  "evidence": "Talbot Campus is where you'll find facilities such as The Sir Michael Cobham Library, the Student Centre (where our Students' Union offices are based)"
+ },
+ "location": {
+  "postcode": "BH12 5BB",
+  "postcodeSource": "https://www.bournemouth.ac.uk/why-bu/accommodation",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/BH125BB",
+  "checked": "2026-10-22"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK students starting in September 2027 (2027/28). BU says UK tuition fees will rise every year after that in line with inflation. A foundation year costs £5,760 and a placement year has a reduced fee.",
+  "source": {
+   "url": "https://www.bournemouth.ac.uk/study/courses/bsc-hons-economics",
+   "checked": "2026-10-22",
+   "evidence": "£10,050 (UK, ROI & CI), £18,635 (Int'l)*"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 152.32,
+  "amountHigh": 238.9,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Undergraduate rooms in BU halls and Unilet shared houses cost about £152–£239 a week in 2026/27 on 40–50 week tenancies; standard en-suite rooms are about £173–£207 a week. Rents include the ResLifeBU programme and an optional bus pass, and BU's living-costs page says bills are included too.",
+  "source": {
+   "url": "https://www.bournemouth.ac.uk/sites/default/files/asset/document/Accommodation-price-guide-2026-27.pdf",
+   "checked": "2026-10-22",
+   "evidence": "UC (UG) 41 £152.32 £6,245.12 £144.54 £5,926.14"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-14",
+    "endDate": null,
+    "label": "Undergraduate Open Day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-01-09",
+    "endDate": null,
+    "label": "Undergraduate Open Day",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days: 14 November 2026 and 9 January 2027 at BU's Talbot and Lansdowne campuses (the page gives day and month only). BU also runs online virtual open events.",
+  "url": "https://www.bournemouth.ac.uk/study/undergraduate/open-days",
+  "source": {
+   "url": "https://www.bournemouth.ac.uk/study/undergraduate/open-days",
+   "checked": "2026-10-22",
+   "evidence": "Join us at our next Undergraduate Open Day"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "BU's AccessBU scheme can give you an offer at the standard tariff with a promise to accept you at least one grade lower (8 UCAS points), and in some cases lower still, if you meet its criteria or tell BU about your circumstances.",
+  "typicalReduction": "At least one grade (8 UCAS tariff points) below the published tariff, and up to 16 points (two grades) in some cases",
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "You are care experienced (checked automatically when BU receives your application).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "You live in an area of disadvantage: a postcode in IMD 2019 deciles 1-4 (England). BU also links to the equivalent lists for Northern Ireland, Scotland and Wales.",
+    "measure": "IMD",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "You are or have been eligible for Free School Meals during your secondary education (on the National Pupil Database).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You are from a British Armed Forces family: a parent or carer currently serves or has served in the UK Armed Forces, or you are a Service leaver yourself.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "BU also uses UCAS' Multiple Equality Measure 1 to identify applicants least likely to go into higher education who are not in the categories above.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged students can be considered through the AccessBU self-declaration form, with a reference from your school or college.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "carer",
+    "detail": "Students who care for close family members can be considered through the AccessBU self-declaration form.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "Any other circumstances that have had a negative impact on your post-16 studies or GCSE performance can be explained on the AccessBU self-declaration form (the examples listed are not the only ones).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "BU automatically checks you against the listed categories when it receives your UCAS application, and falling into any one of them is enough to be assessed. You can also use the AccessBU self-declaration form (apply through UCAS first and give a reference from your school or college). Meeting a category does not guarantee an offer: BU weighs it with your predicted grades, personal statement, references and experience. All undergraduate degrees except Foundation Years are eligible.",
+  "url": "https://www.bournemouth.ac.uk/study/undergraduate/how-apply/entry-requirements/what-we-look/accessbu",
+  "source": {
+   "url": "https://www.bournemouth.ac.uk/study/undergraduate/how-apply/entry-requirements/what-we-look/accessbu",
+   "checked": "2026-10-22",
+   "evidence": "an offer at our standard tariff with a commitment to accept you at least one grade below when you receive your results"
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.bournemouth.ac.uk/",
+  "courses": "https://www.bournemouth.ac.uk/study/undergraduate/courses/undergraduate-course-list",
+  "economics": "https://www.bournemouth.ac.uk/study/courses/bsc-hons-economics",
+  "openDays": "https://www.bournemouth.ac.uk/study/undergraduate/open-days",
+  "fees": "https://www.bournemouth.ac.uk/study/undergraduate/fees-funding/undergraduate-tuition-fees",
+  "contextual": "https://www.bournemouth.ac.uk/study/undergraduate/how-apply/entry-requirements/what-we-look/accessbu",
+  "accommodation": "https://www.bournemouth.ac.uk/why-bu/accommodation"
+ },
+ "courses": [
+  {
+   "id": "bournemouth-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a minimum 30-week work placement. Foundation year version (L101): 4 years, or 5 with a placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "ABB",
+    "low": "BBC",
+    "tariff": 128,
+    "tariffLow": 112,
+    "text": "112–128 UCAS tariff points (A-level grades BBC–ABB) from a minimum of 2 A-levels or equivalent qualifications",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/bsc-hons-economics",
+     "checked": "2026-10-22",
+     "evidence": "For September 2027 entry: 112–128 UCAS tariff points (A-level grades BBC–ABB) including a minimum of 2 A-levels or equivalent qualifications."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature (grade C in the old grading system)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C in the old grading system"
+    }
+   ],
+   "gcseText": "GCSE English Language or English Literature and Mathematics grade 4 (or grade C in the old grading system). We also accept iGCSEs, Key Skills and Functional Skills and other qualifications at Level 2 of the National Qualifications Framework.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bournemouth.ac.uk/study/courses/bsc-hons-economics",
+    "checked": "2026-10-22",
+    "evidence": "All subjects considered"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. BU decides from your application (grades, personal statement and reference); there are usually no interviews or selection activities.",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/bsc-hons-economics",
+     "checked": "2026-10-22",
+     "evidence": "We select candidates for this course by looking at your application; there are usually no interviews or selection activities needed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "AccessBU: if you meet BU's AccessBU criteria, BU may make an offer at the standard tariff and will accept you at least 8 UCAS tariff points (about one grade) below it; the page also says your offer could be up to 16 points below the published tariff. It is not automatic: BU weighs your circumstances with your predicted grades, personal statement and reference.",
+     "programme": null,
+     "source": {
+      "url": "https://www.bournemouth.ac.uk/study/courses/bsc-hons-economics",
+      "checked": "2026-10-22",
+      "evidence": "we will accept you at least 8 points below if your personal circumstances match our AccessBU criteria."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.bournemouth.ac.uk/study/courses/bsc-hons-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the page gives September 2027 entry requirements only); 2027 entry recorded"
+   ],
+   "notes": "BU typically makes an offer at the bottom of the tariff range. The foundation year (L101) needs 48–72 UCAS tariff points including 1 A-level or equivalent and has no GCSE requirements. An EPQ is accepted towards the tariff only alongside two A-level sized qualifications. BU says this course is going through a review: the page will be updated, and changes apply to new students from September 2026."
+  },
+  {
+   "id": "bournemouth-business-management-economics",
+   "name": "Business & Management (Economics)",
+   "degree": "BA (Hons)",
+   "ucasCode": "N1L1",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a minimum 30-week placement. Foundation year version (N1L2): 4 years, or 5 with a placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-management",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "ABB",
+    "low": "BBC",
+    "tariff": 128,
+    "tariffLow": 112,
+    "text": "112–128 UCAS tariff points (A-level grades BBC–ABB) from a minimum of 2 A-levels or equivalent qualifications",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-economics-0",
+     "checked": "2026-10-22",
+     "evidence": "For September 2027 entry: 112–128 UCAS tariff points (A-level grades BBC–ABB) including a minimum of 2 A-levels or equivalent qualifications."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature (grade C in the old grading system)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C in the old grading system"
+    }
+   ],
+   "gcseText": "GCSE English Language or English Literature and Mathematics grade 4 (or grade C in the old grading system). We also accept iGCSEs, Key Skills and Functional Skills and other qualifications at Level 2 of the National Qualifications Framework.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-economics-0",
+    "checked": "2026-10-22",
+    "evidence": "All subjects considered"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. BU decides from your application (grades, personal statement and reference); there are usually no interviews or selection activities.",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-economics-0",
+     "checked": "2026-10-22",
+     "evidence": "We select candidates for this course by looking at your application; there are usually no interviews or selection activities needed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "AccessBU: if you meet BU's AccessBU criteria, BU may make an offer at the standard tariff and will accept you at least 8 UCAS tariff points (about one grade) below it; the page also says your offer could be up to 16 points below the published tariff. It is not automatic: BU weighs your circumstances with your predicted grades, personal statement and reference.",
+     "programme": null,
+     "source": {
+      "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-economics-0",
+      "checked": "2026-10-22",
+      "evidence": "we will accept you at least 8 points below if your personal circumstances match our AccessBU criteria."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-economics-0",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the page gives September 2027 entry requirements only); 2027 entry recorded"
+   ],
+   "notes": "This is the Economics pathway of BU's Business & Management degree, applied for with its own UCAS code. BU typically makes an offer at the bottom of the tariff range. The foundation year (N1L2) needs 48–72 UCAS tariff points including 1 A-level or equivalent and has no GCSE requirements."
+  },
+  {
+   "id": "bournemouth-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BA (Hons)",
+   "ucasCode": "N420",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a minimum 30-week placement. Foundation year version (N421): 4 years, or 5 with a placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "ABB",
+    "low": "BBC",
+    "tariff": 128,
+    "tariffLow": 112,
+    "text": "112–128 UCAS tariff points (A-level grades BBC–ABB) from a minimum of 2 A-levels or equivalent qualifications",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-accounting-finance-2",
+     "checked": "2026-10-22",
+     "evidence": "For September 2027 entry: 112–128 UCAS tariff points (A-level grades BBC–ABB) including a minimum of 2 A-levels or equivalent qualifications."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature (grade C in the old grading system)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C in the old grading system"
+    }
+   ],
+   "gcseText": "GCSE English Language or English Literature and Mathematics grade 4 (or grade C in the old grading system). We also accept iGCSEs, Key Skills and Functional Skills and other qualifications at Level 2 of the National Qualifications Framework.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-accounting-finance-2",
+    "checked": "2026-10-22",
+    "evidence": "All subjects considered"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. BU decides from your application (grades, personal statement and reference); there are usually no interviews or selection activities.",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-accounting-finance-2",
+     "checked": "2026-10-22",
+     "evidence": "We select candidates for this course by looking at your application; there are usually no interviews or selection activities needed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "AccessBU: if you meet BU's AccessBU criteria, BU may make an offer at the standard tariff and will accept you at least 8 UCAS tariff points (about one grade) below it; the page also says your offer could be up to 16 points below the published tariff. It is not automatic: BU weighs your circumstances with your predicted grades, personal statement and reference.",
+     "programme": null,
+     "source": {
+      "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-accounting-finance-2",
+      "checked": "2026-10-22",
+      "evidence": "we will accept you at least 8 points below if your personal circumstances match our AccessBU criteria."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.bournemouth.ac.uk/study/courses/ba-hons-accounting-finance-2",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the page gives September 2027 entry requirements only); 2027 entry recorded"
+   ],
+   "notes": "BU typically makes an offer at the bottom of the tariff range. The foundation year (N421) needs 48–72 UCAS tariff points including 1 A-level or equivalent and has no GCSE requirements. Accredited by CIMA and ACCA, and BU is an ICAEW Partner in Learning, so graduates can apply for exemptions from some professional exams."
+  },
+  {
+   "id": "bournemouth-finance",
+   "name": "Finance",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN23",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a minimum 30-week work placement. A foundation year version is also offered (4 years, or 5 with a placement).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "ABB",
+    "low": "BBC",
+    "tariff": 128,
+    "tariffLow": 112,
+    "text": "112–128 UCAS tariff points (A-level grades BBC–ABB) from a minimum of 2 A-levels or equivalent qualifications",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-finance",
+     "checked": "2026-10-22",
+     "evidence": "For September 2027 entry: 112–128 UCAS tariff points (A-level grades BBC–ABB) including a minimum of 2 A-levels or equivalent qualifications."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature (grade C in the old grading system)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C in the old grading system"
+    }
+   ],
+   "gcseText": "GCSE English Language or English Literature and Mathematics grade 4 (or grade C in the old grading system). We also accept iGCSEs, Key Skills and Functional Skills and other qualifications at Level 2 of the National Qualifications Framework.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-finance",
+    "checked": "2026-10-22",
+    "evidence": "All subjects considered"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. BU decides from your application (grades, personal statement and reference); there are usually no interviews or selection activities.",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-finance",
+     "checked": "2026-10-22",
+     "evidence": "We select candidates for this course by looking at your application; there are usually no interviews or selection activities needed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "AccessBU: if you meet BU's AccessBU criteria, BU may make an offer at the standard tariff and will accept you at least 8 UCAS tariff points (about one grade) below it; the page also says your offer could be up to 16 points below the published tariff. It is not automatic: BU weighs your circumstances with your predicted grades, personal statement and reference.",
+     "programme": null,
+     "source": {
+      "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-finance",
+      "checked": "2026-10-22",
+      "evidence": "we will accept you at least 8 points below if your personal circumstances match our AccessBU criteria."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.bournemouth.ac.uk/study/courses/ba-hons-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the page gives September 2027 entry requirements only); 2027 entry recorded"
+   ],
+   "notes": "BU typically makes an offer at the bottom of the tariff range. A foundation year is available and needs 48–72 UCAS tariff points including 1 A-level or equivalent and has no GCSE requirements. BU says this course is going through a review: the page will be updated, and changes apply to new students from September 2026."
+  },
+  {
+   "id": "bournemouth-business-management-finance",
+   "name": "Business & Management (Finance)",
+   "degree": "BA (Hons)",
+   "ucasCode": "N1N3",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a minimum 30-week placement. Foundation year version (N1N4): 4 years, or 5 with a placement.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "ABB",
+    "low": "BBC",
+    "tariff": 128,
+    "tariffLow": 112,
+    "text": "112–128 UCAS tariff points (A-level grades BBC–ABB) from a minimum of 2 A-levels or equivalent qualifications",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-finance-0",
+     "checked": "2026-10-22",
+     "evidence": "For September 2027 entry: 112–128 UCAS tariff points (A-level grades BBC–ABB) including a minimum of 2 A-levels or equivalent qualifications."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature (grade C in the old grading system)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C in the old grading system"
+    }
+   ],
+   "gcseText": "GCSE English Language or English Literature and Mathematics grade 4 (or grade C in the old grading system). We also accept iGCSEs, Key Skills and Functional Skills and other qualifications at Level 2 of the National Qualifications Framework.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-finance-0",
+    "checked": "2026-10-22",
+    "evidence": "All subjects considered"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. BU decides from your application (grades, personal statement and reference); there are usually no interviews or selection activities.",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-finance-0",
+     "checked": "2026-10-22",
+     "evidence": "We select candidates for this course by looking at your application; there are usually no interviews or selection activities needed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "AccessBU: if you meet BU's AccessBU criteria, BU may make an offer at the standard tariff and will accept you at least 8 UCAS tariff points (about one grade) below it; the page also says your offer could be up to 16 points below the published tariff. It is not automatic: BU weighs your circumstances with your predicted grades, personal statement and reference.",
+     "programme": null,
+     "source": {
+      "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-finance-0",
+      "checked": "2026-10-22",
+      "evidence": "we will accept you at least 8 points below if your personal circumstances match our AccessBU criteria."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-finance-0",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the page gives September 2027 entry requirements only); 2027 entry recorded"
+   ],
+   "notes": "This is the Finance pathway of BU's Business & Management degree, applied for with its own UCAS code. BU typically makes an offer at the bottom of the tariff range. The foundation year (N1N4) needs 48–72 UCAS tariff points including 1 A-level or equivalent and has no GCSE requirements. January starts (3 years) are also listed."
+  },
+  {
+   "id": "bournemouth-business-management",
+   "name": "Business & Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "NN12",
+   "lengthYears": 3,
+   "lengthNote": "4 years with a minimum 30-week placement. Foundation year version (N1N2): 4 years, or 5 with a placement.",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "ABB",
+    "low": "BBC",
+    "tariff": 128,
+    "tariffLow": 112,
+    "text": "112–128 UCAS tariff points (A-level grades BBC–ABB) from a minimum of 2 A-levels or equivalent qualifications",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-2",
+     "checked": "2026-10-22",
+     "evidence": "For September 2027 entry: 112–128 UCAS tariff points (A-level grades BBC–ABB) including a minimum of 2 A-levels or equivalent qualifications."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature (grade C in the old grading system)"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C in the old grading system"
+    }
+   ],
+   "gcseText": "GCSE English Language or English Literature and Mathematics grade 4 (or grade C in the old grading system). We also accept iGCSEs, Key Skills and Functional Skills and other qualifications at Level 2 of the National Qualifications Framework.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-2",
+    "checked": "2026-10-22",
+    "evidence": "All subjects considered"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test. BU decides from your application (grades, personal statement and reference); there are usually no interviews or selection activities.",
+    "source": {
+     "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-2",
+     "checked": "2026-10-22",
+     "evidence": "We select candidates for this course by looking at your application; there are usually no interviews or selection activities needed."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "AccessBU: if you meet BU's AccessBU criteria, BU may make an offer at the standard tariff and will accept you at least 8 UCAS tariff points (about one grade) below it; the page also says your offer could be up to 16 points below the published tariff. It is not automatic: BU weighs your circumstances with your predicted grades, personal statement and reference.",
+     "programme": null,
+     "source": {
+      "url": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-2",
+      "checked": "2026-10-22",
+      "evidence": "we will accept you at least 8 points below if your personal circumstances match our AccessBU criteria."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.bournemouth.ac.uk/study/courses/ba-hons-business-management-2",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the page gives September 2027 entry requirements only); 2027 entry recorded",
+    "UCAS code NN12 is also shown on BU's International Business & Management page, so check it on UCAS before applying",
+    "Study abroad: the course page doesn't say whether a year abroad is offered"
+   ],
+   "notes": "BU typically makes an offer at the bottom of the tariff range. You start with business and management fundamentals and choose from eight specialist pathways at the end of your second year. The foundation year (N1N2) needs 48–72 UCAS tariff points including 1 A-level or equivalent and has no GCSE requirements. January starts (3 years) are also listed."
+  }
+ ],
+ "notes": [
+  "Every course here is offered in UCAS tariff points: 112–128 points (A-level grades BBC–ABB) from at least 2 A-levels or equivalent. BU says it typically makes an offer at the bottom of the range.",
+  "No A-level subjects are required (course pages say 'All subjects considered'); GCSE English (Language or Literature) and Maths at grade 4 are needed.",
+  "No admissions test: BU is not on UAT-UK's official TMUA list for 2027 entry, and the course pages say there are usually no interviews or selection activities.",
+  "AccessBU can lower an offer by at least one grade (8 UCAS points) and up to 16 points; it is discretionary, not automatic.",
+  "These courses are taught at Talbot Campus, Poole (Fern Barrow, BH12 5BB)."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet (course pages list September 2028 as a start date but give entry requirements for September 2027 only); 2027 entry recorded for all courses",
+  "2028/29 home tuition fee not published: £10,050 is the 2027/28 fee and BU says UK fees rise each year in line with inflation",
+  "Year 12 summer schools and taster days: none found. BU's Summer Discovery Days are for Years 8-9, and its Year 12-13 'Aspire' page (group bookings through schools) could not be opened, so nothing is recorded"
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "note": "Plain-English explanations for the ⓘ buttons. Facts here come from research/timeline.json reference sources (UCAS, UAT-UK, OfS, Russell Group), checked 2026-10-17.",
+ "terms": {
+  "ucas": {
+   "term": "UCAS",
+   "short": "UCAS is the website you use to apply to UK universities. You fill in one application and can choose up to five courses.",
+   "more": "For 2027 entry the application fee is £34.50, and it can be waived if you've had free school meals at secondary school. The 2028 fee hasn't been announced yet.",
+   "link": {
+    "url": "https://www.ucas.com/",
+    "text": "UCAS website"
+   }
+  },
+  "predicted": {
+   "term": "Predicted grades",
+   "short": "The A-level grades your teachers think you'll get. Unis use them to decide on offers, because you apply before you sit your exams.",
+   "more": "Your sixth form decides when to give them, often after Year 12 exams. Until then, put your best guess in Uni Bob. You can change it any time."
+  },
+  "conditional": {
+   "term": "Conditional offer",
+   "short": "A place you'll get if you achieve certain grades, for example AAA. Most offers are conditional, because you apply before your results."
+  },
+  "firmInsurance": {
+   "term": "Firm and insurance",
+   "short": "When your offers are in, you pick a firm choice (your favourite) and an insurance choice (a backup, usually with a lower offer). You turn down the rest."
+  },
+  "contextual": {
+   "term": "Contextual offer",
+   "short": "A lower offer some unis make when your background or circumstances may have made school harder, for example where you live or if you've been in care.",
+   "more": "Most students get standard offers, which is completely normal. Each uni has its own rules, and only the uni can decide."
+  },
+  "russellGroup": {
+   "term": "Russell Group",
+   "short": "A group of 24 research-focused UK universities, such as LSE, Warwick and King's. Some very good unis, like Bath and Loughborough, aren't in it.",
+   "link": {
+    "url": "https://www.russellgroup.ac.uk/our-universities",
+    "text": "Russell Group members"
+   }
+  },
+  "tmua": {
+   "term": "TMUA",
+   "short": "The Test of Mathematics for University Admission. Some unis ask for it for Economics or Maths courses, and at some a good score can lower your offer.",
+   "more": "It's run by UAT-UK, takes 2½ hours (two 75-minute papers), has no calculator, and is scored from 1 to 9. For 2027 entry the test sittings were in October 2026 and January 2027. Bursaries can cover the full cost if you're eligible.",
+   "link": {
+    "url": "https://esat-tmua.ac.uk/about-the-tests/tmua-test/",
+    "text": "About the TMUA (UAT-UK)"
+   }
+  },
+  "epq": {
+   "term": "EPQ",
+   "short": "The Extended Project Qualification: a project you research and write yourself, a bit like a mini dissertation. Some unis lower their offer if you get a good EPQ grade.",
+   "more": "An A* in the EPQ is worth 28 UCAS points, half an A-level."
+  },
+  "tariff": {
+   "term": "UCAS tariff points",
+   "short": "A way of turning grades into points. For A-levels: A* = 56, A = 48, B = 40, C = 32, D = 24, E = 16.",
+   "more": "So AAA is 144 points. Uni Bob counts 8 points as roughly one grade.",
+   "link": {
+    "url": "https://www.ucas.com/applying/before-you-apply/what-and-where-to-study/entry-requirements/ucas-tariff-points",
+    "text": "UCAS tariff points"
+   }
+  },
+  "clearing": {
+   "term": "Clearing",
+   "short": "A way to find a place in the summer if you don't have an offer, or your results are different from what you expected. Unis list courses that still have spaces.",
+   "more": "Clearing opens in early July and you can add a Clearing choice until the autumn."
+  },
+  "chances": {
+   "term": "How chances work",
+   "short": "Uni Bob compares your grades with each course's usual offer. Grades count A* = 6, A = 5, B = 4, C = 3, D = 2, E = 1, U = 0, using your best three A-levels (always including a subject the course requires).",
+   "more": "Two or more grades above the offer is Safe, one above is Good chance, the same is Match, one below is Reach, and two or more below is a Long shot. If you're below a required subject grade, the best it can be is Reach. If a uni says a course is very competitive (10 or more applications per place, or offers to fewer than 1 in 5), we move it one step towards Reach. It's a guide, not a promise."
+  },
+  "typicalOffer": {
+   "term": "Typical offer",
+   "short": "The grades a uni usually asks for. If they give a range, like AAA to AAB, Uni Bob uses the top of the range and shows the range as a shaded band."
+  },
+  "leagueTable": {
+   "term": "League table",
+   "short": "Rankings from the Complete University Guide 2027, published in June 2026. They're one thing to think about, not the whole story.",
+   "link": {
+    "url": "https://www.thecompleteuniversityguide.co.uk/league-tables/rankings",
+    "text": "Complete University Guide"
+   }
+  },
+  "openDay": {
+   "term": "Open day",
+   "short": "A day when you can visit a uni, see the campus, meet students and ask questions. Most need booking, and UCAS suggests Year 12s visit at least two."
+  },
+  "studentFinance": {
+   "term": "Student Finance",
+   "short": "Government money for uni: a loan to pay your tuition fee and help with living costs.",
+   "more": "For courses starting from January 2027 in England it's part of the new Lifelong Learning Entitlement. You don't need an offer to apply, and you apply again each year.",
+   "link": {
+    "url": "https://www.gov.uk/student-finance-on-or-after-1-january-2027",
+    "text": "Student finance on GOV.UK"
+   }
+  },
+  "polar": {
+   "term": "Your area's quintile",
+   "short": "A number from 1 to 5 showing how many young people from your area go to uni. 1 means the fewest. Some unis use it for contextual offers.",
+   "more": "Check yours with the Office for Students postcode checker (it shows POLAR4 and TUNDRA), then choose the number here. You don't need to enter your postcode in Uni Bob.",
+   "link": {
+    "url": "https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/search-by-postcode/",
+    "text": "OfS postcode checker"
+   }
+  },
+  "schoolResults": {
+   "term": "School results",
+   "short": "Some unis take it into account if your school's or sixth form's results are below the national average.",
+   "more": "You can look up your sixth form on the government's school and college performance website, or ask your teachers.",
+   "link": {
+    "url": "https://www.gov.uk/school-performance-tables",
+    "text": "Compare school and college performance"
+   }
+  },
+  "householdIncome": {
+   "term": "Household income",
+   "short": "The total yearly income of the people you live with. Some unis use a limit for contextual offers or bursaries."
+  },
+  "firstGen": {
+   "term": "First in family",
+   "short": "Neither of your parents or carers has a university degree."
+  },
+  "careExperienced": {
+   "term": "Care experienced",
+   "short": "You've spent time in local authority care, for example in foster care or a children's home."
+  },
+  "youngCarer": {
+   "term": "Young carer",
+   "short": "You regularly look after a family member who's ill, disabled or struggling."
+  },
+  "estranged": {
+   "term": "Estranged",
+   "short": "You don't have contact with or support from your parents, and that isn't expected to change."
+  },
+  "refugee": {
+   "term": "Refugee or asylum seeker",
+   "short": "You've come to the UK for safety and have refugee status or have applied for asylum."
+  },
+  "accessProgramme": {
+   "term": "Access programme",
+   "short": "A programme a uni runs, often in Year 12, to help students from under-represented backgrounds. Finishing one can lead to a lower offer at that uni."
+  },
+  "fsm": {
+   "term": "Free school meals",
+   "short": "School meals paid for by the government for families on lower incomes. Some unis use it for contextual offers, and it can get your UCAS fee waived."
+  },
+  "personalStatement": {
+   "term": "Personal statement",
+   "short": "Your chance to tell unis why you want to study the course. UCAS asks three questions, with 4,000 characters in total and at least 350 for each answer.",
+   "more": "The questions: Why do you want to study this course or subject? How have your qualifications and studies helped you to prepare? What else have you done to prepare outside of education, and why are these experiences useful?",
+   "link": {
+    "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement-for-2026-entry-onwards",
+    "text": "UCAS personal statement guide"
+   }
+  },
+  "equalConsideration": {
+   "term": "Equal consideration deadline",
+   "short": "The main UCAS deadline. Every application sent by then is treated equally, so aim to send yours well before it."
+  }
+ }
+}

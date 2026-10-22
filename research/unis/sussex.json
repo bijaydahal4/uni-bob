@@ -1,0 +1,1035 @@
+{
+ "id": "sussex",
+ "name": "University of Sussex",
+ "shortName": "Sussex",
+ "aliases": [
+  "Sussex",
+  "Sussex Uni",
+  "Uni of Sussex",
+  "Sussex University",
+  "UoSussex",
+  "Falmer"
+ ],
+ "city": "Brighton",
+ "region": "South East",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.sussex.ac.uk/study/undergraduate/choose-sussex",
+  "checked": "2026-10-21",
+  "evidence": "Living on our beautiful green campus - the only university in a national park - you'll be just a few minutes' walk away from the library, lecture theatres, shops, cafés and bars."
+ },
+ "location": {
+  "postcode": "BN1 9RH",
+  "postcodeSource": "https://www.sussex.ac.uk/contactus/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/BN19RH",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK (Home) undergraduates starting in 2027 (2027/28). Sussex says the fee is 'likely to be' £10,050 because it charges the maximum set by the UK government; the exact increase from 2028/29 onwards has not been indicated.",
+  "source": {
+   "url": "https://www.sussex.ac.uk/study/fees-funding/tuition-fees",
+   "checked": "2026-10-21",
+   "evidence": "This means that in the academic year 2027 the fee for UK (Home) and Islands students studying at undergraduate level is likely to be £10,050 per year."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 124.46,
+  "amountHigh": 228.34,
+  "period": "week",
+  "academicYear": "2027-28",
+  "text": "Provisional on-campus rents for 2027-28 run from about £124 to £228 a week (Norwich House £124.46, Lewes Court 1 £134.96, Brighthelm £194.11 / £189.00, Stanmer Court £205.80, Lewes Court 2 £212.17, Swanborough and Northfield £228.34). Fees include utilities, insurance, broadband and on-campus support.",
+  "source": {
+   "url": "https://www.sussex.ac.uk/broadcast/read/71167",
+   "checked": "2026-10-21",
+   "evidence": "The provisional weekly on-campus rents for 2027-28 are outlined below:"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "Undergraduate Open Day (9.30am to 4.30pm, Falmer campus)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate Open Day: Saturday 7 November 2026 at the Falmer campus. More Open Days are being planned for Spring and Summer 2027 (dates not announced yet).",
+  "url": "https://www.sussex.ac.uk/study/visit-us/undergraduate/open-days/",
+  "source": {
+   "url": "https://www.sussex.ac.uk/study/visit-us/undergraduate/open-days/",
+   "checked": "2026-10-21",
+   "evidence": "Date: Saturday 7 November 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Applicants who meet any one of Sussex's contextual criteria are made a lower contextual offer, typically BCC at A-level for first-year degrees (about 25% of Sussex's UK conditional offers are contextual).",
+  "typicalReduction": "Typical contextual offer for first-year degrees: BCC for A-levels (DMM for a BTEC Extended Diploma). The exact reduction in grades varies depending on the course.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Your home postcode on the UCAS application is in decile 1 or 2 of the Index of Multiple Deprivation (IMD); Sussex makes the offer automatically.",
+    "measure": "IMD",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Your home postcode on the UCAS application is in POLAR4 quintile 1; Sussex makes the offer automatically.",
+    "measure": "POLAR4",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "You received free school meals while attending secondary school. Sussex uses the free school meals information on your UCAS application (students in England, Wales and Northern Ireland).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "You have been looked after in care for more than three months; tick the care-experienced box on the UCAS form.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "You are an estranged student (studying without the support and approval of a family network); tell the admissions team when you apply.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "You have refugee status or Humanitarian Protection; use the residential category on the UCAS form to show this.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "You are a young carer (under 18, helping to look after a family member who is ill, disabled, has a mental health condition or misuses drugs or alcohol); tell the admissions team when you apply.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "access",
+    "detail": "You are registered on the Sussex Inspires programme (Year 12) and meet Sussex's widening participation criteria; Sussex applies the contextual offer to all registered students who do.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   },
+   {
+    "key": "other",
+    "detail": "You are a student at a partner college with a Progression Agreement (East Sussex College Group, Varndean College, Littlehampton Academy, Brighton Aldridge Community Academy, Thomas Bennett Community College); the contextual offer is automatic.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Sussex says it will still consider you for a contextual offer if you have faced other challenges that disrupted your education (for example disability, serious bereavement, long-term illness or homelessness).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You will qualify if you meet any of the criteria listed. Postcode (IMD or POLAR4) and free school meals are picked up automatically from your UCAS application; for care, estranged and young carer status you are encouraged to tell Sussex's admissions team. The exact reduction in grades varies depending on the course.",
+  "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+  "source": {
+   "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+   "checked": "2026-10-21",
+   "evidence": "You will qualify if you meet any of the following criteria:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "sussex-inspires",
+   "name": "Sussex Inspires",
+   "provider": "University of Sussex",
+   "providerType": "university",
+   "uniIds": [
+    "sussex"
+   ],
+   "summary": "A free Year 12 programme of university visits, taster sessions, UCAS and student finance support and a July 2027 summer school, with a contextual offer if you also meet Sussex's widening participation criteria.",
+   "whoCanApply": "Students in Year 12 of college or sixth form (or year 1 of college) studying A-levels, BTECs, a T-Level or another Level 3. Anyone in the UK can apply, but places are limited and Sussex gives priority to widening participation students.",
+   "eligibility": "open",
+   "eligibilityCriteria": [
+    "fsm",
+    "care",
+    "estranged",
+    "carer",
+    "refugee",
+    "area",
+    "other"
+   ],
+   "eligibilityDetail": "Anyone in the UK can apply. Places are limited, so priority goes to students who: get the 16-19 bursary; had free school meals or pupil premium at secondary school; have lived in care; are from a Gypsy, Roma or Traveller background; live in an area where fewer young people go to university; are estranged from their parents or guardians; are young carers; or are refugees or asylum seekers. To complete the programme you attend at least three of the four main events. Some events start at 10am and Sussex can only provide train tickets from London to the Falmer campus.",
+   "benefits": [
+    "Free; travel costs covered (train or bus ticket emailed before each event, but train tickets only from London to Falmer)",
+    "Taster sessions, subject days and a Find your Future workshop on UCAS applications and student finance",
+    "Priority access to Sussex's summer school in July 2027 if you complete the programme",
+    "Contextual offer (typically BCC at A-level) if you are registered and also meet Sussex's widening participation criteria"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "sussex"
+   ],
+   "offerReduction": "Contextual offer (typically BCC for A-levels) if you are registered on Sussex Inspires and meet Sussex's widening participation criteria; the exact reduction varies by course",
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "Arts, Humanities and Social Sciences strand (includes Business and Economics) or STEM strand",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Welcome Day Wednesday 9 December 2026; Study and See sessions 27 and 28 January 2027; Subject Exploration Days March 2027 (dates TBC); Find your Future Wednesday 12 May or Wednesday 16 June 2027; Summer School July 2027",
+    "start": "2026-12-09",
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "The application form for the 2026 intake is open now",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published on the programme page",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "This is Sussex's '2026 intake' for students who are in Year 12 in 2026-27: events run from December 2026 to July 2027. Summer School details are due in December 2026.",
+   "url": "https://www.sussex.ac.uk/study/access/about",
+   "source": {
+    "url": "https://www.sussex.ac.uk/study/access/about",
+    "checked": "2026-10-21",
+    "evidence": "Welcome Day - Wednesday 9 December 2026"
+   },
+   "notConfirmed": [
+    "Application deadline for the 2026 intake is not published on the programme page; the contextual offers page still shows an old deadline ('midnight on Wednesday 13 November')",
+    "Summer School dates (July 2027) and Subject Exploration Day dates (March 2027) not published yet"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.sussex.ac.uk/",
+  "courses": "https://www.sussex.ac.uk/study/undergraduate/courses",
+  "economics": "https://www.sussex.ac.uk/study/subjects/economics/undergraduate",
+  "openDays": "https://www.sussex.ac.uk/study/visit-us/undergraduate/open-days/",
+  "fees": "https://www.sussex.ac.uk/study/fees-funding/tuition-fees",
+  "contextual": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+  "accommodation": "https://www.sussex.ac.uk/study/accommodation"
+ },
+ "courses": [
+  {
+   "id": "sussex-economics-bsc",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L102",
+   "lengthYears": 3,
+   "lengthNote": "Also available as a 4-year course with an optional professional placement year (it has its own course page).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB-BBB at A-level (a range)",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade 5 is also considered if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics or Psychology (or an LIBF Diploma in Financial Studies or Level 3 Core Maths at grade B); AAT accounting qualifications can be used instead of the grade 6."
+    }
+   ],
+   "gcseText": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B). We will also consider applicants with grade 5 in Maths if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics, Psychology, an LIBF Diploma in Financial Studies or Level 3 Certificate in Core Maths (grade B). AAT accounting qualifications can be used as an alternative to the grade 6 GCSE Maths requirement. You should also have a broad range of GCSEs grade 9-4 (A*-C), including good grades in relevant subjects.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (the offer is stated as grades only), and Sussex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Sussex's typical contextual offer for first-year degrees is BCC at A-level and is made automatically if you meet one of its contextual criteria. The exact reduction varies by course and this course page does not give its own figure.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "our typical contextual offer is: BCC for A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "If you are registered on the Sussex Inspires programme (Year 12) and also meet Sussex's widening participation criteria you are eligible for the contextual offer (typically BCC at A-level). Same offer as the contextual one, not in addition to it.",
+     "programme": "Sussex Inspires",
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you are registered as a student on this programme and meet our widening participation criteria you will be eligible for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows a September 2027 start); 2027 entry used",
+    "Exact contextual offer for this course is not on the course page; BCC is Sussex's typical contextual offer for first-year degrees",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects"
+   ],
+   "notes": "The quantitative Economics degree: advanced statistics, applied econometrics and advanced mathematical economics. The page lists no required A-level subjects (A-level Maths is not listed as required). EPQ: Sussex takes it into account (useful if you narrowly miss your offer in the summer) and sometimes offers alternative conditions that include it, but publishes no EPQ grades."
+  },
+  {
+   "id": "sussex-economics-ba",
+   "name": "Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also available as a 4-year course with an optional professional placement year (it has its own course page).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB-BBB at A-level (a range)",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-ba-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade 5 is also considered if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics or Psychology (or an LIBF Diploma in Financial Studies or Level 3 Core Maths at grade B); AAT accounting qualifications can be used instead of the grade 6."
+    }
+   ],
+   "gcseText": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B). We will also consider applicants with grade 5 in Maths if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics, Psychology, an LIBF Diploma in Financial Studies or Level 3 Certificate in Core Maths (grade B). AAT accounting qualifications can be used as an alternative to the grade 6 GCSE Maths requirement. You should also have a broad range of GCSEs grade 9-4 (A*-C), including good grades in relevant subjects.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-ba-hons",
+    "checked": "2026-10-21",
+    "evidence": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (the offer is stated as grades only), and Sussex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-ba-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Sussex's typical contextual offer for first-year degrees is BCC at A-level and is made automatically if you meet one of its contextual criteria. The exact reduction varies by course and this course page does not give its own figure.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "our typical contextual offer is: BCC for A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "If you are registered on the Sussex Inspires programme (Year 12) and also meet Sussex's widening participation criteria you are eligible for the contextual offer (typically BCC at A-level). Same offer as the contextual one, not in addition to it.",
+     "programme": "Sussex Inspires",
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you are registered as a student on this programme and meet our widening participation criteria you will be eligible for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-ba-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows a September 2027 start); 2027 entry used",
+    "Exact contextual offer for this course is not on the course page; BCC is Sussex's typical contextual offer for first-year degrees",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects"
+   ],
+   "notes": "Focuses on the practice of economics and policy-making, with a lighter emphasis on mathematics and statistics than the BSc. The page lists no required A-level subjects. EPQ: Sussex takes it into account (useful if you narrowly miss your offer in the summer) and sometimes offers alternative conditions that include it, but publishes no EPQ grades."
+  },
+  {
+   "id": "sussex-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN13",
+   "lengthYears": 3,
+   "lengthNote": "Also available as a 4-year course with an optional professional placement year (it has its own course page).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB-BBB at A-level (a range)",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-finance-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade 5 is also considered if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics or Psychology (or an LIBF Diploma in Financial Studies or Level 3 Core Maths at grade B); AAT accounting qualifications can be used instead of the grade 6."
+    }
+   ],
+   "gcseText": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B). We will also consider applicants with grade 5 in Maths if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics, Psychology, an LIBF Diploma in Financial Studies or Level 3 Certificate in Core Maths (grade B). AAT accounting qualifications can be used as an alternative to the grade 6 GCSE Maths requirement. You should also have a broad range of GCSEs grade 9-4 (A*-C), including good grades in relevant subjects.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-finance-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (the offer is stated as grades only), and Sussex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-finance-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Sussex's typical contextual offer for first-year degrees is BCC at A-level and is made automatically if you meet one of its contextual criteria. The exact reduction varies by course and this course page does not give its own figure.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "our typical contextual offer is: BCC for A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "If you are registered on the Sussex Inspires programme (Year 12) and also meet Sussex's widening participation criteria you are eligible for the contextual offer (typically BCC at A-level). Same offer as the contextual one, not in addition to it.",
+     "programme": "Sussex Inspires",
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you are registered as a student on this programme and meet our widening participation criteria you will be eligible for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-finance-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows a September 2027 start); 2027 entry used",
+    "Exact contextual offer for this course is not on the course page; BCC is Sussex's typical contextual offer for first-year degrees",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects"
+   ],
+   "notes": "Combines economics with finance (bond pricing, corporate finance, risk management). The page lists no required A-level subjects. EPQ: Sussex takes it into account (useful if you narrowly miss your offer in the summer) and sometimes offers alternative conditions that include it, but publishes no EPQ grades."
+  },
+  {
+   "id": "sussex-economics-management",
+   "name": "Economics and Management Studies",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN12",
+   "lengthYears": 3,
+   "lengthNote": "Also available as a 4-year course with an optional professional placement year (it has its own course page).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB-BBB at A-level (a range)",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-management-studies-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Sussex writes 'at least grade 5 (or grade B)'."
+    }
+   ],
+   "gcseText": "You must have GCSE (or equivalent) Mathematics, with at least grade 5 (or grade B). You should also have a broad range of GCSEs grade 9-4 (A*-C), including good grades in relevant subjects.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-management-studies-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "You must have GCSE (or equivalent) Mathematics, with at least grade 5 (or grade B)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (the offer is stated as grades only), and Sussex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-management-studies-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Sussex's typical contextual offer for first-year degrees is BCC at A-level and is made automatically if you meet one of its contextual criteria. The exact reduction varies by course and this course page does not give its own figure.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "our typical contextual offer is: BCC for A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "If you are registered on the Sussex Inspires programme (Year 12) and also meet Sussex's widening participation criteria you are eligible for the contextual offer (typically BCC at A-level). Same offer as the contextual one, not in addition to it.",
+     "programme": "Sussex Inspires",
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you are registered as a student on this programme and meet our widening participation criteria you will be eligible for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-management-studies-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows a September 2027 start); 2027 entry used",
+    "Exact contextual offer for this course is not on the course page; BCC is Sussex's typical contextual offer for first-year degrees",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects"
+   ],
+   "notes": "Joint degree in economics and management. The page lists no required A-level subjects. EPQ: Sussex takes it into account (useful if you narrowly miss your offer in the summer) and sometimes offers alternative conditions that include it, but publishes no EPQ grades."
+  },
+  {
+   "id": "sussex-mathematics-economics",
+   "name": "Mathematics with Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "G1L1",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year integrated Master's, Mathematics with Economics MMath (a separate course).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB including grade A in Mathematics",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/mathematics-with-economics-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB, including grade A in Mathematics."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "A-levels must include Mathematics, and the typical offer ABB includes grade A in Mathematics."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": "You should have a broad range of GCSEs grade 9-4 (A*-C), including good grades in relevant subjects.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.sussex.ac.uk/study/undergraduate/courses/mathematics-with-economics-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "A-levels must include Mathematics, see individual offers for grades needed."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (the offer is stated as grades only), and Sussex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/mathematics-with-economics-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB, including grade A in Mathematics."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Sussex's typical contextual offer for first-year degrees is BCC at A-level and is made automatically if you meet one of its contextual criteria. The exact reduction varies by course and this course page does not give its own figure.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "our typical contextual offer is: BCC for A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "If you are registered on the Sussex Inspires programme (Year 12) and also meet Sussex's widening participation criteria you are eligible for the contextual offer (typically BCC at A-level). Same offer as the contextual one, not in addition to it.",
+     "programme": "Sussex Inspires",
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you are registered as a student on this programme and meet our widening participation criteria you will be eligible for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sussex.ac.uk/study/undergraduate/courses/mathematics-with-economics-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows a September 2027 start); 2027 entry used",
+    "Exact contextual offer for this course is not on the course page; BCC is Sussex's typical contextual offer for first-year degrees",
+    "Excluded or accepted A-level subjects (e.g. Psychology, Geography) are not listed on the course page"
+   ],
+   "notes": "Taught in the Department of Mathematics with economics modules (pure and applied maths, probability and statistics, Python and R). No GCSE Maths grade is stated, only a broad range of GCSEs at 9-4. EPQ: Sussex takes it into account (useful if you narrowly miss your offer in the summer) and sometimes offers alternative conditions that include it, but publishes no EPQ grades."
+  },
+  {
+   "id": "sussex-ppe",
+   "name": "Philosophy, Politics and Economics (PPE)",
+   "degree": "BA (Hons)",
+   "ucasCode": "L0V0",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": "ABB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB-ABB at A-level (a range)",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ppe-ba-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer AAB-ABB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade 5 is also considered if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics or Psychology (or an LIBF Diploma in Financial Studies or Level 3 Core Maths at grade B); AAT accounting qualifications can be used instead of the grade 6."
+    }
+   ],
+   "gcseText": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B). We will also consider applicants with grade 5 in Maths if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics, Psychology, LIBF Diploma in Financial Studies, AAT Diploma or AQA Level 3 Certificate in Maths studies/Core Maths (grade B) You should also have a broad range of GCSEs grade 9-4 (A*-C), including good grades in relevant subjects.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.sussex.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ppe-ba-hons",
+    "checked": "2026-10-21",
+    "evidence": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (the offer is stated as grades only), and Sussex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ppe-ba-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer AAB-ABB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Sussex's typical contextual offer for first-year degrees is BCC at A-level and is made automatically if you meet one of its contextual criteria. The exact reduction varies by course and this course page does not give its own figure.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "our typical contextual offer is: BCC for A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "If you are registered on the Sussex Inspires programme (Year 12) and also meet Sussex's widening participation criteria you are eligible for the contextual offer (typically BCC at A-level). Same offer as the contextual one, not in addition to it.",
+     "programme": "Sussex Inspires",
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you are registered as a student on this programme and meet our widening participation criteria you will be eligible for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sussex.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ppe-ba-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows a September 2027 start); 2027 entry used",
+    "Exact contextual offer for this course is not on the course page; BCC is Sussex's typical contextual offer for first-year degrees",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects"
+   ],
+   "notes": "Philosophy, politics and economics BA with an optional placement and optional study abroad. The page lists no required A-level subjects. EPQ: Sussex takes it into account (useful if you narrowly miss your offer in the summer) and sometimes offers alternative conditions that include it, but publishes no EPQ grades."
+  },
+  {
+   "id": "sussex-economics-sustainable-development",
+   "name": "Economics and Sustainable Development",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LL17",
+   "lengthYears": 3,
+   "lengthNote": "Also available as a 4-year course with an optional professional placement year (it has its own course page).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-geography"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB-BBB at A-level (a range)",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-sustainable-development-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade 5 is also considered if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics or Psychology (or an LIBF Diploma in Financial Studies or Level 3 Core Maths at grade B); AAT accounting qualifications can be used instead of the grade 6."
+    }
+   ],
+   "gcseText": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B). We will also consider applicants with grade 5 in Maths if you are taking A-level Accounting, Business, Chemistry, Economics, Maths, Physics, Psychology, an LIBF Diploma in Financial Studies or Level 3 Certificate in Core Maths (grade B). AAT accounting qualifications can be used as an alternative to the grade 6 GCSE Maths requirement. You should also have a broad range of GCSEs grade 9-4 (A*-C), including good grades in relevant subjects.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-sustainable-development-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "You must have GCSE (or equivalent) Mathematics, with at least grade 6 (or grade B)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (the offer is stated as grades only), and Sussex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-sustainable-development-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Sussex's typical contextual offer for first-year degrees is BCC at A-level and is made automatically if you meet one of its contextual criteria. The exact reduction varies by course and this course page does not give its own figure.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "our typical contextual offer is: BCC for A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "If you are registered on the Sussex Inspires programme (Year 12) and also meet Sussex's widening participation criteria you are eligible for the contextual offer (typically BCC at A-level). Same offer as the contextual one, not in addition to it.",
+     "programme": "Sussex Inspires",
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you are registered as a student on this programme and meet our widening participation criteria you will be eligible for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-sustainable-development-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows a September 2027 start); 2027 entry used",
+    "Exact contextual offer for this course is not on the course page; BCC is Sussex's typical contextual offer for first-year degrees",
+    "A-level subjects: the course page lists no required, preferred or excluded A-level subjects"
+   ],
+   "notes": "Combines economics, geography and international development (climate change, environmental economics, development policy). The page lists no required A-level subjects. EPQ: Sussex takes it into account (useful if you narrowly miss your offer in the summer) and sometimes offers alternative conditions that include it, but publishes no EPQ grades."
+  },
+  {
+   "id": "sussex-economics-data-science",
+   "name": "Economics and Data Science",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L1G3",
+   "lengthYears": 3,
+   "lengthNote": "Also available as a 4-year course with an optional professional placement year (it has its own course page).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": "BBB",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB-BBB at A-level (a range), including Mathematics",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-data-science-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB, including Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": null,
+     "note": "A-levels must include Mathematics. The page gives no minimum Maths grade for the A-level route."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": "You should have a broad range of GCSEs grade 9-4 (A*-C), including good grades in relevant subjects.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-data-science-bsc-hons",
+    "checked": "2026-10-21",
+    "evidence": "A-levels must include Mathematics"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page (the offer is stated as grades only), and Sussex is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-data-science-bsc-hons",
+     "checked": "2026-10-21",
+     "evidence": "Typical A-level offer ABB-BBB, including Mathematics"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "Sussex's typical contextual offer for first-year degrees is BCC at A-level and is made automatically if you meet one of its contextual criteria. The exact reduction varies by course and this course page does not give its own figure.",
+     "programme": null,
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "our typical contextual offer is: BCC for A-levels"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "If you are registered on the Sussex Inspires programme (Year 12) and also meet Sussex's widening participation criteria you are eligible for the contextual offer (typically BCC at A-level). Same offer as the contextual one, not in addition to it.",
+     "programme": "Sussex Inspires",
+     "source": {
+      "url": "https://www.sussex.ac.uk/study/undergraduate/apply/offers/contextual-offers",
+      "checked": "2026-10-21",
+      "evidence": "If you are registered as a student on this programme and meet our widening participation criteria you will be eligible for a contextual offer."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.sussex.ac.uk/study/undergraduate/courses/economics-and-data-science-bsc-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows a September 2027 start); 2027 entry used",
+    "Exact contextual offer for this course is not on the course page; BCC is Sussex's typical contextual offer for first-year degrees",
+    "Excluded or accepted A-level subjects (e.g. Psychology, Geography) are not listed on the course page"
+   ],
+   "notes": "Economics with programming, big data and AI (taught with the School of Engineering and Informatics). No GCSE Maths grade is stated, only a broad range of GCSEs at 9-4. EPQ: Sussex takes it into account (useful if you narrowly miss your offer in the summer) and sometimes offers alternative conditions that include it, but publishes no EPQ grades."
+  }
+ ],
+ "notes": [
+  "No 2028-entry course pages yet (checked 2026-10-21): every economics course page shows a September 2027 start, so all courses use 2027 entry.",
+  "No admissions test is named on any of these course pages, and Sussex is not on UAT-UK's official TMUA list for 2027 entry.",
+  "Economics is taught in the University of Sussex Business School. Sussex offers two main degrees: Economics BA (lighter on maths and statistics) and Economics BSc (more quantitative); neither page lists required A-level subjects, but GCSE Maths grade 6 is required (grade 5 considered with some A-levels, including Maths and Psychology).",
+  "Accommodation is guaranteed for new undergraduates starting in 2026-27 and 2027-28 (the guarantee for 2028-29 has not been announced)."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2028/29 Home tuition fee not published: Sussex says the 2027/28 fee is 'likely to be' £10,050 and the government has not indicated the exact increase from 2028/29 onwards",
+  "Accommodation rents for 2028-29 not published; the 2027-28 rents are marked provisional",
+  "Exact contextual offer for each course is not shown on the course pages; BCC is Sussex's typical contextual offer for first-year degrees",
+  "Course pages list no accepted or excluded A-level subjects, so whether Psychology and Geography are accepted is unknown",
+  "No offer reduction other than the contextual offer (for example for attending an Open Day or a summer school) was found on Sussex's current admissions pages"
+ ]
+}

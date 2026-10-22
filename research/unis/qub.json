@@ -1,0 +1,813 @@
+{
+ "id": "qub",
+ "name": "Queen's University Belfast",
+ "shortName": "Queen's Belfast",
+ "aliases": [
+  "QUB",
+  "Queen's",
+  "Queens",
+  "Queen's Belfast",
+  "Queens Belfast",
+  "Queen's University",
+  "Queens University Belfast",
+  "Belfast"
+ ],
+ "city": "Belfast",
+ "region": "Northern Ireland",
+ "country": "Northern Ireland",
+ "setting": "mixed",
+ "settingEvidence": {
+  "url": "https://www.qub.ac.uk/about/Campus-and-facilities/",
+  "checked": "2026-10-21",
+  "evidence": "A CAMPUS UNIVERSITY AT THE HEART OF BELFAST CITY"
+ },
+ "location": {
+  "postcode": "BT9 5EE",
+  "postcodeSource": "https://www.qub.ac.uk/schools/queens-business-school/about/contact-us/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/BT95EE",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 9790,
+  "academicYear": "2026/27",
+  "text": "£9,790 per year for full-time undergraduates who normally live in England, Scotland or Wales (the 2026/27 fee; students who normally live in Northern Ireland pay £4,985). The 2027/28 fee is not published yet; Queen's says the fees will be updated when the new fees are known.",
+  "source": {
+   "url": "https://www.qub.ac.uk/Study/Undergraduate/Fees-and-scholarships/Tuition-fees/",
+   "checked": "2026-10-21",
+   "evidence": "Students who normally live in England, Scotland and Wales (GB Students), will be charged tuition fees of £9,790 per annum for full time undergraduate programmes."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 119,
+  "amountHigh": 243,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Queen's halls cost about £119–£243 a week with all bills included (2026/27). Undergraduates can choose a 40 or 48 week contract.",
+  "source": {
+   "url": "https://www.qub.ac.uk/accommodation/information-about-applying/your-options/",
+   "checked": "2026-10-21",
+   "evidence": "our comprehensive, all-inclusive accommodation prices vary from £119 up to £243 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-25",
+    "endDate": null,
+    "label": "Queen's Business School undergraduate information evening, 6pm to 9pm (not a full open day)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Queen's holds undergraduate open days every June and October (the last was Saturday 3 October 2026; June 2027 dates are not announced yet). Queen's Business School has an in-person undergraduate information evening on Wednesday 25 November 2026, 6pm to 9pm, at its Student Hub (185 Stranmillis Road). Campus tours run on Mondays and Fridays.",
+  "url": "https://www.qub.ac.uk/Study/Undergraduate/open-days/",
+  "source": {
+   "url": "https://www.qub.ac.uk/schools/queens-business-school/about/events/",
+   "checked": "2026-10-21",
+   "evidence": "Business School Undergraduate Information Evening - Wed, 25 Nov 2026 18:00:00 GMT"
+  }
+ },
+ "contextual": {
+  "offersContextual": null,
+  "summary": "Queen's does not publish contextual-offer criteria on the web pages we could read. Its widening-access route is the Pathway Opportunity Programme (up to two A-level grades off the offer), which is only open to students who live and study in Northern Ireland.",
+  "typicalReduction": null,
+  "criteria": [],
+  "minCriteria": null,
+  "rulesText": null,
+  "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/",
+  "source": {
+   "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/InformationforStudents/",
+   "checked": "2026-10-21",
+   "evidence": "Receive a potential reduction of up to two A-level grades in your offer, which will be dependent on your performance in the programme and the course you apply for."
+  }
+ },
+ "programmes": [
+  {
+   "id": "qub-pathway-opportunity-programme",
+   "name": "Pathway Opportunity Programme (Business pathway)",
+   "provider": "Queen's University Belfast",
+   "providerType": "university",
+   "uniIds": [
+    "qub"
+   ],
+   "summary": "Widening-access programme for Northern Ireland students in the first year of A-levels (or similar), with online study, events and a one-week summer school on campus; the Business pathway covers Business Management, Accounting, Finance and Economics.",
+   "whoCanApply": "Students aged 16-19 who normally live in Northern Ireland and study full-time at a school or college in Northern Ireland, in year 1 of a two-year Level 3 course (e.g. A-levels), where neither parent has a university degree, with at least five GCSEs at grade C/4 or above including English Language, and who meet at least one of: free school meals or EMA, carer, NISRA area of disadvantage postcode, newcomer pupil, refugee or asylum seeker, care experienced, or substantial experience of social workers or statutory support services. Open only to students who live and study in Northern Ireland.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "firstGen",
+    "fsm",
+    "carer",
+    "area",
+    "refugee",
+    "care",
+    "other"
+   ],
+   "eligibilityDetail": "Section A (all required): ordinarily resident in Northern Ireland; in full-time education at a school or college in Northern Ireland; in year 1 of a two-year Level 3 qualification (e.g. A-levels); neither parent has attended university or has an undergraduate degree; at least five Level 2/GCSE passes at grade C/4 or above including GCSE English Language; meet any GCSE subject requirements and study the right Level 3 subjects for the chosen pathway; aspire to study at Queen's University Belfast. Section B (at least one): free school meals or EMA within the last 2 years; carer for a family member or dependant; live in a NISRA 'area of disadvantage' postcode; 'newcomer' pupil; refugee or asylum seeker; care experienced (automatically offered a place if Section A is met); substantial experience of a social worker or other statutory support services. The programme is open to students aged 16-19.",
+   "benefits": [
+    "Guaranteed conditional offer or guaranteed interview on a course within your Pathway subject",
+    "Possible reduction of up to two A-level grades in your offer, depending on your performance in the programme and the course you apply for",
+    "£1000 Kilwaughter Foundation bursary awarded in your first semester at Queen's",
+    "One-week summer school staying in Queen's student accommodation (Elms Village), with lectures and a final assessed piece of work"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "qub"
+   ],
+   "offerReduction": "Up to two A-level grades, depending on performance in the programme and the course applied for",
+   "cost": null,
+   "isFree": null,
+   "format": "mixed",
+   "subjects": "Business pathway: Business Management, Accounting, Finance and Economics (13 subject pathways in total)",
+   "yearGroup": "Year 13 in Northern Ireland (the first year of a two-year Level 3 course such as A-levels, which is Year 12 in England)",
+   "runs": {
+    "text": "Programme events run January to December 2027; the Business pathway attends Summer School 2: Monday 28 June to Friday 2 July 2027",
+    "start": "2027-06-28",
+    "end": "2027-07-02",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Tuesday 29 September 2026",
+    "date": "2026-09-29",
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Noon on 4 November 2026",
+    "date": "2026-11-04",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "2027 programme. Applications opened on 29 September 2026 and close at noon on 4 November 2026. Summer school dates are from the programme's Key Dates page. Only open to students who live and study in Northern Ireland.",
+   "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/",
+   "source": {
+    "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/ProgrammeApplications/",
+    "checked": "2026-10-21",
+    "evidence": "They will close noon, November 4 2026."
+   },
+   "notConfirmed": [
+    "Cost to take part is not stated on the programme pages",
+    "Which individual courses are on each pathway is listed in a PDF ('Courses available') that could not be opened"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.qub.ac.uk/",
+  "courses": "https://www.qub.ac.uk/courses/undergraduate/",
+  "economics": "https://www.qub.ac.uk/schools/queens-business-school/study/undergraduate/",
+  "openDays": "https://www.qub.ac.uk/Study/Undergraduate/open-days/",
+  "fees": "https://www.qub.ac.uk/Study/Undergraduate/Fees-and-scholarships/Tuition-fees/",
+  "contextual": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/",
+  "accommodation": "https://www.qub.ac.uk/accommodation/student-accommodation/compare-accommodation/"
+ },
+ "courses": [
+  {
+   "id": "qub-economics",
+   "name": "Economics",
+   "degree": "BSc",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Optional placement year available between the second and final year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level, plus GCSE Mathematics grade A/7",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/economics-bsc-l100/",
+     "checked": "2026-10-21",
+     "evidence": "ABB + GCSE Mathematics grade A/7"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "GCSE Mathematics grade A/7 or above for all applicants"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4 or an equivalent qualification acceptable to the University"
+    }
+   ],
+   "gcseText": "GCSE Mathematics grade A/7 or above for all applicants, and GCSE English Language grade C/4 or an equivalent. Past GCSE performance is also used: as a general guide, offers are normally made to applicants with at least six grade B/6 at GCSE (the threshold may vary from year to year).",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.qub.ac.uk/courses/undergraduate/economics-bsc-l100/",
+    "checked": "2026-10-21",
+    "evidence": "There are no specific subjects required at A-level."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page. Queen's selects on the information in your UCAS application (grades and GCSEs); the personal statement, reference and predicted grades are only reconsidered as a tie-break in August.",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/economics-bsc-l100/",
+     "checked": "2026-10-21",
+     "evidence": "Selection is on the basis of the information provided on your UCAS form"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Northern Ireland students only (you must live and study in Northern Ireland): complete Queen's Pathway Opportunity Programme for a guaranteed conditional offer or interview on a course in your pathway subject, and a possible reduction of up to two A-level grades depending on your performance and the course. The Business pathway summer school covers Business Management, Accounting, Finance and Economics. The offer grades are not stated.",
+     "programme": "Pathway Opportunity Programme",
+     "source": {
+      "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/InformationforStudents/",
+      "checked": "2026-10-21",
+      "evidence": "Receive a potential reduction of up to two A-level grades in your offer, which will be dependent on your performance in the programme and the course you apply for."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.qub.ac.uk/courses/undergraduate/economics-bsc-l100/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows Undergraduate 2027/28); 2027 entry recorded",
+    "Whether this exact course is on the Pathway Opportunity Programme Business pathway course list is not confirmed (the list is in a PDF that could not be opened)"
+   ],
+   "notes": "Offers are normally made on three A-levels (two A-levels plus two AS are also considered). A-level General Studies and Critical Thinking are not normally counted. Personal statement, reference and predicted grades are noted but only reconsidered as a tie-break in August. Applications are handled centrally by the Admissions and Access Service."
+  },
+  {
+   "id": "qub-economics-finance",
+   "name": "Economics (Major) with Finance",
+   "degree": "BSc",
+   "ucasCode": "L1N3",
+   "lengthYears": 3,
+   "lengthNote": "Optional placement year available after the second year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level, plus GCSE Mathematics grade A/7",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/economics-major-finance-bsc-l1n3/",
+     "checked": "2026-10-21",
+     "evidence": "ABB + GCSE Mathematics grade A/7"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "GCSE Mathematics grade A/7 or above for all applicants"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4 or an equivalent qualification acceptable to the University"
+    }
+   ],
+   "gcseText": "GCSE Mathematics grade A/7 or above for all applicants, and GCSE English Language grade C/4 or an equivalent. Past GCSE performance is also used: as a general guide, offers are normally made to applicants with at least six B/6 grades at GCSE (the threshold may vary from year to year).",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.qub.ac.uk/courses/undergraduate/economics-major-finance-bsc-l1n3/",
+    "checked": "2026-10-21",
+    "evidence": "There are no specific subjects required at A-level."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page. Queen's selects on the information in your UCAS application (grades and GCSEs); the personal statement, reference and predicted grades are only reconsidered as a tie-break in August.",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/economics-major-finance-bsc-l1n3/",
+     "checked": "2026-10-21",
+     "evidence": "Selection is on the basis of the information provided on your UCAS form"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Northern Ireland students only (you must live and study in Northern Ireland): complete Queen's Pathway Opportunity Programme for a guaranteed conditional offer or interview on a course in your pathway subject, and a possible reduction of up to two A-level grades depending on your performance and the course. The Business pathway summer school covers Business Management, Accounting, Finance and Economics. The offer grades are not stated.",
+     "programme": "Pathway Opportunity Programme",
+     "source": {
+      "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/InformationforStudents/",
+      "checked": "2026-10-21",
+      "evidence": "Receive a potential reduction of up to two A-level grades in your offer, which will be dependent on your performance in the programme and the course you apply for."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.qub.ac.uk/courses/undergraduate/economics-major-finance-bsc-l1n3/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows Undergraduate 2027/28); 2027 entry recorded",
+    "Whether this exact course is on the Pathway Opportunity Programme Business pathway course list is not confirmed (the list is in a PDF that could not be opened)"
+   ],
+   "notes": "Economics is the major and Finance the minor. Offers are normally made on three A-levels (two A-levels plus two AS are also considered). A-level General Studies and Critical Thinking are not normally counted. Personal statement, reference and predicted grades are noted but only reconsidered as a tie-break in August. Applications are handled centrally by the Admissions and Access Service."
+  },
+  {
+   "id": "qub-economics-accounting",
+   "name": "Economics and Accounting",
+   "degree": "BSc",
+   "ucasCode": "LN14",
+   "lengthYears": 3,
+   "lengthNote": "Optional placement year available between the second and final year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-accounting"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level, plus GCSE Mathematics grade B/6",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/economics-accounting-bsc-ln14/",
+     "checked": "2026-10-21",
+     "evidence": "ABB + GCSE Mathematics grade B/6"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "GCSE Mathematics grade B/6 or above for all applicants"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4 or an equivalent qualification acceptable to the University"
+    }
+   ],
+   "gcseText": "GCSE Mathematics grade B/6 or above for all applicants, and GCSE English Language grade C/4 or an equivalent. Past GCSE performance is also used: as a general guide, offers are normally made to applicants with four A/7 grades plus two B/6 grades at GCSE (the threshold varies from year to year).",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.qub.ac.uk/courses/undergraduate/economics-accounting-bsc-ln14/",
+    "checked": "2026-10-21",
+    "evidence": "all applicants must have GCSE Mathematics at grade B/6 or above. Offers are made in terms of grades rather than UCAS Tariff points."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page. Queen's selects on the information in your UCAS application (grades and GCSEs); the personal statement, reference and predicted grades are only reconsidered as a tie-break in August.",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/economics-accounting-bsc-ln14/",
+     "checked": "2026-10-21",
+     "evidence": "Selection is on the basis of the information provided on your UCAS form"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Northern Ireland students only (you must live and study in Northern Ireland): complete Queen's Pathway Opportunity Programme for a guaranteed conditional offer or interview on a course in your pathway subject, and a possible reduction of up to two A-level grades depending on your performance and the course. The Business pathway summer school covers Business Management, Accounting, Finance and Economics. The offer grades are not stated.",
+     "programme": "Pathway Opportunity Programme",
+     "source": {
+      "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/InformationforStudents/",
+      "checked": "2026-10-21",
+      "evidence": "Receive a potential reduction of up to two A-level grades in your offer, which will be dependent on your performance in the programme and the course you apply for."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.qub.ac.uk/courses/undergraduate/economics-accounting-bsc-ln14/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows Undergraduate 2027/28); 2027 entry recorded",
+    "The page does not say outright that no A-level subjects are required; it only states GCSE Mathematics B/6 and that General Studies and Critical Thinking are not normally counted",
+    "Whether this exact course is on the Pathway Opportunity Programme Business pathway course list is not confirmed (the list is in a PDF that could not be opened)"
+   ],
+   "notes": "Includes exemptions from some professional accountancy exams (Chartered Accountants Ireland, ACCA and CIMA). Offers are normally made on three A-levels (two A-levels plus two AS are also considered). A-level General Studies and Critical Thinking are not normally counted. Personal statement, reference and predicted grades are noted but only reconsidered as a tie-break in August. Applications are handled centrally by the Admissions and Access Service."
+  },
+  {
+   "id": "qub-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc",
+   "ucasCode": "L110",
+   "lengthYears": 3,
+   "lengthNote": "Optional placement year available between the second and final year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level, plus GCSE Mathematics grade B/6",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/business-economics-bsc-l110/",
+     "checked": "2026-10-21",
+     "evidence": "ABB + GCSE Mathematics grade B/6"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "GCSE Mathematics grade B/6 or above for all applicants"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4 or an equivalent qualification acceptable to the University"
+    }
+   ],
+   "gcseText": "GCSE Mathematics grade B/6 or above for all applicants, and GCSE English Language grade C/4 or an equivalent. Past GCSE performance is also used: as a general guide, offers are normally made to applicants with six B/6 grades at GCSE (the threshold may vary from year to year).",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.qub.ac.uk/courses/undergraduate/business-economics-bsc-l110/",
+    "checked": "2026-10-21",
+    "evidence": "There are no specific subjects required at A-level."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page. Queen's selects on the information in your UCAS application (grades and GCSEs); the personal statement, reference and predicted grades are only reconsidered as a tie-break in August.",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/business-economics-bsc-l110/",
+     "checked": "2026-10-21",
+     "evidence": "Selection is on the basis of the information provided on your UCAS form"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Northern Ireland students only (you must live and study in Northern Ireland): complete Queen's Pathway Opportunity Programme for a guaranteed conditional offer or interview on a course in your pathway subject, and a possible reduction of up to two A-level grades depending on your performance and the course. The Business pathway summer school covers Business Management, Accounting, Finance and Economics. The offer grades are not stated.",
+     "programme": "Pathway Opportunity Programme",
+     "source": {
+      "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/InformationforStudents/",
+      "checked": "2026-10-21",
+      "evidence": "Receive a potential reduction of up to two A-level grades in your offer, which will be dependent on your performance in the programme and the course you apply for."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.qub.ac.uk/courses/undergraduate/business-economics-bsc-l110/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows Undergraduate 2027/28); 2027 entry recorded",
+    "Whether this exact course is on the Pathway Opportunity Programme Business pathway course list is not confirmed (the list is in a PDF that could not be opened)"
+   ],
+   "notes": "The page says this degree places less emphasis on mathematics than traditional economics programmes. Offers are normally made on three A-levels (two A-levels plus two AS are also considered). A-level General Studies and Critical Thinking are not normally counted. Personal statement, reference and predicted grades are noted but only reconsidered as a tie-break in August. Applications are handled centrally by the Admissions and Access Service."
+  },
+  {
+   "id": "qub-ppe",
+   "name": "Politics, Philosophy and Economics",
+   "degree": "BA",
+   "ucasCode": "LV00",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "ppe",
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level, plus GCSE Mathematics grade B/6",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/politics-philosophy-economics-ba-lv00/",
+     "checked": "2026-10-21",
+     "evidence": "AAA + GCSE Mathematics grade B/6"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "GCSE Mathematics grade B/6 or above for all applicants"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4 or an equivalent qualification acceptable to the University"
+    }
+   ],
+   "gcseText": "GCSE Mathematics grade B/6 and GCSE English Language grade C/4 (or equivalents). Past GCSE performance is also used: for entry last year offers started with 3 grade A/7 and 3 grade B/6 at GCSE; this threshold may be lowered as the cycle progresses.",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.qub.ac.uk/courses/undergraduate/politics-philosophy-economics-ba-lv00/",
+    "checked": "2026-10-21",
+    "evidence": "There are no specific Level 3 subject requirements to study Politics, Philosophy and Economics."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page. Queen's selects on the information in your UCAS application (grades and GCSEs); the personal statement, reference and predicted grades are only reconsidered as a tie-break in August.",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/politics-philosophy-economics-ba-lv00/",
+     "checked": "2026-10-21",
+     "evidence": "Selection is on the basis of the information provided on your UCAS form."
+    }
+   },
+   "alternativeOffers": [],
+   "competition": null,
+   "links": {
+    "course": "https://www.qub.ac.uk/courses/undergraduate/politics-philosophy-economics-ba-lv00/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows Undergraduate 2027/28); 2027 entry recorded",
+    "Whether this course is on a Pathway Opportunity Programme pathway is not confirmed (the course lists are in a PDF that could not be opened)"
+   ],
+   "notes": "Repeat applicants may be asked for one grade higher than first-time applicants. Applicants are not normally asked to attend an interview. Offers are normally made on three A-levels (two A-levels plus two AS are also considered). A-level General Studies and Critical Thinking are not normally counted."
+  },
+  {
+   "id": "qub-finance",
+   "name": "Finance with a Year in Industry",
+   "degree": "BSc",
+   "ucasCode": "N300",
+   "lengthYears": 4,
+   "lengthNote": "4 years including an integrated placement year (year in industry) with a financial institution",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "required",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB at A-level including Mathematics",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/finance-year-industry-bsc-n300/",
+     "checked": "2026-10-21",
+     "evidence": "AAB including Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "A-level Mathematics at grade B or above is required; the offer is AAB including Mathematics."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4 or an equivalent qualification acceptable to the University"
+    }
+   ],
+   "gcseText": "GCSE English Language grade C/4 or an equivalent (no GCSE Mathematics grade is stated because A-level Mathematics is required). Past GCSE performance is also used: for entry last year offers started with 4 grade A/7 and 2 grade B/6 at GCSE; this threshold may be lowered as the cycle progresses.",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.qub.ac.uk/courses/undergraduate/finance-year-industry-bsc-n300/",
+    "checked": "2026-10-21",
+    "evidence": "all applicants must have A-Level Mathematics at grade B or above"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page. Queen's selects on the information in your UCAS application (grades and GCSEs); the personal statement, reference and predicted grades are only reconsidered as a tie-break in August.",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/finance-year-industry-bsc-n300/",
+     "checked": "2026-10-21",
+     "evidence": "Selection is on the basis of the information provided on your UCAS form."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Northern Ireland students only (you must live and study in Northern Ireland): complete Queen's Pathway Opportunity Programme for a guaranteed conditional offer or interview on a course in your pathway subject, and a possible reduction of up to two A-level grades depending on your performance and the course. The Business pathway summer school covers Business Management, Accounting, Finance and Economics. The offer grades are not stated.",
+     "programme": "Pathway Opportunity Programme",
+     "source": {
+      "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/InformationforStudents/",
+      "checked": "2026-10-21",
+      "evidence": "Receive a potential reduction of up to two A-level grades in your offer, which will be dependent on your performance in the programme and the course you apply for."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.qub.ac.uk/courses/undergraduate/finance-year-industry-bsc-n300/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows Undergraduate 2027/28); 2027 entry recorded",
+    "Whether this exact course is on the Pathway Opportunity Programme Business pathway course list is not confirmed (the list is in a PDF that could not be opened)",
+    "Placement-year tuition fee for students from England/GB is not stated on the fees page (it only gives £1,850 for NI/ROI and international students)"
+   ],
+   "notes": "Queen's only lists Finance as a 4-year degree with a placement year (no separate 3-year version found). Repeat applicants may be asked for one grade higher. Applicants are not normally asked to attend an interview. Offers are normally made on three A-levels. A-level General Studies and Critical Thinking are not normally counted."
+  },
+  {
+   "id": "qub-business-management",
+   "name": "Business Management with Placement",
+   "degree": "BSc",
+   "ucasCode": "N202",
+   "lengthYears": 4,
+   "lengthNote": "4 years including a placement year between the second and final year",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "required",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level, plus GCSE Mathematics grade B/6",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/business-management-placement-bsc-n202/",
+     "checked": "2026-10-21",
+     "evidence": "ABB + GCSE Mathematics B/6"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "GCSE Mathematics grade B/6 or above for all applicants"
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "GCSE English Language grade C/4 or an equivalent qualification acceptable to the University"
+    }
+   ],
+   "gcseText": "GCSE Mathematics grade B/6 and GCSE English Language grade C/4 (or equivalents). Past GCSE performance is also used: for last year's entry the threshold was a minimum of 4 A/7 and 2 B/6 grades at GCSE, and it changes from year to year.",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.qub.ac.uk/courses/undergraduate/business-management-placement-bsc-n202/",
+    "checked": "2026-10-21",
+    "evidence": "Note: there are no specific subjects required and it is not necessary to have previously studied Business Studies or Management."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page. Queen's selects on the information in your UCAS application (grades and GCSEs); the personal statement, reference and predicted grades are only reconsidered as a tie-break in August.",
+    "source": {
+     "url": "https://www.qub.ac.uk/courses/undergraduate/business-management-placement-bsc-n202/",
+     "checked": "2026-10-21",
+     "evidence": "Selection is on the basis of the information provided on your UCAS form"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Northern Ireland students only (you must live and study in Northern Ireland): complete Queen's Pathway Opportunity Programme for a guaranteed conditional offer or interview on a course in your pathway subject, and a possible reduction of up to two A-level grades depending on your performance and the course. The Business pathway summer school covers Business Management, Accounting, Finance and Economics. The offer grades are not stated.",
+     "programme": "Pathway Opportunity Programme",
+     "source": {
+      "url": "https://www.qub.ac.uk/directorates/sgc/wpu/Post16Programmes/PathwayOpportunityProgramme/InformationforStudents/",
+      "checked": "2026-10-21",
+      "evidence": "Receive a potential reduction of up to two A-level grades in your offer, which will be dependent on your performance in the programme and the course you apply for."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.qub.ac.uk/courses/undergraduate/business-management-placement-bsc-n202/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (course page shows Undergraduate 2027/28); 2027 entry recorded",
+    "Whether this exact course is on the Pathway Opportunity Programme Business pathway course list is not confirmed (the list is in a PDF that could not be opened)",
+    "Placement-year tuition fee for students from England/GB is not stated on the fees page (it only gives £1,850 for NI/ROI and international students)"
+   ],
+   "notes": "Queen's only lists Business Management as a 4-year degree with a placement year (no separate 3-year version found). Repeat applicants may be asked for one grade higher. Offers are normally made on three A-levels (two A-levels plus two AS are also considered). A-level General Studies and Critical Thinking are not normally counted. Personal statement, reference and predicted grades are noted but only reconsidered as a tie-break in August. Applications are handled centrally by the Admissions and Access Service."
+  }
+ ],
+ "notes": [
+  "Course pages show Undergraduate 2027/28 (entry year 2027); no 2028/29 pages found on 2026-10-21, so every course uses 2027 entry.",
+  "The fee recorded is for students who normally live in England, Scotland or Wales (GB students): £9,790 for 2026/27. Students who normally live in Northern Ireland pay £4,985.",
+  "Economics and business courses are taught at Queen's Business School, 185 Stranmillis Road, Belfast BT9 5EE; the main university address is University Road, Belfast BT7 1NN.",
+  "Queen's is not on UAT-UK's TMUA list for 2027 entry, and none of the course pages mention an admissions test.",
+  "Queen's also offers an integrated four-year Master of Economics (MEcon) and Economics (Major) with French or Spanish (4 years); these are not recorded as separate courses.",
+  "Queen's Senior Academy and Junior Academy (widening participation) are for students at Northern Ireland schools, so they are not recorded."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements are not published yet (course pages show Undergraduate 2027/28); 2027 entry recorded for every course",
+  "2027/28 tuition fee not published yet; the 2026/27 fee is recorded (the course pages say fees will be updated when the new fees are known)",
+  "Contextual admissions: no contextual-offer criteria found on the web pages we could read, and the 2026/27 Undergraduate Admissions Policy PDF could not be opened by our tools (HTTP 403)",
+  "June 2027 undergraduate open day date not announced yet",
+  "Placement-year tuition fee for students from England/GB is not stated (the fees page only gives £1,850 for NI/ROI, EU-other and international students)",
+  "Which courses are on each Pathway Opportunity Programme pathway is listed in a PDF that could not be opened"
+ ]
+}

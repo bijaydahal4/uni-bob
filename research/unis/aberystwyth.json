@@ -1,0 +1,952 @@
+{
+ "id": "aberystwyth",
+ "name": "Aberystwyth University",
+ "shortName": "Aberystwyth",
+ "aliases": [
+  "Aber",
+  "Aberystwyth",
+  "Aber Uni",
+  "Aberystwyth Uni"
+ ],
+ "city": "Aberystwyth",
+ "region": "Wales",
+ "country": "Wales",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.aber.ac.uk/en/discover-aberystwyth/life-on-campus/",
+  "checked": "2026-10-21",
+  "evidence": "The University's main teaching campus, Penglais is located on Penglais Hill overlooking the town and Seafront."
+ },
+ "location": {
+  "postcode": "SY23 3FL",
+  "postcodeSource": "https://www.aber.ac.uk/en/discover-aberystwyth/life-on-campus/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/SY233FL",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 9790,
+  "academicYear": "2026/27",
+  "text": "£9,790 per year for Home (UK) undergraduate students (the current 2026/27 fee, set at the Welsh Government maximum regulated fee; Home fee status covers students from the UK). Aberystwyth says this could change for 2027 entry, so the 2027/28 fee is not confirmed yet.",
+  "source": {
+   "url": "https://www.aber.ac.uk/en/study-with-us/fees/undergrad/tuition-fees/",
+   "checked": "2026-10-21",
+   "evidence": "The current tuition fee for undergraduate Home students is £9,790/year. This could change for 2027 entry and current students and applicants will be informed as above."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 124.08,
+  "amountHigh": 215.73,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University self-catered single rooms cost about £124–£216 a week in 2026/27 (£4,839–£8,629 a year on 39–40 week contracts), including energy, wifi, contents insurance and Sports Centre membership. Catered, Welsh-medium Pantycelyn is £229 a week for 33 weeks (includes a £2,226 meal allowance).",
+  "source": {
+   "url": "https://www.aber.ac.uk/en/accommodation/fees/",
+   "checked": "2026-10-21",
+   "evidence": "Cwrt Mawr | Single | 4,839 | 124.08 … Fferm Penglais (Studio) | Single | 8,629 | 215.73"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "Open Day",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next open day: Saturday 7 November 2026 (register on the open days page). No later dates are listed yet.",
+  "url": "https://www.aber.ac.uk/en/study-with-us/open-days/",
+  "source": {
+   "url": "https://www.aber.ac.uk/en/study-with-us/open-days/",
+   "checked": "2026-10-21",
+   "evidence": "Our next open day will take place on Saturday, 7 November. Register below."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Applicants who have been in care, are estranged from their parents, have caring responsibilities, live in a disadvantaged area, have refugee or asylum seeker status, or are the first in their immediate family to go to university may get an offer towards the lower end of the typical range.",
+  "typicalReduction": "Up to two grades, or up to 16 UCAS tariff points, lower than the typical entry requirement (an offer towards the lower end of the typical range).",
+  "criteria": [
+   {
+    "key": "estranged",
+    "detail": "Are estranged from your parents",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "care",
+    "detail": "Have been in care",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "carer",
+    "detail": "Have caring responsibilities",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "area",
+    "detail": "Live in a disadvantaged area (based on your home post code). The page doesn't say which area measure is used.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "refugee",
+    "detail": "Have Refugee or Asylum Seeker Status",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "firstGen",
+    "detail": "Are the first in your immediate family to go to university",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "access",
+    "detail": "Take part in the Welsh Government's Seren Network: email admissions@aber.ac.uk so Aberystwyth can make sure you're considered for a contextual offer.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": null,
+  "rulesText": "Depending on your situation, you may receive an offer towards the lower end of the typical entry requirement range. Aberystwyth receives this information directly from UCAS, so contextual offers are only available to applicants who apply through UCAS. Subject-specific requirements (for example a certain grade in a subject) still apply. The page doesn't say how many criteria you need to meet.",
+  "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+  "source": {
+   "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+   "checked": "2026-10-21",
+   "evidence": "you may receive an offer towards the lower end of our typical entry requirement range (this can be up to two grades, or up to 16 UCAS tariff points lower than our typical entry requirement)"
+  }
+ },
+ "programmes": [
+  {
+   "id": "aberystwyth-access-all-aber",
+   "name": "Access All Aber",
+   "provider": "Aberystwyth University",
+   "providerType": "university",
+   "uniIds": [
+    "aberystwyth"
+   ],
+   "summary": "Five-day summer residential for Year 12 students from widening participation backgrounds, with sessions across many subjects (including International Politics) and a contextual offer for those who complete it.",
+   "whoCanApply": "Year 12 students from widening participation backgrounds. The full criteria (and whether students from outside Wales can apply) were not found on an official page.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Aberystwyth says the programme is designed for young people from Widening Participation backgrounds; detailed criteria are not published on the pages checked.",
+   "benefits": [
+    "Five days in university halls (Pantycelyn, Penglais Campus) with lectures across many subjects, visits and evening social events",
+    "A session on student finance",
+    "Certificate and a contextual offer for those who completed the 2025 programme (for September 2026 entry)"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "aberystwyth"
+   ],
+   "offerReduction": "Completers of the 2025 programme received a contextual offer (Aberystwyth says contextual offers can be up to two grades, or 16 UCAS tariff points, below the typical entry requirement).",
+   "cost": null,
+   "isFree": null,
+   "format": "residential",
+   "subjects": "All subjects (sessions across many departments, including International Politics)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "A five-day programme in summer; the 2025 one was reported on 11 July 2025. 2027 dates not announced.",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2025,
+   "infoNote": "Based on a July 2025 news report. The programme's own page returned 404 when checked on 2026-10-21, so no 2026 or 2027 details were found.",
+   "url": "https://www.aber.ac.uk/en/news/archive/2025/07/title-282312-en.html",
+   "source": {
+    "url": "https://www.aber.ac.uk/en/news/archive/2025/07/title-282312-en.html",
+    "checked": "2026-10-21",
+    "evidence": "Seventy Year 12 pupils took part in Access All Aber, a five-day programme … received a certificate and a contextual offer for a place to study at Aberystwyth University in September 2026."
+   },
+   "notConfirmed": [
+    "Eligibility criteria (including whether students from outside Wales can take part) are not published on any page found",
+    "Cost, 2026/2027 dates and application deadline not found; the programme's page returned 404"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.aber.ac.uk/",
+  "courses": "https://courses.aber.ac.uk/undergraduate/",
+  "economics": "https://courses.aber.ac.uk/undergraduate/economics-degree/",
+  "openDays": "https://www.aber.ac.uk/en/study-with-us/open-days/",
+  "fees": "https://www.aber.ac.uk/en/study-with-us/fees/undergrad/tuition-fees/",
+  "contextual": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+  "accommodation": "https://www.aber.ac.uk/en/accommodation/fees/"
+ },
+ "courses": [
+  {
+   "id": "aberystwyth-economics",
+   "name": "Economics",
+   "degree": "BSc",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year BSc with a foundation year (separate course page on Aberystwyth's course list)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "CCC",
+    "tariff": 120,
+    "tariffLow": 96,
+    "text": "96-120 UCAS tariff points (A levels BBB-CCC)",
+    "source": {
+     "url": "https://courses.aber.ac.uk/undergraduate/economics-degree/",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff 120 - 96 A Levels BBB-CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English or Welsh at grade C/4 or above"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE requirements (minimum grade C/4): English or Welsh, Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.aber.ac.uk/undergraduate/economics-degree/",
+    "checked": "2026-10-21",
+    "evidence": "A Levels BBB-CCC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aberystwyth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet one of Aberystwyth's contextual criteria you may get an offer towards the lower end of the typical range: up to two grades, or up to 16 UCAS tariff points, lower than the typical entry requirement. Subject-specific requirements still apply. Only for applicants applying through UCAS.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "you may receive an offer towards the lower end of our typical entry requirement range (this can be up to two grades, or up to 16 UCAS tariff points lower than our typical entry requirement)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.aber.ac.uk/undergraduate/economics-degree/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says it is available for September 2027 start); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS tariff points or A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown",
+    "Year abroad and placement-year options are not mentioned on the course page",
+    "UCAS course page not checked, so there is no second source"
+   ],
+   "notes": "Aberystwyth says applicants are selected on their own individual merits and offers can vary. Taught in Aberystwyth Business School."
+  },
+  {
+   "id": "aberystwyth-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc",
+   "ucasCode": "L113",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year BSc with a foundation year (separate course page on Aberystwyth's course list)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "CCC",
+    "tariff": 120,
+    "tariffLow": 96,
+    "text": "96-120 UCAS tariff points (A levels BBB-CCC)",
+    "source": {
+     "url": "https://courses.aber.ac.uk/undergraduate/business-economics-degree/",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff 120 - 96 A Levels BBB-CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English or Welsh at grade C/4 or above"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE requirements (minimum grade C/4): English or Welsh and Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.aber.ac.uk/undergraduate/business-economics-degree/",
+    "checked": "2026-10-21",
+    "evidence": "A Levels BBB-CCC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aberystwyth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet one of Aberystwyth's contextual criteria you may get an offer towards the lower end of the typical range: up to two grades, or up to 16 UCAS tariff points, lower than the typical entry requirement. Subject-specific requirements still apply. Only for applicants applying through UCAS.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "you may receive an offer towards the lower end of our typical entry requirement range (this can be up to two grades, or up to 16 UCAS tariff points lower than our typical entry requirement)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.aber.ac.uk/undergraduate/business-economics-degree/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says it is available for September 2027 start); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS tariff points or A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown",
+    "Year abroad and placement-year options are not mentioned on the course page",
+    "UCAS course page not checked, so there is no second source"
+   ],
+   "notes": "Aberystwyth says applicants are selected on their own individual merits and offers can vary. Taught in Aberystwyth Business School."
+  },
+  {
+   "id": "aberystwyth-economics-business-management",
+   "name": "Economics / Business and Management",
+   "degree": "BSc",
+   "ucasCode": "L1N1",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "none"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "CCC",
+    "tariff": 120,
+    "tariffLow": 96,
+    "text": "96-120 UCAS tariff points (A levels BBB-CCC)",
+    "source": {
+     "url": "https://courses.aber.ac.uk/undergraduate/economics-business/",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff 120 - 96 A Levels BBB-CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English or Welsh at grade C/4 or above"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE requirements (minimum grade C/4): English or Welsh and Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.aber.ac.uk/undergraduate/economics-business/",
+    "checked": "2026-10-21",
+    "evidence": "A Levels BBB-CCC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aberystwyth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet one of Aberystwyth's contextual criteria you may get an offer towards the lower end of the typical range: up to two grades, or up to 16 UCAS tariff points, lower than the typical entry requirement. Subject-specific requirements still apply. Only for applicants applying through UCAS.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "you may receive an offer towards the lower end of our typical entry requirement range (this can be up to two grades, or up to 16 UCAS tariff points lower than our typical entry requirement)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.aber.ac.uk/undergraduate/economics-business/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says it is available for September 2027 start); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS tariff points or A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown",
+    "Year abroad and placement-year options are not mentioned on the course page",
+    "UCAS course page not checked, so there is no second source"
+   ],
+   "notes": "Aberystwyth says applicants are selected on their own individual merits and offers can vary. No foundation-year version is listed for this course in Aberystwyth's undergraduate course list."
+  },
+  {
+   "id": "aberystwyth-economics-politics",
+   "name": "Economics and Politics",
+   "degree": "BSc",
+   "ucasCode": "LL13",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "none"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "CCC",
+    "tariff": 120,
+    "tariffLow": 96,
+    "text": "96-120 UCAS tariff points (A levels BBB-CCC)",
+    "source": {
+     "url": "https://courses.aber.ac.uk/undergraduate/economics-politics/",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff 120 - 96 A Levels BBB-CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English or Welsh at grade C/4 or above"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE requirements (minimum grade C/4): English or Welsh and Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.aber.ac.uk/undergraduate/economics-politics/",
+    "checked": "2026-10-21",
+    "evidence": "A Levels BBB-CCC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aberystwyth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet one of Aberystwyth's contextual criteria you may get an offer towards the lower end of the typical range: up to two grades, or up to 16 UCAS tariff points, lower than the typical entry requirement. Subject-specific requirements still apply. Only for applicants applying through UCAS.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "you may receive an offer towards the lower end of our typical entry requirement range (this can be up to two grades, or up to 16 UCAS tariff points lower than our typical entry requirement)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.aber.ac.uk/undergraduate/economics-politics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says it is available for September 2027 start); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS tariff points or A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown",
+    "Year abroad and placement-year options are not mentioned on the course page",
+    "UCAS course page not checked, so there is no second source"
+   ],
+   "notes": "Aberystwyth says applicants are selected on their own individual merits and offers can vary. Taught by Aberystwyth Business School and the Department of International Politics. No foundation-year version is listed for this course in Aberystwyth's undergraduate course list."
+  },
+  {
+   "id": "aberystwyth-maths-economics",
+   "name": "Mathematics / Economics",
+   "degree": "BSc",
+   "ucasCode": "GL91",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "none"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "BCC",
+    "tariff": 120,
+    "tariffLow": 104,
+    "text": "104-120 UCAS tariff points (A levels BBB-BCC) including grade B in A level Mathematics",
+    "source": {
+     "url": "https://courses.aber.ac.uk/undergraduate/mathematics-economics/",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff 120 - 104 A Levels BBB-BCC to include B in Mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "A levels BBB-BCC to include grade B in Mathematics (BTEC: DDM-DMM with B in A level Mathematics)."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English or Welsh at grade C/4 or above"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE requirements (minimum grade C/4): English or Welsh and Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.aber.ac.uk/undergraduate/mathematics-economics/",
+    "checked": "2026-10-21",
+    "evidence": "A Levels BBB-BCC to include B in Mathematics"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aberystwyth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet one of Aberystwyth's contextual criteria you may get an offer towards the lower end of the typical range: up to two grades, or up to 16 UCAS tariff points, lower than the typical entry requirement. Subject-specific requirements still apply (so the grade B in Mathematics still counts). Only for applicants applying through UCAS.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "you may receive an offer towards the lower end of our typical entry requirement range (this can be up to two grades, or up to 16 UCAS tariff points lower than our typical entry requirement)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.aber.ac.uk/undergraduate/mathematics-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says it is available for September 2027 start); 2027 entry recorded",
+    "subjects: the page requires only grade B in A level Mathematics and lists no excluded subjects, but doesn't say outright that every other subject counts, so Psychology and Geography are marked unknown; Further Mathematics is not mentioned",
+    "Year abroad and placement-year options are not mentioned on the course page",
+    "UCAS course page not checked, so there is no second source"
+   ],
+   "notes": "Aberystwyth says applicants are selected on their own individual merits and offers can vary. Combines the Department of Mathematics and Aberystwyth Business School. No foundation-year version is listed for this course in Aberystwyth's undergraduate course list."
+  },
+  {
+   "id": "aberystwyth-economics-climate-change",
+   "name": "Economics and Climate Change",
+   "degree": "BSc",
+   "ucasCode": "FL71",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "none"
+   },
+   "types": [
+    "economics-geography"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "CCC",
+    "tariff": 120,
+    "tariffLow": 96,
+    "text": "96-120 UCAS tariff points (A levels BBB-CCC)",
+    "source": {
+     "url": "https://courses.aber.ac.uk/undergraduate/economics-and-climate-change/",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff 120 - 96 A Levels BBB-CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English or Welsh at grade C/4 or above"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE requirements (minimum grade C/4): English or Welsh, Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.aber.ac.uk/undergraduate/economics-and-climate-change/",
+    "checked": "2026-10-21",
+    "evidence": "A Levels BBB-CCC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aberystwyth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet one of Aberystwyth's contextual criteria you may get an offer towards the lower end of the typical range: up to two grades, or up to 16 UCAS tariff points, lower than the typical entry requirement. Subject-specific requirements still apply. Only for applicants applying through UCAS.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "you may receive an offer towards the lower end of our typical entry requirement range (this can be up to two grades, or up to 16 UCAS tariff points lower than our typical entry requirement)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.aber.ac.uk/undergraduate/economics-and-climate-change/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says it is available for September 2027 start); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS tariff points or A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown",
+    "Year abroad and placement-year options are not mentioned on the course page",
+    "UCAS course page not checked, so there is no second source"
+   ],
+   "notes": "Aberystwyth says applicants are selected on their own individual merits and offers can vary. Economics with climate science and policy modules. No foundation-year version is listed for this course in Aberystwyth's undergraduate course list."
+  },
+  {
+   "id": "aberystwyth-accounting-economics",
+   "name": "Accounting and Finance / Economics",
+   "degree": "BSc",
+   "ucasCode": "N4L1",
+   "lengthYears": 3,
+   "lengthNote": null,
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "none"
+   },
+   "types": [
+    "economics-accounting"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "CCC",
+    "tariff": 120,
+    "tariffLow": 96,
+    "text": "96-120 UCAS tariff points (A levels BBB-CCC)",
+    "source": {
+     "url": "https://courses.aber.ac.uk/undergraduate/accounting-economics/",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff 120 - 96 A Levels BBB-CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English or Welsh at grade C/4 or above"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE requirements (minimum grade C/4): English or Welsh and Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.aber.ac.uk/undergraduate/accounting-economics/",
+    "checked": "2026-10-21",
+    "evidence": "A Levels BBB-CCC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aberystwyth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet one of Aberystwyth's contextual criteria you may get an offer towards the lower end of the typical range: up to two grades, or up to 16 UCAS tariff points, lower than the typical entry requirement. Subject-specific requirements still apply. Only for applicants applying through UCAS.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "you may receive an offer towards the lower end of our typical entry requirement range (this can be up to two grades, or up to 16 UCAS tariff points lower than our typical entry requirement)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.aber.ac.uk/undergraduate/accounting-economics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says it is available for September 2027 start); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS tariff points or A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown",
+    "Year abroad and placement-year options are not mentioned on the course page",
+    "UCAS course page not checked, so there is no second source"
+   ],
+   "notes": "Aberystwyth says applicants are selected on their own individual merits and offers can vary. Accredited by ACCA, CIMA, ICAEW, CIPFA, CII and ICAS according to the course page. No foundation-year version is listed for this course in Aberystwyth's undergraduate course list."
+  },
+  {
+   "id": "aberystwyth-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc",
+   "ucasCode": "N400",
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year BSc with a foundation year (separate course page on Aberystwyth's course list)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBB",
+    "low": "CCC",
+    "tariff": 120,
+    "tariffLow": 96,
+    "text": "96-120 UCAS tariff points (A levels BBB-CCC)",
+    "source": {
+     "url": "https://courses.aber.ac.uk/undergraduate/accounting-and-finance-degree/",
+     "checked": "2026-10-21",
+     "evidence": "UCAS Tariff 120 - 96 A Levels BBB-CCC"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English or Welsh at grade C/4 or above"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above"
+    }
+   ],
+   "gcseText": "GCSE requirements (minimum grade C/4): English or Welsh, Mathematics",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://courses.aber.ac.uk/undergraduate/accounting-and-finance-degree/",
+    "checked": "2026-10-21",
+    "evidence": "A Levels BBB-CCC"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and Aberystwyth is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": "This document sets out the courses at each UAT-UK institution that require applicants to take one of our"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet one of Aberystwyth's contextual criteria you may get an offer towards the lower end of the typical range: up to two grades, or up to 16 UCAS tariff points, lower than the typical entry requirement. Subject-specific requirements still apply. Only for applicants applying through UCAS.",
+     "programme": null,
+     "source": {
+      "url": "https://www.aber.ac.uk/en/study-with-us/ug-studies/study-advice/during-your-application/step-by-step-guide/contextual-offers/",
+      "checked": "2026-10-21",
+      "evidence": "you may receive an offer towards the lower end of our typical entry requirement range (this can be up to two grades, or up to 16 UCAS tariff points lower than our typical entry requirement)"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://courses.aber.ac.uk/undergraduate/accounting-and-finance-degree/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says it is available for September 2027 start); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS tariff points or A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown",
+    "Year abroad and placement-year options are not mentioned on the course page",
+    "UCAS course page not checked, so there is no second source"
+   ],
+   "notes": "Aberystwyth says applicants are selected on their own individual merits and offers can vary. Aimed at careers in professional accountancy or financial services."
+  }
+ ],
+ "notes": [
+  "Offers are published as UCAS tariff points with A level equivalents (for example 120-96 points = BBB-CCC), so every course is recorded as a tariff offer; applicants are selected on their own individual merits and offers can vary.",
+  "Aberystwyth is not on UAT-UK's TMUA list for 2027 entry and no course page names an admissions test.",
+  "Course pages are for September 2027 start only (no 2028-entry pages yet), so 2027 entry is recorded.",
+  "Aberystwyth Business School offers school visits and workshops (including an interactive seminar that can cover Economics); its outreach page asks people to contact the School to organise a visit."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements and fees not published yet; 2027 entry recorded for all courses",
+  "2027/28 Home tuition fee not confirmed: the fees page gives the current £9,790 and says it could change for 2027 entry",
+  "Open days: only the 7 November 2026 open day is listed; later dates not announced",
+  "Contextual offers: the page doesn't say which area measure is used, or whether one criterion is enough on its own or several must be met",
+  "Access All Aber: eligibility (it may be limited to students in Wales), cost and 2026/2027 dates are not confirmed; the programme's own page returned 404 on 2026-10-21 and only a July 2025 news report was readable",
+  "Year abroad and placement-year options for these courses are not stated on the course pages"
+ ]
+}

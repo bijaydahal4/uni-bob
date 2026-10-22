@@ -1,0 +1,1594 @@
+{
+  "id": "warwick",
+  "name": "University of Warwick",
+  "shortName": "Warwick",
+  "aliases": [
+    "Warwick",
+    "Warwick Uni",
+    "Warwick University",
+    "UoW"
+  ],
+  "city": "Coventry",
+  "region": "Midlands",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics/",
+    "checked": "2026-10-17",
+    "evidence": "Our campus is where all the elements of your student experience come together in one place."
+  },
+  "location": {
+    "postcode": "CV4 7AL",
+    "postcodeSource": "https://warwick.ac.uk/study/undergraduate/open-days/",
+    "lat": 52.385682,
+    "lng": -1.56482,
+    "coordsSource": "https://api.postcodes.io/postcodes/CV47AL",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for Home students (2027/28)",
+    "source": {
+      "url": "https://warwick.ac.uk/study/undergraduate/fees-and-funding/course-costs/",
+      "checked": "2026-10-17",
+      "evidence": "For the 2027-28 academic year, the UK government announced in March 2026 that the tuition fee cap for UK undergraduate students for the 2027-28 academic year would be £10,050."
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 128,
+    "amountHigh": 255,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "Undergraduate on-campus halls cost about £128 (from) to £255 a week (2026/27 rates; lets of 35 to 44 weeks, depending on the residence)",
+    "source": {
+      "url": "https://warwick.ac.uk/services/accommodation/students/residences/accommodationlist/",
+      "checked": "2026-10-17",
+      "evidence": "Bluebell Undergraduate £255 per week ... Rootes Undergraduate From £128 per week"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-10-24",
+        "endDate": null,
+        "label": "Undergraduate campus open day (now full)",
+        "format": "in person",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2026-10-29",
+        "endDate": null,
+        "label": "Virtual Open Day",
+        "format": "online",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next in-person open day: Saturday 24 October 2026 (now full); online Virtual Open Day on 29 October 2026. 2027 open days not announced yet.",
+    "url": "https://warwick.ac.uk/study/undergraduate/open-days/",
+    "source": {
+      "url": "https://warwick.ac.uk/study/undergraduate/open-days/",
+      "checked": "2026-10-17",
+      "evidence": "Saturday 24 October (this event is now full) ... Virtual Open Day on the 29 October"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Home-fee applicants from UK state schools who meet one of three flags (free school meals, a deprived neighbourhood, or a below-average school), or who are care experienced, estranged or refugees, can get an offer of up to two grades lower; completing a listed access programme can also give a reduced offer.",
+    "typicalReduction": "Up to 2 A level grades lower than the standard offer (e.g. AAB rather than AAA), and/or an additional requirement such as an admissions test removed",
+    "criteria": [
+      {
+        "key": "fsm",
+        "detail": "Individual Free School Meals flag: eligible for UK government-funded Free School Meals at some point in the past eight years (data comes from UCAS up to the end of Key Stage 4; for Key Stage 5 only, your school must confirm in writing).",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Neighbourhood flag: lives in an area with a high level of deprivation (Index of Multiple Deprivation, 0-20%).",
+        "measure": "IMD",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "school",
+        "detail": "School flag: completed studies at schools/colleges where performance was below average and Free School Meals eligibility was higher than average.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Care experienced: a 'looked after child' for at least 3 months and eligible for Home fees (evidence needed; applicants from independent schools are also considered).",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged from both parents (under 25, studying without their support and approval) and eligible for Home fees (evidence needed).",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "UK-based, Home-fee applicants with humanitarian protection, refugee status or limited leave under the UKVI Afghan or Ukraine schemes, who studied A levels or equivalent in a UK school or college (evidence needed).",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Successfully completed Realising Opportunities, Pathways to Law, Pathways to Banking and Finance or Pathways to Engineering (at Warwick or another university): considered for a reduced 'alternative' offer without meeting the flags above. Warwick Scholars Access participants are guaranteed an offer.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "State-school, Home-fee applicants who meet ONE of the three flags (free school meals, neighbourhood, school) are considered for a contextual offer. Care experienced, estranged and refugee applicants qualify without any other flag (the FAQ says independent-school applicants in these three groups are also considered). Undergraduate entry only (no foundation-year or graduate courses); eligibility does not guarantee an offer. Not currently counted: unpaid caring responsibilities, parenting responsibilities, armed forces connections, and disability or medical conditions (use the extenuating circumstances form instead). You do not have to make Warwick your firm choice.",
+    "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+    "source": {
+      "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+      "checked": "2026-10-17",
+      "evidence": "applicants from UK state schools who are eligible for Home fees and meet one of the following contextual ‘flags’ will be considered for a Contextual offer"
+    }
+  },
+  "programmes": [
+    {
+      "id": "warwick-warwick-scholars",
+      "name": "Warwick Scholars (access programme)",
+      "provider": "University of Warwick",
+      "providerType": "university",
+      "uniIds": [
+        "warwick"
+      ],
+      "summary": "Regional access programme from late Year 12 through Year 13 with 1:1 online tutoring in an A level subject, a Warwick student mentor, campus and department visits, and a residential launch event.",
+      "whoCanApply": "Year 12 students with Home fee status and at least five GCSEs at grades 9-6 who attend a school/college or live in one of the Warwick-area local authorities (Coventry, Warwickshire, Birmingham, Solihull, Dudley, Sandwell, Walsall, Wolverhampton, Staffordshire, Northamptonshire, Worcestershire, Leicester, Leicestershire) and meet the widening participation criteria. Care leavers at a school or college in England can also apply.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "care",
+        "estranged",
+        "fsm",
+        "firstGen",
+        "school",
+        "area",
+        "other"
+      ],
+      "eligibilityDetail": "Location: attend a school/college or live in the listed local authority areas (care leavers: a school or college in England). Academic: first year of Level 3 study, at least five GCSEs at 9-6 (4 in English Language and Maths if not among them), meet the subject requirements of the course. Prioritised if care experienced, a care leaver, or estranged from both parents; otherwise at least two of: free school meals now or in the last six years, first generation in the family to attend university, a priority school (below-average KS4 results, or bottom 40% at KS5), a priority neighbourhood (IMD 0-20%), significant extenuating circumstances.",
+      "benefits": [
+        "Guaranteed offer of 2-4 grades lower than the standard entry requirements for your chosen course",
+        "50% tuition fee discount for each year of study (if you complete the programme and meet your offer)",
+        "Bursary of up to £2,000 a year towards on-campus accommodation or travel",
+        "1:1 online tutoring in one A level subject, a student mentor and an Easter revision bootcamp in Year 13"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "warwick"
+      ],
+      "offerReduction": "Guaranteed offer of between 2-4 grades lower than the standard entry requirements",
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "Any Warwick undergraduate course (you name the course when you join)",
+      "yearGroup": "Year 12 (joins in the latter stage of Year 12; runs through Year 13)",
+      "runs": {
+        "text": "Residential launch event in August of Year 12, then Year 13 support (exact 2027 dates not published)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "March 2027 (the page says applications for 2027/28 will open in March 2027; exact date not announced)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Expected around the end of April 2027 (2026 applications closed on Thursday 30 April 2026)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Details are from the 2026 round. The page says 2027/28 applications open in March 2027; the 2027 closing date isn't published, so the expected deadline is based on the 2026 one.",
+      "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+      "source": {
+        "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+        "checked": "2026-10-17",
+        "evidence": "Applications for 2027/28 will open in March 2027."
+      },
+      "notConfirmed": [
+        "cost: the page doesn't say whether the programme itself is free",
+        "runs: the August residential date isn't published"
+      ]
+    },
+    {
+      "id": "warwick-pathways-banking-finance",
+      "name": "Pathways to Banking & Finance (at Warwick)",
+      "provider": "University of Warwick",
+      "providerType": "university",
+      "uniIds": [
+        "warwick"
+      ],
+      "summary": "Free two-year programme (Year 12 and 13) with finance-sector work-experience opportunities, networking, Economics and Business taster lectures, UCAS support and a summer residential national conference.",
+      "whoCanApply": "Year 12 students who have always attended a state-funded, non-fee-paying school or college and live within reasonable commuting distance of Warwick; preference to those meeting one or more widening participation criteria.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "firstGen",
+        "fsm",
+        "school",
+        "area",
+        "care",
+        "carer",
+        "other"
+      ],
+      "eligibilityDetail": "Essential: always attended a state-funded, non-fee-paying school/college; in Year 12 at the start; live within reasonable commuting distance of Warwick. Preference to those who have about five GCSEs at 9-6 (at least two at 9-7) including Maths and English at 9-6, would be first in the family to go to university, received free school meals at secondary school, attend a school with lower-than-average progression to higher education or higher-than-average free school meals, live in a low-progression or deprived neighbourhood, or have been looked after, in care or a young carer. The more criteria you meet, the more likely you are to be offered a place.",
+      "benefits": [
+        "Completers (at any Pathways university) are eligible for a reduced offer at Warwick, up to 2 A level grades lower",
+        "Chance to join the Warwick Scholars undergraduate programme once you enrol",
+        "Work-experience opportunities, finance networking, Economics and Business taster lectures",
+        "Travel costs can be reimbursed"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "warwick"
+      ],
+      "offerReduction": "Up to 2 A level grades lower than the standard offer (alternative offer, not guaranteed; in most cases the same as the contextual offer)",
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "Banking, finance, Economics and Business (separate Law and Engineering streams also run)",
+      "yearGroup": "Year 12 (continues into Year 13)",
+      "runs": {
+        "text": "Two years from autumn 2026 (Year 12 then Year 13): launch in the autumn term, sector and taster days, then the national conference residential and Warwick Economics Summit in the summer (draft timetable)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Tuesday 1 September 2026",
+        "date": "2026-09-01",
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Monday 26 October 2026",
+        "date": "2026-10-26",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "Details are for the 2026/27 programme, whose Year 12 summer events fall in summer 2027. Applications close on Monday 26 October 2026.",
+      "url": "https://warwick.ac.uk/study/outreach/whatweoffer/post-16-programmes/pathwaystoprofessions/pathwaystobanking/",
+      "source": {
+        "url": "https://warwick.ac.uk/study/outreach/whatweoffer/post-16-programmes/pathwaystoprofessions/pathwaystobanking/",
+        "checked": "2026-10-17",
+        "evidence": "Applications open on Tuesday 1st September and will close on Monday 26th October 2026."
+      },
+      "notConfirmed": [
+        "runs: the page gives only a draft timetable by term, not dates"
+      ]
+    },
+    {
+      "id": "warwick-maths-online",
+      "name": "mA*ths Online Programme (at Warwick)",
+      "provider": "University of Warwick",
+      "providerType": "university",
+      "uniIds": [
+        "warwick"
+      ],
+      "summary": "Year 12 and Year 13 support for A level Maths students considering a maths-related degree: masterclass days on campus, two seven-week online courses and online mentoring from Warwick students.",
+      "whoCanApply": "Year 12 students taking at least three A levels including Maths, with at least a 6 in GCSE Maths and Science, who are capable of an A in A level Maths and plan to apply for courses with a large maths component; priority to students from under-represented groups. Warwick's places mainly go to the West Midlands and Northamptonshire; students from regions without a hub may apply to a university they can practically travel to.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "area",
+        "care",
+        "estranged",
+        "refugee",
+        "carer",
+        "firstGen",
+        "income",
+        "school",
+        "other"
+      ],
+      "eligibilityDetail": "Priority to applicants meeting at least one of: free school meals, priority neighbourhood (IMD 0-20%), care experienced or care leaver, estranged from both parents. Additional criteria: refugee or asylum seeker, caring responsibilities, armed forces family, first in family to go to university, household income below £50,000 a year, school with below-average attainment or a high percentage of free school meals. Must be willing and able to travel to Warwick up to twice a year on weekend dates.",
+      "benefits": [
+        "Introductory and closing masterclass days at Warwick with academics, MEI and student mentors",
+        "Two seven-week online courses fitted to the A level Maths curriculum",
+        "Ongoing online mentoring from current Warwick students"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "A level Mathematics (for maths-related degrees; not Economics-specific)",
+      "yearGroup": "Year 12 (a Year 13 strand also runs)",
+      "runs": {
+        "text": "Year 12: introductory masterclass in January 2027, online courses in the spring and early summer terms, closing masterclass in May 2027",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Year 12 applications are open now",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Tuesday 24 November 2026 at 12:00 noon",
+        "date": "2026-11-24",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "Details are for the 2026/27 Year 12 programme (events January to May 2027).",
+      "url": "https://warwick.ac.uk/study/outreach/whatweoffer/post-16-programmes/mathsonlineprogramme/",
+      "source": {
+        "url": "https://warwick.ac.uk/study/outreach/whatweoffer/post-16-programmes/mathsonlineprogramme/",
+        "checked": "2026-10-17",
+        "evidence": "Deadline: Applications close on Tuesday 24 November 2026 at 12:00 noon."
+      },
+      "notConfirmed": [
+        "cost: the page doesn't say whether the programme is free",
+        "lowersOffer: the page doesn't mention any reduced offer for completing it",
+        "runs: exact masterclass dates aren't published"
+      ]
+    },
+    {
+      "id": "warwick-future-economists",
+      "name": "Warwick Future Economist Competition",
+      "provider": "University of Warwick (Department of Economics and Warwick Economics Society)",
+      "providerType": "university",
+      "uniIds": [
+        "warwick"
+      ],
+      "summary": "Essay competition (up to 1,000 words on a set economics question) for 16-18 year olds in UK schools, with cash prizes, commendations for shortlisted essays and publication of the winning essay.",
+      "whoCanApply": "16-18 year olds at schools in the UK; the department particularly encourages students under-represented in higher education to take part.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Open to 16-18 year olds from UK schools. The department encourages (but does not require) students from low-progression or deprived neighbourhoods, below-average schools, with caring responsibilities, care experience, or seeking asylum or refugee status.",
+      "benefits": [
+        "First prize £100 and two finalist prizes of £50",
+        "Commendations for shortlisted essays (a UCAS boost)",
+        "Winning essay published in the 'Assumptions' magazine",
+        "Certificate of participation for shortlisted entries"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "online",
+      "subjects": "Economics",
+      "yearGroup": "Ages 16-18 (Year 12-13)",
+      "runs": {
+        "text": "Write an essay and submit it online (2025 round)",
+        "start": null,
+        "end": null,
+        "status": null
+      },
+      "opens": {
+        "text": "2026 competition not announced yet",
+        "date": null,
+        "status": null
+      },
+      "deadline": {
+        "text": "Expected around early November 2026 (the 2025 deadline was 9:00pm on Friday 7 November 2025)",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2025,
+      "infoNote": "Based on the 2025 competition. The page (last revised 16 September 2025) hasn't been updated for 2026; the expected deadline is based on the 2025 one.",
+      "url": "https://warwick.ac.uk/fac/soc/economics/about/outreach/warwick-future-economists/",
+      "source": {
+        "url": "https://warwick.ac.uk/fac/soc/economics/about/outreach/warwick-future-economists/",
+        "checked": "2026-10-17",
+        "evidence": "are delighted to invite 16-18 year olds from schools in the United Kingdom to take part in the Warwick Future Economist Competition to win £100"
+      },
+      "notConfirmed": [
+        "cost: the page doesn't mention an entry fee",
+        "opens/deadline: the 2026 competition isn't announced"
+      ]
+    },
+    {
+      "id": "warwick-year12-explore-day",
+      "name": "Year 12 Explore Warwick Day",
+      "provider": "University of Warwick",
+      "providerType": "university",
+      "uniIds": [
+        "warwick"
+      ],
+      "summary": "Afternoon on campus with taster lectures around interdisciplinary themes (2026: Sustainability, AI, and Chaos and Order), information on university life and on applying to Warwick Scholars.",
+      "whoCanApply": "Year 12 students (the page lists no other eligibility criteria).",
+      "eligibility": null,
+      "eligibilityCriteria": [],
+      "eligibilityDetail": null,
+      "benefits": [
+        "Taster lectures from leading academics",
+        "Insight into university life",
+        "Information on applying to the Warwick Scholars access programme"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "day",
+      "subjects": "Interdisciplinary themes (not Economics-specific)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Wednesday 25 February 2026, 12:15-5:00 PM (the 2027 event isn't announced)",
+        "start": "2026-02-25",
+        "end": "2026-02-25",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "The 2026 event has passed; register your interest for future events",
+        "date": null,
+        "status": null
+      },
+      "deadline": {
+        "text": null,
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2026 event, which has already taken place. No 2027 date is published.",
+      "url": "https://warwick.ac.uk/study/outreach/whatweoffer/post-16-programmes/year12academictasterdays/",
+      "source": {
+        "url": "https://warwick.ac.uk/study/outreach/whatweoffer/post-16-programmes/year12academictasterdays/",
+        "checked": "2026-10-17",
+        "evidence": "This event has now passed. ... Wednesday 25 February 2026"
+      },
+      "notConfirmed": [
+        "eligibility/cost: the page doesn't give eligibility criteria or say whether the event is free",
+        "2027 date: not announced"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://warwick.ac.uk/",
+    "courses": "https://warwick.ac.uk/study/undergraduate/courses/",
+    "economics": "https://warwick.ac.uk/fac/soc/economics/prospective/ug/",
+    "openDays": "https://warwick.ac.uk/study/undergraduate/open-days/",
+    "fees": "https://warwick.ac.uk/study/undergraduate/fees-and-funding/course-costs/",
+    "contextual": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+    "accommodation": "https://warwick.ac.uk/services/accommodation/students/residences/accommodationlist/"
+  },
+  "courses": [
+    {
+      "id": "warwick-economics",
+      "name": "Economics",
+      "degree": "BSc",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "4 years with study abroad (decided after you start)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "none",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including A in Mathematics (top three A levels only)",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics/",
+          "checked": "2026-10-17",
+          "evidence": "A level typical offer A*AA including A in Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics (or equivalent) is required; the A* can be in any subject"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "Department minimum; a strong GCSE profile (mostly 7 or above) is advised"
+        }
+      ],
+      "gcseText": "You will also need grade 6/B in GCSE English Language. Unless specified differently above, you will also need a minimum of GCSE grade 4 or C (or an equivalent qualification) in English Language and either Mathematics or a Science subject.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://warwick.ac.uk/fac/soc/economics/prospective/ug/faqs/",
+        "checked": "2026-10-17",
+        "evidence": "Offer exclude General Studies and Critical Thinking ... We do not specify a subject mix at A Level"
+      },
+      "admissionsTest": {
+        "status": "optional",
+        "name": "TMUA",
+        "effect": "Optional. Applicants with the highest TMUA scores are considered for a reduced offer of AAA (still including A in Maths). The score needed is set after all results are in and is not published. Applicants without a TMUA score are still considered, and TMUA is not used for contextual-offer applicants.",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants achieving the highest scores in the TMUA will be considered for a reduced offer of AAA. The required level in TMUA will be set once all scores have been received and will not be published."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer: AAB including A in Mathematics. If you meet Warwick's contextual criteria (see the university contextual criteria) and are a Home-fee state-school applicant. Not guaranteed: the offer also depends on academic selection.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics/",
+            "checked": "2026-10-17",
+            "evidence": "The typical contextual offer is AAB including A in Mathematics."
+          }
+        },
+        {
+          "type": "tmua",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Reduced offer of AAA (including A in Mathematics) for applicants with the highest TMUA scores. The required score is not published and the TMUA is optional.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/fac/soc/economics/prospective/ug/faqs/",
+            "checked": "2026-10-17",
+            "evidence": "For Economics (L100) and Economics and Management (LN12), applicants who achieve the highest TMUA scores may be eligible for a reduced offer of AAA, including Mathematics."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Warwick Scholars access programme (Year 12 to Year 13): a guaranteed offer of 2-4 grades lower than the standard offer (plus a 50% tuition fee discount). Regional: for students who attend school/college or live in Coventry, Warwickshire, Birmingham, Solihull, Dudley, Sandwell, Walsall, Wolverhampton, Staffordshire, Northamptonshire, Worcestershire, Leicester or Leicestershire (care leavers at a school or college in England can also apply) and who meet the widening participation criteria.",
+          "programme": "Warwick Scholars",
+          "source": {
+            "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+            "checked": "2026-10-17",
+            "evidence": "you will receive a guaranteed offer of between 2-4 grades lower than the standard entry requirements and a 50% tuition fee discount for each year of study"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Successfully complete Pathways to Banking and Finance, Pathways to Law or Pathways to Engineering (at Warwick or another university) and you may be considered for a reduced 'alternative' offer: up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. The Warwick programmes are for Year 12 students within commuting distance of Warwick.",
+          "programme": "Pathways to Banking & Finance / Law / Engineering",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "either through Warwick or another university, you may be considered for a reduced offer when applying to Warwick even if you do not meet the specific contextual data indicators"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete Realising Opportunities (at Warwick or another university) and you may be considered for a reduced 'alternative' offer of up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. Warwick says its Realising Opportunities programme closes in July 2027 and is not opening applications this year.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities, Pathways to Law, Pathways to Banking and Finance, Pathways to Engineering"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics/",
+        "ucas": "https://www.ucas.com/explore/courses/c438134f-960b-8271-1e93-a78c1fe7d58e/economics"
+      },
+      "notConfirmed": [
+        "entryYear: Warwick has not published 2028-entry course pages yet (course pages say 'applicable for 2027 entry'), so 2027 entry is used",
+        "admissionsTest: the TMUA score needed for the reduced AAA offer is never published; the central TMUA page (24 Sept 2026) says TMUA requirements are 'under review for 2027-entry'"
+      ],
+      "notes": "Top three A levels only (a fourth is not considered; AS levels are not included in offers). EPQ: Warwick does not take the EPQ into account and does not make reduced offers for it. No interview. 2027-entry fees: £10,050."
+    },
+    {
+      "id": "warwick-economics-management",
+      "name": "Economics and Management",
+      "degree": "BSc",
+      "ucasCode": "LN12",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a work placement year (decided after you start)",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including A in Mathematics (top three A levels only)",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics-management/",
+          "checked": "2026-10-17",
+          "evidence": "A level typical offer A*AA including A in Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics (or equivalent) is required; the A* can be in any subject"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "6",
+          "note": null
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "Department minimum; a strong GCSE profile (mostly 7 or above) is advised"
+        }
+      ],
+      "gcseText": "You will also need grade 6/B in GCSE English Language. Unless specified differently above, you will also need a minimum of GCSE grade 4 or C (or an equivalent qualification) in English Language and either Mathematics or a Science subject.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://warwick.ac.uk/fac/soc/economics/prospective/ug/faqs/",
+        "checked": "2026-10-17",
+        "evidence": "Offer exclude General Studies and Critical Thinking ... We do not specify a subject mix at A Level"
+      },
+      "admissionsTest": {
+        "status": "optional",
+        "name": "TMUA",
+        "effect": "Optional (not required). Applicants who sit it and achieve the highest scores are considered for a reduced offer of AAA (still including A in Maths). The score needed is not published. Applicants without a TMUA score are still considered; TMUA is not used for contextual-offer applicants.",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics-management/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants to Economics and Management LN12 are not required to sit the TMUA. Those who sit this optional test and achieve the highest scores will be considered for a reduced offer of AAA."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer: AAB including A in Mathematics. If you meet Warwick's contextual criteria (see the university contextual criteria) and are a Home-fee state-school applicant. Not guaranteed: the offer also depends on academic selection.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics-management/",
+            "checked": "2026-10-17",
+            "evidence": "The typical contextual offer is AAB including A in Mathematics."
+          }
+        },
+        {
+          "type": "tmua",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Reduced offer of AAA (including A in Mathematics) for applicants with the highest TMUA scores. The required score is not published and the TMUA is optional.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/fac/soc/economics/prospective/ug/faqs/",
+            "checked": "2026-10-17",
+            "evidence": "For Economics (L100) and Economics and Management (LN12), applicants who achieve the highest TMUA scores may be eligible for a reduced offer of AAA, including Mathematics."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Warwick Scholars access programme (Year 12 to Year 13): a guaranteed offer of 2-4 grades lower than the standard offer (plus a 50% tuition fee discount). Regional: for students who attend school/college or live in Coventry, Warwickshire, Birmingham, Solihull, Dudley, Sandwell, Walsall, Wolverhampton, Staffordshire, Northamptonshire, Worcestershire, Leicester or Leicestershire (care leavers at a school or college in England can also apply) and who meet the widening participation criteria.",
+          "programme": "Warwick Scholars",
+          "source": {
+            "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+            "checked": "2026-10-17",
+            "evidence": "you will receive a guaranteed offer of between 2-4 grades lower than the standard entry requirements and a 50% tuition fee discount for each year of study"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Successfully complete Pathways to Banking and Finance, Pathways to Law or Pathways to Engineering (at Warwick or another university) and you may be considered for a reduced 'alternative' offer: up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. The Warwick programmes are for Year 12 students within commuting distance of Warwick.",
+          "programme": "Pathways to Banking & Finance / Law / Engineering",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "either through Warwick or another university, you may be considered for a reduced offer when applying to Warwick even if you do not meet the specific contextual data indicators"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete Realising Opportunities (at Warwick or another university) and you may be considered for a reduced 'alternative' offer of up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. Warwick says its Realising Opportunities programme closes in July 2027 and is not opening applications this year.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities, Pathways to Law, Pathways to Banking and Finance, Pathways to Engineering"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://warwick.ac.uk/study/undergraduate/courses/bsc-economics-management/",
+        "ucas": "https://www.ucas.com/explore/courses/9e5985f8-3b18-48f4-a021-787ac6626819/economics-and-management"
+      },
+      "notConfirmed": [
+        "entryYear: Warwick has not published 2028-entry course pages yet (course pages say 'applicable for 2027 entry'), so 2027 entry is used",
+        "admissionsTest: the TMUA score needed for the reduced AAA offer is never published",
+        "options.yearAbroad: the course page only describes an optional work placement year, not study abroad"
+      ],
+      "notes": "Top three A levels only. EPQ: Warwick does not take the EPQ into account and does not make reduced offers for it. No interview. Taught by the Economics department with Warwick Business School modules."
+    },
+    {
+      "id": "warwick-economics-politics-international-studies",
+      "name": "Economics, Politics and International Studies",
+      "degree": "BSc/BA",
+      "ucasCode": "LLD2",
+      "lengthYears": 3,
+      "lengthNote": "4 years with study abroad (decided after you start)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "none",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA plus grade 8/A* in GCSE Mathematics (A-level Mathematics is not required)",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-economics-politics-international-studies/",
+          "checked": "2026-10-17",
+          "evidence": "A level typical offer A*AA. You will also need grade 8/A* in GCSE Mathematics and grade 6/B in GCSE English Language."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "8",
+          "note": "Grade 8/A* needed instead of an A-level Mathematics requirement"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "6",
+          "note": null
+        }
+      ],
+      "gcseText": "You will also need grade 8/A* in GCSE Mathematics and grade 6/B in GCSE English Language.",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://warwick.ac.uk/fac/soc/economics/prospective/ug/faqs/",
+        "checked": "2026-10-17",
+        "evidence": "Offer exclude General Studies and Critical Thinking ... We do not specify a subject mix at A Level"
+      },
+      "admissionsTest": {
+        "status": "optional",
+        "name": "TMUA",
+        "effect": "Optional (not required). Applicants who sit it and achieve the highest scores are considered for a reduced offer of AAA (the GCSE Maths 8/A* requirement still applies). The score needed is not published. Applicants without a TMUA score are still considered; TMUA is not used for contextual-offer applicants.",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-economics-politics-international-studies/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants to Economics, Politics and International Studies LLD2 are not required to sit the TMUA. Those who sit this optional test and achieve the highest scores will be considered for a reduced offer of AAA."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer: AAB including 8/A* in GCSE Maths (or B at A level Maths). If you meet Warwick's contextual criteria (see the university contextual criteria) and are a Home-fee state-school applicant. Not guaranteed: the offer also depends on academic selection.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-economics-politics-international-studies/",
+            "checked": "2026-10-17",
+            "evidence": "The typical contextual offer is AAB including 8/A* in GCSE Maths (or B at A Level in Maths)."
+          }
+        },
+        {
+          "type": "tmua",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "Reduced offer of AAA (including grade 8/A* in GCSE Maths) for applicants with the highest TMUA scores. The required score is not published and the TMUA is optional.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/fac/soc/economics/prospective/ug/faqs/",
+            "checked": "2026-10-17",
+            "evidence": "For Economics Politics and International Studies (LLD2), applicants who achieve the highest TMUA scores may be eligible for a reduced offer of AAA, including A*/Grade 8 in GCSE Maths."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Warwick Scholars access programme (Year 12 to Year 13): a guaranteed offer of 2-4 grades lower than the standard offer (plus a 50% tuition fee discount). Regional: for students who attend school/college or live in Coventry, Warwickshire, Birmingham, Solihull, Dudley, Sandwell, Walsall, Wolverhampton, Staffordshire, Northamptonshire, Worcestershire, Leicester or Leicestershire (care leavers at a school or college in England can also apply) and who meet the widening participation criteria.",
+          "programme": "Warwick Scholars",
+          "source": {
+            "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+            "checked": "2026-10-17",
+            "evidence": "you will receive a guaranteed offer of between 2-4 grades lower than the standard entry requirements and a 50% tuition fee discount for each year of study"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Successfully complete Pathways to Banking and Finance, Pathways to Law or Pathways to Engineering (at Warwick or another university) and you may be considered for a reduced 'alternative' offer: up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. The Warwick programmes are for Year 12 students within commuting distance of Warwick.",
+          "programme": "Pathways to Banking & Finance / Law / Engineering",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "either through Warwick or another university, you may be considered for a reduced offer when applying to Warwick even if you do not meet the specific contextual data indicators"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete Realising Opportunities (at Warwick or another university) and you may be considered for a reduced 'alternative' offer of up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. Warwick says its Realising Opportunities programme closes in July 2027 and is not opening applications this year.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities, Pathways to Law, Pathways to Banking and Finance, Pathways to Engineering"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-economics-politics-international-studies/",
+        "ucas": "https://www.ucas.com/explore/courses/63d5330d-a29c-195c-4c3b-c63d959d117f/economics-politics-and-international-studies"
+      },
+      "notConfirmed": [
+        "entryYear: Warwick has not published 2028-entry course pages yet (course pages say 'applicable for 2027 entry'), so 2027 entry is used",
+        "admissionsTest: the TMUA score needed for the reduced AAA offer is never published",
+        "alternativeOffers: the Economics department outreach page (revised 18 Aug 2026) shows AAA as this course's contextual offer, but the course page and department FAQ say AAB (including 8/A* GCSE Maths or B at A level Maths); the course page is used"
+      ],
+      "notes": "No A-level Mathematics requirement, but GCSE Mathematics grade 8/A* is needed. Top three A levels only. EPQ: Warwick does not take the EPQ into account and does not make reduced offers for it. No interview."
+    },
+    {
+      "id": "warwick-ppe",
+      "name": "Philosophy, Politics and Economics (PPE)",
+      "degree": "BA/BSc",
+      "ucasCode": "L0V0",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a year abroad or a work placement",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA plus at least grade 7 (A) in GCSE Mathematics; no required A-level subjects listed",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-philosophy-politics-economics/",
+          "checked": "2026-10-17",
+          "evidence": "A*AA plus at least grade 7 or grade A in GCSE Mathematics."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Grade 7 or A"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "6",
+          "note": "Grade 6/B in English Literature with at least 4/C in English Language may also be considered"
+        }
+      ],
+      "gcseText": "You will also need grade 6/B in GCSE English Language. Applicants with grade 6/B in GCSE English Literature and minimum grade 4/C in GCSE English Language may also be considered",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://warwick.ac.uk/fac/soc/philosophy/ppe/ugstudy/entry-requirements/",
+        "checked": "2026-10-17",
+        "evidence": "Offers normally exclude General Studies and Critical Thinking at A level."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for this course; Warwick's TMUA page names Computer Science, Economics, Mathematics and Statistics areas only.",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/applying/admissions-tests/",
+          "checked": "2026-10-17",
+          "evidence": "TMUA is used as part of the undergraduate admissions process at Warwick for the following subject areas:"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer: AAB (you must still have at least grade 7/A in GCSE Mathematics). If you meet Warwick's contextual criteria (see the university contextual criteria) and are a Home-fee state-school applicant. Not guaranteed: the offer also depends on academic selection.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-philosophy-politics-economics/",
+            "checked": "2026-10-17",
+            "evidence": "The typical contextual offer is AAB. Applicants must still have at least grade 7 or grade A in GCSE Mathematics."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Warwick Scholars access programme (Year 12 to Year 13): a guaranteed offer of 2-4 grades lower than the standard offer (plus a 50% tuition fee discount). Regional: for students who attend school/college or live in Coventry, Warwickshire, Birmingham, Solihull, Dudley, Sandwell, Walsall, Wolverhampton, Staffordshire, Northamptonshire, Worcestershire, Leicester or Leicestershire (care leavers at a school or college in England can also apply) and who meet the widening participation criteria.",
+          "programme": "Warwick Scholars",
+          "source": {
+            "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+            "checked": "2026-10-17",
+            "evidence": "you will receive a guaranteed offer of between 2-4 grades lower than the standard entry requirements and a 50% tuition fee discount for each year of study"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Successfully complete Pathways to Banking and Finance, Pathways to Law or Pathways to Engineering (at Warwick or another university) and you may be considered for a reduced 'alternative' offer: up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. The Warwick programmes are for Year 12 students within commuting distance of Warwick.",
+          "programme": "Pathways to Banking & Finance / Law / Engineering",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "either through Warwick or another university, you may be considered for a reduced offer when applying to Warwick even if you do not meet the specific contextual data indicators"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete Realising Opportunities (at Warwick or another university) and you may be considered for a reduced 'alternative' offer of up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. Warwick says its Realising Opportunities programme closes in July 2027 and is not opening applications this year.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities, Pathways to Law, Pathways to Banking and Finance, Pathways to Engineering"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://warwick.ac.uk/study/undergraduate/courses/ba-bsc-philosophy-politics-economics/",
+        "ucas": "https://www.ucas.com/explore/courses/d852e9ae-b159-8776-70b3-3928941161b4/philosophy-politics-and-economics-ppe"
+      },
+      "notConfirmed": [
+        "entryYear: Warwick has not published 2028-entry course pages yet (course pages say 'applicable for 2027 entry'), so 2027 entry is used",
+        "subjects: the only list of excluded subjects (General Studies, Critical Thinking) is on the PPE department's entry page, which was last revised in 2017; the 2027 course page lists no subject requirements",
+        "admissionsTest: no test is mentioned on the course page; none is inferred from Warwick's TMUA page, which lists only Computer Science, Economics, Mathematics and Statistics"
+      ],
+      "notes": "Run by the Department of Philosophy with Politics and Economics. EPQ: Warwick does not take the EPQ into account and does not make reduced offers for it. Applicants are interviewed only in exceptional circumstances (department page, 2017)."
+    },
+    {
+      "id": "warwick-economic-studies-gsd",
+      "name": "Economic Studies and Global Sustainable Development",
+      "degree": "BASc",
+      "ucasCode": "L1L8",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an intercalated year abroad or on a work placement",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-geography"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including A in Mathematics",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-economic-studies-global-sustainable-development/",
+          "checked": "2026-10-17",
+          "evidence": "A level typical offer A*AA including A in Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A in A-level Mathematics within A*AA"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "6",
+          "note": "Grade B/6 or equivalent"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "General Warwick minimum (or a Science subject at grade 4)"
+        }
+      ],
+      "gcseText": "You will also need grade B/6 in GCSE English Language or equivalent. Unless specified differently above, you will also need a minimum of GCSE grade 4 or C (or an equivalent qualification) in English Language and either Mathematics or a Science subject.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-economic-studies-global-sustainable-development/",
+        "checked": "2026-10-17",
+        "evidence": "A level typical offer A*AA including A in Mathematics."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for this course; Warwick's TMUA page names Computer Science, Economics, Mathematics and Statistics areas only.",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/applying/admissions-tests/",
+          "checked": "2026-10-17",
+          "evidence": "TMUA is used as part of the undergraduate admissions process at Warwick for the following subject areas:"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer: AAB including A in Mathematics (for applicants whose predicted grades are close to, or slightly below, that level). If you meet Warwick's contextual criteria (see the university contextual criteria) and are a Home-fee state-school applicant. Not guaranteed: the offer also depends on academic selection.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/courses/basc-economic-studies-global-sustainable-development/",
+            "checked": "2026-10-17",
+            "evidence": "The typical contextual offer is AAB including A in Mathematics"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Warwick Scholars access programme (Year 12 to Year 13): a guaranteed offer of 2-4 grades lower than the standard offer (plus a 50% tuition fee discount). Regional: for students who attend school/college or live in Coventry, Warwickshire, Birmingham, Solihull, Dudley, Sandwell, Walsall, Wolverhampton, Staffordshire, Northamptonshire, Worcestershire, Leicester or Leicestershire (care leavers at a school or college in England can also apply) and who meet the widening participation criteria.",
+          "programme": "Warwick Scholars",
+          "source": {
+            "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+            "checked": "2026-10-17",
+            "evidence": "you will receive a guaranteed offer of between 2-4 grades lower than the standard entry requirements and a 50% tuition fee discount for each year of study"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Successfully complete Pathways to Banking and Finance, Pathways to Law or Pathways to Engineering (at Warwick or another university) and you may be considered for a reduced 'alternative' offer: up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. The Warwick programmes are for Year 12 students within commuting distance of Warwick.",
+          "programme": "Pathways to Banking & Finance / Law / Engineering",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "either through Warwick or another university, you may be considered for a reduced offer when applying to Warwick even if you do not meet the specific contextual data indicators"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete Realising Opportunities (at Warwick or another university) and you may be considered for a reduced 'alternative' offer of up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. Warwick says its Realising Opportunities programme closes in July 2027 and is not opening applications this year.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities, Pathways to Law, Pathways to Banking and Finance, Pathways to Engineering"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://warwick.ac.uk/study/undergraduate/courses/basc-economic-studies-global-sustainable-development/",
+        "ucas": "https://www.ucas.com/explore/courses/47503248-3df1-62a1-8e47-3b8bb32a3fb9/economic-studies-and-global-sustainable-development"
+      },
+      "notConfirmed": [
+        "entryYear: Warwick has not published 2028-entry course pages yet (course pages say 'applicable for 2027 entry'), so 2027 entry is used",
+        "acceptsPsychology/acceptsGeography: the course page doesn't list accepted or excluded A-level subjects (apart from A in Mathematics)",
+        "admissionsTest: no test is mentioned on the course page"
+      ],
+      "notes": "A Bachelor of Arts and Sciences from the Global Sustainable Development department, combining Economics with sustainable development. Part of the second year can be spent at Monash University. EPQ: Warwick does not take the EPQ into account and does not make reduced offers for it."
+    },
+    {
+      "id": "warwick-morse",
+      "name": "Mathematics, Operational Research, Statistics and Economics (MORSE)",
+      "degree": "BSc",
+      "ucasCode": "GLN0",
+      "lengthYears": 3,
+      "lengthNote": "4 years with an intercalated Year in Industry or Study Abroad Year",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*A*A*",
+        "low": "A*AA",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "Without Further Maths: A*A*A* including A* in Mathematics, OR A*AA including A* in Mathematics plus TMUA 5.0 / STEP grade 2 / AEA Distinction. With A level Further Maths: A*A*A (A*A* in Maths and Further Maths), or A*AA (A* and A in Maths and Further Maths, either order) plus the same test options, or A*A*A*A.",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-morse/",
+          "checked": "2026-10-17",
+          "evidence": "For applicants taking neither A level nor AS level Further Mathematics The typical offer can be met by achieving any ONE of the following: A*A*A* to include A* in Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A*",
+          "note": "A* in Mathematics is needed on every route if you are not taking Further Maths. With A level Further Maths, A* and A in Maths and Further Maths (either order) is enough on the test route."
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Further Mathematics"
+          ],
+          "note": "Not required, but the course may assume Further Maths knowledge and the offers are lower for applicants taking it (A*A*A with A*A* in Maths and Further Maths, versus A*A*A* without)"
+        }
+      ],
+      "furtherMaths": "preferred",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "General Warwick minimum"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "General Warwick minimum (or a Science subject at grade 4)"
+        }
+      ],
+      "gcseText": "Unless specified differently above, you will also need a minimum of GCSE grade 4 or C (or an equivalent qualification) in English Language and either Mathematics or a Science subject.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-morse/",
+        "checked": "2026-10-17",
+        "evidence": "A*A*A* to include A* in Mathematics"
+      },
+      "admissionsTest": {
+        "status": "optional",
+        "name": "TMUA (or STEP / AEA)",
+        "effect": "Optional but it changes the offer. If you are not taking Further Maths, a TMUA score of 5.0 (or STEP grade 2, or AEA Distinction) lets you meet the offer with A*AA including A* in Maths instead of A*A*A*. Not needed if you meet the grades-only route.",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-morse/",
+          "checked": "2026-10-17",
+          "evidence": "A*AA to include A* in Mathematics and one of the following: STEP (grade 2) TMUA (score 5.0) AEA (Distinction)"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "tmua",
+          "offer": "A*AA",
+          "tariff": null,
+          "conditions": "Without Further Maths: A*AA including A* in Mathematics plus TMUA score 5.0 (or STEP grade 2, or AEA Distinction). This is one of the routes in the standard offer, not a separate reduction.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-morse/",
+            "checked": "2026-10-17",
+            "evidence": "A*AA to include A* in Mathematics and one of the following: STEP (grade 2) TMUA (score 5.0) AEA (Distinction)"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": "A*A*A",
+          "tariff": null,
+          "conditions": "Contextual offer without Further Maths: A*A*A in three A levels including A* in Mathematics, or A*AB including A* in Maths plus grade 2 in any STEP / 5.0 in TMUA / Distinction in AEA. If you meet Warwick's contextual criteria (see the university contextual criteria) and are a Home-fee state-school applicant. Not guaranteed: the offer also depends on academic selection.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-morse/",
+            "checked": "2026-10-17",
+            "evidence": "If you are not taking Further Mathematics, the typical contextual offer is A*A*A in three A levels to include A* in Mathematics"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Warwick Scholars access programme (Year 12 to Year 13): a guaranteed offer of 2-4 grades lower than the standard offer (plus a 50% tuition fee discount). Regional: for students who attend school/college or live in Coventry, Warwickshire, Birmingham, Solihull, Dudley, Sandwell, Walsall, Wolverhampton, Staffordshire, Northamptonshire, Worcestershire, Leicester or Leicestershire (care leavers at a school or college in England can also apply) and who meet the widening participation criteria.",
+          "programme": "Warwick Scholars",
+          "source": {
+            "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+            "checked": "2026-10-17",
+            "evidence": "you will receive a guaranteed offer of between 2-4 grades lower than the standard entry requirements and a 50% tuition fee discount for each year of study"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Successfully complete Pathways to Banking and Finance, Pathways to Law or Pathways to Engineering (at Warwick or another university) and you may be considered for a reduced 'alternative' offer: up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. The Warwick programmes are for Year 12 students within commuting distance of Warwick.",
+          "programme": "Pathways to Banking & Finance / Law / Engineering",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "either through Warwick or another university, you may be considered for a reduced offer when applying to Warwick even if you do not meet the specific contextual data indicators"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete Realising Opportunities (at Warwick or another university) and you may be considered for a reduced 'alternative' offer of up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. Warwick says its Realising Opportunities programme closes in July 2027 and is not opening applications this year.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities, Pathways to Law, Pathways to Banking and Finance, Pathways to Engineering"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://warwick.ac.uk/study/undergraduate/courses/bsc-morse/",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/171dd592-fb23-7c88-fbe2-5b964ead14cd"
+      },
+      "notConfirmed": [
+        "entryYear: Warwick has not published 2028-entry course pages yet (course pages say 'applicable for 2027 entry'), so 2027 entry is used",
+        "acceptsPsychology/acceptsGeography: the course page doesn't list accepted or excluded A-level subjects beyond Maths and Further Maths",
+        "furtherMaths: set to 'preferred' because the page says the course may assume Further Maths knowledge and gives lower offers with it; it is not stated as required"
+      ],
+      "notes": "Taught by the Statistics department with Mathematics, Economics and Warwick Business School; Economics is one of four subject strands. Offers depend on whether you take A level or AS Further Maths, so check the full page."
+    },
+    {
+      "id": "warwick-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc",
+      "ucasCode": "NN34",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Placement Year (listed as a separate course, Accounting and Finance with Placement Year BSc)",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA including A in Maths",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+          "checked": "2026-10-17",
+          "evidence": "A level typical offer A*AA including A in Maths."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A in A-level Maths within A*AA"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "6",
+          "note": "Grade 6/B in English Literature with at least 4/C in English Language may also be considered"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "4",
+          "note": "General Warwick minimum (or a Science subject at grade 4)"
+        }
+      ],
+      "gcseText": "You will need grade 6/B in GCSE English Language, or we may be able to consider grade 6/B in GCSE English Literature alongside grade 4/C in GCSE English Language. Unless specified differently above, you will also need a minimum of GCSE grade 4 or C (or an equivalent qualification) in English Language and either Mathematics or a Science subject.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://warwick.ac.uk/study/undergraduate/applying/entry-requirements/",
+        "checked": "2026-10-17",
+        "evidence": "subjects with significantly overlapping curricula should be avoided where possible, for example Accounting and Business Studies for Warwick Business School courses"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for this course; Warwick's TMUA page names Computer Science, Economics, Mathematics and Statistics areas only.",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/applying/admissions-tests/",
+          "checked": "2026-10-17",
+          "evidence": "TMUA is used as part of the undergraduate admissions process at Warwick for the following subject areas:"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer: AAB including an A in Mathematics (predicted grades must meet it). If you meet Warwick's contextual criteria (see the university contextual criteria) and are a Home-fee state-school applicant. Not guaranteed: the offer also depends on academic selection.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+            "checked": "2026-10-17",
+            "evidence": "The typical contextual offer is AAB including an A in Mathematics."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Warwick Scholars access programme (Year 12 to Year 13): a guaranteed offer of 2-4 grades lower than the standard offer (plus a 50% tuition fee discount). Regional: for students who attend school/college or live in Coventry, Warwickshire, Birmingham, Solihull, Dudley, Sandwell, Walsall, Wolverhampton, Staffordshire, Northamptonshire, Worcestershire, Leicester or Leicestershire (care leavers at a school or college in England can also apply) and who meet the widening participation criteria.",
+          "programme": "Warwick Scholars",
+          "source": {
+            "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+            "checked": "2026-10-17",
+            "evidence": "you will receive a guaranteed offer of between 2-4 grades lower than the standard entry requirements and a 50% tuition fee discount for each year of study"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Successfully complete Pathways to Banking and Finance, Pathways to Law or Pathways to Engineering (at Warwick or another university) and you may be considered for a reduced 'alternative' offer: up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. The Warwick programmes are for Year 12 students within commuting distance of Warwick.",
+          "programme": "Pathways to Banking & Finance / Law / Engineering",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "either through Warwick or another university, you may be considered for a reduced offer when applying to Warwick even if you do not meet the specific contextual data indicators"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete Realising Opportunities (at Warwick or another university) and you may be considered for a reduced 'alternative' offer of up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. Warwick says its Realising Opportunities programme closes in July 2027 and is not opening applications this year.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities, Pathways to Law, Pathways to Banking and Finance, Pathways to Engineering"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://warwick.ac.uk/study/undergraduate/courses/bsc-accounting-finance/",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/08f75aa8-833c-914b-6ab5-326579a2e087"
+      },
+      "notConfirmed": [
+        "entryYear: Warwick has not published 2028-entry course pages yet (course pages say 'applicable for 2027 entry'), so 2027 entry is used",
+        "acceptsPsychology/acceptsGeography: the course page doesn't list accepted or excluded A-level subjects (Warwick only advises avoiding overlapping subjects such as A level Accounting or Business Studies)",
+        "options.yearAbroad: not mentioned on the course page"
+      ],
+      "notes": "Warwick Business School course. Warwick advises avoiding overlapping A levels (for example Accounting and Business Studies). EPQ: Warwick does not take the EPQ into account and does not make reduced offers for it."
+    },
+    {
+      "id": "warwick-business-management",
+      "name": "Business and Management",
+      "degree": "BSc",
+      "ucasCode": "N200",
+      "lengthYears": 3,
+      "lengthNote": "4 years with a Placement Year (listed as a separate course, Business and Management with Placement Year BSc)",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "available"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA plus grade 7/A in GCSE Mathematics (no required A-level subjects listed)",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management/",
+          "checked": "2026-10-17",
+          "evidence": "A level typical offer A*AA A level additional information You will need a grade 7/A in GCSE Mathematics and grade 6/B in GCSE English Language"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Grade 7/A"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "6",
+          "note": "Grade 6/B in English Literature with at least 4/C in English Language may also be considered"
+        }
+      ],
+      "gcseText": "You will need a grade 7/A in GCSE Mathematics and grade 6/B in GCSE English Language, or we may be able to consider grade 6/B in GCSE English Literature alongside grade 4/C in GCSE English Language.",
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": {
+        "url": "https://warwick.ac.uk/study/undergraduate/applying/entry-requirements/",
+        "checked": "2026-10-17",
+        "evidence": "subjects with significantly overlapping curricula should be avoided where possible, for example Accounting and Business Studies for Warwick Business School courses"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed for this course; Warwick's TMUA page names Computer Science, Economics, Mathematics and Statistics areas only.",
+        "source": {
+          "url": "https://warwick.ac.uk/study/undergraduate/applying/admissions-tests/",
+          "checked": "2026-10-17",
+          "evidence": "TMUA is used as part of the undergraduate admissions process at Warwick for the following subject areas:"
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer: AAB (predicted grades must meet it; the GCSE requirements still apply). If you meet Warwick's contextual criteria (see the university contextual criteria) and are a Home-fee state-school applicant. Not guaranteed: the offer also depends on academic selection.",
+          "programme": null,
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management/",
+            "checked": "2026-10-17",
+            "evidence": "The typical contextual offer is AAB."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete the Warwick Scholars access programme (Year 12 to Year 13): a guaranteed offer of 2-4 grades lower than the standard offer (plus a 50% tuition fee discount). Regional: for students who attend school/college or live in Coventry, Warwickshire, Birmingham, Solihull, Dudley, Sandwell, Walsall, Wolverhampton, Staffordshire, Northamptonshire, Worcestershire, Leicester or Leicestershire (care leavers at a school or college in England can also apply) and who meet the widening participation criteria.",
+          "programme": "Warwick Scholars",
+          "source": {
+            "url": "https://warwick.ac.uk/study/outreach/whatweoffer/warwickscholars/",
+            "checked": "2026-10-17",
+            "evidence": "you will receive a guaranteed offer of between 2-4 grades lower than the standard entry requirements and a 50% tuition fee discount for each year of study"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Successfully complete Pathways to Banking and Finance, Pathways to Law or Pathways to Engineering (at Warwick or another university) and you may be considered for a reduced 'alternative' offer: up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. The Warwick programmes are for Year 12 students within commuting distance of Warwick.",
+          "programme": "Pathways to Banking & Finance / Law / Engineering",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "either through Warwick or another university, you may be considered for a reduced offer when applying to Warwick even if you do not meet the specific contextual data indicators"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Complete Realising Opportunities (at Warwick or another university) and you may be considered for a reduced 'alternative' offer of up to 2 A level grades lower than the standard offer, in most cases the same as the contextual offer. Not guaranteed. Warwick says its Realising Opportunities programme closes in July 2027 and is not opening applications this year.",
+          "programme": "Realising Opportunities",
+          "source": {
+            "url": "https://warwick.ac.uk/study/undergraduate/applying/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Realising Opportunities, Pathways to Law, Pathways to Banking and Finance, Pathways to Engineering"
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://warwick.ac.uk/study/undergraduate/courses/bsc-business-management/",
+        "ucas": "https://digital.ucas.com/coursedisplay/courses/5bd02a17-78bb-be8a-6aa8-9d3c2f7ca57e"
+      },
+      "notConfirmed": [
+        "entryYear: Warwick has not published 2028-entry course pages yet (course pages say 'applicable for 2027 entry'), so 2027 entry is used",
+        "acceptsPsychology/acceptsGeography: the course page doesn't list accepted or excluded A-level subjects (Warwick only advises avoiding overlapping subjects such as A level Accounting or Business Studies)",
+        "options.yearAbroad: not mentioned on the course page"
+      ],
+      "notes": "Warwick Business School course. A-level Mathematics is not required, but GCSE Mathematics grade 7/A is. EPQ: Warwick does not take the EPQ into account and does not make reduced offers for it."
+    }
+  ],
+  "notes": [
+    "EPQ: Warwick says it does not take the EPQ into account when assessing applications and does not make reduced offers on the basis of an EPQ.",
+    "TMUA for Economics (L100), Economics and Management (LN12) and Economics, Politics and International Studies (LLD2) is optional: the highest scorers are considered for a reduced offer of AAA; the required score is not published; applicants without it are still considered; it is not used for contextual-offer applicants. Only top three A level grades count (a fourth A level is not considered; AS levels are not included in offers).",
+    "Warwick Scholars (guaranteed offer 2-4 grades lower, 50% fee discount) is regional: only for students at schools/colleges or living in the listed West and East Midlands local authority areas (care leavers at a school or college in England can also apply).",
+    "Realising Opportunities still appears on Warwick's contextual page as giving an alternative offer, but Warwick says its RO programme closes in July 2027 and is not opening applications this year.",
+    "Warwick also runs Discover Warwick Days for school and college groups (Year 11-13, booked by the school; 2026-27 dates run from 16 December 2026 to 8 July 2027).",
+    "Fees: £10,050 is the Home fee for 2027/28; the 2028/29 fee has not been published."
+  ],
+  "notConfirmed": [
+    "entryYear: Warwick has not published 2028-entry course pages yet (course pages say 'applicable for 2027 entry'), so every course uses 2027 entry",
+    "contextual: the criteria on the page are for the 2026/27 admissions cycle (2027 entry); the 2027/28 criteria are not published yet. The contextual page links to a 2027 eligibility checker, which is a form and not readable here",
+    "openDays: no 2027 open days announced yet",
+    "TMUA: test dates for the 2028-entry cycle are not published (the October 2026 and January 2027 sittings are for 2027 entry); the score needed for the reduced AAA offers is never published",
+    "livingCosts: Warwick's living costs page gives no figures, so the halls rents (2026/27) are used; later years' rents are not published",
+    "competition: Warwick publishes no offer rates or applications per place for these courses",
+    "economics outreach: the Economics department lists an 'Introduction to Economics' outreach activity but publishes no details"
+  ]
+}

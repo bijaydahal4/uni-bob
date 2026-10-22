@@ -1,0 +1,1040 @@
+{
+ "id": "city",
+ "name": "City St George's, University of London",
+ "shortName": "City St George's",
+ "aliases": [
+  "City",
+  "City Uni",
+  "City University",
+  "City University London",
+  "City, University of London",
+  "City St Georges",
+  "City St George's",
+  "Bayes",
+  "Bayes Business School",
+  "Cass",
+  "Cass Business School"
+ ],
+ "city": "London",
+ "region": "London",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/business-economics",
+  "checked": "2026-10-21",
+  "evidence": "Study in central London, on the doorstep of the City of London."
+ },
+ "location": {
+  "postcode": "EC1V 0HB",
+  "postcodeSource": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/EC1V0HB",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK students joining in 2027/28 (the maximum the UK Government allows). City says fees for later years may also increase in line with government policy.",
+  "source": {
+   "url": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/finance/2027",
+   "checked": "2026-10-21",
+   "evidence": "Our undergraduate fee for UK students joining us in 2027/28 is £10,050 for the first year of study, in line with the Government policy."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 254.8,
+  "amountHigh": 339.92,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Undergraduate halls near the Clerkenwell campus cost about £254.80–£339.92 a week in 2026/27 (Romano Court £254.80–£267.80, Arbour House £290–£300, Cross Court House £300, The Garden Halls £318.71–£339.92). 2027/28 prices are not published yet.",
+  "source": {
+   "url": "https://www.citystgeorges.ac.uk/prospective-students/accommodation/paying-for-halls",
+   "checked": "2026-10-21",
+   "evidence": "Single Bed Cluster: £254.80"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Undergraduate Open Day (Clerkenwell campus), 10:00-16:00",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next in-person undergraduate open day: Saturday 21 November 2026, 10:00-16:00 at the Clerkenwell campus. City also runs online events and an Undergraduate Online Open Week (dates on its events page).",
+  "url": "https://www.citystgeorges.ac.uk/prospective-students/open-events-and-fairs",
+  "source": {
+   "url": "https://www.citystgeorges.ac.uk/prospective-students/open-events-and-fairs",
+   "checked": "2026-10-21",
+   "evidence": "Saturday, 21st November 2026, 10:00 – 16:00"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Home-fee applicants to the first year of an undergraduate degree who meet one or more of City's contextual criteria can get a reduced offer, usually made automatically from your UCAS form.",
+  "typicalReduction": "Up to two grades (or up to 16 tariff points) below the standard entry requirements: one A-level grade lower with one criterion, no more than two grades with more than one criterion, and the full reduction if you have been in local authority care.",
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "Have spent three months or more in local authority care (taken from your UCAS form, so declare it).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Your postcode is in an area with low progression to higher education as measured by POLAR4: Quintile 1 or 2.",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "school",
+    "detail": "You attend a lower-performing school or college: in the lowest 20% for average QCA points per A-level student (or equivalent) in England, Wales or Northern Ireland, as identified by the Department for Education and provided via UCAS. City publishes a list of eligible schools.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "firstGen",
+    "detail": "You are the first generation of your family to go to university (information provided by UCAS).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged student: aged 25 or below and studying without the support and approval of either parent because the relationship has broken down.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Have caring responsibilities: you give unpaid care to a family member, partner or friend who could not cope without your support.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "Have received free school meals. City's wording: if you received free school meals up until the end of your final year, your UCAS application fee can be waived and the University may factor this in when making your offer (page refers to the 2025 cycle).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You must be a Home-fee paying student applying for the first year of an undergraduate degree through UCAS (foundation courses are not included) and meet one or more of the criteria. Contextual offers apply to A level, BTEC, CTEC, LIBF/IFS, WJEC Diploma and International Baccalaureate qualifications. City says some programmes have grade requirements that cannot be lowered (for example B in A level Mathematics).",
+  "url": "https://www.citystgeorges.ac.uk/about/governance/policies/contextual-admissions",
+  "source": {
+   "url": "https://www.citystgeorges.ac.uk/about/governance/policies/contextual-admissions",
+   "checked": "2026-10-21",
+   "evidence": "You must also meet one or more of the following criteria:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "city-unifocus-days",
+   "name": "UniFocus Days",
+   "provider": "City St George's, University of London",
+   "providerType": "university",
+   "uniIds": [
+    "city"
+   ],
+   "summary": "Day-long, subject-specific events for Year 12 students who are thinking about studying that subject at university, with workshops, mini lectures, a campus tour and a careers talk.",
+   "whoCanApply": "Post-16 students. City says its Clerkenwell outreach works with students in Greater London who meet one or more widening participation criteria.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "fsm",
+    "care",
+    "carer",
+    "refugee",
+    "estranged",
+    "area",
+    "other"
+   ],
+   "eligibilityDetail": "City's Clerkenwell outreach works with students from Year 5 to Post 16 in Greater London who meet one or more of: a disability, free school meals, care experience, care responsibilities, refugee or asylum seeker, estranged, or living in an area of high deprivation. The UniFocus page itself only says 'Post 16'.",
+   "benefits": [
+    "Meet current City students and subject academics",
+    "Campus tour and careers talk",
+    "Find out what it is like to study the subject"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "day",
+   "subjects": "Subject-specific days (subjects not listed on the page)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "January to June 2027 (exact dates still to be confirmed)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "City lists the 2027 events as January to June 2027 with dates still to be confirmed; no application dates yet.",
+   "url": "https://www.citystgeorges.ac.uk/prospective-students/apply/widening-participation/widening-participation-activities",
+   "source": {
+    "url": "https://www.citystgeorges.ac.uk/prospective-students/apply/widening-participation/widening-participation-activities",
+    "checked": "2026-10-21",
+    "evidence": "A series of subject specific day long events that will raise attainment, awareness, and confidence of year 12 students who are thinking about or plan to study that subject at university."
+   },
+   "notConfirmed": [
+    "Which subjects (for example Economics or Business) are offered in 2027",
+    "Cost not stated on the page",
+    "Whether students outside Greater London can apply is not stated",
+    "Exact 2027 dates and application deadline not published"
+   ]
+  },
+  {
+   "id": "city-unimentors",
+   "name": "UniMentors",
+   "provider": "City St George's, University of London",
+   "providerType": "university",
+   "uniIds": [
+    "city"
+   ],
+   "summary": "Six weeks of one-to-one mentoring at school for Year 12 and 13 students about university and the UCAS process, plus launch and celebration events on campus.",
+   "whoCanApply": "Year 12 and 13 students at target schools and colleges, which City contacts in the autumn; interested students must complete an application.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "fsm",
+    "care",
+    "carer",
+    "refugee",
+    "estranged",
+    "area",
+    "other"
+   ],
+   "eligibilityDetail": "Delivered through target schools and colleges. City's Clerkenwell outreach works with students in Greater London who meet one or more widening participation criteria (disability, free school meals, care experience, care responsibilities, refugee or asylum seeker, estranged, or living in an area of high deprivation).",
+   "benefits": [
+    "Four weekly 1:1 meetings at school with a UniMentor",
+    "On-campus launch and celebration events",
+    "Help with student finance and the UCAS process"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "mixed",
+   "subjects": "All subjects (general university guidance)",
+   "yearGroup": "Year 12 and 13",
+   "runs": {
+    "text": "6 weeks during February and March each year (2027 dates not published)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Target schools are contacted in the autumn",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "Based on City's description that UniMentors runs each year in February and March; specific 2027 dates not published.",
+   "url": "https://www.citystgeorges.ac.uk/prospective-students/apply/widening-participation/widening-participation-activities",
+   "source": {
+    "url": "https://www.citystgeorges.ac.uk/prospective-students/apply/widening-participation/widening-participation-activities",
+    "checked": "2026-10-21",
+    "evidence": "UniMentors runs for 6 weeks during February and March each year."
+   },
+   "notConfirmed": [
+    "Cost not stated on the page",
+    "Whether students outside Greater London or at non-target schools can take part is not stated",
+    "Exact 2027 dates and application deadline not published"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.citystgeorges.ac.uk/",
+  "courses": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate",
+  "economics": "https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics",
+  "openDays": "https://www.citystgeorges.ac.uk/prospective-students/open-events-and-fairs",
+  "fees": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics",
+  "contextual": "https://www.citystgeorges.ac.uk/about/governance/policies/contextual-admissions",
+  "accommodation": "https://www.citystgeorges.ac.uk/prospective-students/accommodation/residential-halls"
+ },
+ "courses": [
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and City St George's is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "city-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthNote": "4 years with a placement or study abroad year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "ABB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "ABB at A-level (128 UCAS tariff points), with one A-level in Economics, Maths, Further Maths or Physics",
+    "source": {
+     "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics",
+     "checked": "2026-10-21",
+     "evidence": "ABB. One of the A Levels should be in either Economics, Maths, Further Maths, or Physics."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Economics",
+      "Mathematics",
+      "Further Mathematics",
+      "Physics"
+     ],
+     "minGrade": null,
+     "note": "One of your A-levels should be in Economics, Maths, Further Maths or Physics. No separate minimum grade is stated for that subject."
+    }
+   ],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": null
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature"
+    }
+   ],
+   "gcseText": "A minimum of grade 6 (B) in Mathematics and grade 4 (C) in English Language or English Literature in addition to other outlined requirements.",
+   "subjectsEvidence": {
+    "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics",
+    "checked": "2026-10-21",
+    "evidence": "ABB. One of the A Levels should be in either Economics, Maths, Further Maths, or Physics."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet City's contextual criteria (care experience, low-progression area, lower-performing school or college, or first in your family to go to university) you may get a reduced offer, typically up to two grades lower for A-levels. The exact contextual grades are not published on the course page.",
+     "programme": null,
+     "source": {
+      "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics",
+      "checked": "2026-10-21",
+      "evidence": "Those who are eligible may receive a conditional offer with reduced entry requirements, typically up to two grades lower for A-levels and one grade (or eight tariff points) for BTEC or mixed qualifications."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (City's course page shows 2027/28 entry); 2027 entry recorded"
+   ],
+   "notes": "Two pathways: Economics, or Economics (Economics and Econometrics), which you can move to in Year 2 depending on your electives. The EPQ is unlikely to be part of an offer and will not lower one; AS-levels are unlikely to be included in an offer."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and City St George's is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "city-economics-ba",
+   "name": "Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "L102",
+   "lengthNote": "4 years with a placement or study abroad year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A-level (120 UCAS tariff points)",
+    "source": {
+     "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-ba",
+     "checked": "2026-10-21",
+     "evidence": "A-level: BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": null
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature"
+    }
+   ],
+   "gcseText": "A minimum of grade 5 (B) in Mathematics and grade 4 (C) in English Language or English Literature in addition to other outlined requirements.",
+   "subjectsEvidence": {
+    "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-ba",
+    "checked": "2026-10-21",
+    "evidence": "We do not accept General Studies and Critical Thinking. These subjects will not be included in any conditional offer we make."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet City's contextual criteria (care experience, low-progression area, lower-performing school or college, or first in your family to go to university) you may get a reduced offer, typically up to two grades lower for A-levels. The exact contextual grades are not published on the course page.",
+     "programme": null,
+     "source": {
+      "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-ba",
+      "checked": "2026-10-21",
+      "evidence": "Those who are eligible may receive a conditional offer with reduced entry requirements, typically up to two grades lower for A-levels and one grade (or eight tariff points) for BTEC or mixed qualifications."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-ba",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (City's course page shows 2027/28 entry); 2027 entry recorded"
+   ],
+   "notes": "The BA version of City's Economics degree, with more focus on interpretation, real-world application, economic history and policy evaluation. The page lists no required A-level subjects. The EPQ will not lower an offer."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and City St George's is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "city-business-economics",
+   "name": "Business Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L1N1",
+   "lengthNote": "4 years with a placement or study abroad year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A-level (120 UCAS tariff points)",
+    "source": {
+     "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/business-economics",
+     "checked": "2026-10-21",
+     "evidence": "A-level: BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": null
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "A minimum of grade 4 (or grade C) in English and grade 5 (or grade B) in Mathematics.",
+   "subjectsEvidence": {
+    "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/business-economics",
+    "checked": "2026-10-21",
+    "evidence": "We do not accept General Studies and Critical Thinking. These subjects will not be included in any conditional offer we make."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet City's contextual criteria (care experience, low-progression area, lower-performing school or college, or first in your family to go to university) you may get a reduced offer, typically up to two grades lower for A-levels. The exact contextual grades are not published on the course page.",
+     "programme": null,
+     "source": {
+      "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/business-economics",
+      "checked": "2026-10-21",
+      "evidence": "Those who are eligible may receive a conditional offer with reduced entry requirements, typically up to two grades lower for A-levels and one grade (or eight tariff points) for BTEC or mixed qualifications."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/business-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (City's course page shows 2027/28 entry); 2027 entry recorded"
+   ],
+   "notes": "The page lists no required A-level subjects. The EPQ will not lower an offer."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and City St George's is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "city-economics-accounting",
+   "name": "Economics with Accounting",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN14",
+   "lengthNote": "4 years with a placement or study abroad year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-accounting"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A-level (120 UCAS tariff points)",
+    "source": {
+     "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-with-accounting",
+     "checked": "2026-10-21",
+     "evidence": "A-level: BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": null
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature"
+    }
+   ],
+   "gcseText": "A minimum of grade 5 (B) in Mathematics and grade 4 (C) in English Language or English Literature, in addition to other outlined requirements.",
+   "subjectsEvidence": {
+    "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-with-accounting",
+    "checked": "2026-10-21",
+    "evidence": "We do not accept General Studies and Critical Thinking. These subjects will not be included in any conditional offer we make."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet City's contextual criteria (care experience, low-progression area, lower-performing school or college, or first in your family to go to university) you may get a reduced offer, typically up to two grades lower for A-levels. The exact contextual grades are not published on the course page.",
+     "programme": null,
+     "source": {
+      "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-with-accounting",
+      "checked": "2026-10-21",
+      "evidence": "Those who are eligible may receive a conditional offer with reduced entry requirements, typically up to two grades lower for A-levels and one grade (or eight tariff points) for BTEC or mixed qualifications."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-with-accounting",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (City's course page shows 2027/28 entry); 2027 entry recorded"
+   ],
+   "notes": "Accredited: exemptions from ACCA, CIMA and ICAEW exams. Economics modules are taught by the Department of Economics and accounting modules by Bayes Business School. The page lists no required A-level subjects."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and City St George's is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "city-financial-economics",
+   "name": "Financial Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L111",
+   "lengthNote": "4 years with a placement or study abroad year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A-level including A-level Mathematics (120 UCAS tariff points including grade B in Maths)",
+    "source": {
+     "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/financial-economics",
+     "checked": "2026-10-21",
+     "evidence": "BBB including A Level mathematics"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "BBB including A-level Mathematics (the tariff line says grade B in A-level Mathematics). City says some programmes have grades that cannot be lowered contextually, e.g. B in A-level Mathematics."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": null
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature"
+    }
+   ],
+   "gcseText": "A minimum of grade 6 (B) in Mathematics and grade 4 (C) in English Language or English Literature in addition to other outlined requirements.",
+   "subjectsEvidence": {
+    "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/financial-economics",
+    "checked": "2026-10-21",
+    "evidence": "120 UCAS tariff points points including grade B in A Level mathematics"
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet City's contextual criteria (care experience, low-progression area, lower-performing school or college, or first in your family to go to university) you may get a reduced offer, typically up to two grades lower for A-levels. The exact contextual grades are not published on the course page.",
+     "programme": null,
+     "source": {
+      "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/financial-economics",
+      "checked": "2026-10-21",
+      "evidence": "Those who are eligible may receive a conditional offer with reduced entry requirements, typically up to two grades lower for A-levels and one grade (or eight tariff points) for BTEC or mixed qualifications."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/financial-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (City's course page shows 2027/28 entry); 2027 entry recorded",
+    "The page does not say whether A-level Further Mathematics can replace A-level Mathematics"
+   ],
+   "notes": "The EPQ is unlikely to form part of an offer and will not lower one."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and City St George's is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "city-economics-politics",
+   "name": "Economics and Politics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L1L2",
+   "lengthNote": "4 years with a placement or study abroad year",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "BBB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBB at A-level",
+    "source": {
+     "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-and-politics",
+     "checked": "2026-10-21",
+     "evidence": "A-level: BBB"
+    }
+   },
+   "subjectRequirements": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [],
+   "gcseText": null,
+   "subjectsEvidence": {
+    "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-and-politics",
+    "checked": "2026-10-21",
+    "evidence": "We do not accept General Studies and Critical Thinking. These subjects will not be included in any conditional offer we make."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet City's contextual criteria (care experience, low-progression area, lower-performing school or college, or first in your family to go to university) you may get a reduced offer, typically up to two grades lower for A-levels. The exact contextual grades are not published on the course page.",
+     "programme": null,
+     "source": {
+      "url": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-and-politics",
+      "checked": "2026-10-21",
+      "evidence": "Those who are eligible may receive a conditional offer with reduced entry requirements, typically up to two grades lower for A-levels and one grade (or eight tariff points) for BTEC or mixed qualifications."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.citystgeorges.ac.uk/prospective-students/courses/undergraduate/economics-and-politics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (City's course page shows 2027/28 entry); 2027 entry recorded",
+    "gcse: the UK entry requirements on the course page list no GCSE requirement for A-level applicants",
+    "tariff: the course page gives no UCAS tariff points figure"
+   ],
+   "notes": "Multidisciplinary degree with emphasis on comparative politics (including UK politics) and public policy. The page lists no required A-level subjects."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and City St George's is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "city-finance",
+   "name": "Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N3N3",
+   "lengthNote": "4 years with a placement year (UCAS code N3N1)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "finance"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level, plus GCSE Maths grade 7 and GCSE English grade 4",
+    "source": {
+     "url": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/finance/2027",
+     "checked": "2026-10-21",
+     "evidence": "A-Level: AAA"
+    }
+   },
+   "subjectRequirements": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": null
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature"
+    }
+   ],
+   "gcseText": "In addition to the qualifications below (excluding IB), the following is required: a minimum of grade 4 (C) in GCSE English Language or English Literature and grade 7 (A) in GCSE Maths.",
+   "subjectsEvidence": {
+    "url": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/finance/2027",
+    "checked": "2026-10-21",
+    "evidence": "If you are studying General Studies or Critical Thinking these subjects will not be included in any offer condition."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet City's contextual criteria (care experience, low-progression area, lower-performing school or college, or first in your family to go to university) you may get a reduced offer, typically up to two grades lower for A-levels. The exact contextual grades are not published on the course page.",
+     "programme": null,
+     "source": {
+      "url": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/finance/2027",
+      "checked": "2026-10-21",
+      "evidence": "Those who are eligible may receive a conditional offer with reduced entry requirements, typically up to two grades lower for A-levels and one grade for the International Baccalaureate Diploma."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/finance/2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Bayes page shows 'Showing course information for 2027'; the /2028 page does not exist); 2027 entry recorded",
+    "The page lists no required A-level subjects (only GCSE Maths 7 and English 4)"
+   ],
+   "notes": "Taught by Bayes Business School. Year 1 is shared with Bayes's other finance degrees (Banking and International Finance; Investment and Financial Risk Management). Level 3 Certificate in Core Mathematics (min grade B) is also accepted."
+  },
+  {
+   "lengthYears": 3,
+   "entryYear": 2027,
+   "preferredSubjects": [],
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and City St George's is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-21",
+     "evidence": null
+    }
+   },
+   "competition": null,
+   "id": "city-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN43",
+   "lengthNote": "4 years with a placement year (UCAS code N4N3)",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "AAA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAA at A-level, plus GCSE Maths grade 7 (if not taken at A-level) and GCSE English grade 4",
+    "source": {
+     "url": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/accounting-and-finance/2027",
+     "checked": "2026-10-21",
+     "evidence": "A-Level: AAA"
+    }
+   },
+   "subjectRequirements": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "If not taken at A-level"
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English Language or English Literature"
+    }
+   ],
+   "gcseText": "In addition to the qualifications below (excluding IB), the following is required: a minimum of grade 4 (C) in GCSE English Language or English Literature and grade 7 (A) in GCSE Maths, if not taken at A Level.",
+   "subjectsEvidence": {
+    "url": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/accounting-and-finance/2027",
+    "checked": "2026-10-21",
+    "evidence": "If you are studying General Studies or Critical Thinking these subjects will not be included in any offer condition."
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "If you meet City's contextual criteria (care experience, low-progression area, lower-performing school or college, or first in your family to go to university) you may get a reduced offer, typically up to two grades lower for A-levels. The exact contextual grades are not published on the course page.",
+     "programme": null,
+     "source": {
+      "url": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/accounting-and-finance/2027",
+      "checked": "2026-10-21",
+      "evidence": "Those who are eligible may receive a conditional offer with reduced entry requirements, typically up to two grades lower for A-levels and one grade for the International Baccalaureate Diploma."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.bayes.citystgeorges.ac.uk/study/undergraduate/courses/accounting-and-finance/2027",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Bayes page shows 'Showing course information for 2027'); 2027 entry recorded",
+    "The page lists no required A-level subjects (only GCSE Maths 7 if not taken at A-level, and English 4)"
+   ],
+   "notes": "Taught by Bayes Business School."
+  }
+ ],
+ "notes": [
+  "No 2028-entry course pages yet (checked 2026-10-21: City course pages say '2027/28 entry', Bayes pages say 'Showing course information for 2027', and the Bayes Finance /2028 page returns 404), so all courses use 2027 entry.",
+  "City St George's is not on UAT-UK's official TMUA list for 2027 entry and no course page names an admissions test.",
+  "The EPQ is unlikely to form part of any offer and will not lower one; AS-levels are unlikely to be included in offers.",
+  "All eight courses are listed as taught at the Clerkenwell campus (Northampton Square). The Finance and Accounting and Finance degrees are Bayes Business School courses with their own 2027 pages.",
+  "Other relevant courses not recorded to keep to the course limit: Mathematics with Finance and Economics, International Political Economy, Banking and International Finance, Business Management."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2027/28 halls prices are shown as 'TBC' on City's page; 2026/27 prices recorded",
+  "Exact contextual offer grades are not published (only 'typically up to two grades lower')",
+  "Contextual page still refers to the 2025 cycle for free school meals; check it for the 2028-entry wording",
+  "Dates of the Undergraduate Online Open Week are not on the open days page",
+  "No Year 12 programme specific to Economics or Business found; the Year 12 outreach listed is for Greater London widening participation students and its eligibility for students outside London is not stated"
+ ]
+}

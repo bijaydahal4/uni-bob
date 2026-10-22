@@ -1,0 +1,861 @@
+{
+ "id": "ljmu",
+ "name": "Liverpool John Moores University",
+ "shortName": "LJMU",
+ "aliases": [
+  "LJMU",
+  "John Moores",
+  "Liverpool John Moores",
+  "Liverpool John Moores University",
+  "Moores"
+ ],
+ "city": "Liverpool",
+ "region": "North",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.ljmu.ac.uk/discover/your-student-experience/your-campus",
+  "checked": "2026-10-22",
+  "evidence": "A university of the city"
+ },
+ "location": {
+  "postcode": "L3 5UG",
+  "postcodeSource": "https://www.ljmu.ac.uk/study/visit-us/directions/redmonds-building",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/L35UG",
+  "checked": "2026-10-22"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 a year for UK (Home) students on full-time courses starting in September 2027 (2027/28), subject to Parliamentary approval. A different, reduced fee is charged in sandwich (placement) years and years abroad. From 2028/29 the fee cap may rise each year with inflation.",
+  "source": {
+   "url": "https://www.ljmu.ac.uk/discover/fees-and-funding/undergraduate-finance",
+   "checked": "2026-10-22",
+   "evidence": "The Government has confirmed that this cap will be £9,790 for 2026/27 and £10,050 for 2027/28, in both cases subject to Parliamentary approval."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 101,
+  "amountHigh": 210,
+  "period": "week",
+  "academicYear": "2027/28",
+  "text": "LJMU student halls cost about £101-£210 a week for new students in 2027/28 on a standard 42-week contract (about £4,242-£8,820 for the year). LJMU says prices were correct at 25 September 2026 and may change before 31 December 2026.",
+  "source": {
+   "url": "https://www.ljmu.ac.uk/-/media/files/ljmu/discover/accommodation/accommodation-grid.pdf",
+   "checked": "2026-10-22",
+   "evidence": "210.00 101.00 141.00 165.00 133.00 106.00 188.00"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-06",
+    "endDate": null,
+    "label": "Undergraduate open day (9:00-3:30pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-14",
+    "endDate": null,
+    "label": "Undergraduate open day (9:00-3:30pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days: Friday 6 November 2026 and Saturday 14 November 2026, both 9:00-3:30pm (booking is open). 2027 open days are not announced yet.",
+  "url": "https://www.ljmu.ac.uk/study/undergraduate-students/undergraduate-open-days",
+  "source": {
+   "url": "https://www.ljmu.ac.uk/study/undergraduate-students/undergraduate-open-days",
+   "checked": "2026-10-22",
+   "evidence": "Undergraduate Open Day - Friday 6 November 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "If you answer 'yes' to any one of LJMU's UCAS widening participation questions (estranged, unpaid carer, parent, armed forces connection, free school meals, care experienced), or took part in targeted LJMU Outreach activity, you get an offer lower than the typical entry requirements.",
+  "typicalReduction": null,
+  "criteria": [
+   {
+    "key": "estranged",
+    "detail": "Estranged from both parents (not in contact with and supported by either of them): answers 'yes' to this UCAS widening participation question.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Has unpaid caring responsibilities (not including parenting): answers 'yes' to this UCAS question.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Is a parent or has parenting responsibilities for a child aged 17 or under: answers 'yes' to this UCAS question.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Has a parent or carer who currently serves in the UK Armed Forces, or has done so in the past: answers 'yes' to this UCAS question.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Has ever served in the UK Armed Forces: answers 'yes' to this UCAS question.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "Currently receiving free school meals, or received them at any point between the ages of 11 and 18: answers 'yes' to this UCAS question.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Has been in care, or is care experienced: answers 'yes' to this UCAS question.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "access",
+    "detail": "Took part in targeted LJMU Outreach activity (programmes are not named on the page).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "If you answered 'yes' to one of the following questions on your UCAS form or participated in targeted LJMU Outreach activity, you will receive an offer lower than the typical entry requirements. LJMU does not say how much lower.",
+  "url": "https://www.ljmu.ac.uk/study/undergraduate-students/how-to-apply",
+  "source": {
+   "url": "https://www.ljmu.ac.uk/study/undergraduate-students/how-to-apply",
+   "checked": "2026-10-22",
+   "evidence": "If you answered 'yes' to one of the following questions on your UCAS form or participated in targeted LJMU Outreach activity, you will receive an offer that lower than our typical entry requirements."
+  }
+ },
+ "programmes": [
+  {
+   "id": "ljmu-summer-university",
+   "name": "Summer University",
+   "provider": "Liverpool John Moores University",
+   "providerType": "university",
+   "uniIds": [
+    "ljmu"
+   ],
+   "summary": "Free 3-day, 2-night residential in Liverpool for Year 12 students, with subject taster sessions in your chosen academic route; taking part may earn a reduced offer from LJMU.",
+   "whoCanApply": "Year 12 students in England and Wales (Year 13 in Northern Ireland) who are 17 by the start date (8 July in 2026). Everyone can apply, but priority goes to students who are first in their family to go to university, come from a low-income background, receive free school meals, have a disability, have experience of local authority care or caring responsibilities, or are from a Black, Asian or minority ethnic background.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Open to all Year 12 students in England and Wales (Year 13 in Northern Ireland) aged 17 by the start date; priority to students who meet one or more of: first in family to attend university, low-income background, free school meals, disability, local authority care or caring responsibilities, Black, Asian or minority ethnic background.",
+   "benefits": [
+    "Free: includes academic taster sessions, en-suite accommodation in city-centre halls, meals and some travel costs",
+    "Participants may be eligible for a reduced LJMU offer of up to 16 UCAS points lower than the standard entry requirements",
+    "Helps you strengthen your personal statement and prepare for university study"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "ljmu"
+   ],
+   "offerReduction": "up to 16 UCAS points lower than the standard entry requirements",
+   "cost": "Free",
+   "isFree": true,
+   "format": "residential",
+   "subjects": "2026 routes: Law and Criminal Justice; History and International Relations and Politics (no Economics or Business route in 2026)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Expected around July 2027 (based on the 2026 programme, which ran Wednesday 8 to Friday 10 July 2026); 2027 dates not announced yet",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published (the 2026 page does not say when applications opened)",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published for 2027 (the 2026 closing date was midnight on Wednesday 25 February 2026, or earlier if many applications came in)",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Details are for the 2026 programme (Wednesday 8 to Friday 10 July 2026; applications closed 25 February 2026). The 2027 programme has not been announced; July 2027 is only an expectation based on 2026.",
+   "url": "https://www.ljmu.ac.uk/study/undergraduate-students/outreach/summer-university",
+   "source": {
+    "url": "https://www.ljmu.ac.uk/study/undergraduate-students/outreach/summer-university",
+    "checked": "2026-10-22",
+    "evidence": "Free, and open to Year 12 students in England and Wales and Year 13 students in Northern Ireland"
+   },
+   "notConfirmed": [
+    "2027 dates, application opening date and closing date not announced",
+    "2027 academic routes not announced (2026 routes: Law and Criminal Justice; History and International Relations and Politics)",
+    "The exact reduced offer is not stated, only 'up to 16 UCAS Points lower'"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.ljmu.ac.uk/",
+  "courses": "https://www.ljmu.ac.uk/study/courses/undergraduates",
+  "economics": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/37057-business-with-finance-and-economics-bsc-hons",
+  "openDays": "https://www.ljmu.ac.uk/study/undergraduate-students/undergraduate-open-days",
+  "fees": "https://www.ljmu.ac.uk/discover/fees-and-funding/undergraduate-finance",
+  "contextual": "https://www.ljmu.ac.uk/study/undergraduate-students/how-to-apply",
+  "accommodation": "https://www.ljmu.ac.uk/discover/your-student-experience/accommodation"
+ },
+ "courses": [
+  {
+   "id": "ljmu-business-finance-economics",
+   "name": "Business with Finance and Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN13",
+   "lengthYears": 3,
+   "lengthNote": "Also listed as 4 years with an optional placement year (same course page and UCAS code); a separate 'with Foundation Year' version exists",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-economics",
+    "business-management",
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; A levels BBC (at least 2 A levels, with a maximum of 20 points from AS levels)",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/37057-business-with-finance-and-economics-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 or C or above; approved equivalents such as Key Skills Level 2 in English are listed on the page"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Numeracy at grade 4 or C or above; approved equivalents such as Key Skills Level 2 in Maths are listed on the page"
+    }
+   ],
+   "gcseText": "Grade 4 or grade C or above in English Language and Mathematics/ Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/37057-business-with-finance-and-economics-bsc-hons",
+    "checked": "2026-10-22",
+    "evidence": "Minimum Number of A Levels: 2"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and LJMU is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/37057-business-with-finance-and-economics-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "A contextual offer lower than the typical entry requirements if you answer 'yes' to one of LJMU's UCAS widening participation questions (estranged from both parents, unpaid carer, parent, armed forces connection, free school meals, care experienced) or took part in targeted LJMU Outreach activity. LJMU does not say how much lower the offer is.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/how-to-apply",
+      "checked": "2026-10-22",
+      "evidence": "If you answered 'yes' to one of the following questions on your UCAS form or participated in targeted LJMU Outreach activity, you will receive an offer that lower than our typical entry requirements."
+     }
+    },
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Summer University participants may be eligible for a reduced offer of up to 16 UCAS points lower than the standard entry requirements if they later apply to LJMU (wording from the 2026 programme page; the exact reduced offer is not stated).",
+     "programme": "Summer University",
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/outreach/summer-university",
+      "checked": "2026-10-22",
+      "evidence": "Participants may be eligible for a reduced offer of up to 16 UCAS Points lower than the standard entry requirements, should they subsequently apply to LJMU."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/37057-business-with-finance-and-economics-bsc-hons",
+    "ucas": "https://digital.ucas.com/coursedisplay/courses/d833889e-4702-de2e-b4a9-3d0717855f47?academicYearId=2027"
+   },
+   "notConfirmed": [
+    "subjects: the entry requirements list no required or excluded A-level subjects, so it is not stated whether Psychology or Geography count towards the 112 points",
+    "2028 entry requirements not published yet (LJMU's 2028 course URLs redirect to the course search page); 2027 entry recorded",
+    "competition: LJMU publishes no offer rate or applications per place for this course"
+   ],
+   "notes": "Closest LJMU course to Economics: a business degree with a finance pathway, not a stand-alone Economics degree. The module list includes Economics (20 credits, Year 1 core), Labour economics and Contemporary Economic Policy. Part of the 'Business with' suite, so you can switch specialism (e.g. Digital Marketing or International Business Management) at the end of Year 1. Home fee for the optional placement year is £2,010. Taught at Mount Pleasant Campus (Redmonds Building)."
+  },
+  {
+   "id": "ljmu-ppe",
+   "name": "Politics, Philosophy and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "PPED",
+   "lengthYears": 3,
+   "lengthNote": "The course page also lists an optional sandwich (placement) year and an optional study year abroad",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "ppe",
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; A levels BBC (at least 2 A levels, with a maximum of 20 points from AS levels)",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/36995-politics-philosophy-and-economics-ba-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: 112"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 or C or above; approved equivalents such as Key Skills Level 2 in English are listed on the page"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Numeracy at grade 4 or C or above; approved equivalents such as Key Skills Level 2 in Maths are listed on the page"
+    }
+   ],
+   "gcseText": "Before starting, you need grade C or 4 or above in English Language and Mathematics GCSE, or an approved alternative qualification (for example Key Skills Level 2 in English/Maths).",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/36995-politics-philosophy-and-economics-ba-hons",
+    "checked": "2026-10-22",
+    "evidence": "Minimum number of A Levels: 2"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and LJMU is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/36995-politics-philosophy-and-economics-ba-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: 112"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "A contextual offer lower than the typical entry requirements if you answer 'yes' to one of LJMU's UCAS widening participation questions (estranged from both parents, unpaid carer, parent, armed forces connection, free school meals, care experienced) or took part in targeted LJMU Outreach activity. LJMU does not say how much lower the offer is.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/how-to-apply",
+      "checked": "2026-10-22",
+      "evidence": "If you answered 'yes' to one of the following questions on your UCAS form or participated in targeted LJMU Outreach activity, you will receive an offer that lower than our typical entry requirements."
+     }
+    },
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Summer University participants may be eligible for a reduced offer of up to 16 UCAS points lower than the standard entry requirements if they later apply to LJMU (wording from the 2026 programme page; the exact reduced offer is not stated).",
+     "programme": "Summer University",
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/outreach/summer-university",
+      "checked": "2026-10-22",
+      "evidence": "Participants may be eligible for a reduced offer of up to 16 UCAS Points lower than the standard entry requirements, should they subsequently apply to LJMU."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/36995-politics-philosophy-and-economics-ba-hons",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "subjects: the entry requirements list no required or excluded A-level subjects, so it is not stated whether Psychology or Geography count towards the 112 points",
+    "2028 entry requirements not published yet (LJMU's 2028 course URLs redirect to the course search page); 2027 entry recorded",
+    "competition: LJMU publishes no offer rate or applications per place for this course"
+   ],
+   "notes": "Run by the School of Humanities and Social Science. Core modules include Economics (the same 20-credit module as the Business courses) and Politics, the Economy and the Good Life; optional modules include Contemporary Economic Policy. Mature applicants may be asked for an essay or interview. Taught at Mount Pleasant Campus."
+  },
+  {
+   "id": "ljmu-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N420",
+   "lengthYears": 3,
+   "lengthNote": "Also listed as 4 years with an optional placement year (same course page and UCAS code); a separate 'with Foundation Year' version exists",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; A levels BBC (at least 2 A levels, with a maximum of 20 points from AS levels)",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/30089-accounting-and-finance-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 or C or above; approved equivalents such as Key Skills Level 2 in English are listed on the page"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Numeracy at grade 4 or C or above; approved equivalents such as Key Skills Level 2 in Maths are listed on the page"
+    }
+   ],
+   "gcseText": "Grade 4 or grade C or above in English Language and Mathematics/ Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/30089-accounting-and-finance-bsc-hons",
+    "checked": "2026-10-22",
+    "evidence": "Minimum Number of A Levels: 2"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and LJMU is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/30089-accounting-and-finance-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "A contextual offer lower than the typical entry requirements if you answer 'yes' to one of LJMU's UCAS widening participation questions (estranged from both parents, unpaid carer, parent, armed forces connection, free school meals, care experienced) or took part in targeted LJMU Outreach activity. LJMU does not say how much lower the offer is.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/how-to-apply",
+      "checked": "2026-10-22",
+      "evidence": "If you answered 'yes' to one of the following questions on your UCAS form or participated in targeted LJMU Outreach activity, you will receive an offer that lower than our typical entry requirements."
+     }
+    },
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Summer University participants may be eligible for a reduced offer of up to 16 UCAS points lower than the standard entry requirements if they later apply to LJMU (wording from the 2026 programme page; the exact reduced offer is not stated).",
+     "programme": "Summer University",
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/outreach/summer-university",
+      "checked": "2026-10-22",
+      "evidence": "Participants may be eligible for a reduced offer of up to 16 UCAS Points lower than the standard entry requirements, should they subsequently apply to LJMU."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/30089-accounting-and-finance-bsc-hons",
+    "ucas": "https://digital.ucas.com/coursedisplay/courses/f0a39c38-b34d-9300-dce8-0e67d64857d2?academicYearId=2027"
+   },
+   "notConfirmed": [
+    "subjects: the entry requirements list no required or excluded A-level subjects, so it is not stated whether Psychology or Geography count towards the 112 points",
+    "2028 entry requirements not published yet (LJMU's 2028 course URLs redirect to the course search page); 2027 entry recorded",
+    "competition: LJMU publishes no offer rate or applications per place for this course"
+   ],
+   "notes": "Professionally accredited by four main accountancy bodies (ICAEW, CIMA, CIPFA and ACCA), with exemptions from their exams. Includes an Introduction to Economics module. Mature and non-standard applicants may be invited to interview. Taught at Mount Pleasant Campus."
+  },
+  {
+   "id": "ljmu-business-management",
+   "name": "Business Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N200",
+   "lengthYears": 3,
+   "lengthNote": "Also listed as 4 years with an optional placement year (same course page and UCAS code); a separate 'with Foundation Year' version exists",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; A levels BBC (at least 2 A levels, with a maximum of 20 points from AS levels)",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/36125-business-management-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 or C or above; approved equivalents such as Key Skills Level 2 in English are listed on the page"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Numeracy at grade 4 or C or above; approved equivalents such as Key Skills Level 2 in Maths are listed on the page"
+    }
+   ],
+   "gcseText": "Grade 4 or grade C or above in English Language and Mathematics/ Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/36125-business-management-bsc-hons",
+    "checked": "2026-10-22",
+    "evidence": "Minimum Number of A Levels: 2"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and LJMU is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/36125-business-management-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "A contextual offer lower than the typical entry requirements if you answer 'yes' to one of LJMU's UCAS widening participation questions (estranged from both parents, unpaid carer, parent, armed forces connection, free school meals, care experienced) or took part in targeted LJMU Outreach activity. LJMU does not say how much lower the offer is.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/how-to-apply",
+      "checked": "2026-10-22",
+      "evidence": "If you answered 'yes' to one of the following questions on your UCAS form or participated in targeted LJMU Outreach activity, you will receive an offer that lower than our typical entry requirements."
+     }
+    },
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Summer University participants may be eligible for a reduced offer of up to 16 UCAS points lower than the standard entry requirements if they later apply to LJMU (wording from the 2026 programme page; the exact reduced offer is not stated).",
+     "programme": "Summer University",
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/outreach/summer-university",
+      "checked": "2026-10-22",
+      "evidence": "Participants may be eligible for a reduced offer of up to 16 UCAS Points lower than the standard entry requirements, should they subsequently apply to LJMU."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/36125-business-management-bsc-hons",
+    "ucas": "https://digital.ucas.com/coursedisplay/courses/f6c60321-d5e6-89d9-4c74-29654aa942d7?academicYearId=2027"
+   },
+   "notConfirmed": [
+    "subjects: the entry requirements list no required or excluded A-level subjects, so it is not stated whether Psychology or Geography count towards the 112 points",
+    "2028 entry requirements not published yet (LJMU's 2028 course URLs redirect to the course search page); 2027 entry recorded",
+    "competition: LJMU publishes no offer rate or applications per place for this course"
+   ],
+   "notes": "Optional paid 48-week placement between Years 2 and 3, and optional semester or year abroad at partner universities. A live consultancy project is an option alongside the traditional dissertation. Taught at Mount Pleasant Campus."
+  },
+  {
+   "id": "ljmu-maths-finance",
+   "name": "Mathematics with Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "GN13",
+   "lengthYears": 3,
+   "lengthNote": "Also listed as 4 years with an optional 12-month paid placement year (same course page and UCAS code); a separate 'with Foundation Year' version exists",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; A levels BBC including A level Mathematics at grade C or above (at least 2 A levels, with a maximum of 20 points from AS levels)",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/35757-mathematics-with-finance-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "C",
+     "note": "A level Mathematics grade C or above is required; the page does not say whether Further Mathematics can replace it"
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 or C or above; approved equivalents such as Key Skills Level 2 in English are listed on the page"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Numeracy at grade 4 or C or above; approved equivalents such as Key Skills Level 2 in Maths are listed on the page"
+    }
+   ],
+   "gcseText": "Grade 4 or grade C or above in English Language and Mathematics/ Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/35757-mathematics-with-finance-bsc-hons",
+    "checked": "2026-10-22",
+    "evidence": "Subject requirements: Mathematics A level (Grade C or above) is required"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and LJMU is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/35757-mathematics-with-finance-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "A contextual offer lower than the typical entry requirements if you answer 'yes' to one of LJMU's UCAS widening participation questions (estranged from both parents, unpaid carer, parent, armed forces connection, free school meals, care experienced) or took part in targeted LJMU Outreach activity. LJMU does not say how much lower the offer is.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/how-to-apply",
+      "checked": "2026-10-22",
+      "evidence": "If you answered 'yes' to one of the following questions on your UCAS form or participated in targeted LJMU Outreach activity, you will receive an offer that lower than our typical entry requirements."
+     }
+    },
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Summer University participants may be eligible for a reduced offer of up to 16 UCAS points lower than the standard entry requirements if they later apply to LJMU (wording from the 2026 programme page; the exact reduced offer is not stated).",
+     "programme": "Summer University",
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/outreach/summer-university",
+      "checked": "2026-10-22",
+      "evidence": "Participants may be eligible for a reduced offer of up to 16 UCAS Points lower than the standard entry requirements, should they subsequently apply to LJMU."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/35757-mathematics-with-finance-bsc-hons",
+    "ucas": "https://digital.ucas.com/coursedisplay/courses/cf5a3082-4d4f-3893-75f0-e175810aca96?academicYearId=2027"
+   },
+   "notConfirmed": [
+    "subjects: the page does not say whether Further Mathematics can replace A level Mathematics, or whether other subjects (for example Psychology or Geography) count towards the 112 points",
+    "2028 entry requirements not published yet (LJMU's 2028 course URLs redirect to the course search page); 2027 entry recorded",
+    "competition: LJMU publishes no offer rate or applications per place for this course"
+   ],
+   "notes": "A mathematics degree with finance modules at every level; not an Economics degree. Accredited by the Institute of Mathematics and its Applications. Optional 12-month paid placement or study year abroad. Taught at the Byrom Street complex of City Campus (the other courses here are at Mount Pleasant)."
+  },
+  {
+   "id": "ljmu-real-estate",
+   "name": "Real Estate",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN21",
+   "lengthYears": 3,
+   "lengthNote": "Also listed as 4 years with an optional sandwich placement year; students not doing a placement can add a study year abroad after Level 5",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "real-estate"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS points; A levels BBC (at least 2 A levels, with a maximum of 20 points from AS levels)",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/35741-real-estate-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4 or C or above; approved equivalents such as Key Skills Level 2 in English are listed on the page"
+    },
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Mathematics or Numeracy at grade 4 or C or above; approved equivalents such as Key Skills Level 2 in Maths are listed on the page"
+    }
+   ],
+   "gcseText": "Grade 4 or grade C or above in English Language and Mathematics/ Numeracy.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/35741-real-estate-bsc-hons",
+    "checked": "2026-10-22",
+    "evidence": "Minimum Number of A Levels: 2"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is mentioned on the course page, and LJMU is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/35741-real-estate-bsc-hons",
+     "checked": "2026-10-22",
+     "evidence": "Grades/points required from qualifications: BBC (112)"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "A contextual offer lower than the typical entry requirements if you answer 'yes' to one of LJMU's UCAS widening participation questions (estranged from both parents, unpaid carer, parent, armed forces connection, free school meals, care experienced) or took part in targeted LJMU Outreach activity. LJMU does not say how much lower the offer is.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/how-to-apply",
+      "checked": "2026-10-22",
+      "evidence": "If you answered 'yes' to one of the following questions on your UCAS form or participated in targeted LJMU Outreach activity, you will receive an offer that lower than our typical entry requirements."
+     }
+    },
+    {
+     "type": "summerSchool",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Summer University participants may be eligible for a reduced offer of up to 16 UCAS points lower than the standard entry requirements if they later apply to LJMU (wording from the 2026 programme page; the exact reduced offer is not stated).",
+     "programme": "Summer University",
+     "source": {
+      "url": "https://www.ljmu.ac.uk/study/undergraduate-students/outreach/summer-university",
+      "checked": "2026-10-22",
+      "evidence": "Participants may be eligible for a reduced offer of up to 16 UCAS Points lower than the standard entry requirements, should they subsequently apply to LJMU."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ljmu.ac.uk/study/courses/undergraduates/2027/35741-real-estate-bsc-hons",
+    "ucas": "https://digital.ucas.com/coursedisplay/courses/8d669373-e987-d1fd-3743-19c2b14fb4c2?academicYearId=2027"
+   },
+   "notConfirmed": [
+    "subjects: the entry requirements list no required or excluded A-level subjects, so it is not stated whether Psychology or Geography count towards the 112 points",
+    "foundation year: the course page does not mention a foundation-year version",
+    "2028 entry requirements not published yet (LJMU's 2028 course URLs redirect to the course search page); 2027 entry recorded",
+    "competition: LJMU publishes no offer rate or applications per place for this course"
+   ],
+   "notes": "Accredited by the Royal Institution of Chartered Surveyors (RICS). Combines property law, valuation and business skills; not an Economics degree. Taught at the Byrom Street complex of City Campus."
+  }
+ ],
+ "notes": [
+  "LJMU has no stand-alone Economics degree in its 2027 undergraduate course lists (checked the Business, Social Science, Mathematics, Built Environment and Geography subject lists). The closest are Business with Finance and Economics and Politics, Philosophy and Economics (PPE).",
+  "Offers are in UCAS tariff points: all six courses ask for BBC (112 points) from at least 2 A levels, with a maximum of 20 points from AS levels.",
+  "No 2028-entry course pages yet: the 2028 version of the Business with Finance and Economics course URL redirects to the course search page, so 2027 entry is recorded for every course.",
+  "LJMU is not on UAT-UK's official TMUA list for 2027 entry and no course page names an admissions test.",
+  "Business with Finance and Economics, PPE, Accounting and Finance and Business Management are taught at Mount Pleasant Campus (Redmonds Building, L3 5UG); Mathematics with Finance and Real Estate are at the Byrom Street complex of City Campus.",
+  "LJMU says every new student is guaranteed city-centre accommodation (accommodation page)."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2027/28 Home fee (£10,050) is subject to Parliamentary approval",
+  "Contextual offers: LJMU does not say how much lower the offer is (Summer University says up to 16 UCAS points lower); no area-based, school-based or household-income criteria are listed on the how-to-apply page",
+  "Open days: only the 6 and 14 November 2026 open days are published; 2027 open days not announced",
+  "Year 12 programmes: Summer University 2027 dates, routes and deadlines not announced (2026 details recorded); the outreach events page mentions subject taster days for sixth form and FE students but its text lists no Economics or Business event",
+  "Halls prices for 2027/28 were correct at 25 September 2026 and may change before 31 December 2026"
+ ]
+}

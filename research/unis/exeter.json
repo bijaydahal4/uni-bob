@@ -1,0 +1,1556 @@
+{
+  "id": "exeter",
+  "name": "University of Exeter",
+  "shortName": "Exeter",
+  "aliases": [
+    "Exeter",
+    "Exeter Uni",
+    "UoE",
+    "University of Exeter Business School",
+    "UEBS"
+  ],
+  "city": "Exeter",
+  "region": "South West",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.exeter.ac.uk/our-campuses/streatham-campus/",
+    "checked": "2026-10-17",
+    "evidence": "The Streatham Campus is the University’s largest site in Exeter and is readily acknowledged as one of the most beautiful in the country with lakes, parkland, woodland and gardens as well as modern and historical buildings."
+  },
+  "location": {
+    "postcode": "EX4 4QJ",
+    "postcodeSource": "https://www.exeter.ac.uk/our-campuses/streatham-campus/",
+    "lat": 50.735145,
+    "lng": -3.535062,
+    "coordsSource": "https://api.postcodes.io/postcodes/EX44QJ",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK (Home) students starting in 2027",
+    "source": {
+      "url": "https://www.exeter.ac.uk/undergraduate-degrees/fees/",
+      "checked": "2026-10-17",
+      "evidence": "Standard tuition fee: £10,050 per year"
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 146.16,
+    "amountHigh": 341.74,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "Undergraduate rooms in Exeter's 2026-27 Room Finder cost from about £146 a week (Rowancroft Mews) to about £342 a week (catered en-suite at Holland Hall or Pennsylvania Court)",
+    "source": {
+      "url": "https://www.exeter.ac.uk/study/accommodation/room-finder/",
+      "checked": "2026-10-17",
+      "evidence": "Rowancroft Mews\n£146.16 per week"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-10-24",
+        "endDate": null,
+        "label": "Undergraduate Open Day, Streatham and St Luke's campuses (bookings closed)",
+        "format": "in person",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2027-06-04",
+        "endDate": null,
+        "label": "Undergraduate Open Day, Streatham and St Luke's campuses",
+        "format": "in person",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2027-06-05",
+        "endDate": null,
+        "label": "Undergraduate Open Day, Streatham and St Luke's campuses",
+        "format": "in person",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next open days at Streatham: 24 October 2026 (bookings closed), then 4 and 5 June 2027 (sign up for a booking reminder)",
+    "url": "https://www.exeter.ac.uk/open-days/undergraduate/",
+    "source": {
+      "url": "https://www.exeter.ac.uk/open-days/undergraduate/",
+      "checked": "2026-10-17",
+      "evidence": "| Friday 4 June 2027\n| Streatham Campus, Exeter"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Exeter makes lower contextual offers (usually two grades below the typical offer, three for care-experienced applicants) to applicants who meet any one of its published criteria.",
+    "typicalReduction": "Two-grade adjustment for most criteria; three-grade adjustment for care leavers and care-experienced applicants; up to three grades for progression-programme participants and refugees/asylum seekers",
+    "criteria": [
+      {
+        "key": "area",
+        "detail": "Live in a low-participation area (POLAR4 quintile 1 or 2) and attend a state school — two grades",
+        "measure": "POLAR4",
+        "quintiles": [
+          1,
+          2
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Live in a low-participation area (TUNDRA MSOA quintile 1 or 2) and attend a state school — two grades",
+        "measure": "TUNDRA",
+        "quintiles": [
+          1,
+          2
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Live in an area of deprivation (IMD quintile 1 or 2) and attend a state school — two grades",
+        "measure": "IMD",
+        "quintiles": [
+          1,
+          2
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "school",
+        "detail": "Attend a non-selective state school or college in the South West or Wales on Exeter's Contextual Offer Schools and Colleges List (PDF: https://www.exeter.ac.uk/v8media/recruitmentsites/documents/20278_UoE_Contextual_Offer_Schools_Colleges_List.pdf) — two grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "Have received free school meals and attend a state school — two grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Applying from an Elephant Group school, completed the Bridges to HE programme, or did activity with an IntoUniversity centre in Years 10–13 — two grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "SEREN partnership (Wales) participants who completed a Seren Academic Challenge Series or the SEREN University of Exeter Residential — two grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Care leaver or care experienced — three grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "carer",
+        "detail": "Carer — two grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged student — two grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "other",
+        "detail": "Have parental responsibility — two grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "Registered on a progression programme run or managed by Exeter: Exeter Scholars, Realising Opportunities, Sutton Trust Pathways to Law (in person and online), Sutton Trust Pathways to Banking & Finance (online), Mature Access Pathway — up to three grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "Seeking asylum, limited leave to remain and from a state school, humanitarian protection, or refugee status — up to three grades",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "You are eligible for a contextual offer if you meet one of the criteria; the application process is still competitive so an offer isn't guaranteed. Where courses have specific subject requirements, grade adjustments may differ, and GCSE requirements are not reduced.",
+    "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+    "source": {
+      "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+      "checked": "2026-10-17",
+      "evidence": "You are eligible for a contextual offer at a lower grade than our typical entry requirements if you meet one of the criteria below"
+    }
+  },
+  "programmes": [
+    {
+      "id": "exeter-scholars-south-west",
+      "name": "Exeter Scholars – Year 12 South West On-Campus Pathway (Business strand)",
+      "provider": "University of Exeter",
+      "providerType": "university",
+      "uniIds": [
+        "exeter"
+      ],
+      "summary": "Exeter's access programme for Year 12 students living in the South West: six on-campus subject sessions in 2027 (including a Business: Finance, Economics, Management and Entrepreneurship strand) plus a student conference.",
+      "whoCanApply": "Year 12 state school students living in Devon, Cornwall, Somerset, Bristol or Dorset who meet the GCSE and fee-status requirements and at least one widening participation criterion.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area",
+        "fsm",
+        "income",
+        "firstGen",
+        "care",
+        "carer",
+        "estranged",
+        "refugee",
+        "other"
+      ],
+      "eligibilityDetail": "State school (or home-educated, or fee-paying on a full bursary), Year 12, at least 8 GCSEs at 9–4 including Maths and English at 4+, Home/EU fee status, plus at least one of: low HE progression neighbourhood; low-income neighbourhood; low participation of state-school pupils (by postcode); free school meals; eligible for school bursaries; parents didn't go to university; care experienced; young carer; disability; estranged; refugee or asylum seeker. Business strand: GCSE Maths grade 5 (or A/AS-level Maths) and GCSE English Language grade 4.",
+      "benefits": [
+        "Guaranteed offer from Exeter (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+        "Travel costs for programme activities refunded",
+        "Senior Scholar benefits package if you pass the online assessment and study at Exeter"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "exeter"
+      ],
+      "offerReduction": "Up to three A-level grades below the typical offer (2027 contextual policy); guaranteed offer subject to subject and GCSE requirements",
+      "cost": "Not stated (travel costs refunded)",
+      "isFree": null,
+      "format": "day",
+      "subjects": "Business: Finance, Economics, Management and Entrepreneurship (other strands available)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Six sessions between January and October/November 2027 (4 at Streatham, Exeter; 2 at Penryn, Cornwall; dates TBC) plus the Exeter Scholars Student Conference",
+        "start": null,
+        "end": null,
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Opened 7 September 2026",
+        "date": "2026-09-07",
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Midday, 23 October 2026",
+        "date": "2026-10-23",
+        "status": "Confirmed"
+      },
+      "infoYear": 2026,
+      "infoNote": "On-Campus Pathway 2026–2028 cohort (applications autumn 2026, sessions during 2027). Session dates for the Business strand are TBC.",
+      "url": "https://www.exeter.ac.uk/study/scholars/apply/year12/southwest/",
+      "source": {
+        "url": "https://www.exeter.ac.uk/study/scholars/apply/year12/southwest/",
+        "checked": "2026-10-17",
+        "evidence": "Applications for our On-Campus Pathway 2026-2028 open on Monday 7th September until midday on 23rd October."
+      },
+      "notConfirmed": [
+        "cost: not stated (travel costs are refunded)",
+        "runs: Business strand session dates TBC"
+      ]
+    },
+    {
+      "id": "exeter-scholars-virtual",
+      "name": "Exeter Scholars – Year 12 Virtual Pathway (Social Sciences and Business strand)",
+      "provider": "University of Exeter",
+      "providerType": "university",
+      "uniIds": [
+        "exeter"
+      ],
+      "summary": "An online version of Exeter Scholars for Year 12 students anywhere in the UK, built around a Virtual Activities Fortnight in February 2027, with a Social Sciences and Business strand that can include Economics.",
+      "whoCanApply": "Year 12 state school students living anywhere in the UK who meet the GCSE and fee-status requirements and at least one widening participation criterion.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area",
+        "fsm",
+        "income",
+        "firstGen",
+        "care",
+        "carer",
+        "estranged",
+        "refugee",
+        "other"
+      ],
+      "eligibilityDetail": "State school (or home-educated, or fee-paying on a full bursary), Year 12, at least 8 GCSEs at 9–4 including Maths and English at 4+, Home/EU fee status, plus at least one of: low HE progression neighbourhood; low-income neighbourhood; low participation of state-school pupils (by postcode); free school meals; eligible for school bursaries; parents didn't go to university; care experienced; young carer; disability; estranged; refugee or asylum seeker. No specific entry requirements for the Social Sciences and Business strand.",
+      "benefits": [
+        "Guaranteed offer from Exeter (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+        "Live academic panels and about 16.5 hours of online academic content"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "exeter"
+      ],
+      "offerReduction": "Up to three A-level grades below the typical offer (2027 contextual policy); guaranteed offer subject to subject and GCSE requirements",
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "online",
+      "subjects": "Social Sciences and Business (may include Economics, Business and Management, Accounting and Finance, Politics, Law and more)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Virtual Activities Fortnight, 15–26 February 2027",
+        "start": "2027-02-15",
+        "end": "2027-02-26",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Applications open now (as of 17 October 2026)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Midday, Friday 23 October 2026",
+        "date": "2026-10-23",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "Details for the 2026–27 virtual pathway.",
+      "url": "https://www.exeter.ac.uk/study/scholars/apply/year12/virtual/",
+      "source": {
+        "url": "https://www.exeter.ac.uk/study/scholars/apply/year12/virtual/",
+        "checked": "2026-10-17",
+        "evidence": "The deadline is midday on Friday 23rd October 2026."
+      },
+      "notConfirmed": [
+        "cost: not stated"
+      ]
+    },
+    {
+      "id": "exeter-scholars-national-residential",
+      "name": "Exeter Scholars – Year 12 National Residential Pathway (Business strand)",
+      "provider": "University of Exeter",
+      "providerType": "university",
+      "uniIds": [
+        "exeter"
+      ],
+      "summary": "A four-day residential at Exeter or Penryn for Year 12 students living outside the South West, with a Business strand (Accounting & Finance, Economics, Entrepreneurship, Management and Marketing) at the Streatham campus.",
+      "whoCanApply": "Year 12 state school students who do NOT live in Devon, Cornwall, Somerset, Bristol or Dorset, meeting the GCSE and fee-status requirements and at least one widening participation criterion.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "area",
+        "fsm",
+        "income",
+        "firstGen",
+        "care",
+        "carer",
+        "estranged",
+        "refugee",
+        "other"
+      ],
+      "eligibilityDetail": "State school (or home-educated, or fee-paying on a full bursary), Year 12, at least 8 GCSEs at 9–4 including Maths and English at 4+, Home/EU fee status, plus at least one of: low HE progression neighbourhood; low-income neighbourhood; low participation of state-school pupils (by postcode); free school meals; eligible for school bursaries; parents didn't go to university; care experienced; young carer; disability; estranged; refugee or asylum seeker. Must live outside Devon, Cornwall, Somerset, Bristol and Dorset.",
+      "benefits": [
+        "Guaranteed offer from Exeter (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+        "Travel costs for programme activities refunded",
+        "Senior Scholar benefits package if you pass the online assessment and study at Exeter",
+        "Stay in university halls for four days"
+      ],
+      "lowersOffer": true,
+      "lowersOfferAt": [
+        "exeter"
+      ],
+      "offerReduction": "Up to three A-level grades below the typical offer (2027 contextual policy); guaranteed offer subject to subject and GCSE requirements",
+      "cost": "Not stated",
+      "isFree": null,
+      "format": "residential",
+      "subjects": "Business: Accounting & Finance, Economics, Entrepreneurship, Management and Marketing (Exeter); Social Sciences and Business (Penryn)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Exeter residential (Business strand) 26–29 July 2027; Penryn residential 6–9 July 2027",
+        "start": "2027-07-26",
+        "end": "2027-07-29",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "April 2027 (expression-of-interest form open now)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not announced yet",
+        "date": null,
+        "status": null
+      },
+      "infoYear": 2027,
+      "infoNote": "2027 residential dates are published; application window opens April 2027. Strand details are based on the 2026 residentials and may change.",
+      "url": "https://www.exeter.ac.uk/study/scholars/apply/year12/national/",
+      "source": {
+        "url": "https://www.exeter.ac.uk/study/scholars/apply/year12/national/",
+        "checked": "2026-10-17",
+        "evidence": "Applications for the National Residential Pathway are now closed and will open again in April 2027."
+      },
+      "notConfirmed": [
+        "deadline: not announced",
+        "cost: not stated"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.exeter.ac.uk/",
+    "courses": "https://www.exeter.ac.uk/study/undergraduate/courses/",
+    "economics": "https://www.exeter.ac.uk/subjects/economics/",
+    "openDays": "https://www.exeter.ac.uk/open-days/undergraduate/",
+    "fees": "https://www.exeter.ac.uk/undergraduate-degrees/fees/",
+    "contextual": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+    "accommodation": "https://www.exeter.ac.uk/study/accommodation/"
+  },
+  "courses": [
+    {
+      "id": "exeter-economics",
+      "name": "Economics",
+      "degree": "BSc",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "4 years With Industrial Experience (L102) or With Year Abroad (LL01) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": "AAA",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA–AAA at A-level, including grade B in A-level Mathematics (Maths, Pure Maths or Further Maths accepted)",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics/",
+          "checked": "2026-10-17",
+          "evidence": "A-Level: A*AA - AAA"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics",
+            "Pure Mathematics",
+            "Further Mathematics"
+          ],
+          "minGrade": "B",
+          "note": "GCE A-level Mathematics grade B (Maths, Pure Maths or Further Maths)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        }
+      ],
+      "gcseText": "C or 4 in GCSE English language",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics/",
+        "checked": "2026-10-17",
+        "evidence": "GCE A-Level Mathematics grade B."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer AAB–ABB if you meet one of Exeter's two-grade criteria (e.g. POLAR4/TUNDRA/IMD quintile 1–2 area plus state school, free school meals plus state school, or a listed South West/Wales state school or college); subject requirements still apply",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics/",
+            "checked": "2026-10-17",
+            "evidence": "A-Level: AAB - ABB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Three-grade adjustment to the typical offer if you are a care leaver or care experienced (subject requirements still apply; exact grades not listed on the course page)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Applicants in this category who receive an offer will receive a three-grade adjustment."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Exeter Scholars participants who pass the programme and apply get a guaranteed offer (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+          "programme": "Exeter Scholars",
+          "source": {
+            "url": "https://www.exeter.ac.uk/study/scholars/benefits/",
+            "checked": "2026-10-17",
+            "evidence": "Exeter Scholars participants who apply to study at the University of Exeter will be guaranteed to receive an offer for their course of choice, subject to any interviews and / or subject-specific entry requirements*."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a three-grade adjustment if you are on Realising Opportunities, Sutton Trust Pathways to Law (in person or online) or Sutton Trust Pathways to Banking & Finance (online)",
+          "programme": "Realising Opportunities; Sutton Trust Pathways to Law; Sutton Trust Pathways to Banking & Finance",
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "including Exeter Scholars, Realising Opportunities, Sutton Trust Pathways to Law (in person and online), Sutton Trust Pathways to Banking & Finance (online)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you're taking the EPQ (or Core Maths), Exeter may make an alternative offer: achieve grade B in the EPQ and they guarantee to confirm your place with 1 grade below your offer, excluding subject conditions (not combined with contextual offers)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/uk-academic-qualifications/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers will state that for applicants who achieve a grade B in either the EPQ or Core Maths, we will guarantee to confirm their place if they achieve 1 grade below our offer, excluding any subject conditions."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Exeter course pages only show 2027 entry (no 2028 entry published yet)",
+        "alternativeOffers: exact grades for care-experienced, Exeter Scholars, national-programme and EPQ offers aren't published per course"
+      ],
+      "notes": null
+    },
+    {
+      "id": "exeter-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BSc",
+      "ucasCode": "LN13",
+      "lengthYears": 3,
+      "lengthNote": "4 years With Industrial Experience (LND3) or With Year Abroad (LN14) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": "AAA",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA–AAA at A-level, including grade B in Mathematics",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-finance/",
+          "checked": "2026-10-17",
+          "evidence": "A-Level: A*AA - AAA"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "B",
+          "note": "B in A-level Mathematics"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        }
+      ],
+      "gcseText": "C or 4 in GCSE English language",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-finance/",
+        "checked": "2026-10-17",
+        "evidence": "B in Mathematics"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-finance/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer AAB–ABB if you meet one of Exeter's two-grade criteria (e.g. POLAR4/TUNDRA/IMD quintile 1–2 area plus state school, free school meals plus state school, or a listed South West/Wales state school or college); subject requirements still apply",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "A-Level: AAB - ABB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Three-grade adjustment to the typical offer if you are a care leaver or care experienced (subject requirements still apply; exact grades not listed on the course page)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Applicants in this category who receive an offer will receive a three-grade adjustment."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Exeter Scholars participants who pass the programme and apply get a guaranteed offer (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+          "programme": "Exeter Scholars",
+          "source": {
+            "url": "https://www.exeter.ac.uk/study/scholars/benefits/",
+            "checked": "2026-10-17",
+            "evidence": "Exeter Scholars participants who apply to study at the University of Exeter will be guaranteed to receive an offer for their course of choice, subject to any interviews and / or subject-specific entry requirements*."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a three-grade adjustment if you are on Realising Opportunities, Sutton Trust Pathways to Law (in person or online) or Sutton Trust Pathways to Banking & Finance (online)",
+          "programme": "Realising Opportunities; Sutton Trust Pathways to Law; Sutton Trust Pathways to Banking & Finance",
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "including Exeter Scholars, Realising Opportunities, Sutton Trust Pathways to Law (in person and online), Sutton Trust Pathways to Banking & Finance (online)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you're taking the EPQ (or Core Maths), Exeter may make an alternative offer: achieve grade B in the EPQ and they guarantee to confirm your place with 1 grade below your offer, excluding subject conditions (not combined with contextual offers)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/uk-academic-qualifications/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers will state that for applicants who achieve a grade B in either the EPQ or Core Maths, we will guarantee to confirm their place if they achieve 1 grade below our offer, excluding any subject conditions."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Exeter course pages only show 2027 entry (no 2028 entry published yet)",
+        "alternativeOffers: exact grades for care-experienced, Exeter Scholars, national-programme and EPQ offers aren't published per course"
+      ],
+      "notes": null
+    },
+    {
+      "id": "exeter-business-economics",
+      "name": "Business Economics",
+      "degree": "BSc",
+      "ucasCode": "L112",
+      "lengthYears": 3,
+      "lengthNote": "4 years With Industrial Experience (L192) or With Year Abroad (L196) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "business-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": "AAA",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA–AAA at A-level; no required A-level subjects (GCSE Maths grade 7 needed)",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-economics/",
+          "checked": "2026-10-17",
+          "evidence": "A levels: A*AA - AAA"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "grade A or 7 (or A-level/AS Maths, Pure Maths, Further Maths or Core Maths)"
+        }
+      ],
+      "gcseText": "Grade C or 4 in GCSE English Language\nGrade A or 7 in GCSE Mathematics (or GCE A-Level/AS Mathematics, Pure Mathematics or Further Mathematics or Core Mathematics)",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-economics/",
+        "checked": "2026-10-17",
+        "evidence": "NB General Studies is not included in any offer."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-economics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer AAB–ABB if you meet one of Exeter's two-grade criteria (e.g. POLAR4/TUNDRA/IMD quintile 1–2 area plus state school, free school meals plus state school, or a listed South West/Wales state school or college); subject requirements still apply",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-economics/",
+            "checked": "2026-10-17",
+            "evidence": "A-Level: AAB - ABB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Three-grade adjustment to the typical offer if you are a care leaver or care experienced (subject requirements still apply; exact grades not listed on the course page)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Applicants in this category who receive an offer will receive a three-grade adjustment."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Exeter Scholars participants who pass the programme and apply get a guaranteed offer (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+          "programme": "Exeter Scholars",
+          "source": {
+            "url": "https://www.exeter.ac.uk/study/scholars/benefits/",
+            "checked": "2026-10-17",
+            "evidence": "Exeter Scholars participants who apply to study at the University of Exeter will be guaranteed to receive an offer for their course of choice, subject to any interviews and / or subject-specific entry requirements*."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a three-grade adjustment if you are on Realising Opportunities, Sutton Trust Pathways to Law (in person or online) or Sutton Trust Pathways to Banking & Finance (online)",
+          "programme": "Realising Opportunities; Sutton Trust Pathways to Law; Sutton Trust Pathways to Banking & Finance",
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "including Exeter Scholars, Realising Opportunities, Sutton Trust Pathways to Law (in person and online), Sutton Trust Pathways to Banking & Finance (online)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you're taking the EPQ (or Core Maths), Exeter may make an alternative offer: achieve grade B in the EPQ and they guarantee to confirm your place with 1 grade below your offer, excluding subject conditions (not combined with contextual offers)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/uk-academic-qualifications/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers will state that for applicants who achieve a grade B in either the EPQ or Core Maths, we will guarantee to confirm their place if they achieve 1 grade below our offer, excluding any subject conditions."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Exeter course pages only show 2027 entry (no 2028 entry published yet)",
+        "alternativeOffers: exact grades for care-experienced, Exeter Scholars, national-programme and EPQ offers aren't published per course"
+      ],
+      "notes": "No A-level Maths required (A-level subject requirements listed as N/A), but GCSE Maths grade 7/A is required."
+    },
+    {
+      "id": "exeter-economics-politics",
+      "name": "Economics and Politics",
+      "degree": "BSc",
+      "ucasCode": "LL12",
+      "lengthYears": 3,
+      "lengthNote": "4 years With Industrial Experience (LL1G) or With Year Abroad (LL13) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": "AAA",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA–AAA at A-level; no required A-level subjects (GCSE Maths grade 7 needed)",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-politics/",
+          "checked": "2026-10-17",
+          "evidence": "A-Level: A*AA - AAA"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "grade A or 7 (or A-level/AS Maths, Pure Maths, Further Maths or Core Maths)"
+        }
+      ],
+      "gcseText": "Grade C or 4 in GCSE English Language\nGrade A or 7 in GCSE Mathematics (or GCE A-Level/AS Mathematics, Pure Mathematics or Further Mathematics or Core Mathematics)",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-politics/",
+        "checked": "2026-10-17",
+        "evidence": "NB General Studies is not included in any offer."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-politics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "Contextual offer AAB–ABB if you meet one of Exeter's two-grade criteria (e.g. POLAR4/TUNDRA/IMD quintile 1–2 area plus state school, free school meals plus state school, or a listed South West/Wales state school or college); subject requirements still apply",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-politics/",
+            "checked": "2026-10-17",
+            "evidence": "A-Level: AAB - ABB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Three-grade adjustment to the typical offer if you are a care leaver or care experienced (subject requirements still apply; exact grades not listed on the course page)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Applicants in this category who receive an offer will receive a three-grade adjustment."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Exeter Scholars participants who pass the programme and apply get a guaranteed offer (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+          "programme": "Exeter Scholars",
+          "source": {
+            "url": "https://www.exeter.ac.uk/study/scholars/benefits/",
+            "checked": "2026-10-17",
+            "evidence": "Exeter Scholars participants who apply to study at the University of Exeter will be guaranteed to receive an offer for their course of choice, subject to any interviews and / or subject-specific entry requirements*."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a three-grade adjustment if you are on Realising Opportunities, Sutton Trust Pathways to Law (in person or online) or Sutton Trust Pathways to Banking & Finance (online)",
+          "programme": "Realising Opportunities; Sutton Trust Pathways to Law; Sutton Trust Pathways to Banking & Finance",
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "including Exeter Scholars, Realising Opportunities, Sutton Trust Pathways to Law (in person and online), Sutton Trust Pathways to Banking & Finance (online)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you're taking the EPQ (or Core Maths), Exeter may make an alternative offer: achieve grade B in the EPQ and they guarantee to confirm your place with 1 grade below your offer, excluding subject conditions (not combined with contextual offers)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/uk-academic-qualifications/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers will state that for applicants who achieve a grade B in either the EPQ or Core Maths, we will guarantee to confirm their place if they achieve 1 grade below our offer, excluding any subject conditions."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-economics-and-politics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Exeter course pages only show 2027 entry (no 2028 entry published yet)",
+        "alternativeOffers: exact grades for care-experienced, Exeter Scholars, national-programme and EPQ offers aren't published per course"
+      ],
+      "notes": "No A-level Maths required (A-level subject requirements listed as N/A), but GCSE Maths grade 7/A is required."
+    },
+    {
+      "id": "exeter-ppe",
+      "name": "Politics, Philosophy and Economics",
+      "degree": "BA",
+      "ucasCode": "L0V0",
+      "lengthYears": 3,
+      "lengthNote": "4 years with Study Abroad (L0V1) or with Employment Experience (L0V3) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA at A-level; no required A-level subjects (GCSE Maths grade 7 needed)",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/ba-politics-philosophy-and-economics/",
+          "checked": "2026-10-17",
+          "evidence": "A-Level: AAA"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "grade A or 7"
+        }
+      ],
+      "gcseText": "Grade C or 4 in English Language and Grade A or 7 in Mathematics",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.exeter.ac.uk/undergraduate-degrees/ba-politics-philosophy-and-economics/",
+        "checked": "2026-10-17",
+        "evidence": "NB General Studies is not included in any offer."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/ba-politics-philosophy-and-economics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer ABB if you meet one of Exeter's two-grade criteria (e.g. POLAR4/TUNDRA/IMD quintile 1–2 area plus state school, free school meals plus state school, or a listed South West/Wales state school or college); subject requirements still apply",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/ba-politics-philosophy-and-economics/",
+            "checked": "2026-10-17",
+            "evidence": "A-Level: ABB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Three-grade adjustment to the typical offer if you are a care leaver or care experienced (subject requirements still apply; exact grades not listed on the course page)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Applicants in this category who receive an offer will receive a three-grade adjustment."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Exeter Scholars participants who pass the programme and apply get a guaranteed offer (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+          "programme": "Exeter Scholars",
+          "source": {
+            "url": "https://www.exeter.ac.uk/study/scholars/benefits/",
+            "checked": "2026-10-17",
+            "evidence": "Exeter Scholars participants who apply to study at the University of Exeter will be guaranteed to receive an offer for their course of choice, subject to any interviews and / or subject-specific entry requirements*."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a three-grade adjustment if you are on Realising Opportunities, Sutton Trust Pathways to Law (in person or online) or Sutton Trust Pathways to Banking & Finance (online)",
+          "programme": "Realising Opportunities; Sutton Trust Pathways to Law; Sutton Trust Pathways to Banking & Finance",
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "including Exeter Scholars, Realising Opportunities, Sutton Trust Pathways to Law (in person and online), Sutton Trust Pathways to Banking & Finance (online)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you're taking the EPQ (or Core Maths), Exeter may make an alternative offer: achieve grade B in the EPQ and they guarantee to confirm your place with 1 grade below your offer, excluding subject conditions (not combined with contextual offers)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/uk-academic-qualifications/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers will state that for applicants who achieve a grade B in either the EPQ or Core Maths, we will guarantee to confirm their place if they achieve 1 grade below our offer, excluding any subject conditions."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.exeter.ac.uk/undergraduate-degrees/ba-politics-philosophy-and-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Exeter course pages only show 2027 entry (no 2028 entry published yet)",
+        "alternativeOffers: exact grades for care-experienced, Exeter Scholars, national-programme and EPQ offers aren't published per course"
+      ],
+      "notes": "No A-level subject requirements (listed as n/a); GCSE Maths grade 7/A required."
+    },
+    {
+      "id": "exeter-maths-economics",
+      "name": "Mathematics with Economics",
+      "degree": "BSc",
+      "ucasCode": "G1L1",
+      "lengthYears": 3,
+      "lengthNote": "4 years With a Year in Industry (G2N6) — separate UCAS code",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": "AAB",
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA–AAB at A-level, including grade A in A-level Maths (Maths, Pure Maths or Further Maths accepted)",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-mathematics-with-economics/",
+          "checked": "2026-10-17",
+          "evidence": "A levels: AAA-AAB"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics",
+            "Pure Mathematics",
+            "Further Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "GCE A-level Maths grade A (Maths, Pure Maths or Further Maths)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        }
+      ],
+      "gcseText": "Grade 4/C in GCSE English language",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-mathematics-with-economics/",
+        "checked": "2026-10-17",
+        "evidence": "GCE A-Level Maths grade A"
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-mathematics-with-economics/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "Contextual offer ABB–ABC if you meet one of Exeter's two-grade criteria (e.g. POLAR4/TUNDRA/IMD quintile 1–2 area plus state school, free school meals plus state school, or a listed South West/Wales state school or college); subject requirements still apply",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-mathematics-with-economics/",
+            "checked": "2026-10-17",
+            "evidence": "A-Level: ABB-ABC"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Three-grade adjustment to the typical offer if you are a care leaver or care experienced (subject requirements still apply; exact grades not listed on the course page)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Applicants in this category who receive an offer will receive a three-grade adjustment."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Exeter Scholars participants who pass the programme and apply get a guaranteed offer (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+          "programme": "Exeter Scholars",
+          "source": {
+            "url": "https://www.exeter.ac.uk/study/scholars/benefits/",
+            "checked": "2026-10-17",
+            "evidence": "Exeter Scholars participants who apply to study at the University of Exeter will be guaranteed to receive an offer for their course of choice, subject to any interviews and / or subject-specific entry requirements*."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a three-grade adjustment if you are on Realising Opportunities, Sutton Trust Pathways to Law (in person or online) or Sutton Trust Pathways to Banking & Finance (online)",
+          "programme": "Realising Opportunities; Sutton Trust Pathways to Law; Sutton Trust Pathways to Banking & Finance",
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "including Exeter Scholars, Realising Opportunities, Sutton Trust Pathways to Law (in person and online), Sutton Trust Pathways to Banking & Finance (online)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you're taking the EPQ (or Core Maths), Exeter may make an alternative offer: achieve grade B in the EPQ and they guarantee to confirm your place with 1 grade below your offer, excluding subject conditions (not combined with contextual offers)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/uk-academic-qualifications/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers will state that for applicants who achieve a grade B in either the EPQ or Core Maths, we will guarantee to confirm their place if they achieve 1 grade below our offer, excluding any subject conditions."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-mathematics-with-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Exeter course pages only show 2027 entry (no 2028 entry published yet)",
+        "alternativeOffers: exact grades for care-experienced, Exeter Scholars, national-programme and EPQ offers aren't published per course",
+        "options: no year abroad variant is listed on the course page"
+      ],
+      "notes": "Further Maths is not required (it can be offered in place of Maths). An MSci version also exists."
+    },
+    {
+      "id": "exeter-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc",
+      "ucasCode": "N422",
+      "lengthYears": 3,
+      "lengthNote": "4 years With Industrial Experience (NN43) or With Year Abroad (N424) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A-level; no required A-level subjects (GCSE Maths grade 5 needed)",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-accounting-and-finance/",
+          "checked": "2026-10-17",
+          "evidence": "A-Level: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade B or 5 (or A-level/AS Maths, Further Maths, Pure Maths or Core Maths)"
+        }
+      ],
+      "gcseText": "Grade C or 4 in English Language, and\nGrade B or 5 in Mathematics (or: GCE A-level/AS Mathematics or Further Mathematics or Pure Mathematics or Core Mathematics)",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-accounting-and-finance/",
+        "checked": "2026-10-17",
+        "evidence": "NB General Studies is not included in any offer."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-accounting-and-finance/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Contextual offer BBB if you meet one of Exeter's two-grade criteria (e.g. POLAR4/TUNDRA/IMD quintile 1–2 area plus state school, free school meals plus state school, or a listed South West/Wales state school or college); subject requirements still apply",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-accounting-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "A-Level: BBB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Three-grade adjustment to the typical offer if you are a care leaver or care experienced (subject requirements still apply; exact grades not listed on the course page)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Applicants in this category who receive an offer will receive a three-grade adjustment."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Exeter Scholars participants who pass the programme and apply get a guaranteed offer (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+          "programme": "Exeter Scholars",
+          "source": {
+            "url": "https://www.exeter.ac.uk/study/scholars/benefits/",
+            "checked": "2026-10-17",
+            "evidence": "Exeter Scholars participants who apply to study at the University of Exeter will be guaranteed to receive an offer for their course of choice, subject to any interviews and / or subject-specific entry requirements*."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a three-grade adjustment if you are on Realising Opportunities, Sutton Trust Pathways to Law (in person or online) or Sutton Trust Pathways to Banking & Finance (online)",
+          "programme": "Realising Opportunities; Sutton Trust Pathways to Law; Sutton Trust Pathways to Banking & Finance",
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "including Exeter Scholars, Realising Opportunities, Sutton Trust Pathways to Law (in person and online), Sutton Trust Pathways to Banking & Finance (online)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you're taking the EPQ (or Core Maths), Exeter may make an alternative offer: achieve grade B in the EPQ and they guarantee to confirm your place with 1 grade below your offer, excluding subject conditions (not combined with contextual offers)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/uk-academic-qualifications/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers will state that for applicants who achieve a grade B in either the EPQ or Core Maths, we will guarantee to confirm their place if they achieve 1 grade below our offer, excluding any subject conditions."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-accounting-and-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Exeter course pages only show 2027 entry (no 2028 entry published yet)",
+        "alternativeOffers: exact grades for care-experienced, Exeter Scholars, national-programme and EPQ offers aren't published per course"
+      ],
+      "notes": null
+    },
+    {
+      "id": "exeter-business-management",
+      "name": "Business and Management",
+      "degree": "BSc",
+      "ucasCode": "N202",
+      "lengthYears": 3,
+      "lengthNote": "4 years with Industrial Experience (NN12) or With Year Abroad (N204) — separate UCAS codes",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "none"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB at A-level; no required A-level subjects (GCSE Maths grade 5 needed)",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-and-management/",
+          "checked": "2026-10-17",
+          "evidence": "A-Level: AAB"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "grade C or 4"
+        },
+        {
+          "subject": "Mathematics",
+          "minGrade": "5",
+          "note": "grade B or 5 (or A-level/AS Maths, Further Maths, Pure Maths or Core Maths)"
+        }
+      ],
+      "gcseText": "Grade C or 4 in GCSE English Language, and\nGrade B or 5 in GCSE Mathematics (or: GCE A-Level/AS Mathematics or Further Mathematics or Pure Mathematics or Core Mathematics)",
+      "notAccepted": [
+        "General Studies"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-and-management/",
+        "checked": "2026-10-17",
+        "evidence": "NB General Studies is not included in any offer."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the entry requirements",
+        "source": {
+          "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-and-management/",
+          "checked": "2026-10-17",
+          "evidence": null
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "Contextual offer BBB if you meet one of Exeter's two-grade criteria (e.g. POLAR4/TUNDRA/IMD quintile 1–2 area plus state school, free school meals plus state school, or a listed South West/Wales state school or college); subject requirements still apply",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-and-management/",
+            "checked": "2026-10-17",
+            "evidence": "A-Level: BBB"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Three-grade adjustment to the typical offer if you are a care leaver or care experienced (subject requirements still apply; exact grades not listed on the course page)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "Applicants in this category who receive an offer will receive a three-grade adjustment."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Exeter Scholars participants who pass the programme and apply get a guaranteed offer (subject to subject-specific and GCSE requirements) with up to a three-grade reduction (3 A-level grades below the standard offer for most courses for 2026 entry)",
+          "programme": "Exeter Scholars",
+          "source": {
+            "url": "https://www.exeter.ac.uk/study/scholars/benefits/",
+            "checked": "2026-10-17",
+            "evidence": "Exeter Scholars participants who apply to study at the University of Exeter will be guaranteed to receive an offer for their course of choice, subject to any interviews and / or subject-specific entry requirements*."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Up to a three-grade adjustment if you are on Realising Opportunities, Sutton Trust Pathways to Law (in person or online) or Sutton Trust Pathways to Banking & Finance (online)",
+          "programme": "Realising Opportunities; Sutton Trust Pathways to Law; Sutton Trust Pathways to Banking & Finance",
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/contextual-offers/",
+            "checked": "2026-10-17",
+            "evidence": "including Exeter Scholars, Realising Opportunities, Sutton Trust Pathways to Law (in person and online), Sutton Trust Pathways to Banking & Finance (online)"
+          }
+        },
+        {
+          "type": "epq",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you're taking the EPQ (or Core Maths), Exeter may make an alternative offer: achieve grade B in the EPQ and they guarantee to confirm your place with 1 grade below your offer, excluding subject conditions (not combined with contextual offers)",
+          "programme": null,
+          "source": {
+            "url": "https://www.exeter.ac.uk/undergraduate-degrees/entry-requirements/uk-academic-qualifications/",
+            "checked": "2026-10-17",
+            "evidence": "Alternative offers will state that for applicants who achieve a grade B in either the EPQ or Core Maths, we will guarantee to confirm their place if they achieve 1 grade below our offer, excluding any subject conditions."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.exeter.ac.uk/undergraduate-degrees/bsc-business-and-management/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "entryYear: Exeter course pages only show 2027 entry (no 2028 entry published yet)",
+        "alternativeOffers: exact grades for care-experienced, Exeter Scholars, national-programme and EPQ offers aren't published per course"
+      ],
+      "notes": "Applicants one grade below the GCSE Maths requirement may be invited to complete a Maths Transition Course."
+    }
+  ],
+  "notes": [
+    "All courses listed are taught at the Streatham Campus, Exeter (University of Exeter Business School).",
+    "BSc Economics and BSc Economics and Finance need A-level Maths at grade B; Business Economics, Economics and Politics, PPE, Accounting and Finance and Business and Management have no A-level subject requirement (GCSE Maths 5–7 instead).",
+    "Exeter gives up to a three-grade contextual adjustment to participants of Realising Opportunities, Sutton Trust Pathways to Law and Sutton Trust Pathways to Banking & Finance (online).",
+    "Exeter Scholars has three Year 12 routes: South West on-campus (Devon, Cornwall, Somerset, Bristol, Dorset), Virtual (UK-wide) and National residential (outside the South West).",
+    "No 2028-entry pages yet; all course facts are for 2027 entry."
+  ],
+  "notConfirmed": [
+    "2028 entry: not published yet; 2027 entry used for all courses",
+    "programmes: no programme called 'Pathways to Exeter' was found on the official site; Exeter's access programme is Exeter Scholars",
+    "Exeter Scholars Business strand page says A-level Maths isn't needed to study Economics at Exeter, but the 2027 BSc Economics course page requires A-level Maths grade B — the course page is used",
+    "competition: Exeter doesn't publish offer rates or applications per place on these course pages"
+  ]
+}

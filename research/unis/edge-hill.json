@@ -1,0 +1,766 @@
+{
+ "id": "edge-hill",
+ "name": "Edge Hill University",
+ "shortName": "Edge Hill",
+ "aliases": [
+  "Edge Hill",
+  "Edge Hill Uni",
+  "EHU",
+  "Ormskirk"
+ ],
+ "city": "Ormskirk",
+ "region": "North",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.edgehill.ac.uk/study/visit-us/open-days/",
+  "checked": "2026-10-21",
+  "evidence": "Our vibrant campus is in the heart of the North West of England, close to the market town of Ormskirk."
+ },
+ "location": {
+  "postcode": "L39 4QP",
+  "postcodeSource": "https://www.edgehill.ac.uk/study/visit-us/open-days/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/L394QP",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 a year for UK students on full-time degrees starting in 2027/28. Edge Hill says this is the figure currently set, subject to Parliamentary approval and likely to rise with inflation. (The 2026/27 fee is £9,790.)",
+  "source": {
+   "url": "https://www.edgehill.ac.uk/course/business-and-economics-2/",
+   "checked": "2026-10-21",
+   "evidence": "For the academic year 2027/28, the UK Full-Time tuition fee is currently set to £10,050."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 93,
+  "amountHigh": 175,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University halls cost about £93–£175 a week in 2026/27, with utility bills included (Forest Court from £93; Founders East and West up to £175). Edge Hill says it guarantees a first-year room in halls for full-time UK undergraduates who apply on time.",
+  "source": {
+   "url": "https://www.edgehill.ac.uk/study/accommodation/compare-halls-of-residence/",
+   "checked": "2026-10-21",
+   "evidence": "£93 – £124 per week for 2026/27. Utility bills included."
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Open Day (undergraduate and postgraduate)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next open day: Saturday 21 November 2026, described as the last Open Day of the year. 2027 open day dates are not announced yet. A Virtual Open Day and student-led campus tours are also available.",
+  "url": "https://www.edgehill.ac.uk/study/visit-us/open-days/",
+  "source": {
+   "url": "https://www.edgehill.ac.uk/study/visit-us/open-days/",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 21 November 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Edge Hill's Fair Entry Criteria can reduce your Level 3 entry requirements by up to two grades on most full-time courses if you meet any one of its listed criteria.",
+  "typicalReduction": "Up to a two-grade reduction in Level 3 entry requirements (most courses)",
+  "criteria": [
+   {
+    "key": "care",
+    "detail": "Care experience: applicants who have been in care (listed together with estrangement).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estrangement: applicants who are estranged from their families (listed together with care experience).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "Those eligible for free school meals during their education.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Those who care, unpaid, for a family member or friend with an illness or disability, mental health condition or an addiction on a regular basis (excluding those with parental responsibilities).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Applicants with refugee status.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "POLAR Quintile 1: applicants entering university from a neighbourhood where there is low participation in higher education (the page does not name the POLAR version; it links to the OfS postcode checker).",
+    "measure": "POLAR4",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "IMD Quintile 1: students from low income households (check your postcode).",
+    "measure": "IMD",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "access",
+    "detail": "Students who have participated in one of Edge Hill's dedicated widening access programmes (completing the Edge Hill Access Programme gives access to the reduction).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "firstGen",
+    "detail": "Applicants who are the first in their family to attend university.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You may qualify if you meet one or more of the criteria. Apply through UCAS as normal and indicate any criteria you meet; the admissions team assesses your application holistically and, if you are eligible, your Level 3 entry requirements are adjusted by up to two grades. All full-time courses are eligible except Medicine, Medicine with Foundation and Nurse Associate programmes, and you must be a home undergraduate student. For courses with GCSE requirements, interviews or extra checks you get extra support but must still meet all course-specific requirements.",
+  "url": "https://www.edgehill.ac.uk/study/apply/entry-requirements/fair-entry-criteria/",
+  "source": {
+   "url": "https://www.edgehill.ac.uk/study/apply/entry-requirements/fair-entry-criteria/",
+   "checked": "2026-10-21",
+   "evidence": "You may qualify for the Fair Entry Criteria if you meet one or more of the following:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "edge-hill-access-programme",
+   "name": "Edge Hill Access Programme",
+   "provider": "Edge Hill University",
+   "providerType": "university",
+   "uniIds": [
+    "edge-hill"
+   ],
+   "summary": "A mostly virtual programme for Year 12 students from underrepresented backgrounds, with academic taster sessions, UCAS and student finance advice and social events; completing it unlocks Edge Hill's two-grade Fair Entry reduction.",
+   "whoCanApply": "Students currently in Year 12 (sixth form) or Year 1 (college) who meet one or more of: care leaver, care experienced or estranged; eligible for free school meals; from a low-participation neighbourhood or low-income household; caring responsibilities; refugee status; or identify as Black, Asian or from another minority ethnic group.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "care",
+    "estranged",
+    "fsm",
+    "area",
+    "carer",
+    "refugee",
+    "other"
+   ],
+   "eligibilityDetail": "Year 12 (sixth form) or Year 1 (college) and one or more of: care leaver, care experienced or estranged; eligible for free school meals; entering university from a neighbourhood with low participation in higher education or a low-income household (check your postcode); caring responsibilities; refugee status; identify as Black, Asian or from other minority ethnic groups.",
+   "benefits": [
+    "Successful completion gives access to Edge Hill's Fair Entry two-grade reduction (not Medicine)",
+    "On-campus subject taster days for subject areas of your choice",
+    "Advice on researching courses, UCAS, personal statements, interview preparation and student finance",
+    "Progression to Edge Hill's on-course support programme, Thrive",
+    "Sessions for parents and supporters"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "edge-hill"
+   ],
+   "offerReduction": "2-grade reduction through the Fair Entry Criteria (not Medicine), on successful completion",
+   "cost": null,
+   "isFree": null,
+   "format": "mixed",
+   "subjects": "All subjects (taster days for subject areas of your choice)",
+   "yearGroup": "Year 12 (sixth form) or Year 1 (college)",
+   "runs": {
+    "text": "Not announced (the page says the programme will not be running for the 2025/26 academic year)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2025,
+   "infoNote": "Edge Hill's page says the programme will not be running for the 2025/26 academic year; no 2026/27 or 2027 details are published. Contact Edge Hill's Widening Access and Student Success team to ask.",
+   "url": "https://www.edgehill.ac.uk/departments/support/edi/widening-access-and-student-success/widening-access-activities/",
+   "source": {
+    "url": "https://www.edgehill.ac.uk/departments/support/edi/widening-access-and-student-success/widening-access-activities/",
+    "checked": "2026-10-21",
+    "evidence": "You must be currently studying in Year 12 (sixth form) or Year 1 (college) and meet one or more of the following criteria:"
+   },
+   "notConfirmed": [
+    "Whether the programme runs in 2026/27 or summer 2027, and its dates, deadline and cost, are not published"
+   ]
+  },
+  {
+   "id": "edge-hill-business-discovery-day",
+   "name": "Business School Subject Discovery Day: The Big Launch",
+   "provider": "Edge Hill University",
+   "providerType": "university",
+   "uniIds": [
+    "edge-hill"
+   ],
+   "summary": "A day on Edge Hill's campus for sixth form and college students with interactive taster sessions in Business Management, Marketing and Accounting.",
+   "whoCanApply": "Post-16 (sixth form and college) students; book through Edge Hill's Discovery Day booking request form.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Subject Discovery Days are for post-16 students at sixth forms and colleges; bookings are made through the booking request form (the page lists bookings for school groups and individuals).",
+   "benefits": [
+    "Interactive taster sessions in your chosen subject area",
+    "Competition activities",
+    "See how your current studies relate to different career paths",
+    "Find out about Edge Hill's campus and courses"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": null,
+   "isFree": null,
+   "format": "day",
+   "subjects": "Business Management, Marketing and Accounting",
+   "yearGroup": "Sixth form and college students (post-16)",
+   "runs": {
+    "text": "Friday 13 November 2026 (autumn events may be full), Wednesday 3 March 2027 and Wednesday 23 June 2027",
+    "start": "2027-06-23",
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Booking requests are open on the booking form (some autumn 2026 dates are full)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "Dates are Edge Hill's confirmed Discovery Days for the 2026/27 academic year (autumn 2026 to summer 2027).",
+   "url": "https://www.edgehill.ac.uk/study/schools-and-colleges/support-activities/subject-discovery-days/",
+   "source": {
+    "url": "https://www.edgehill.ac.uk/study/schools-and-colleges/support-activities/subject-discovery-days/",
+    "checked": "2026-10-21",
+    "evidence": "Covering: Business Management, Marketing and Accounting"
+   },
+   "notConfirmed": [
+    "Cost and booking deadline are not stated on the page"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.edgehill.ac.uk/",
+  "courses": "https://www.edgehill.ac.uk/course/",
+  "economics": "https://www.edgehill.ac.uk/course/business-and-economics-2/",
+  "openDays": "https://www.edgehill.ac.uk/study/visit-us/open-days/",
+  "fees": "https://www.edgehill.ac.uk/study/fees-and-funding/fees-and-funding-guide-full-time-undergraduate-students-2026-27/",
+  "contextual": "https://www.edgehill.ac.uk/study/apply/entry-requirements/fair-entry-criteria/",
+  "accommodation": "https://www.edgehill.ac.uk/study/accommodation/compare-halls-of-residence/"
+ },
+ "courses": [
+  {
+   "id": "edge-hill-business-economics",
+   "name": "Business and Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "VT89",
+   "lengthYears": 3,
+   "lengthNote": "Optional sandwich (placement) year and optional study abroad are listed under the course features.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": "BCC",
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104-112 UCAS Tariff points (A Level example BCC-BBC; BTEC example DMM). No specific subjects are required.",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/business-and-economics-2/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": null,
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.edgehill.ac.uk/course/business-and-economics-2/",
+    "checked": "2026-10-21",
+    "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "The course page names no admissions test, only the UCAS Tariff points offer (Edge Hill is not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/business-and-economics-2/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to a two-grade reduction in the entry requirements if you meet Edge Hill's Fair Entry Criteria (for example care experience, free school meals, caring responsibilities, first in your family to go to university, or a low-participation area). Edge Hill does not publish the reduced grades or points, and you must still meet any course-specific requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.edgehill.ac.uk/course/business-and-economics-2/",
+      "checked": "2026-10-21",
+      "evidence": "This policy will allow eligible applicants to receive up to a two-grade reduction in their entry requirements for this course."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Completing the Edge Hill Access Programme (Year 12 widening-access programme) gives access to the same Fair Entry two-grade reduction (not Medicine). The programme page says it was not running in 2025/26 and no 2026/27 details are published.",
+     "programme": "Edge Hill Access Programme",
+     "source": {
+      "url": "https://www.edgehill.ac.uk/departments/support/edi/widening-access-and-student-success/widening-access-activities/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the Edge Hill Access Programme enables you to receive access to our institutional Fair Entry criteria 2-grade reduction on application to Edge Hill"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.edgehill.ac.uk/course/business-and-economics-2/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the course page shows a September 2027 start only, so 2027 entry is recorded.",
+    "The 'typical offer' is in UCAS Tariff points; Edge Hill says its example offers (e.g. BCC-BBC) may differ from actual offers made. The Fair Entry reduction is only described as 'up to a two-grade reduction' (no exact points or grades).",
+    "GCSEs: Edge Hill's general entry requirements page says applicants will typically be expected to offer five GCSEs at grade C/4 or above, normally including English Language, but this course page lists no GCSE requirement (see gcseText). Check with Edge Hill's admissions team."
+   ],
+   "notes": "Edge Hill's economics degree: there is no standalone Economics BSc on its subject pages (the old course/economics-bsc page returns 'not found'). Accredited by the Chartered Management Institute (affiliate membership plus a CMI Level 5 Certificate in Management and Leadership). Course page shows a September 2027 start. If you have at least two A Levels, extra qualifications such as an EPQ, AS Levels not continued to A Level and General Studies all count towards the tariff points (no maximum number of qualifications)."
+  },
+  {
+   "id": "edge-hill-business-finance",
+   "name": "Business and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N217",
+   "lengthYears": 3,
+   "lengthNote": "Optional sandwich (placement) year and optional study abroad are listed under the course features.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "finance",
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": "BCC",
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104-112 UCAS Tariff points (A Level example BCC-BBC; BTEC example DMM). No specific subjects are required.",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/business-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points, for which no specific subjects are required."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": "Course change log (10 October 2025): Requirement to have GCSE Maths and English removed.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.edgehill.ac.uk/course/business-and-finance/",
+    "checked": "2026-10-21",
+    "evidence": "Typical offer 104-112 UCAS Tariff points, for which no specific subjects are required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "The course page names no admissions test, only the UCAS Tariff points offer (Edge Hill is not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/business-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points, for which no specific subjects are required."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to a two-grade reduction in the entry requirements if you meet Edge Hill's Fair Entry Criteria (for example care experience, free school meals, caring responsibilities, first in your family to go to university, or a low-participation area). Edge Hill does not publish the reduced grades or points, and you must still meet any course-specific requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.edgehill.ac.uk/course/business-and-finance/",
+      "checked": "2026-10-21",
+      "evidence": "This policy will allow eligible applicants to receive up to a two-grade reduction in their entry requirements for this course."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Completing the Edge Hill Access Programme (Year 12 widening-access programme) gives access to the same Fair Entry two-grade reduction (not Medicine). The programme page says it was not running in 2025/26 and no 2026/27 details are published.",
+     "programme": "Edge Hill Access Programme",
+     "source": {
+      "url": "https://www.edgehill.ac.uk/departments/support/edi/widening-access-and-student-success/widening-access-activities/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the Edge Hill Access Programme enables you to receive access to our institutional Fair Entry criteria 2-grade reduction on application to Edge Hill"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.edgehill.ac.uk/course/business-and-finance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the course page shows a September 2027 start only, so 2027 entry is recorded.",
+    "The 'typical offer' is in UCAS Tariff points; Edge Hill says its example offers (e.g. BCC-BBC) may differ from actual offers made. The Fair Entry reduction is only described as 'up to a two-grade reduction' (no exact points or grades).",
+    "GCSEs: Edge Hill's general entry requirements page says applicants will typically be expected to offer five GCSEs at grade C/4 or above, normally including English Language, but this course page lists no GCSE requirement (see gcseText). Check with Edge Hill's admissions team."
+   ],
+   "notes": "Covers accounting, economics, marketing and management; accredited by the main accountancy professional bodies and gives CMI affiliate membership. Course page shows a September 2027 start. If you have at least two A Levels, extra qualifications such as an EPQ, AS Levels not continued to A Level and General Studies all count towards the tariff points (no maximum number of qualifications)."
+  },
+  {
+   "id": "edge-hill-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "RN12",
+   "lengthYears": 3,
+   "lengthNote": "Optional sandwich (placement) year and optional study abroad are listed under the course features.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": "BCC",
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104-112 UCAS Tariff points (A Level example BCC-BBC; BTEC example DMM). No specific subjects are required.",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/accounting-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required. You will also need GCSE Mathematics at Grade C or Grade 4 or above, or equivalent."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade C/4 or above, or equivalent; a Level 2 numeracy qualification is not accepted as equivalent for accounting. Edge Hill removed the GCSE English requirement for this course on 10 October 2025."
+    }
+   ],
+   "gcseText": "You will also need GCSE Mathematics at Grade C or Grade 4 or above, or equivalent.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.edgehill.ac.uk/course/accounting-and-finance/",
+    "checked": "2026-10-21",
+    "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required. You will also need GCSE Mathematics at Grade C or Grade 4 or above, or equivalent."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "The course page names no admissions test, only the UCAS Tariff points offer (Edge Hill is not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/accounting-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required. You will also need GCSE Mathematics at Grade C or Grade 4 or above, or equivalent."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to a two-grade reduction in the entry requirements if you meet Edge Hill's Fair Entry Criteria (for example care experience, free school meals, caring responsibilities, first in your family to go to university, or a low-participation area). Edge Hill does not publish the reduced grades or points, and you must still meet any course-specific requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.edgehill.ac.uk/course/accounting-and-finance/",
+      "checked": "2026-10-21",
+      "evidence": "This policy will allow eligible applicants to receive up to a two-grade reduction in their entry requirements for this course."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Completing the Edge Hill Access Programme (Year 12 widening-access programme) gives access to the same Fair Entry two-grade reduction (not Medicine). The programme page says it was not running in 2025/26 and no 2026/27 details are published.",
+     "programme": "Edge Hill Access Programme",
+     "source": {
+      "url": "https://www.edgehill.ac.uk/departments/support/edi/widening-access-and-student-success/widening-access-activities/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the Edge Hill Access Programme enables you to receive access to our institutional Fair Entry criteria 2-grade reduction on application to Edge Hill"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.edgehill.ac.uk/course/accounting-and-finance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the course page shows a September 2027 start only, so 2027 entry is recorded.",
+    "The 'typical offer' is in UCAS Tariff points; Edge Hill says its example offers (e.g. BCC-BBC) may differ from actual offers made. The Fair Entry reduction is only described as 'up to a two-grade reduction' (no exact points or grades).",
+    "GCSEs: Edge Hill's general entry requirements page says applicants will typically be expected to offer five GCSEs at grade C/4 or above, normally including English Language, but this course page lists no GCSE requirement (see gcseText). Check with Edge Hill's admissions team."
+   ],
+   "notes": "Professionally accredited, with maximum exemptions from the main accountancy bodies. Course page shows a September 2027 start. If you have at least two A Levels, extra qualifications such as an EPQ, AS Levels not continued to A Level and General Studies all count towards the tariff points (no maximum number of qualifications)."
+  },
+  {
+   "id": "edge-hill-business-management",
+   "name": "Business Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N215",
+   "lengthYears": 3,
+   "lengthNote": "Optional sandwich (placement) year and optional study abroad are listed under the course features.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": "BCC",
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104-112 UCAS Tariff points (A Level example BCC-BBC; BTEC example DMM). No specific subjects are required.",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/business-management/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": "Course change log (10 October 2025): Requirement to have GCSE Maths and English removed.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.edgehill.ac.uk/course/business-management/",
+    "checked": "2026-10-21",
+    "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "The course page names no admissions test, only the UCAS Tariff points offer (Edge Hill is not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/business-management/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to a two-grade reduction in the entry requirements if you meet Edge Hill's Fair Entry Criteria (for example care experience, free school meals, caring responsibilities, first in your family to go to university, or a low-participation area). Edge Hill does not publish the reduced grades or points, and you must still meet any course-specific requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.edgehill.ac.uk/course/business-management/",
+      "checked": "2026-10-21",
+      "evidence": "This policy will allow eligible applicants to receive up to a two-grade reduction in their entry requirements for this course."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Completing the Edge Hill Access Programme (Year 12 widening-access programme) gives access to the same Fair Entry two-grade reduction (not Medicine). The programme page says it was not running in 2025/26 and no 2026/27 details are published.",
+     "programme": "Edge Hill Access Programme",
+     "source": {
+      "url": "https://www.edgehill.ac.uk/departments/support/edi/widening-access-and-student-success/widening-access-activities/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the Edge Hill Access Programme enables you to receive access to our institutional Fair Entry criteria 2-grade reduction on application to Edge Hill"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.edgehill.ac.uk/course/business-management/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the course page shows a September 2027 start only, so 2027 entry is recorded.",
+    "The 'typical offer' is in UCAS Tariff points; Edge Hill says its example offers (e.g. BCC-BBC) may differ from actual offers made. The Fair Entry reduction is only described as 'up to a two-grade reduction' (no exact points or grades).",
+    "GCSEs: Edge Hill's general entry requirements page says applicants will typically be expected to offer five GCSEs at grade C/4 or above, normally including English Language, but this course page lists no GCSE requirement (see gcseText). Check with Edge Hill's admissions team."
+   ],
+   "notes": "Course page shows a September 2027 start. If you have at least two A Levels, extra qualifications such as an EPQ, AS Levels not continued to A Level and General Studies all count towards the tariff points (no maximum number of qualifications)."
+  },
+  {
+   "id": "edge-hill-international-business",
+   "name": "International Business",
+   "degree": "BSc (Hons)",
+   "ucasCode": "GOW3",
+   "lengthYears": 3,
+   "lengthNote": "Optional sandwich (placement) year and optional study abroad are listed under the course features.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": "BCC",
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104-112 UCAS Tariff points (A Level example BCC-BBC; BTEC example DMM). No specific subjects are required.",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/international-business/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notRequired",
+   "gcse": [],
+   "gcseText": "Course change log (10 October 2025): Requirement to have GCSE Maths and English removed.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.edgehill.ac.uk/course/international-business/",
+    "checked": "2026-10-21",
+    "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "The course page names no admissions test, only the UCAS Tariff points offer (Edge Hill is not on UAT-UK's TMUA list for 2027 entry).",
+    "source": {
+     "url": "https://www.edgehill.ac.uk/course/international-business/",
+     "checked": "2026-10-21",
+     "evidence": "Typical offer 104-112 UCAS Tariff points. No specific subjects are required."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to a two-grade reduction in the entry requirements if you meet Edge Hill's Fair Entry Criteria (for example care experience, free school meals, caring responsibilities, first in your family to go to university, or a low-participation area). Edge Hill does not publish the reduced grades or points, and you must still meet any course-specific requirements.",
+     "programme": null,
+     "source": {
+      "url": "https://www.edgehill.ac.uk/course/international-business/",
+      "checked": "2026-10-21",
+      "evidence": "This policy will allow eligible applicants to receive up to a two-grade reduction in their entry requirements for this course."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Completing the Edge Hill Access Programme (Year 12 widening-access programme) gives access to the same Fair Entry two-grade reduction (not Medicine). The programme page says it was not running in 2025/26 and no 2026/27 details are published.",
+     "programme": "Edge Hill Access Programme",
+     "source": {
+      "url": "https://www.edgehill.ac.uk/departments/support/edi/widening-access-and-student-success/widening-access-activities/",
+      "checked": "2026-10-21",
+      "evidence": "Successful completion of the Edge Hill Access Programme enables you to receive access to our institutional Fair Entry criteria 2-grade reduction on application to Edge Hill"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.edgehill.ac.uk/course/international-business/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the course page shows a September 2027 start only, so 2027 entry is recorded.",
+    "The 'typical offer' is in UCAS Tariff points; Edge Hill says its example offers (e.g. BCC-BBC) may differ from actual offers made. The Fair Entry reduction is only described as 'up to a two-grade reduction' (no exact points or grades).",
+    "GCSEs: Edge Hill's general entry requirements page says applicants will typically be expected to offer five GCSEs at grade C/4 or above, normally including English Language, but this course page lists no GCSE requirement (see gcseText). Check with Edge Hill's admissions team."
+   ],
+   "notes": "Edge Hill describes it as exploring international business, economics and marketing. Edge Hill's page prints the UCAS code as 'GOW3' (letter O); check it on UCAS when applying. Course page shows a September 2027 start. If you have at least two A Levels, extra qualifications such as an EPQ, AS Levels not continued to A Level and General Studies all count towards the tariff points (no maximum number of qualifications)."
+  }
+ ],
+ "notes": [
+  "Edge Hill has no standalone Economics BSc: the old course/economics-bsc page returns 'not found' (checked 2026-10-21) and no Economics degree is listed on its Business Management or Accounting and Finance subject pages. The closest is Business and Economics (VT89).",
+  "All five courses show a September 2027 start and offers in UCAS Tariff points (104-112); Edge Hill says its example offers may differ from actual offers made. Edge Hill is not on UAT-UK's official TMUA list for 2027 entry and the course pages name no admissions test.",
+  "Arts, Humanities and Social Sciences Foundation Year (4 years, 72-96 UCAS Tariff points, UCAS code varies by pathway) leads to degrees including business and management.",
+  "Schools and colleges can book a group visit to Edge Hill's Schools & Colleges Open Day on Friday 18 June 2027."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet: course pages show a September 2027 start only (2027 entry recorded)",
+  "2027/28 fee of £10,050 is 'currently set' and subject to Parliamentary approval; Edge Hill's fees guide says 2027/28 fees will be confirmed when available",
+  "Halls rents are for 2026/27; 2027/28 prices are not published",
+  "2027 open day dates are not announced (only Saturday 21 November 2026 is listed)",
+  "Edge Hill Access Programme: not running in 2025/26 according to its page; 2026/27 and 2027 details (dates, deadline, cost) are not published",
+  "Fair Entry Criteria: only 'up to a two-grade reduction' is published, not exact reduced grades or tariff points",
+  "UCAS course pages were not used (UCAS blocks automated access); all course facts come from Edge Hill's own course pages"
+ ]
+}

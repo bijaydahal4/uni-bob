@@ -1,0 +1,997 @@
+{
+ "id": "edinburgh",
+ "name": "The University of Edinburgh",
+ "shortName": "Edinburgh",
+ "aliases": [
+  "Edinburgh",
+  "Edinburgh Uni",
+  "Edinburgh University",
+  "Uni of Edinburgh",
+  "Ed Uni",
+  "EdUni"
+ ],
+ "city": "Edinburgh",
+ "region": "Scotland",
+ "country": "Scotland",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://study.ed.ac.uk/programmes/undergraduate/133-economics-and-mathematics",
+  "checked": "2026-10-21",
+  "evidence": "a city with an irresistible blend of history, natural beauty and modern city life."
+ },
+ "location": {
+  "postcode": "EH8 9JT",
+  "postcodeSource": "https://economics.ed.ac.uk/study-with-us/undergraduate/visit-us",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/EH89JT",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 for the 2027/28 academic year for students from England, Wales and Northern Ireland (Edinburgh's 'Rest of UK' fee rate), for students starting or continuing in 2027. It was £9,790 for 2026/27 starters. Edinburgh says fees rise each year in line with the UK Government fee cap.",
+  "source": {
+   "url": "https://study.ed.ac.uk/undergraduate/fees-funding/fees-costs/england-wales-northern-ireland-republic-ireland",
+   "checked": "2026-10-21",
+   "evidence": "If you are starting or continuing your studies in 2027, the fee for the 2027-28 academic year will be £10,050."
+  }
+ },
+ "livingCosts": {
+  "kind": "living cost estimate",
+  "amountLow": 13914,
+  "amountHigh": 18552,
+  "period": "year",
+  "academicYear": "2026/27",
+  "text": "Edinburgh estimates about £1,546 a month for a single undergraduate in 2026/27: £13,914 for a 39-week academic year, or £18,552 for a full year. University halls average about £925 a month rent self-catered (range £414-£1,348) and £1,169 a month catered with two meals a day (range £842-£1,518), with utilities included, on 39-week leases.",
+  "source": {
+   "url": "https://study.ed.ac.uk/undergraduate/fees-funding/living-costs",
+   "checked": "2026-10-21",
+   "evidence": "we estimate that it will cost an average of £1,546 each month to live in Edinburgh as a single undergraduate student. This equates to £13,914 for a 39-week academic year and £18,552 for a full year."
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-24",
+    "endDate": null,
+    "label": "Undergraduate Open Day (booking required)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate Open Day: Saturday 24 October 2026 (booking required). Open Days in 2027 will be in June and autumn 2027; dates will be published by January 2027.",
+  "url": "https://study.ed.ac.uk/undergraduate/open-days-events-visits/open-day",
+  "source": {
+   "url": "https://study.ed.ac.uk/undergraduate/open-days-events-visits/open-day",
+   "checked": "2026-10-21",
+   "evidence": "Our next undergraduate Open Day will take place at the University on Saturday 24 October."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Edinburgh gives widening access offers: a 'Plus Flag' (normally an offer at the lower minimum entry requirements) or a 'Flag' (standard requirements, but you are prioritised where competition for places is high), based on your postcode, school, care/refugee/estranged/carer status and access programmes.",
+  "typicalReduction": "Plus Flag applicants will normally be made an offer at the programme's minimum entry requirement (ABB for most of the Economics degrees recorded here, compared with a standard range of A*A*A* to A*AA); an offer is not guaranteed.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Plus Flag: your home postcode is in the lowest Acorn quintile ('Acorn 6') and you attend a state school in England, Wales or Northern Ireland. (Flag, which keeps the standard offer but prioritises you: the second lowest Acorn quintile, 'Acorn 5', and a state school in England, Wales or Northern Ireland.)",
+    "measure": "ACORN",
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Plus Flag: your home postcode is in the lowest POLAR quintile ('POLAR1') and you attend a state school in England, Wales or Northern Ireland. (Flag: the second lowest POLAR quintile, 'POLAR2', and a state school in England, Wales or Northern Ireland.)",
+    "measure": "POLAR4",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Scotland only: your home postcode is in the lowest quintile of the Scottish Index of Multiple Deprivation ('SIMD20').",
+    "measure": "other",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "school",
+    "detail": "Scotland only: you attend one of Edinburgh's identified Scottish target schools (chosen for low progression to higher education, high free school meal entitlement and many SIMD20 postcodes) or a LEAPS Group 1 or Group 1 Plus school.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "You are care experienced.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "You are a refugee or an asylum seeker.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "You are estranged from your parents or guardians and are under 25 at the start of your degree.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "You are a carer and have completed one or more of Edinburgh's recognised bridging programmes.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": false
+   },
+   {
+    "key": "access",
+    "detail": "You are undertaking a Scottish Wider Access Programme (SWAP) course or Edinburgh's own Access Programme (routes for college students and adult learners).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You are eligible for a Plus Flag if you are permanently resident in the UK and fulfil one or more of the Plus Flag criteria. With a Plus Flag you will normally be made an offer at the minimum entry requirement, as long as you are predicted to meet it and have the required subjects; this is not guaranteed. A Flag (for example Acorn 5 or POLAR2 plus a state school in England, Wales or Northern Ireland) keeps the standard entry requirements but prioritises you for places on programmes where competition is high. Acorn and POLAR data are updated each May, so use Edinburgh's checker tool to see whether you qualify.",
+  "url": "https://study.ed.ac.uk/undergraduate/access-edinburgh/widening-access-offers/criteria",
+  "source": {
+   "url": "https://study.ed.ac.uk/undergraduate/access-edinburgh/widening-access-offers/criteria",
+   "checked": "2026-10-21",
+   "evidence": "You are eligible for a Plus Flag if you're permanently resident in the UK and fulfil one or more of these criteria:"
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.ed.ac.uk/",
+  "courses": "https://study.ed.ac.uk/programmes/undergraduate",
+  "economics": "https://study.ed.ac.uk/programmes/undergraduate-subjects/economics",
+  "openDays": "https://study.ed.ac.uk/undergraduate/open-days-events-visits/open-day",
+  "fees": "https://study.ed.ac.uk/undergraduate/fees-funding/fees-costs/england-wales-northern-ireland-republic-ireland",
+  "contextual": "https://study.ed.ac.uk/undergraduate/access-edinburgh/widening-access-offers/criteria",
+  "accommodation": "https://study.ed.ac.uk/undergraduate/student-life/accommodation"
+ },
+ "courses": [
+  {
+   "id": "edinburgh-economics",
+   "name": "Economics",
+   "degree": "MA (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish honours degree: in Years 1 and 2 you can also study courses outside your degree. Study abroad is available in Year 3.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "none",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*A*A*",
+    "low": "A*AA",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "Standard A level entry: most applicants needed from A*A*A* to A*AA to receive an offer in recent years, including A level Mathematics at B (or AS Mathematics at A)",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/122-economics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "These are the range of grades most applicants needed to receive an offer in recent years: from A*A*A* to A*AA"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "The grades used to meet the offer must include A level Mathematics at B, or AS Mathematics at A. Applies to both the standard and the minimum (widening access) offer. Edinburgh does not accept A level Use of Mathematics in place of Mathematics."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English at C or 4 (Edinburgh also accepts Level 2 Certificate English at C or SQA National 5 English at C)."
+    }
+   ],
+   "gcseText": "You must also have the following at GCSE: English at C or 4",
+   "notAccepted": [
+    "Applied ICT",
+    "Applied Science",
+    "Communication and Culture",
+    "Creative Writing",
+    "General Studies",
+    "Journalism in the Media and Communications Industry",
+    "Leisure Studies",
+    "Media: Communication and Production",
+    "Performing Arts",
+    "Travel and Tourism"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://study.ed.ac.uk/programmes/undergraduate/122-economics/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at B or AS Mathematics at A Your other A levels can be in any other subject, except the few subjects we do not accept."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course's pages: the application needs qualifications that meet the entry requirements plus evidence of English. Edinburgh is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/122-economics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "To apply for this programme and be considered for an offer, you will need: academic qualifications that meet our entry requirements, including required subjects"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry requirement for applicants who are permanently resident in the UK and are assigned a widening access Plus Flag (for example a lowest-quintile Acorn or POLAR4 postcode plus attending a state school in England, Wales or Northern Ireland; see the contextual criteria). Edinburgh will normally make a Plus Flag applicant an offer at this level, but an offer is not guaranteed. A level Mathematics at B (or AS Mathematics at A) is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://study.ed.ac.uk/programmes/undergraduate/122-economics/entry-requirements",
+      "checked": "2026-10-21",
+      "evidence": "The A level grades you need to be considered for an offer ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://study.ed.ac.uk/programmes/undergraduate/122-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the programme page shows 'Year of entry: 2027'); 2027 entry recorded"
+   ],
+   "notes": "Edinburgh publishes the range of grades most applicants needed to receive an offer in recent years rather than one fixed offer: the top of the range is recorded as typical and the bottom as low. Taught by the School of Economics in the Central Area. Subjects Edinburgh does not accept are listed at https://study.ed.ac.uk/undergraduate/entry-requirements/english-welsh-northern-irish-qualifications/approved-subjects. Some A levels only count in certain combinations: Use of Mathematics is not accepted in place of, or together with, A level Mathematics; Economics and Business is not accepted together with Economics or Business Studies. A level Mathematics and Further Mathematics count as two separate subjects unless a degree says otherwise."
+  },
+  {
+   "id": "edinburgh-economics-finance",
+   "name": "Economics with Finance",
+   "degree": "MA (Hons)",
+   "ucasCode": "L1N3",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish honours degree: in Years 1 and 2 you can also study courses outside your degree. Study abroad is available in Year 3.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "none",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*A*A*",
+    "low": "A*AA",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "Standard A level entry: most applicants needed from A*A*A* to A*AA to receive an offer in recent years, including A level Mathematics at B (or AS Mathematics at A)",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/469-economics-with-finance/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "These are the range of grades most applicants needed to receive an offer in recent years: from A*A*A* to A*AA"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "The grades used to meet the offer must include A level Mathematics at B, or AS Mathematics at A. Applies to both the standard and the minimum (widening access) offer. Edinburgh does not accept A level Use of Mathematics in place of Mathematics."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English at C or 4 (Edinburgh also accepts Level 2 Certificate English at C or SQA National 5 English at C)."
+    }
+   ],
+   "gcseText": "You must also have the following at GCSE: English at C or 4",
+   "notAccepted": [
+    "Applied ICT",
+    "Applied Science",
+    "Communication and Culture",
+    "Creative Writing",
+    "General Studies",
+    "Journalism in the Media and Communications Industry",
+    "Leisure Studies",
+    "Media: Communication and Production",
+    "Performing Arts",
+    "Travel and Tourism"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://study.ed.ac.uk/programmes/undergraduate/469-economics-with-finance/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at B or AS Mathematics at A Your other A levels can be in any other subject, except the few subjects we do not accept."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course's pages: the application needs qualifications that meet the entry requirements plus evidence of English. Edinburgh is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/469-economics-with-finance/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "To apply for this programme and be considered for an offer, you will need: academic qualifications that meet our entry requirements, including required subjects"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry requirement for applicants who are permanently resident in the UK and are assigned a widening access Plus Flag (for example a lowest-quintile Acorn or POLAR4 postcode plus attending a state school in England, Wales or Northern Ireland; see the contextual criteria). Edinburgh will normally make a Plus Flag applicant an offer at this level, but an offer is not guaranteed. A level Mathematics at B (or AS Mathematics at A) is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://study.ed.ac.uk/programmes/undergraduate/469-economics-with-finance/entry-requirements",
+      "checked": "2026-10-21",
+      "evidence": "The A level grades you need to be considered for an offer ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://study.ed.ac.uk/programmes/undergraduate/469-economics-with-finance",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the programme page shows 'Year of entry: 2027'); 2027 entry recorded"
+   ],
+   "notes": "Edinburgh publishes the range of grades most applicants needed to receive an offer in recent years rather than one fixed offer: the top of the range is recorded as typical and the bottom as low. Covers the core economics programme and adds the basics of finance (investments, securities, corporate finance). Subjects Edinburgh does not accept are listed at https://study.ed.ac.uk/undergraduate/entry-requirements/english-welsh-northern-irish-qualifications/approved-subjects. Some A levels only count in certain combinations: Use of Mathematics is not accepted in place of, or together with, A level Mathematics; Economics and Business is not accepted together with Economics or Business Studies. A level Mathematics and Further Mathematics count as two separate subjects unless a degree says otherwise."
+  },
+  {
+   "id": "edinburgh-economics-accounting",
+   "name": "Economics and Accounting",
+   "degree": "MA (Hons)",
+   "ucasCode": "LN14",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish honours degree: in Years 1 and 2 you can also study courses outside your degree. Study abroad is available in Year 3.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "none",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-accounting"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*A*A*",
+    "low": "A*AA",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "Standard A level entry: most applicants needed from A*A*A* to A*AA to receive an offer in recent years, including A level Mathematics at B (or AS Mathematics at A)",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/153-economics-and-accounting/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "These are the range of grades most applicants needed to receive an offer in recent years: from A*A*A* to A*AA"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "The grades used to meet the offer must include A level Mathematics at B, or AS Mathematics at A. Applies to both the standard and the minimum (widening access) offer. Edinburgh does not accept A level Use of Mathematics in place of Mathematics."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English at C or 4 (Edinburgh also accepts Level 2 Certificate English at C or SQA National 5 English at C)."
+    }
+   ],
+   "gcseText": "You must also have the following at GCSE: English at C or 4",
+   "notAccepted": [
+    "Applied ICT",
+    "Applied Science",
+    "Communication and Culture",
+    "Creative Writing",
+    "General Studies",
+    "Journalism in the Media and Communications Industry",
+    "Leisure Studies",
+    "Media: Communication and Production",
+    "Performing Arts",
+    "Travel and Tourism"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://study.ed.ac.uk/programmes/undergraduate/153-economics-and-accounting/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at B or AS Mathematics at A Your other A levels can be in any other subject, except the few subjects we do not accept."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course's pages: the application needs qualifications that meet the entry requirements plus evidence of English. Edinburgh is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/153-economics-and-accounting/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "To apply for this programme and be considered for an offer, you will need: academic qualifications that meet our entry requirements, including required subjects"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry requirement for applicants who are permanently resident in the UK and are assigned a widening access Plus Flag (for example a lowest-quintile Acorn or POLAR4 postcode plus attending a state school in England, Wales or Northern Ireland; see the contextual criteria). Edinburgh will normally make a Plus Flag applicant an offer at this level, but an offer is not guaranteed. A level Mathematics at B (or AS Mathematics at A) is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://study.ed.ac.uk/programmes/undergraduate/153-economics-and-accounting/entry-requirements",
+      "checked": "2026-10-21",
+      "evidence": "The A level grades you need to be considered for an offer ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://study.ed.ac.uk/programmes/undergraduate/153-economics-and-accounting",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the programme page shows 'Year of entry: 2027'); 2027 entry recorded"
+   ],
+   "notes": "Edinburgh publishes the range of grades most applicants needed to receive an offer in recent years rather than one fixed offer: the top of the range is recorded as typical and the bottom as low. The structure of this degree exempts you from certain subjects in a professional accounting examination after graduating (see the programme page for the terms). Subjects Edinburgh does not accept are listed at https://study.ed.ac.uk/undergraduate/entry-requirements/english-welsh-northern-irish-qualifications/approved-subjects. Some A levels only count in certain combinations: Use of Mathematics is not accepted in place of, or together with, A level Mathematics; Economics and Business is not accepted together with Economics or Business Studies. A level Mathematics and Further Mathematics count as two separate subjects unless a degree says otherwise."
+  },
+  {
+   "id": "edinburgh-business-economics",
+   "name": "Business and Economics",
+   "degree": "MA (Hons)",
+   "ucasCode": "NL11",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish honours degree: in Years 1 and 2 you can also study courses outside your degree. Study abroad is available in Year 3.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "none",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": "AAA",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "Standard A level entry: most applicants needed from A*AA to AAA to receive an offer in recent years, including A level Mathematics at B (or AS Mathematics at A)",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/186-business-and-economics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "These are the range of grades most applicants needed to receive an offer in recent years: from A*AA to AAA"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "The grades used to meet the offer must include A level Mathematics at B, or AS Mathematics at A. Applies to both the standard and the minimum (widening access) offer. Edinburgh does not accept A level Use of Mathematics in place of Mathematics."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English at C or 4 (Edinburgh also accepts Level 2 Certificate English at C or SQA National 5 English at C)."
+    }
+   ],
+   "gcseText": "You must also have the following at GCSE: English at C or 4",
+   "notAccepted": [
+    "Applied ICT",
+    "Applied Science",
+    "Communication and Culture",
+    "Creative Writing",
+    "General Studies",
+    "Journalism in the Media and Communications Industry",
+    "Leisure Studies",
+    "Media: Communication and Production",
+    "Performing Arts",
+    "Travel and Tourism"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://study.ed.ac.uk/programmes/undergraduate/186-business-and-economics/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at B or AS Mathematics at A Your other A levels can be in any other subject, except the few subjects we do not accept."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course's pages: the application needs qualifications that meet the entry requirements plus evidence of English. Edinburgh is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/186-business-and-economics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "To apply for this programme and be considered for an offer, you will need: academic qualifications that meet our entry requirements, including required subjects"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry requirement for applicants who are permanently resident in the UK and are assigned a widening access Plus Flag (for example a lowest-quintile Acorn or POLAR4 postcode plus attending a state school in England, Wales or Northern Ireland; see the contextual criteria). Edinburgh will normally make a Plus Flag applicant an offer at this level, but an offer is not guaranteed. A level Mathematics at B (or AS Mathematics at A) is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://study.ed.ac.uk/programmes/undergraduate/186-business-and-economics/entry-requirements",
+      "checked": "2026-10-21",
+      "evidence": "The A level grades you need to be considered for an offer ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://study.ed.ac.uk/programmes/undergraduate/186-business-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the programme page shows 'Year of entry: 2027'); 2027 entry recorded"
+   ],
+   "notes": "Edinburgh publishes the range of grades most applicants needed to receive an offer in recent years rather than one fixed offer: the top of the range is recorded as typical and the bottom as low. Run by the Business School (George Square, Central Area). Subjects Edinburgh does not accept are listed at https://study.ed.ac.uk/undergraduate/entry-requirements/english-welsh-northern-irish-qualifications/approved-subjects. Some A levels only count in certain combinations: Use of Mathematics is not accepted in place of, or together with, A level Mathematics; Economics and Business is not accepted together with Economics or Business Studies. A level Mathematics and Further Mathematics count as two separate subjects unless a degree says otherwise."
+  },
+  {
+   "id": "edinburgh-economics-management-science",
+   "name": "Economics with Management Science",
+   "degree": "MA (Hons)",
+   "ucasCode": "L1N2",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish honours degree: in Years 1 and 2 you can also study courses outside your degree. Study abroad is available in Year 3.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "none",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*A*A*",
+    "low": "A*AA",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "Standard A level entry: most applicants needed from A*A*A* to A*AA to receive an offer in recent years, including A level Mathematics at B (or AS Mathematics at A)",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/392-economics-with-management-science/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "These are the range of grades most applicants needed to receive an offer in recent years: from A*A*A* to A*AA"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "The grades used to meet the offer must include A level Mathematics at B, or AS Mathematics at A. Applies to both the standard and the minimum (widening access) offer. Edinburgh does not accept A level Use of Mathematics in place of Mathematics."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English at C or 4 (Edinburgh also accepts Level 2 Certificate English at C or SQA National 5 English at C)."
+    }
+   ],
+   "gcseText": "You must also have the following at GCSE: English at C or 4",
+   "notAccepted": [
+    "Applied ICT",
+    "Applied Science",
+    "Communication and Culture",
+    "Creative Writing",
+    "General Studies",
+    "Journalism in the Media and Communications Industry",
+    "Leisure Studies",
+    "Media: Communication and Production",
+    "Performing Arts",
+    "Travel and Tourism"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://study.ed.ac.uk/programmes/undergraduate/392-economics-with-management-science/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at B or AS Mathematics at A Your other A levels can be in any other subject, except the few subjects we do not accept."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course's pages: the application needs qualifications that meet the entry requirements plus evidence of English. Edinburgh is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/392-economics-with-management-science/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "To apply for this programme and be considered for an offer, you will need: academic qualifications that meet our entry requirements, including required subjects"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry requirement for applicants who are permanently resident in the UK and are assigned a widening access Plus Flag (for example a lowest-quintile Acorn or POLAR4 postcode plus attending a state school in England, Wales or Northern Ireland; see the contextual criteria). Edinburgh will normally make a Plus Flag applicant an offer at this level, but an offer is not guaranteed. A level Mathematics at B (or AS Mathematics at A) is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://study.ed.ac.uk/programmes/undergraduate/392-economics-with-management-science/entry-requirements",
+      "checked": "2026-10-21",
+      "evidence": "The A level grades you need to be considered for an offer ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://study.ed.ac.uk/programmes/undergraduate/392-economics-with-management-science",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the programme page shows 'Year of entry: 2027'); 2027 entry recorded"
+   ],
+   "notes": "Edinburgh publishes the range of grades most applicants needed to receive an offer in recent years rather than one fixed offer: the top of the range is recorded as typical and the bottom as low. Combines economics with management science modelling (for example linear programming, simulation and supply chain management). Subjects Edinburgh does not accept are listed at https://study.ed.ac.uk/undergraduate/entry-requirements/english-welsh-northern-irish-qualifications/approved-subjects. Some A levels only count in certain combinations: Use of Mathematics is not accepted in place of, or together with, A level Mathematics; Economics and Business is not accepted together with Economics or Business Studies. A level Mathematics and Further Mathematics count as two separate subjects unless a degree says otherwise."
+  },
+  {
+   "id": "edinburgh-economics-politics",
+   "name": "Economics and Politics",
+   "degree": "MA (Hons)",
+   "ucasCode": "LL12",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish honours degree: in Years 1 and 2 you can also study courses outside your degree. Study abroad is available in Year 3.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "none",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*A*A*",
+    "low": "A*AA",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "Standard A level entry: most applicants needed from A*A*A* to A*AA to receive an offer in recent years, including A level Mathematics at B (or AS Mathematics at A)",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/135-economics-and-politics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "These are the range of grades most applicants needed to receive an offer in recent years: from A*A*A* to A*AA"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "The grades used to meet the offer must include A level Mathematics at B, or AS Mathematics at A. Applies to both the standard and the minimum (widening access) offer. Edinburgh does not accept A level Use of Mathematics in place of Mathematics."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English at C or 4 (Edinburgh also accepts Level 2 Certificate English at C or SQA National 5 English at C)."
+    }
+   ],
+   "gcseText": "You must also have the following at GCSE: English at C or 4",
+   "notAccepted": [
+    "Applied ICT",
+    "Applied Science",
+    "Communication and Culture",
+    "Creative Writing",
+    "General Studies",
+    "Journalism in the Media and Communications Industry",
+    "Leisure Studies",
+    "Media: Communication and Production",
+    "Performing Arts",
+    "Travel and Tourism"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://study.ed.ac.uk/programmes/undergraduate/135-economics-and-politics/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at B or AS Mathematics at A Your other A levels can be in any other subject, except the few subjects we do not accept."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course's pages: the application needs qualifications that meet the entry requirements plus evidence of English. Edinburgh is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/135-economics-and-politics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "To apply for this programme and be considered for an offer, you will need: academic qualifications that meet our entry requirements, including required subjects"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry requirement for applicants who are permanently resident in the UK and are assigned a widening access Plus Flag (for example a lowest-quintile Acorn or POLAR4 postcode plus attending a state school in England, Wales or Northern Ireland; see the contextual criteria). Edinburgh will normally make a Plus Flag applicant an offer at this level, but an offer is not guaranteed. A level Mathematics at B (or AS Mathematics at A) is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://study.ed.ac.uk/programmes/undergraduate/135-economics-and-politics/entry-requirements",
+      "checked": "2026-10-21",
+      "evidence": "The A level grades you need to be considered for an offer ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://study.ed.ac.uk/programmes/undergraduate/135-economics-and-politics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the programme page shows 'Year of entry: 2027'); 2027 entry recorded"
+   ],
+   "notes": "Edinburgh publishes the range of grades most applicants needed to receive an offer in recent years rather than one fixed offer: the top of the range is recorded as typical and the bottom as low. Joint programme combining economics and political science. Subjects Edinburgh does not accept are listed at https://study.ed.ac.uk/undergraduate/entry-requirements/english-welsh-northern-irish-qualifications/approved-subjects. Some A levels only count in certain combinations: Use of Mathematics is not accepted in place of, or together with, A level Mathematics; Economics and Business is not accepted together with Economics or Business Studies. A level Mathematics and Further Mathematics count as two separate subjects unless a degree says otherwise."
+  },
+  {
+   "id": "edinburgh-ppe",
+   "name": "Politics, Philosophy and Economics",
+   "degree": "MA (Hons)",
+   "ucasCode": "L251",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish honours degree: in Years 1 and 2 you can also study courses outside your degree. Study abroad is available in Year 3.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "none",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*A*A*",
+    "low": "A*AA",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "Standard A level entry: most applicants needed from A*A*A* to A*AA to receive an offer in recent years, including A level Mathematics at B (or AS Mathematics at A)",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/665-politics-philosophy-and-economics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "These are the range of grades most applicants needed to receive an offer in recent years: from A*A*A* to A*AA"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "B",
+     "note": "The grades used to meet the offer must include A level Mathematics at B, or AS Mathematics at A. Applies to both the standard and the minimum (widening access) offer. Edinburgh does not accept A level Use of Mathematics in place of Mathematics."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English at C or 4 (Edinburgh also accepts Level 2 Certificate English at C or SQA National 5 English at C)."
+    }
+   ],
+   "gcseText": "You must also have the following at GCSE: English at C or 4",
+   "notAccepted": [
+    "Applied ICT",
+    "Applied Science",
+    "Communication and Culture",
+    "Creative Writing",
+    "General Studies",
+    "Journalism in the Media and Communications Industry",
+    "Leisure Studies",
+    "Media: Communication and Production",
+    "Performing Arts",
+    "Travel and Tourism"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://study.ed.ac.uk/programmes/undergraduate/665-politics-philosophy-and-economics/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at B or AS Mathematics at A Your other A levels can be in any other subject, except the few subjects we do not accept."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course's pages: the application needs qualifications that meet the entry requirements plus evidence of English. Edinburgh is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/665-politics-philosophy-and-economics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "To apply for this programme and be considered for an offer, you will need: academic qualifications that meet our entry requirements, including required subjects"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "Minimum entry requirement for applicants who are permanently resident in the UK and are assigned a widening access Plus Flag (for example a lowest-quintile Acorn or POLAR4 postcode plus attending a state school in England, Wales or Northern Ireland; see the contextual criteria). Edinburgh will normally make a Plus Flag applicant an offer at this level, but an offer is not guaranteed. A level Mathematics at B (or AS Mathematics at A) is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://study.ed.ac.uk/programmes/undergraduate/665-politics-philosophy-and-economics/entry-requirements",
+      "checked": "2026-10-21",
+      "evidence": "The A level grades you need to be considered for an offer ABB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://study.ed.ac.uk/programmes/undergraduate/665-politics-philosophy-and-economics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the programme page shows 'Year of entry: 2027'); 2027 entry recorded"
+   ],
+   "notes": "Edinburgh publishes the range of grades most applicants needed to receive an offer in recent years rather than one fixed offer: the top of the range is recorded as typical and the bottom as low. Taught across the School of Social and Political Science, the School of Philosophy, Psychology and Language Sciences and the School of Economics. To progress to honours you must get 50% or more in all Year 2 required politics and philosophy courses and pass Economics 2 and Statistical Methods for Economics. Subjects Edinburgh does not accept are listed at https://study.ed.ac.uk/undergraduate/entry-requirements/english-welsh-northern-irish-qualifications/approved-subjects. Some A levels only count in certain combinations: Use of Mathematics is not accepted in place of, or together with, A level Mathematics; Economics and Business is not accepted together with Economics or Business Studies. A level Mathematics and Further Mathematics count as two separate subjects unless a degree says otherwise."
+  },
+  {
+   "id": "edinburgh-economics-maths",
+   "name": "Economics and Mathematics",
+   "degree": "MA (Hons)",
+   "ucasCode": "LG11",
+   "lengthYears": 4,
+   "lengthNote": "4-year Scottish honours degree: in Years 1 and 2 you can also study courses outside your degree. Study abroad is available in Year 3.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "none",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "A*A*A*",
+    "low": "A*AA",
+    "tariff": null,
+    "tariffLow": null,
+    "text": "Standard A level entry: most applicants needed from A*A*A* to A*AA to receive an offer in recent years, including A level Mathematics at A*",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/133-economics-and-mathematics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "These are the range of grades most applicants needed to receive an offer in recent years: from A*A*A* to A*AA"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A level Mathematics at A* is required for both the standard and the minimum (widening access) offer, and the Mathematics qualification must have been achieved no more than two academic years before entry."
+    }
+   ],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "GCSE English at C or 4 (Edinburgh also accepts Level 2 Certificate English at C or SQA National 5 English at C)."
+    }
+   ],
+   "gcseText": "You must also have the following at GCSE: English at C or 4",
+   "notAccepted": [
+    "Applied ICT",
+    "Applied Science",
+    "Communication and Culture",
+    "Creative Writing",
+    "General Studies",
+    "Journalism in the Media and Communications Industry",
+    "Leisure Studies",
+    "Media: Communication and Production",
+    "Performing Arts",
+    "Travel and Tourism"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://study.ed.ac.uk/programmes/undergraduate/133-economics-and-mathematics/entry-requirements",
+    "checked": "2026-10-21",
+    "evidence": "Mathematics at A* Your Mathematics qualifications must have been achieved no more than two academic years prior to entry."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on this course's pages: the application needs qualifications that meet the entry requirements plus evidence of English. Edinburgh is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://study.ed.ac.uk/programmes/undergraduate/133-economics-and-mathematics/entry-requirements",
+     "checked": "2026-10-21",
+     "evidence": "To apply for this programme and be considered for an offer, you will need: academic qualifications that meet our entry requirements, including required subjects"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*BB",
+     "tariff": null,
+     "conditions": "Minimum entry requirement for applicants who are permanently resident in the UK and are assigned a widening access Plus Flag (for example a lowest-quintile Acorn or POLAR4 postcode plus attending a state school in England, Wales or Northern Ireland; see the contextual criteria). Edinburgh will normally make a Plus Flag applicant an offer at this level, but an offer is not guaranteed. A level Mathematics at A* is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://study.ed.ac.uk/programmes/undergraduate/133-economics-and-mathematics/entry-requirements",
+      "checked": "2026-10-21",
+      "evidence": "The A level grades you need to be considered for an offer A*BB"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://study.ed.ac.uk/programmes/undergraduate/133-economics-and-mathematics",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the programme page shows 'Year of entry: 2027'); 2027 entry recorded"
+   ],
+   "notes": "Edinburgh publishes the range of grades most applicants needed to receive an offer in recent years rather than one fixed offer: the top of the range is recorded as typical and the bottom as low. Economics is taught in the Central Area but Mathematics is taught at the King's Buildings campus, so you will travel between campuses. Your Mathematics qualification must have been achieved no more than two academic years before entry. Subjects Edinburgh does not accept are listed at https://study.ed.ac.uk/undergraduate/entry-requirements/english-welsh-northern-irish-qualifications/approved-subjects. Some A levels only count in certain combinations: Use of Mathematics is not accepted in place of, or together with, A level Mathematics; Economics and Business is not accepted together with Economics or Business Studies. A level Mathematics and Further Mathematics count as two separate subjects unless a degree says otherwise."
+  }
+ ],
+ "notes": [
+  "Scottish university: the degrees recorded are 4-year MA (Hons) degrees. The A level offers are for students from the rest of the UK.",
+  "Edinburgh publishes the range of grades most applicants needed to receive an offer in recent years (for example A*A*A* to A*AA for Economics). The top of the range is recorded as the typical offer and the bottom as the low end.",
+  "Widening access: applicants assigned a Plus Flag are normally made an offer at the minimum entry requirement (ABB for most courses recorded here; A*BB including A* in Mathematics for Economics and Mathematics). This is recorded in each course's alternative offers.",
+  "Edinburgh is not on UAT-UK's official TMUA list for 2027 entry (https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf) and no course page names an admissions test.",
+  "Psychology and Economics MA (Hons) (CZ81) says it is closed to new applications for 2027, so it was not recorded. Other Economics-related joint degrees not recorded because of the course limit: Economics and Statistics (LG13), Philosophy and Economics (VL51), Social Policy and Economics (LL41), Business with Strategic Economics (N1L1), Accounting and Finance (NN43) and Finance and Business (NN13).",
+  "Edinburgh says it guarantees an offer of University accommodation to eligible new single undergraduates from outside Edinburgh (see the accommodation page for the full criteria).",
+  "Edinburgh's own access projects for school pupils (Reach Edinburgh, ACES, YourEd, LEAPS and SHEP) are for pupils in Scottish schools or for law, medicine, veterinary medicine and art subjects, so no Edinburgh-run Year 12 programme for students in England was recorded.",
+  "The Open Day page gives 'Saturday 24 October' without a year; 24 October 2026 is a Saturday."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet (programme pages show 'Year of entry: 2027'); 2027 entry recorded for all courses",
+  "Tuition fee for 2028/29 (the year she would start) not published yet; the 2027/28 fee is recorded",
+  "Applications per place and offer rates are not published on the course pages (competition not recorded)"
+ ]
+}

@@ -1,0 +1,507 @@
+{
+ "id": "suffolk",
+ "name": "University of Suffolk",
+ "shortName": "Suffolk",
+ "aliases": [
+  "Suffolk",
+  "Uni of Suffolk",
+  "Suffolk Uni",
+  "UoSuffolk",
+  "Ipswich"
+ ],
+ "city": "Ipswich",
+ "region": "East of England",
+ "country": "England",
+ "setting": "mixed",
+ "settingEvidence": {
+  "url": "https://www.uos.ac.uk/life-at-suffolk/your-campus/ipswich-campus/",
+  "checked": "2026-10-21",
+  "evidence": "The University’s main campus is located on the stunning Ipswich Waterfront. ... it is also just a short walk away from the town centre"
+ },
+ "location": {
+  "postcode": "IP4 1QJ",
+  "postcodeSource": "https://www.uos.ac.uk/about/find-us/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/IP41QJ",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK full-time students starting in 2027 (2027/28), as shown on the course pages. Suffolk reserves the right to change fees in line with legislation or government decisions. Its general UK fees page still quotes £9,790 per year (no year given).",
+  "source": {
+   "url": "https://www.uos.ac.uk/study/ba-business-management/",
+   "checked": "2026-10-21",
+   "evidence": "2027/28 UK Full-time Tuition Fee £10,050* per year"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 139,
+  "amountHigh": 215,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Halls and the off-campus houses Suffolk recommends cost about £139-£215 a week including bills and Wi-Fi, self-catered (2026/27 prices, correct as of March 2026). Athena Hall, on campus, is £139-£215 a week depending on room type and tenancy length (44 or 51 weeks).",
+  "source": {
+   "url": "https://www.uos.ac.uk/accommodation/facilities-comparison/",
+   "checked": "2026-10-21",
+   "evidence": "Prices shown are for the 2026–2027 academic year, correct as of March 2026. ... All room prices include utility bills and Wi-Fi ... £139 ... £215"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-14",
+    "endDate": null,
+    "label": "Undergraduate open day (9.30am-2.00pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next open day: Saturday 14 November 2026, 9.30am-2.00pm at the Ipswich campus. Later dates are not announced yet. Suffolk offers up to £50 towards travel if your round trip is 100 miles or more.",
+  "url": "https://www.uos.ac.uk/life-at-suffolk/visit-us/open-days/",
+  "source": {
+   "url": "https://www.uos.ac.uk/life-at-suffolk/visit-us/open-days/",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 14 November 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "If you live in a lower-participation area, have a declared disability, have lived in local authority care or are a young carer aged 25 or under, you are automatically considered for a contextual offer.",
+  "typicalReduction": "Normally at least one grade lower than the published entry requirement (e.g. 112 tariff points, BBC, becomes 104 points, BCC), or an unconditional offer.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Living in an area classed as Quintile 1 or 2 in the Index of Multiple Deprivation (IMD).",
+    "measure": "IMD",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Living in an area classed as Quintile 1 or 2 in the POLAR4 Index.",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Has a declared disability.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Has lived in Local Authority Care.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "Has a caring responsibility (confirmed on UCAS) and is aged 25 or under at the point of application.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "Applicants who meet one or more of the criteria are automatically considered for a contextual offer: an unconditional offer, or a conditional offer on a lower tariff than the published entry requirements. Interviews, references, placement experience, Occupational Health or DBS requirements still apply where a course needs them. Suffolk also signs Progression Agreements with some schools and colleges to make lower conditional offers to students in those schools.",
+  "url": "https://www.uos.ac.uk/study/undergraduate-study/applying-for-a-course/your-offer/",
+  "source": {
+   "url": "https://www.uos.ac.uk/study/undergraduate-study/applying-for-a-course/your-offer/",
+   "checked": "2026-10-21",
+   "evidence": "Applicants who meet one of more of the following criteria will be automatically considered for a contextual offer:"
+  }
+ },
+ "programmes": [
+  {
+   "id": "suffolk-business-arts-technology-taster-day",
+   "name": "Business, Arts and Technology Taster Day",
+   "provider": "University of Suffolk",
+   "providerType": "university",
+   "uniIds": [
+    "suffolk"
+   ],
+   "summary": "A one-day taster at the Ipswich campus for Year 12 students, with example sessions in Accounting and Business as well as computing, games and creative subjects.",
+   "whoCanApply": "Students in Year 12 (or equivalent). Register your interest using the form on the page; individual bookings: email schools@uos.ac.uk.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Aimed at students in Year 12; no other eligibility criteria are published.",
+   "benefits": [
+    "Taster sessions in your chosen subjects (examples include Accounting and Business)",
+    "Hear from staff and current students about studying at Suffolk",
+    "Explore the Ipswich campus"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated",
+   "isFree": null,
+   "format": "day",
+   "subjects": "Business, Accounting, Computing, Esports, Games Development, Graphic Design, Fine Art, Screenwriting, Digital Film Production, Photography",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "11 November 2026, 9:45am-2:30pm (times TBC)",
+    "start": "2026-11-11",
+    "end": "2026-11-11",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Register your interest now (form on the page)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Dates are for the 2026/27 school year (autumn 2026), so a student who is in Year 12 now can attend. Times are marked TBC on the page.",
+   "url": "https://www.uos.ac.uk/about/our-university/school-liaison-and-access/student-recruitment-team-/schools-and-colleges-upcoming-events/",
+   "source": {
+    "url": "https://www.uos.ac.uk/about/our-university/school-liaison-and-access/student-recruitment-team-/schools-and-colleges-upcoming-events/",
+    "checked": "2026-10-21",
+    "evidence": "Business, Arts and Technology Taster Day – 11 November 2026"
+   },
+   "notConfirmed": [
+    "Cost is not stated",
+    "How places are allocated is not stated",
+    "Times are marked TBC"
+   ]
+  },
+  {
+   "id": "suffolk-social-sciences-humanities-taster-day",
+   "name": "Social Sciences and Humanities Taster Day",
+   "provider": "University of Suffolk",
+   "providerType": "university",
+   "uniIds": [
+    "suffolk"
+   ],
+   "summary": "A one-day taster at the Ipswich campus for Year 12 students, with example sessions in Psychology, Sociology, Criminology, Law, History and Childhood.",
+   "whoCanApply": "Students in Year 12 (or equivalent). Register your interest using the form on the page; individual bookings: email schools@uos.ac.uk.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Aimed at students in Year 12; no other eligibility criteria are published.",
+   "benefits": [
+    "Taster sessions in your chosen subjects (examples include Psychology and Sociology)",
+    "Hear from staff and current students about studying at Suffolk",
+    "Explore the Ipswich campus"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated",
+   "isFree": null,
+   "format": "day",
+   "subjects": "Social sciences and humanities (Psychology, Sociology, Criminology, Law, History, Childhood)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "25 November 2026, 9:45am-2:30pm (times TBC)",
+    "start": "2026-11-25",
+    "end": "2026-11-25",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Register your interest now (form on the page)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Dates are for the 2026/27 school year (autumn 2026), so a student who is in Year 12 now can attend. Times are marked TBC on the page.",
+   "url": "https://www.uos.ac.uk/about/our-university/school-liaison-and-access/student-recruitment-team-/schools-and-colleges-upcoming-events/",
+   "source": {
+    "url": "https://www.uos.ac.uk/about/our-university/school-liaison-and-access/student-recruitment-team-/schools-and-colleges-upcoming-events/",
+    "checked": "2026-10-21",
+    "evidence": "Social Sciences and Humanities Taster Day – 25 November 2026"
+   },
+   "notConfirmed": [
+    "Cost is not stated",
+    "How places are allocated is not stated",
+    "Times are marked TBC"
+   ]
+  },
+  {
+   "id": "suffolk-unicamp",
+   "name": "UniCamp",
+   "provider": "University of Suffolk",
+   "providerType": "university",
+   "uniIds": [
+    "suffolk"
+   ],
+   "summary": "A summer school for Year 12 (or equivalent) students with university-style subject tasters, preparing-for-university workshops, and team-building and social activities.",
+   "whoCanApply": "Students in Year 12 (or equivalent). The page doesn't say who is eligible or how to apply.",
+   "eligibility": null,
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Eligibility criteria are not published on the page.",
+   "benefits": [
+    "University-style subject tasters",
+    "Preparing-for-university workshops",
+    "Team-building and social activities",
+    "Builds transferable skills useful at university"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated",
+   "isFree": null,
+   "format": null,
+   "subjects": "University-style subject tasters (subjects not listed)",
+   "yearGroup": "Year 12 (or equivalent)",
+   "runs": {
+    "text": "Dates not published",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "The outreach page describes UniCamp but gives no dates, cost, eligibility or way to apply. Suffolk's widening participation page lists a 'Residential Summer School' among its outreach activities but does not say whether that is UniCamp.",
+   "url": "https://www.uos.ac.uk/about/our-vision/outreach/",
+   "source": {
+    "url": "https://www.uos.ac.uk/about/our-vision/outreach/",
+    "checked": "2026-10-21",
+    "evidence": "UniCamp is a summer school offering a university experience for students in Year 12 (or equivalent)."
+   },
+   "notConfirmed": [
+    "2027 dates, cost, eligibility, whether it is residential and how to apply are not published on the outreach page"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.uos.ac.uk/",
+  "courses": "https://www.uos.ac.uk/study/search-for-a-course/",
+  "economics": "https://www.uos.ac.uk/about/academic-schools/school-of-business-arts-social-sciences-and-technology/business-and-accounting/",
+  "openDays": "https://www.uos.ac.uk/life-at-suffolk/visit-us/open-days/",
+  "fees": "https://www.uos.ac.uk/life-at-suffolk/funding-your-studies/uk-undergraduate-fees-and-funding/",
+  "contextual": "https://www.uos.ac.uk/study/undergraduate-study/applying-for-a-course/your-offer/",
+  "accommodation": "https://www.uos.ac.uk/accommodation/facilities-comparison/"
+ },
+ "courses": [
+  {
+   "id": "suffolk-business-management",
+   "name": "Business Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N100",
+   "lengthYears": 3,
+   "lengthNote": "Listed as 'Three/four years full-time': the extra year is an optional Professional Placement or Study Abroad year (only one UCAS code, N100, is shown).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points or above (BBC at A level; DMM at BTEC; Merit at T Level)",
+    "source": {
+     "url": "https://www.uos.ac.uk/study/ba-business-management/",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points or above, BBC (A-Level), DMM (BTEC), Merit (T Level)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Or Level 2 equivalent. Applicants without it may be considered individually based on their overall application."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Or Level 2 equivalent. Applicants without it may be considered individually based on their overall application."
+    }
+   ],
+   "gcseText": "All applicants are required to hold GCSE English and Maths at Grade C/4 or above (or Level 2 equivalents). Applicants who do not hold these qualifications may be considered on an individual basis based upon their overall application and the course applied for.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.uos.ac.uk/study/ba-business-management/",
+    "checked": "2026-10-21",
+    "evidence": "All applicants are required to hold GCSE English and Maths at Grade C/4 or above (or Level 2 equivalents)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page; offers are based on UCAS tariff points. Suffolk is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.uos.ac.uk/study/undergraduate-study/applying-for-a-course/entry-requirements-explained/",
+     "checked": "2026-10-21",
+     "evidence": "Where possible, we make offers based on the UCAS tariff system."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": 104,
+     "conditions": "If you meet one or more of Suffolk's contextual criteria you are automatically considered for a contextual offer: normally at least one grade lower than the published entry requirement (112 tariff points, BBC, becomes 104 points, BCC), or an unconditional offer. The page is labelled 'entry for 2026/27'; the 2027 version is not published yet.",
+     "programme": null,
+     "source": {
+      "url": "https://www.uos.ac.uk/study/undergraduate-study/applying-for-a-course/your-offer/",
+      "checked": "2026-10-21",
+      "evidence": "If our published entry requirement is 112 tariff points (e.g. BBC at A Level), a contextual offer would normally be for 104 tariff points (e.g. BCC at A Level)."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.uos.ac.uk/study/ba-business-management/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows year of entry 2027/28 only); 2027 entry recorded",
+    "A-level subject rules: the course page lists only 112 UCAS tariff points (BBC at A level) and GCSE English and Maths. It doesn't say whether any A-level subjects (e.g. Psychology, Geography) are required or excluded, so subject acceptance is marked unknown"
+   ],
+   "notes": "Taught in Ipswich over two days a week, one module at a time in six-week blocks. Year 2 includes a placement module and a choice of pathway (Digital Marketing, or Digital Innovation and Enterprise). Course page start date: September 2027. UCAS institution code S82."
+  },
+  {
+   "id": "suffolk-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN43",
+   "lengthYears": 3,
+   "lengthNote": "Three years full-time; an optional placement year is available (course options listed: Professional Placement, Study Abroad).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points or above (BBC at A level; DMM at BTEC; Merit at T Level)",
+    "source": {
+     "url": "https://www.uos.ac.uk/study/bsc/accounting-and-finance/",
+     "checked": "2026-10-21",
+     "evidence": "112 UCAS tariff points (or above), BBC (A-Level), DMM (BTEC), Merit (T Level)"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Or Level 2 equivalent. Applicants without it may be considered individually based on their overall application."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Or Level 2 equivalent. Applicants without it may be considered individually based on their overall application."
+    }
+   ],
+   "gcseText": "All applicants are required to hold GCSE English and Maths at Grade C/4 or above (or Level 2 equivalents). Applicants who do not hold these qualifications may be considered on an individual basis based upon their overall application and the course applied for.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.uos.ac.uk/study/bsc/accounting-and-finance/",
+    "checked": "2026-10-21",
+    "evidence": "All applicants are required to hold GCSE English and Maths at Grade C/4 or above (or Level 2 equivalents)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed on the course page; offers are based on UCAS tariff points. Suffolk is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.uos.ac.uk/study/undergraduate-study/applying-for-a-course/entry-requirements-explained/",
+     "checked": "2026-10-21",
+     "evidence": "Where possible, we make offers based on the UCAS tariff system."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "BCC",
+     "tariff": 104,
+     "conditions": "If you meet one or more of Suffolk's contextual criteria you are automatically considered for a contextual offer: normally at least one grade lower than the published entry requirement (112 tariff points, BBC, becomes 104 points, BCC), or an unconditional offer. The page is labelled 'entry for 2026/27'; the 2027 version is not published yet.",
+     "programme": null,
+     "source": {
+      "url": "https://www.uos.ac.uk/study/undergraduate-study/applying-for-a-course/your-offer/",
+      "checked": "2026-10-21",
+      "evidence": "If our published entry requirement is 112 tariff points (e.g. BBC at A Level), a contextual offer would normally be for 104 tariff points (e.g. BCC at A Level)."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.uos.ac.uk/study/bsc/accounting-and-finance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page shows year of entry 2027/28 only); 2027 entry recorded",
+    "A-level subject rules: the course page lists only 112 UCAS tariff points (BBC at A level) and GCSE English and Maths. It doesn't say whether any A-level subjects (e.g. Psychology, Geography) are required or excluded, so subject acceptance is marked unknown",
+    "Professional exam exemptions (ACCA, ICAEW, CIMA) are described as 'currently subject to validation'"
+   ],
+   "notes": "No prior accounting experience is needed, although GCSE Maths (or equivalent) is required. Taught in Ipswich over two days a week, one module at a time in six-week blocks, with a 100-hour placement module in Year 2. The page says the course has formal accreditation from CIMA; alignment with ACCA, ICAEW and CIMA exam exemptions is 'currently subject to validation'. Course page start date: September 2027. UCAS institution code S82."
+  }
+ ],
+ "notes": [
+  "Suffolk does not offer an Economics degree: its course finder (checked 2026-10-21) returns no undergraduate Economics, Politics, PPE or Real Estate course. The closest matches are BA (Hons) Business Management and BSc (Hons) Accounting and Finance, both taught in Ipswich. The 'economics' link points to the Business and Accounting subject page.",
+  "No 2028-entry pages yet: both course pages show year of entry 2027/28 (September 2027 start), so 2027 entry is recorded.",
+  "Offers are given in UCAS tariff points (112 points = BBC at A level). No admissions test is listed, and Suffolk is not on UAT-UK's official TMUA list for 2027 entry.",
+  "Not recorded: BA (Hons) Business Management (Top-Up, N207) is for people with an HND or FdA; BA (Hons) Leadership and Management (N202) is taught at East Coast College in Great Yarmouth, not in Ipswich.",
+  "Entry rules page: at least two A-level subjects (or equivalent) are usually required, applicants are expected to hold three GCSEs at grade C/4 or above, and the Admissions Tutor may ask an applicant to attend an interview.",
+  "Athena Hall is the on-campus halls; the accommodation price table also lists accredited off-campus houses Suffolk recommends (75 Grimwade Street, Ormonde House). All rooms are self-catered.",
+  "Suffolk offers up to £50 towards the cost of visiting an open day if your round trip is 100 miles or more, or if you meet its widening participation criteria."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for both courses",
+  "A-level subject rules are not stated on the course pages (only tariff points and GCSEs), so Psychology and Geography acceptance is unknown",
+  "Fees: course pages give £10,050 for 2027/28 but the general UK fees page quotes £9,790 a year with no year stated; Suffolk says fees may change",
+  "Contextual offer page is labelled 'entry for 2026/27'; no 2027 or 2028 version is published, and it gives no per-course grades beyond the BBC to BCC example",
+  "Only one open day is listed (14 November 2026); later dates are not announced",
+  "Halls prices are for 2026/27 (correct as of March 2026); 2027/28 and 2028/29 prices are not published",
+  "UniCamp (Year 12 summer school): dates, cost, eligibility, format and how to apply are not published on the outreach page",
+  "Taster days: cost and how places are allocated are not stated"
+ ]
+}

@@ -1,0 +1,850 @@
+{
+ "id": "northumbria",
+ "name": "Northumbria University, Newcastle",
+ "shortName": "Northumbria",
+ "aliases": [
+  "Northumbria",
+  "Northumbria Uni",
+  "Northumbria University",
+  "Northumbria Newcastle",
+  "UNN",
+  "NU"
+ ],
+ "city": "Newcastle upon Tyne",
+ "region": "North",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.northumbria.ac.uk/i-am-nu/student-living-costs/",
+  "checked": "2026-10-21",
+  "evidence": "Our city-centre campus means most of our accommodation is within walking distance, helping you cut down on everyday transport costs."
+ },
+ "location": {
+  "postcode": "NE1 8ST",
+  "postcodeSource": "https://www.northumbria.ac.uk/contact-us/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/NE18ST",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK students on full-time courses starting in 2027 (2027/28), subject to UK Government approval. A classroom-based foundation year (Business/Social Sciences/Humanities) is £5,760, a placement year £2,010 and a study abroad year £1,510 (2027/28).",
+  "source": {
+   "url": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/ug-fees-funding/undergraduate-fees/",
+   "checked": "2026-10-21",
+   "evidence": "If you are studying on a Full-Time course the fee for your first year of study for 27/28 will be £10,050* the maximum chargeable fee."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 121.05,
+  "amountHigh": 238.92,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "University residences cost about £121–£239 a week in 2026/27, depending on the room: the cheapest is a Stephenson bedroom at £121.05 and the dearest a Camden Court studio at £238.92. Standard en-suite rooms are about £165–£195 a week. Contracts are mostly 43 or 44 weeks.",
+  "source": {
+   "url": "https://www.northumbria.ac.uk/study-at-northumbria/accommodation/",
+   "checked": "2026-10-21",
+   "evidence": "From £121.05 per week"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-24",
+    "endDate": null,
+    "label": "Undergraduate Open Day (City Campus and Coach Lane Campus, 9am to 3pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Undergraduate and Postgraduate Open Day (City Campus and Coach Lane Campus, 9am to 3pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next open days: Saturday 24 October 2026 and Saturday 21 November 2026 (9am to 3pm, City Campus and Coach Lane Campus). Free, but you need to book; you can claim up to £40 towards travel.",
+  "url": "https://www.northumbria.ac.uk/study-at-northumbria/visit-northumbria/university-open-days/",
+  "source": {
+   "url": "https://www.northumbria.ac.uk/study-at-northumbria/visit-northumbria/university-open-days/",
+   "checked": "2026-10-21",
+   "evidence": "The next Northumbria Open Day is Saturday 24 October 2026, 9am to 3pm, at City Campus in Newcastle upon Tyne, covering undergraduate and postgraduate study."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Home-fee applicants who meet any one of Northumbria's contextual criteria and firmly accept their offer need fewer UCAS tariff points on results day (for example 96 instead of 112).",
+  "typicalReduction": "120-point course to 104 points; 112-point course to 96 points; 72-point course to 56 points",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Your home address on your UCAS application is in POLAR4 quintile 1 or 2 (an area with a low rate of progression to higher education).",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Your home address on your UCAS application is in IMD decile 1-4 (areas of higher deprivation; deciles 1-4 are the bottom two quintiles).",
+    "measure": "IMD",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "You have spent time in care. You must complete the care questions in your UCAS form; Northumbria may ask for evidence.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Black, Asian or Minority Ethnic origin (an under-represented group at Northumbria). UCAS passes this on late, so you complete Northumbria's Contextual Offer Enquiry short form.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "You are eligible for free school meals.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Adult learner: over 21 at the start of your programme.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "You listed unpaid caring responsibilities (not including parenting) on your UCAS form; Northumbria may ask for evidence.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged from parents: not in contact with or supported by parents.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Physical and/or mental health condition, long term illness or learning difference.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Student parent: you are a parent or have parental responsibilities for a child under 17.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You have served or are serving in the UK Armed Forces, or a parent or guardian has served or is serving.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "firstGen",
+    "detail": "First generation: you do not have a parent who holds a higher education qualification.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Refugee or humanitarian status, or currently claiming asylum (extra evidence is required).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Member of the Gypsy, Traveller, Roma, Showman or Boater communities.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You took part in the HAF+ programme or the Holiday Hope (London) programme.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You are eligible if you meet any one of the criteria and firmly accept your offer via UCAS. You must be eligible for home fees, apply through UCAS (with the information entered on your application) and hold Level 3 qualifications that attract UCAS tariff points. Your UCAS offer isn't changed: the lower points are applied when results arrive. The reduction can't be combined with a reduced offer from Northumbria's other Supported Entry Scheme or Extenuating Circumstances. If you miss the lower points on results day, Northumbria guarantees a place on an extended degree (foundation year) course if you firmly accepted.",
+  "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/northumbria-university-entry-requirements-essential-information/contextual-admissions/",
+  "source": {
+   "url": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/northumbria-university-entry-requirements-essential-information/contextual-admissions/",
+   "checked": "2026-10-21",
+   "evidence": "You are eligible for contextual admissions if you meet any of the criteria below and firmly accept your offer via UCAS."
+  }
+ },
+ "programmes": [
+  {
+   "id": "northumbria-destination-northumbria",
+   "name": "Destination Northumbria",
+   "provider": "Northumbria University",
+   "providerType": "university",
+   "uniIds": [
+    "northumbria"
+   ],
+   "summary": "A support programme with peer support, social and on-campus events, webinars and podcasts to help you prepare for starting at Northumbria.",
+   "whoCanApply": "Applicants with home fee status who meet at least one eligibility criterion, such as living in a low-progression area, free school meals, care experience, being first in the family to go to university, caring responsibilities or being estranged from parents.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "area",
+    "care",
+    "fsm",
+    "carer",
+    "estranged",
+    "firstGen",
+    "refugee",
+    "other"
+   ],
+   "eligibilityDetail": "Home fee status plus at least one of: POLAR4 quintile 1-2 or IMD decile 1-4 area; care experience; Black, Asian or Minority Ethnic origin; free school meals; adult learner (over 21 at the start); unpaid caring responsibilities; estranged from parents; physical or mental health condition, long term illness or learning difference; student parent; served in the Armed Forces; parent or carer in the Armed Forces; first generation (no parent with a higher education qualification); refugee or humanitarian status or claiming asylum; Gypsy, Roma, Traveller, Showman or Boater communities; LGBTQ+ or trans, non-binary and other diverse identities.",
+   "benefits": [
+    "Peer support from current students",
+    "Social events to get a taste of student life",
+    "On-campus events to get to know Northumbria and Newcastle",
+    "Series of webinars and podcasts with information and guidance",
+    "Guaranteed interview for paid rep roles"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated",
+   "isFree": null,
+   "format": "mixed",
+   "subjects": "General (not subject-specific)",
+   "yearGroup": "Applicants starting university the following September (the programme starting February 2027 is for September 2027 starters)",
+   "runs": {
+    "text": "Starts February 2027 (for students starting university in September 2027); the programme for September 2028 starters isn't announced",
+    "start": null,
+    "end": null,
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Not stated",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not stated",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2027,
+   "infoNote": "Based on the 2026/27 programme, which starts in February 2027 for September 2027 starters. The page doesn't say when the programme for September 2028 starters will run.",
+   "url": "https://www.northumbria.ac.uk/study-at-northumbria/information-for-schools-and-colleges/supported-entry-schemes/destination-northumbria/",
+   "source": {
+    "url": "https://www.northumbria.ac.uk/study-at-northumbria/information-for-schools-and-colleges/supported-entry-schemes/destination-northumbria/",
+    "checked": "2026-10-21",
+    "evidence": "The next programme starts in February 2027, and is designed to support those starting university next September 2027."
+   },
+   "notConfirmed": [
+    "Cost isn't stated on the programme page",
+    "The programme page doesn't say whether taking part lowers your offer (the contextual offer is separate and set out on the contextual admissions page)",
+    "Dates for the programme that supports September 2028 starters aren't announced"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.northumbria.ac.uk/",
+  "courses": "https://www.northumbria.ac.uk/study-at-northumbria/",
+  "economics": "https://www.northumbria.ac.uk/study-at-northumbria/courses/economics-bsc-hons-uuseic1/",
+  "openDays": "https://www.northumbria.ac.uk/study-at-northumbria/visit-northumbria/university-open-days/",
+  "fees": "https://www.northumbria.ac.uk/study-at-northumbria/fees-funding/ug-fees-funding/undergraduate-fees/",
+  "contextual": "https://www.northumbria.ac.uk/study-at-northumbria/admissions/northumbria-university-entry-requirements-essential-information/contextual-admissions/",
+  "accommodation": "https://www.northumbria.ac.uk/study-at-northumbria/accommodation/"
+ },
+ "courses": [
+  {
+   "id": "northumbria-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L110",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement (sandwich) year or a study abroad year. An Extended Degree with a foundation year (UCAS code Z018) takes 4 years, or 5 with a placement or study abroad year.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from a combination of acceptable Level 3 qualifications (for example A-levels, T Levels, BTEC Diplomas, Scottish and Irish Highers, Access to HE Diplomas or the International Baccalaureate). Northumbria publishes no grade equivalent.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/economics-bsc-hons-uuseic1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Page wording: 'Maths, Statistics, or Physics and English Language at minimum grade 4/C'. Read as one of Maths, Statistics or Physics at grade 4/C (or equivalent), plus English Language."
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C or equivalent"
+    }
+   ],
+   "gcseText": "Applicants will need Maths, Statistics, or Physics and English Language at minimum grade 4/C, or equivalents.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/economics-bsc-hons-uuseic1/",
+    "checked": "2026-10-21",
+    "evidence": "From a combination of acceptable Level 3 qualifications which may include: A-level, T Level, BTEC Diplomas/Extended Diplomas"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Northumbria is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/economics-bsc-hons-uuseic1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "96 UCAS tariff points instead of 112 if you meet any of Northumbria's contextual criteria, are eligible for home fees, apply through UCAS and firmly accept the offer. The lower points are applied when results arrive (your UCAS offer isn't changed) and can't be combined with a reduced offer from the Supported Entry Scheme or Extenuating Circumstances.",
+     "programme": null,
+     "source": {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/economics-bsc-hons-uuseic1/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Admissions 96 UCAS Tariff points"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.northumbria.ac.uk/study-at-northumbria/courses/economics-bsc-hons-uuseic1/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the page shows 'Entry Requirements 2027/28' and a September 2027 start. 2027 entry recorded.",
+    "A-level subjects: the page names no required or excluded A-level subjects (the offer is UCAS tariff points from any acceptable Level 3 qualifications), so it doesn't say whether Geography or Psychology A-levels count.",
+    "The offer is given only as UCAS tariff points; no A-level grade equivalent is published."
+   ],
+   "notes": "Taught in Newcastle Business School (AACSB-accredited). Optional industry placement year (the page names the Bank of England and Bloomberg LP among past placement employers). The Economics Extended Degree (UCAS Z018) is the foundation-year route: standard offer 72 UCAS tariff points, contextual 56 (https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-economics-extended-degree-uusxic1/)."
+  },
+  {
+   "id": "northumbria-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L101",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement (sandwich) year or a study abroad year. An Extended Degree (with a foundation year) is also offered; see the course page.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from a combination of acceptable Level 3 qualifications (for example A-levels, T Levels, BTEC Diplomas, Scottish and Irish Highers, Access to HE Diplomas or the International Baccalaureate). Northumbria publishes no grade equivalent.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-economics-and-finance-uusecf1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Page wording: 'Maths, Statistics, or Physics and English Language at minimum grade 4/C'. Read as one of Maths, Statistics or Physics at grade 4/C (or equivalent), plus English Language."
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C or equivalent"
+    }
+   ],
+   "gcseText": "Applicants will need Maths, Statistics, or Physics and English Language at minimum grade 4/C, or equivalents.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-economics-and-finance-uusecf1/",
+    "checked": "2026-10-21",
+    "evidence": "From a combination of acceptable Level 3 qualifications which may include: A-level, T Level, BTEC Diplomas/Extended Diplomas"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Northumbria is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-economics-and-finance-uusecf1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "96 UCAS tariff points instead of 112 if you meet any of Northumbria's contextual criteria, are eligible for home fees, apply through UCAS and firmly accept the offer. The lower points are applied when results arrive (your UCAS offer isn't changed) and can't be combined with a reduced offer from the Supported Entry Scheme or Extenuating Circumstances.",
+     "programme": null,
+     "source": {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-economics-and-finance-uusecf1/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Admissions 96 UCAS Tariff points"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-economics-and-finance-uusecf1/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the page shows 'Entry Requirements 2027/28' and a September 2027 start. 2027 entry recorded.",
+    "A-level subjects: the page names no required or excluded A-level subjects (the offer is UCAS tariff points from any acceptable Level 3 qualifications), so it doesn't say whether Geography or Psychology A-levels count.",
+    "The offer is given only as UCAS tariff points; no A-level grade equivalent is published."
+   ],
+   "notes": "Taught in Newcastle Business School (AACSB-accredited). Optional industry placement year (the page names the Bank of England and Bloomberg LP among past placement employers). An Extended Degree (foundation year) version is linked from the course page."
+  },
+  {
+   "id": "northumbria-finance-investment-management",
+   "name": "Finance and Investment Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N395",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement (sandwich) year or a study abroad year. An Extended Degree (with a foundation year) is also offered; see the course page.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from a combination of acceptable Level 3 qualifications (for example A-levels, T Levels, BTEC Diplomas, Scottish and Irish Highers, Access to HE Diplomas or the International Baccalaureate). Northumbria publishes no grade equivalent.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/finance-and-investment-management-bsc-hons-uusfvg1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Page wording: 'Maths, Statistics, or Physics and English Language at minimum grade 4/C'. Read as one of Maths, Statistics or Physics at grade 4/C (or equivalent), plus English Language."
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C or equivalent"
+    }
+   ],
+   "gcseText": "Applicants will need Maths, Statistics, or Physics and English Language at minimum grade 4/C, or equivalents.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/finance-and-investment-management-bsc-hons-uusfvg1/",
+    "checked": "2026-10-21",
+    "evidence": "From a combination of acceptable Level 3 qualifications which may include: A-level, T Level, BTEC Diplomas/Extended Diplomas"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Northumbria is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/finance-and-investment-management-bsc-hons-uusfvg1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "96 UCAS tariff points instead of 112 if you meet any of Northumbria's contextual criteria, are eligible for home fees, apply through UCAS and firmly accept the offer. The lower points are applied when results arrive (your UCAS offer isn't changed) and can't be combined with a reduced offer from the Supported Entry Scheme or Extenuating Circumstances.",
+     "programme": null,
+     "source": {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/finance-and-investment-management-bsc-hons-uusfvg1/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Admissions 96 UCAS Tariff points"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.northumbria.ac.uk/study-at-northumbria/courses/finance-and-investment-management-bsc-hons-uusfvg1/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the page shows 'Entry Requirements 2027/28' and a September 2027 start. 2027 entry recorded.",
+    "A-level subjects: the page names no required or excluded A-level subjects (the offer is UCAS tariff points from any acceptable Level 3 qualifications), so it doesn't say whether Geography or Psychology A-levels count.",
+    "The offer is given only as UCAS tariff points; no A-level grade equivalent is published."
+   ],
+   "notes": "Recognised by the Chartered Institute for Securities & Investment (CISI), with an on-site trading room and Bloomberg terminals. Year 1 includes mathematics and statistics modules and Year 2 includes econometrics. Extended Degree (foundation year) option."
+  },
+  {
+   "id": "northumbria-accounting",
+   "name": "Accounting",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N405",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement (sandwich) year or a study abroad year. An Extended Degree (with a foundation year) is also offered; see the course page.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from a combination of acceptable Level 3 qualifications (for example A-levels, T Levels, BTEC Diplomas, Scottish and Irish Highers, Access to HE Diplomas or the International Baccalaureate). Northumbria publishes no grade equivalent.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-accounting-uusaci1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Page wording: 'Maths, Statistics, or Physics and English Language at minimum grade 4/C'. Read as one of Maths, Statistics or Physics at grade 4/C (or equivalent), plus English Language."
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C or equivalent"
+    }
+   ],
+   "gcseText": "Applicants will need Maths, Statistics, or Physics and English Language at minimum grade 4/C, or equivalents.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-accounting-uusaci1/",
+    "checked": "2026-10-21",
+    "evidence": "From a combination of acceptable Level 3 qualifications which may include: A-level, T Level, BTEC Diplomas/Extended Diplomas"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Northumbria is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-accounting-uusaci1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "96 UCAS tariff points instead of 112 if you meet any of Northumbria's contextual criteria, are eligible for home fees, apply through UCAS and firmly accept the offer. The lower points are applied when results arrive (your UCAS offer isn't changed) and can't be combined with a reduced offer from the Supported Entry Scheme or Extenuating Circumstances.",
+     "programme": null,
+     "source": {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-accounting-uusaci1/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Admissions 96 UCAS Tariff points"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-accounting-uusaci1/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the page shows 'Entry Requirements 2027/28' and a September 2027 start. 2027 entry recorded.",
+    "A-level subjects: the page names no required or excluded A-level subjects (the offer is UCAS tariff points from any acceptable Level 3 qualifications), so it doesn't say whether Geography or Psychology A-levels count.",
+    "The offer is given only as UCAS tariff points; no A-level grade equivalent is published."
+   ],
+   "notes": "Accredited by AAT, ACCA, AIA, CIMA, ICAEW and CIPFA, with up to 42 professional exam exemptions. Year 1 covers financial and management accounting, mathematics and statistics, and business law. Extended Degree (foundation year) option. Northumbria's separate Accounting and Finance course (N422) is a Level 5 top-up for people who already hold a qualification, so it is not recorded."
+  },
+  {
+   "id": "northumbria-business-management",
+   "name": "Business Management",
+   "degree": "BA (Hons)",
+   "ucasCode": "N205",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement (sandwich) year or a study abroad year. An Extended Degree (with a foundation year) is also offered; see the course page.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from a combination of acceptable Level 3 qualifications (for example A-levels, T Levels, BTEC Diplomas, Scottish and Irish Highers, Access to HE Diplomas or the International Baccalaureate). Northumbria publishes no grade equivalent.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/ba-hons-business-management-uusbnb1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Page wording: 'Maths, Statistics, or Physics and English Language at minimum grade 4/C'. Read as one of Maths, Statistics or Physics at grade 4/C (or equivalent), plus English Language."
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C or equivalent"
+    }
+   ],
+   "gcseText": "Applicants will need Maths, Statistics, or Physics and English Language at minimum grade 4/C, or equivalents.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/ba-hons-business-management-uusbnb1/",
+    "checked": "2026-10-21",
+    "evidence": "From a combination of acceptable Level 3 qualifications which may include: A-level, T Level, BTEC Diplomas/Extended Diplomas"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Northumbria is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/ba-hons-business-management-uusbnb1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "96 UCAS tariff points instead of 112 if you meet any of Northumbria's contextual criteria, are eligible for home fees, apply through UCAS and firmly accept the offer. The lower points are applied when results arrive (your UCAS offer isn't changed) and can't be combined with a reduced offer from the Supported Entry Scheme or Extenuating Circumstances.",
+     "programme": null,
+     "source": {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/ba-hons-business-management-uusbnb1/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Admissions 96 UCAS Tariff points"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.northumbria.ac.uk/study-at-northumbria/courses/ba-hons-business-management-uusbnb1/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the page shows 'Entry Requirements 2027/28' and a September 2027 start. 2027 entry recorded.",
+    "A-level subjects: the page names no required or excluded A-level subjects (the offer is UCAS tariff points from any acceptable Level 3 qualifications), so it doesn't say whether Geography or Psychology A-levels count.",
+    "The offer is given only as UCAS tariff points; no A-level grade equivalent is published."
+   ],
+   "notes": "Covers finance, marketing, strategy and people management, with optional specialist modules such as entrepreneurship, HR or international business. Extended Degree (foundation year) option."
+  },
+  {
+   "id": "northumbria-real-estate",
+   "name": "Real Estate",
+   "degree": "BSc (Hons)",
+   "ucasCode": "K440",
+   "lengthYears": 3,
+   "lengthNote": "Also 4 years with a placement (sandwich) year or a study abroad year. An Extended Degree (with a foundation year) is also offered; see the course page.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "real-estate"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": null,
+    "low": null,
+    "tariff": 112,
+    "tariffLow": null,
+    "text": "112 UCAS tariff points from a combination of acceptable Level 3 qualifications (for example A-levels, T Levels, BTEC Diplomas, Scottish and Irish Highers, Access to HE Diplomas or the International Baccalaureate). Northumbria publishes no grade equivalent.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/real-estate-bsc-ft-uusrez1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Page wording: 'Maths, Statistics, or Physics and English Language at minimum grade 4/C'. Read as one of Maths, Statistics or Physics at grade 4/C (or equivalent), plus English Language."
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": "Grade 4/C or equivalent"
+    }
+   ],
+   "gcseText": "Applicants will need Maths, Statistics, or Physics and English Language at minimum grade 4/C, or equivalents.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/real-estate-bsc-ft-uusrez1/",
+    "checked": "2026-10-21",
+    "evidence": "From a combination of acceptable Level 3 qualifications which may include: A-level, T Level, BTEC Diplomas/Extended Diplomas"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named in the entry requirements for this course. Northumbria is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/real-estate-bsc-ft-uusrez1/",
+     "checked": "2026-10-21",
+     "evidence": "Standard Offer 112 UCAS Tariff Points"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "96 UCAS tariff points instead of 112 if you meet any of Northumbria's contextual criteria, are eligible for home fees, apply through UCAS and firmly accept the offer. The lower points are applied when results arrive (your UCAS offer isn't changed) and can't be combined with a reduced offer from the Supported Entry Scheme or Extenuating Circumstances.",
+     "programme": null,
+     "source": {
+      "url": "https://www.northumbria.ac.uk/study-at-northumbria/courses/real-estate-bsc-ft-uusrez1/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Admissions 96 UCAS Tariff points"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.northumbria.ac.uk/study-at-northumbria/courses/real-estate-bsc-ft-uusrez1/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet: the page shows 'Entry Requirements 2027/28' and a September 2027 start. 2027 entry recorded.",
+    "A-level subjects: the page names no required or excluded A-level subjects (the offer is UCAS tariff points from any acceptable Level 3 qualifications), so it doesn't say whether Geography or Psychology A-levels count.",
+    "The offer is given only as UCAS tariff points; no A-level grade equivalent is published."
+   ],
+   "notes": "Accredited by the Royal Institution of Chartered Surveyors (RICS). Taught in the School of Architecture and Built Environment. Extended Degree (foundation year) option."
+  }
+ ],
+ "notes": [
+  "No 2028-entry offers yet (checked 2026-10-21): every course page shows 'Entry Requirements 2027/28' and a September 2027 start, so all courses use 2027 entry.",
+  "Northumbria gives offers in UCAS tariff points, not grades: the standard offer is 112 points on all six courses recorded and the contextual offer is 96 points.",
+  "Northumbria is not on UAT-UK's official TMUA list for 2027 entry, and no course page names an admissions test.",
+  "Extended Degrees (4 years including a foundation year) exist for these subjects. The Economics Extended Degree (UCAS Z018) has a standard offer of 72 UCAS points and a contextual offer of 56 (https://www.northumbria.ac.uk/study-at-northumbria/courses/bsc-hons-economics-extended-degree-uusxic1/). The 2027/28 fee for a classroom-based foundation year is £5,760.",
+  "Aspirational offers: Northumbria typically makes standard tariff offers to applicants whose predicted grades are equivalent to up to three or four grades below its standard entry criteria, depending on the programme, and in most cases adds a reserve 'dual offer' for the Extended Degree (https://www.northumbria.ac.uk/study-at-northumbria/admissions/northumbria-university-entry-requirements-essential-information/aspirational-offers/).",
+  "Halls prices come from each residence page, which says 'Prices for 2026/27': the lowest is the Stephenson Bronze bedroom (£121.05 a week) and the highest the Camden Court studio (£238.92 a week).",
+  "Evolve (post-16 workshops for Year 12-13) is booked by schools and colleges rather than applied for by individual students, so it is not listed as a programme."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements and 2028/29 fees not published yet; 2027 entry recorded for all courses",
+  "The 2027/28 UK fee of £10,050 is subject to UK Government approval (the fees page says so)",
+  "Halls prices are for 2026/27; 2027/28 residence prices are not published yet. The monthly living-cost breakdown on Northumbria's Student Living Costs page is an image, so its figures are not recorded",
+  "A-level subject requirements: no course page names required or excluded A-level subjects, so acceptance of Geography and Psychology A-levels is not stated",
+  "Open days after 21 November 2026 are not announced yet",
+  "Destination Northumbria: cost, whether it lowers offers and the September 2028 programme dates are not stated on the page"
+ ]
+}

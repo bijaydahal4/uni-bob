@@ -1,0 +1,417 @@
+{
+ "id": "lincoln",
+ "name": "University of Lincoln",
+ "shortName": "Lincoln",
+ "aliases": [
+  "Lincoln",
+  "Lincoln Uni",
+  "Uni of Lincoln",
+  "UoLincoln",
+  "Lincoln University"
+ ],
+ "city": "Lincoln",
+ "region": "Midlands",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.lincoln.ac.uk/outreach/visitsandevents/",
+  "checked": "2026-10-21",
+  "evidence": "explore our modern, city centre campus"
+ },
+ "location": {
+  "postcode": "LN6 7TS",
+  "postcodeSource": "https://www.lincoln.ac.uk/studentlife/accommodation/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/LN67TS",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK students on full-time courses starting in 2027/28 (Lincoln's 'Fees Group D', which all three courses here link to). Lincoln says the UK fee may increase year on year in line with government policy. An optional placement year costs £2,010 and a full study-abroad year £1,505 (2027/28).",
+  "source": {
+   "url": "https://www.lincoln.ac.uk/studyatlincoln/coursefees/undergraduatefeesgroupd/",
+   "checked": "2026-10-21",
+   "evidence": "2027/28 | UK | International | Full-time | £10,050 per level*"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 129,
+  "amountHigh": 191,
+  "period": "week",
+  "academicYear": null,
+  "text": "University halls cost about £129–£191 a week depending on the residence: 179 High Street £129–£179, Valentine Court £149–£159, The Gateway £159–£179, St Marks £175–£191, Cygnet Wharf £191. Contracts run 40 to 51 weeks. Lincoln's page doesn't say which year these prices are for or what is included.",
+  "source": {
+   "url": "https://www.lincoln.ac.uk/studentlife/accommodation/",
+   "checked": "2026-10-21",
+   "evidence": "Price per Week: £129 - £179"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-07",
+    "endDate": null,
+    "label": "Undergraduate open day (9am-3pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-12-05",
+    "endDate": null,
+    "label": "Undergraduate open day (9am-3pm)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open days (listed under 'Open Days 2026'): 7 November 2026 and 5 December 2026, both 9am-3pm on campus. No later dates are listed yet.",
+  "url": "https://www.lincoln.ac.uk/studywithus/opendaysandvisits/undergraduateopendays/",
+  "source": {
+   "url": "https://www.lincoln.ac.uk/studywithus/opendaysandvisits/undergraduateopendays/",
+   "checked": "2026-10-21",
+   "evidence": "07 Nov Undergraduate Open Day 9am-3pm 05 Dec Undergraduate Open Day 9am-3pm"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Lincoln automatically considers Home (UK) fee applicants who meet its criteria for a contextual offer one grade lower than the standard offer (for example 104 instead of 112 UCAS Tariff points, BCC instead of BBC).",
+  "typicalReduction": "One grade (8 UCAS Tariff points) lower than the standard entry requirements for most undergraduate courses, from a minimum of two full A levels or equivalent (e.g. 112 points / BBC becomes 104 points / BCC).",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "You live in an area with a high level of deprivation or a low number of people going to university (usually decided by your postcode), or you live in a Lincolnshire local authority area.",
+    "measure": "other",
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "school",
+    "detail": "Your school or college's academic performance is lower than the national average, or a small number of its pupils go on to higher education. Schools in Lincoln's Memorandum of Understanding (MOU) partnership get the same reduction in tariff.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "fsm",
+    "detail": "You receive, or have received, free school meals (the UCAS application asks you to confirm this).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "care",
+    "detail": "You are a care leaver (tick the 'in care' box on the UCAS application form).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   },
+   {
+    "key": "other",
+    "detail": "You have a disability, including long-term health conditions.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": null
+   }
+  ],
+  "minCriteria": null,
+  "rulesText": "If you meet Lincoln's general criteria for a contextual offer you are asked to achieve one grade lower than the standard entry requirements for most undergraduate courses, from a minimum of two full A levels or equivalent. You don't need to do anything extra: apply through UCAS and you are automatically considered. You must be a Home (UK) fee payer; contextual offers only apply to full-time undergraduate courses (foundation programmes are excluded). Any subject-specific requirements must still be met. The criteria listed are Lincoln's '2026 Entry' wording.",
+  "url": "https://www.lincoln.ac.uk/studywithus/applicantsandofferholders/offerguide/",
+  "source": {
+   "url": "https://www.lincoln.ac.uk/studywithus/applicantsandofferholders/offerguide/",
+   "checked": "2026-10-21",
+   "evidence": "If you meet our general criteria for a contextual offer, we will ask you to achieve one grade lower than the standard entry requirements for the majority of our undergraduate degree courses."
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.lincoln.ac.uk/",
+  "courses": "https://www.lincoln.ac.uk/studywithus/subjects/",
+  "economics": "https://www.lincoln.ac.uk/studywithus/subjects/accountancyfinanceandeconomics/",
+  "openDays": "https://www.lincoln.ac.uk/studywithus/opendaysandvisits/undergraduateopendays/",
+  "fees": "https://www.lincoln.ac.uk/studyatlincoln/coursefees/undergraduatefeesgroupd/",
+  "contextual": "https://www.lincoln.ac.uk/studywithus/applicantsandofferholders/offerguide/",
+  "accommodation": "https://www.lincoln.ac.uk/studentlife/accommodation/"
+ },
+ "courses": [
+  {
+   "id": "lincoln-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "The page says 3-4 years: the longer version adds an optional Professional Practice Year (placement) or a study abroad year between the second and final year.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104 to 112 UCAS Tariff points from a minimum of 2 A levels or equivalent Level 3 qualifications (A level equivalent of the top of the range: BBC)",
+    "source": {
+     "url": "https://www.lincoln.ac.uk/course/ecoecoub/",
+     "checked": "2026-10-21",
+     "evidence": "104 to 112 UCAS Tariff points from a minimum of 2 A Levels or equivalent Level 3 qualifications."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Part of the GCSE requirement: at least three GCSEs at grade 4 or above, which must include English and a grade 5 in Maths."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English must be one of the three GCSEs at grade 4 or above."
+    }
+   ],
+   "gcseText": "GCSEs: Minimum of three at grade 4 or above, which must include English and a Grade 5 in Maths. Equivalent Level 2 qualifications may be considered.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.lincoln.ac.uk/course/ecoecoub/",
+    "checked": "2026-10-21",
+    "evidence": "GCSEs: Minimum of three at grade 4 or above, which must include English and a Grade 5 in Maths . Equivalent Level 2 qualifications may be considered."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Lincoln is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.lincoln.ac.uk/course/ecoecoub/",
+     "checked": "2026-10-21",
+     "evidence": "A Level: BBC"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "One grade or 8 UCAS Tariff points lower than the standard offer (so about 96 to 104 points from a minimum of two full A levels or equivalent). Lincoln's offer guide gives the example of 112 points (BBC) becoming 104 points (BCC). Applied automatically if you meet Lincoln's contextual criteria; Home (UK) fee payers on full-time courses only.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lincoln.ac.uk/course/ecoecoub/",
+      "checked": "2026-10-21",
+      "evidence": "If you are eligible for a contextual offer, a one grade or 8 UCAS Tariff point reduction to the standard entry requirements will be applied."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.lincoln.ac.uk/course/ecoecoub/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Lincoln's course page shows 2027-28 only); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS Tariff points from at least 2 A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown",
+    "foundationYear: Lincoln's site lists a Certificate of Higher Education in Economics and Finance (.../studyatlincoln/certificateofhighereducation/economicsandfinance/) but that page would not load (redirect loop), so it isn't confirmed whether it works as a foundation year"
+   ],
+   "notes": "Offers are in UCAS Tariff points, so different grade mixes can reach the total: Lincoln's offer guide says 112 points is BBC but other mixes such as ABC are also accepted, and once two A levels are achieved other Level 3 qualifications such as an EPQ are also considered. No A level subjects are listed as required, but GCSE Maths grade 5 is. A placement year fee (2027/28: 2,010 pounds) applies if you take the optional placement year."
+  },
+  {
+   "id": "lincoln-accountancy-finance",
+   "name": "Accountancy and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N600",
+   "lengthYears": 3,
+   "lengthNote": "The page says 3 or 4 years: the longer version adds an optional year-long professional practice placement after the second year, or an optional year abroad.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BBC",
+    "low": null,
+    "tariff": 112,
+    "tariffLow": 104,
+    "text": "104 to 112 UCAS Tariff points from a minimum of 2 A levels or equivalent Level 3 qualifications (A level equivalent of the top of the range: BBC)",
+    "source": {
+     "url": "https://www.lincoln.ac.uk/course/acfnbsub/",
+     "checked": "2026-10-21",
+     "evidence": "104 to 112 UCAS Tariff points from a minimum of 2 A Levels or equivalent Level 3 qualifications."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "5",
+     "note": "Part of the GCSE requirement: at least three GCSEs at grade 4 or above, which must include English and a grade 5 in Maths."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English must be one of the three GCSEs at grade 4 or above."
+    }
+   ],
+   "gcseText": "GCSEs: Minimum of three at grade 4 or above, which must include English and a Grade 5 in Maths. Equivalent Level 2 qualifications may be considered.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.lincoln.ac.uk/course/acfnbsub/",
+    "checked": "2026-10-21",
+    "evidence": "GCSEs: Minimum of three at grade 4 or above, which must include English and a Grade 5 in Maths . Equivalent Level 2 qualifications may be considered."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Lincoln is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.lincoln.ac.uk/course/acfnbsub/",
+     "checked": "2026-10-21",
+     "evidence": "A Level: BBC"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 104,
+     "conditions": "One grade or 8 UCAS Tariff points lower than the standard offer (so about 96 to 104 points from a minimum of two full A levels or equivalent). Lincoln's offer guide gives the example of 112 points (BBC) becoming 104 points (BCC). Applied automatically if you meet Lincoln's contextual criteria; Home (UK) fee payers on full-time courses only.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lincoln.ac.uk/course/acfnbsub/",
+      "checked": "2026-10-21",
+      "evidence": "If you are eligible for a contextual offer, a one grade or 8 UCAS Tariff point reduction to the standard entry requirements will be applied."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.lincoln.ac.uk/course/acfnbsub/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Lincoln's course page shows 2027-28 only); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS Tariff points from at least 2 A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown"
+   ],
+   "notes": "Same entry requirements as Economics. The page says graduates can claim exemptions from professional accountancy exams (ACCA, CIMA, ICAEW, AIA) depending on module choices. Offers are in UCAS Tariff points, so different grade mixes can reach the total."
+  },
+  {
+   "id": "lincoln-business-management",
+   "name": "Business and Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN15",
+   "lengthYears": 3,
+   "lengthNote": "The page says 3 or 4 years: the longer version adds an optional year-long professional practice placement after the second year, or an optional year abroad (shown in the award title).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "tariff",
+    "typical": "BCC",
+    "low": null,
+    "tariff": 104,
+    "tariffLow": 96,
+    "text": "96 to 104 UCAS Tariff points from a minimum of 2 A levels or equivalent Level 3 qualifications (A level equivalent of the top of the range: BCC)",
+    "source": {
+     "url": "https://www.lincoln.ac.uk/course/bmgtbsub/",
+     "checked": "2026-10-21",
+     "evidence": "96 to 104 UCAS Tariff points from a minimum of 2 A Levels or equivalent Level 3 qualifications."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "English must be one of the three GCSEs at grade 4 or above. A GCSE Maths grade is not listed for this course."
+    }
+   ],
+   "gcseText": "GCSEs: Minimum of three at grade 4 or above, which must include English. Equivalent Level 2 qualifications may be considered.",
+   "notAccepted": [],
+   "acceptsPsychology": "unknown",
+   "acceptsGeography": "unknown",
+   "subjectsEvidence": {
+    "url": "https://www.lincoln.ac.uk/course/bmgtbsub/",
+    "checked": "2026-10-21",
+    "evidence": "Minimum of three at grade 4 or above, which must include English . Equivalent Level 2 qualifications may be considered."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is named on the course page, and Lincoln is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.lincoln.ac.uk/course/bmgtbsub/",
+     "checked": "2026-10-21",
+     "evidence": "A Level: BCC"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": 96,
+     "conditions": "One grade or 8 UCAS Tariff points lower than the standard offer (so about 88 to 96 points from a minimum of two full A levels or equivalent). Applied automatically if you meet Lincoln's contextual criteria; Home (UK) fee payers on full-time courses only.",
+     "programme": null,
+     "source": {
+      "url": "https://www.lincoln.ac.uk/course/bmgtbsub/",
+      "checked": "2026-10-21",
+      "evidence": "If you are eligible for a contextual offer, a one grade or 8 UCAS Tariff point reduction to the standard entry requirements will be applied."
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.lincoln.ac.uk/course/bmgtbsub/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Lincoln's course page shows 2027-28 only); 2027 entry recorded",
+    "subjects: the page lists no required or excluded A level subjects (the offer is UCAS Tariff points from at least 2 A levels) but doesn't say outright that every subject counts, so Psychology and Geography are marked unknown"
+   ],
+   "notes": "Lower entry tariff than Lincoln's Economics and Accountancy and Finance degrees. Offers are in UCAS Tariff points, so different grade mixes can reach the total."
+  }
+ ],
+ "notes": [
+  "Lincoln publishes entry requirements as UCAS Tariff points from at least two A levels (Economics and Accountancy and Finance 104 to 112 points; Business and Management 96 to 104 points), with BBC (or BCC for Business and Management) given as the A level equivalent of the top of the range. Its offer guide says other grade mixes such as ABC can reach 112 points, and an EPQ can be counted once two A levels are achieved.",
+  "No admissions test: Lincoln is not on UAT-UK's official TMUA list for 2027 entry and no course page names a test.",
+  "Lincoln's Accountancy, Finance and Economics subject page lists only two undergraduate degrees (Accountancy and Finance; Economics). No Business Economics, Economics and Finance, Economics with Politics or PPE degree was found.",
+  "Lincoln's outreach pages describe workshops and visits booked by schools and colleges (including a 'Making the most of post-16' workshop for Year 12) and Year 10 'Prepare for Your Future' events; no Year 12 summer school or access programme relevant to Economics was found, so no programmes are recorded."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet (Lincoln's course pages show 2027-28 only); 2027 entry recorded for all courses",
+  "contextual: the criteria on Lincoln's offer guide are labelled '2026 Entry' (2027 entry criteria not published yet); Lincoln doesn't say whether meeting one criterion is enough, or which area measure (POLAR, IMD, etc.) it uses",
+  "livingCosts: the halls price table doesn't state which academic year the prices are for or what they include",
+  "openDays: only the November and December 2026 dates are listed; later (e.g. 2027) dates not announced",
+  "programmes: no Year 12 programme relevant to Economics found on Lincoln's outreach pages"
+ ]
+}

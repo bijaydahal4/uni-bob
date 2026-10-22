@@ -1,0 +1,1058 @@
+{
+ "id": "ucl",
+ "name": "University College London",
+ "shortName": "UCL",
+ "aliases": [
+  "UCL",
+  "University College London",
+  "UCL London",
+  "UCL Uni"
+ ],
+ "city": "London",
+ "region": "London",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ",
+  "checked": "2026-10-22",
+  "evidence": "Based in the heart of London at UCL’s Bloomsbury campus"
+ },
+ "location": {
+  "postcode": "WC1E 6BT",
+  "postcodeSource": "https://www.ucl.ac.uk/about/contact-us",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/WC1E6BT",
+  "checked": "2026-10-22"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for UK students starting in 2027 (2027/28). UCL says UK fees for 2027/28 are subject to parliamentary approval and are for the first year only; a placement year costs 15% of the full-time fee.",
+  "source": {
+   "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ",
+   "checked": "2026-10-22",
+   "evidence": "UK students: £10,050 per year"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 153.86,
+  "amountHigh": 455.71,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "UCL's own self-catered undergraduate halls cost from £153.86 to over £455.71 a week (2026/27), depending on the hall; UCL's average is about £320 a week (£12,480 over a 39-week year). UCL estimates £102.20 a week for other essentials (food, travel pass, course materials, phone, wellbeing) on top of rent.",
+  "source": {
+   "url": "https://www.ucl.ac.uk/study/student-finances/cost-study/how-much-does-it-cost-study-ucl",
+   "checked": "2026-10-22",
+   "evidence": "We have a range of prices, from £153.86 per week to over £455.71 per week."
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-10-22",
+    "endDate": null,
+    "label": "Department of Mathematics online session (12-1pm or 5-6pm)",
+    "format": "online",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-10-28",
+    "endDate": null,
+    "label": "UCL East Undergraduate Open Afternoon, 1-5pm (UCL East courses only, not Bloomsbury courses)",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-10-29",
+    "endDate": null,
+    "label": "Department of Statistical Science online session (12-1pm or 5-6pm)",
+    "format": "online",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2026-11-14",
+    "endDate": null,
+    "label": "Undergraduate Open Event: Humanities, Social and Historical Sciences, 10am-4pm, South Cloisters, Gower Street (pre-booking essential)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next in-person events: Saturday 14 November 2026 (Humanities, Social and Historical Sciences; Economics, Geography and Economics and PPE are in this faculty) and 28 October 2026 (UCL East courses only). Online department sessions include Mathematics (22 October) and Statistical Science (29 October). No 2027 open day dates are listed yet. UCL's open days page is headed 'Virtual Open Events', but both event pages say 'In person'.",
+  "url": "https://www.ucl.ac.uk/study/prospective-students/open-days/undergraduate-open-days",
+  "source": {
+   "url": "https://www.ucl.ac.uk/study/prospective-students/open-days/undergraduate-open-days",
+   "checked": "2026-10-22",
+   "evidence": "14 November 2026, 10am to 4pm"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Access UCL gives UK-domiciled applicants from underrepresented groups a lower offer than the standard one (if UCL selects them for an offer); it is not a guaranteed offer.",
+  "typicalReduction": "Lower than the standard offer; the exact grades are on each course page (for the courses recorded here, one to two grades lower, e.g. A*AA becomes A*AB for Economics and A*BB for Economics and Statistics).",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Live in a postcode in IMD Quintile 1 (decile 1 or 2) in the datasets UCL uses in the 2027 cycle, and attend(ed) a UK state school for the A levels (or equivalent) used for your offer. UCL has a postcode checker on its Access UCL page.",
+    "measure": "IMD",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Live in a postcode in TUNDRA LSOA Quintile 1 in the datasets UCL uses in the 2027 cycle, and attend(ed) a UK state school for the A levels (or equivalent) used for your offer.",
+    "measure": "TUNDRA",
+    "quintiles": [
+     1
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "Received or been registered for UK government-funded Free School Meals at some point in the six years up to the end of Key Stage 4 (age 15-16), and attend(ed) a UK state school for your Level 3 qualifications. You must have been officially registered; UCL asks you to email it within two weeks of applying to confirm.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "Estranged from both parents, with satisfactory evidence from a recognised third party.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Spent time in local authority care (care experienced), with satisfactory evidence from a recognised third party. You may also qualify if you attend(ed) a UK independent school.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You may be eligible if you attend(ed) a UK state school for A levels or equivalent and one (or more) of these applies: you live in an eligible postcode; you were registered for Free School Meals in Key Stage 4 or below; you are estranged from your parents; you have spent time in local authority care. Access UCL is not a guaranteed offer scheme and eligibility does not mean you will get an offer. Most eligibility is picked up automatically from your UCAS application. UCL says the criteria are for the 2027 UCAS cycle only and may change for the 2028 cycle.",
+  "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/access-ucl-scheme",
+  "source": {
+   "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/access-ucl-scheme",
+   "checked": "2026-10-22",
+   "evidence": "Access UCL is our contextual offer scheme for UK-domiciled undergraduate applicants from groups that are underrepresented at UCL."
+  }
+ },
+ "programmes": [
+  {
+   "id": "ucl-choices",
+   "name": "UCL Choices 2026",
+   "provider": "University College London",
+   "providerType": "university",
+   "uniIds": [
+    "ucl"
+   ],
+   "summary": "Free online subject sessions in November 2026 for Year 12 state-school students, showing which UCL degrees you can study with your current A levels, plus a Q&A with current UCL students.",
+   "whoCanApply": "Students currently in Year 12 (S5 in Scotland, Y13 in Northern Ireland) at a state school or college in the UK. Everyone eligible who meets at least one of UCL's shortlisting criteria 2 to 6 is offered a place.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "firstGen",
+    "fsm",
+    "area",
+    "refugee",
+    "carer",
+    "estranged",
+    "care",
+    "other"
+   ],
+   "eligibilityDetail": "Open to students currently in Year 12 at a UK state school or college. All eligible applicants who meet at least one of the shortlisting criteria 2 to 6 on UCL's 'Who we work with' page are offered a place: parents or carers did not attend university; eligible for free school meals or pupil premium; live in a neighbourhood with low progression to higher education and high deprivation; belong to a group underrepresented at UCL (forced migrants, young carers, estranged students, care experienced students, disabled students); or belong to an ethnic group underrepresented at UCL.",
+   "benefits": [
+    "Online sessions on courses linked to your A levels: Maths (3 Nov), Sociology and Psychology (5 Nov), Geography (10 Nov), sciences, History and English; no Economics session is listed",
+    "Q&A panel with current UCL students on course 'expectations vs reality'",
+    "Hints and tips on the application process"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "online",
+   "subjects": "A level subject sessions (Maths; Sociology and Psychology; Geography; Chemistry, Biology and Physics; Pharmacy; History; English). No Economics session is listed.",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "3 to 26 November 2026 (one-hour sessions, 4pm to 5pm)",
+    "start": "2026-11-03",
+    "end": "2026-11-26",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Already open when checked (opening date not stated)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Sunday 18 October 2026 (extended deadline; it had passed when checked)",
+    "date": "2026-10-18",
+    "status": "Confirmed"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026 programme. UCL's page still says 'Applications are open!' although the extended 18 October deadline has passed.",
+   "url": "https://www.ucl.ac.uk/engage/events/2026/nov/ucl-choices-2026",
+   "source": {
+    "url": "https://www.ucl.ac.uk/engage/events/2026/nov/ucl-choices-2026",
+    "checked": "2026-10-22",
+    "evidence": "Applications are open! The deadline for applying has been extended to Sunday 18 October."
+   },
+   "notConfirmed": [
+    "Whether late applications are accepted after the 18 October 2026 deadline",
+    "Whether UCL Choices will run again for Year 12 in autumn 2027 (dates not published)"
+   ]
+  },
+  {
+   "id": "ucl-expand",
+   "name": "UCL Expand 2027",
+   "provider": "University College London",
+   "providerType": "university",
+   "uniIds": [
+    "ucl"
+   ],
+   "summary": "Free 8-week, subject-focused academic programme for Year 12 students (January to March 2027): online seminars plus two in-person events at UCL Bloomsbury, finishing with a project.",
+   "whoCanApply": "Students in Year 12 at the point of application. UCL's access programmes are funded by its Access Agreement and widening participation funds, so applications are assessed against UCL's targeting criteria. You need a parent or guardian with you to complete the form and a teacher's contact details.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "school",
+    "firstGen",
+    "fsm",
+    "area",
+    "refugee",
+    "carer",
+    "estranged",
+    "care",
+    "other"
+   ],
+   "eligibilityDetail": "Must be in Year 12 when applying. Places are limited and applications are assessed against UCL's targeting criteria on its 'Who we work with' page: state-school pupils, with priority for non-selective low-performing state schools, parents or carers who did not attend university, free school meals or pupil premium, low-progression neighbourhoods, and groups underrepresented at UCL.",
+   "benefits": [
+    "Expand your learning beyond the school curriculum, build academic skills and strengthen your personal statement (UCL's wording)",
+    "Pick a subject strand and make a project on a topic you enjoy",
+    "UCL funds or part-funds travel to the in-person events for those who meet its participant travel policy"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "Subject strands change each year (past years included law and human rights, public history, computer science, biology and health sciences, literature, astrophysics and social sciences). 2027 strands are only shared with successful participants.",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "30 January to 20 March 2027: welcome event (in person, UCL Bloomsbury), six online seminars and a graduation event (in person)",
+    "start": "2027-01-30",
+    "end": "2027-03-20",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "October 2026 (UCL's FAQ says applications are now open)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "20 November 2026",
+    "date": "2026-11-20",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "2027 programme. UCL's schedule table is headed '2026 schedule' but its dates (30 January to 20 March) match the 2027 dates in the page header; UCL says to check back for schedule updates.",
+   "url": "https://www.ucl.ac.uk/engage/events/2027/jan/ucl-expand-2027",
+   "source": {
+    "url": "https://www.ucl.ac.uk/engage/events/2027/jan/ucl-expand-2027",
+    "checked": "2026-10-22",
+    "evidence": "Apply by 20 November."
+   },
+   "notConfirmed": [
+    "The page text disagrees with itself: one line says applications for 2027 will open in October 2026, while the FAQ says they are open now (apply by 20 November); the year of the 20 November deadline is not written (taken as 2026)",
+    "Whether an Economics or social-sciences strand runs in 2027 (strands are only shared with successful participants)"
+   ]
+  },
+  {
+   "id": "ucl-experience-ucl",
+   "name": "Experience UCL 2026-27",
+   "provider": "University College London",
+   "providerType": "university",
+   "uniIds": [
+    "ucl"
+   ],
+   "summary": "Free in-person day at UCL Bloomsbury (10:30am to 3:30pm) with a campus tour led by current students and talks on applying, support services and funding, for students from targeted support groups.",
+   "whoCanApply": "Students at a UK state school or college studying a Level 3 qualification, with at least five GCSEs at grades 9-4 and likely to get at least BBB at A level, who are also disabled or have a long-term health condition, a young carer, a forced migrant, estranged from their parent(s) or care experienced. You apply for the day for your group and a teacher must confirm you are eligible.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "care",
+    "estranged",
+    "carer",
+    "refugee",
+    "other"
+   ],
+   "eligibilityDetail": "Open to students who have at least five GCSEs at grades A*-C/9-4, are studying at a UK state school or college for a Level 3 qualification UCL accepts, are likely to achieve at least BBB at A level (or equivalent), and meet one or more of: disability or long-term health condition; young carer; forced migrant (e.g. refugee or asylum seeker); estranged from their parent(s); currently or previously in care. Places are limited; if oversubscribed UCL uses its shortlisting criteria. Taking part has no bearing on Access UCL (contextual offer) eligibility.",
+   "benefits": [
+    "Campus tour with two current UCL students and lunch voucher for the UCL Refectory",
+    "Sessions with UCL staff on applying to university, support services and financial support"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "day",
+   "subjects": "General (not subject-specific)",
+   "yearGroup": "Students currently studying a Level 3 qualification (sixth form or college)",
+   "runs": {
+    "text": "Separate days by group (10:30am to 3:30pm, UCL Bloomsbury): care experienced and estranged students 18 November 2026; students with disabilities 25 November 2026 and 29 January 2027; young carers 3 December 2026; forced migrants 25 January 2027",
+    "start": "2026-11-18",
+    "end": "2027-01-29",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Already open when checked (opening date not stated)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "10am on Tuesday 27 October 2026",
+    "date": "2026-10-27",
+    "status": "Confirmed"
+   },
+   "infoYear": 2026,
+   "infoNote": "2026-27 programme (days run November 2026 to January 2027).",
+   "url": "https://www.ucl.ac.uk/engage/events/2026/nov/experience-ucl-2026-27",
+   "source": {
+    "url": "https://www.ucl.ac.uk/engage/events/2026/nov/experience-ucl-2026-27",
+    "checked": "2026-10-22",
+    "evidence": "Applications are now open. Apply by 10am Tuesday 27 October."
+   },
+   "notConfirmed": [
+    "The page does not say which school year it is for (it says students currently studying a Level 3 qualification)"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.ucl.ac.uk/",
+  "courses": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses",
+  "economics": "https://www.ucl.ac.uk/economics",
+  "openDays": "https://www.ucl.ac.uk/study/prospective-students/open-days/undergraduate-open-days",
+  "fees": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/funding-your-studies",
+  "contextual": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/access-ucl-scheme",
+  "accommodation": "https://www.ucl.ac.uk/study/accommodation"
+ },
+ "courses": [
+  {
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year Economics with Study Abroad course (year abroad in Year 3; UCL says to apply through the main course and UAT-UK lists it as L101) and with an optional placement year in Year 3 (a placement year costs 15% of the full-time fee).",
+   "entryYear": 2027,
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking",
+    "Global Perspectives and Research"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "competition": null,
+   "notConfirmed": [
+    "2028 entry requirements are not published yet (UCL's course page shows a September 2027 start only); 2027 entry is recorded",
+    "TMUA: the page does not give a minimum score or say whether a score changes the offer; 2028-entry TMUA rules are not published yet"
+   ],
+   "id": "ucl-economics",
+   "name": "Economics",
+   "degree": "BSc (Econ)",
+   "ucasCode": "L100",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA including an A* in Mathematics (GCSE English Language and Mathematics at grade 4)",
+    "source": {
+     "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ",
+     "checked": "2026-10-22",
+     "evidence": "Grades A*AA Subjects A* in Mathematics required."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A* in A level Mathematics is required (also with the Access UCL contextual offer)."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Further Mathematics",
+      "Economics",
+      "Geography",
+      "Psychology",
+      "History",
+      "Government and Politics",
+      "Sociology",
+      "Statistics"
+     ],
+     "note": "UCL asks for at least two A levels from its preferred list (your third can be any other subject). The list covers most main subjects, including Geography (A or B) and Psychology (A or B); Mathematics, which this course requires, is on it too."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "English Language and Mathematics at grade C or 4",
+   "subjectsEvidence": {
+    "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ",
+    "checked": "2026-10-22",
+    "evidence": "A* in Mathematics required."
+   },
+   "admissionsTest": {
+    "status": "required",
+    "name": "TMUA",
+    "effect": "You must sit the TMUA (Test of Mathematics for University Admission) as well as applying through UCAS; it is compulsory for 2027 entry (UAT-UK's official list agrees for L100 and L101). UCL says it assesses your academic performance, your TMUA score and your personal statement. The page gives no minimum score and does not say a good score lowers your offer.",
+    "source": {
+     "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ",
+     "checked": "2026-10-22",
+     "evidence": "UCL will require all applicants to the above programme to sit the TMUA (Test of Mathematics for University Admission) run by University Admissions Tests UK."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "Lower Access UCL contextual offer, if you meet Access UCL's criteria (UK state school plus an eligible postcode or free school meals; or care experienced; or estranged from your parents). It is not a guaranteed offer. A* in Mathematics is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ",
+      "checked": "2026-10-22",
+      "evidence": "Contextual offer Grades A*AB Subjects A* in Mathematics required."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ",
+    "ucas": null
+   },
+   "notes": "Selection looks at academic performance, TMUA score and personal statement. UCL does not accept resits for this course. UCAS equal-consideration deadline 13 January 2027 (UCL says applications may stay open after it). Economics with Study Abroad has no additional entry requirements (study abroad option page: https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-bsc-econ?option=UBESHS00012A)."
+  },
+  {
+   "lengthYears": 3,
+   "lengthNote": "Also available as a 4-year Geography and Economics (International) BSc with a year abroad: you must average 60% or more at the end of Year 1 and apply at the start of Year 2.",
+   "entryYear": 2027,
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking",
+    "Global Perspectives and Research"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "competition": null,
+   "notConfirmed": [
+    "2028 entry requirements are not published yet (UCL's course page shows a September 2027 start only); 2027 entry is recorded"
+   ],
+   "id": "ucl-geography-economics",
+   "name": "Geography and Economics",
+   "degree": "BSc",
+   "ucasCode": "LL17",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-geography"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA including an A* in Maths, plus one more from Geography, History or another essay-based subject preferred (GCSE English Language and Mathematics at grade 4)",
+    "source": {
+     "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geography-and-economics-bsc",
+     "checked": "2026-10-22",
+     "evidence": "Grades A*AA Subjects A* in Maths required. Plus, 1 more from Geography, History or another essay based subject preferred."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A* in A level Maths is required (also with the Access UCL contextual offer)."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Geography",
+      "History"
+     ],
+     "note": "One more subject from Geography, History or another essay-based subject is preferred, alongside the required Maths A*. UCL also asks for at least two A levels from its preferred list (Geography and Psychology are both on it)."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "English Language and Mathematics at grade C or 4",
+   "subjectsEvidence": {
+    "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geography-and-economics-bsc",
+    "checked": "2026-10-22",
+    "evidence": "A* in Maths required. Plus, 1 more from Geography, History or another essay based subject preferred."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course. UCL's entry in UAT-UK's official 2027 list of courses needing the TMUA, ESAT or TARA does not include it (it names only Economics L100/L101 for the TMUA, plus some Engineering and Computer Science courses), and the course page does not mention a test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "For each of the courses listed below, either the ESAT, the TARA, or the TMUA is compulsory:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*AB",
+     "tariff": null,
+     "conditions": "Lower Access UCL contextual offer, if you meet Access UCL's criteria (UK state school plus an eligible postcode or free school meals; or care experienced; or estranged from your parents). It is not a guaranteed offer. A* in Maths is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geography-and-economics-bsc",
+      "checked": "2026-10-22",
+      "evidence": "Contextual offer Grades A*AB Subjects A* in Maths required."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/geography-and-economics-bsc",
+    "ucas": null
+   },
+   "notes": "Equal weight to Geography and Economics. UCL looks for genuine interest in both subjects (wider reading beyond school textbooks is suggested). One compulsory Year 1 field trip (currently Catalonia) is paid for by the Geography department; optional Year 2 and 3 trips cost roughly £75 to £250 each plus any visa costs."
+  },
+  {
+   "lengthYears": 3,
+   "lengthNote": null,
+   "entryYear": 2027,
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking",
+    "Global Perspectives and Research"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "competition": null,
+   "notConfirmed": [
+    "2028 entry requirements are not published yet (UCL's course page shows a September 2027 start only); 2027 entry is recorded"
+   ],
+   "id": "ucl-economics-statistics",
+   "name": "Economics and Statistics",
+   "degree": "BSc (Econ)",
+   "ucasCode": "LG13",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA including an A* in Mathematics (Further Mathematics preferred; if you take both, the A* can be in either subject)",
+    "source": {
+     "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-and-statistics-bsc-econ",
+     "checked": "2026-10-22",
+     "evidence": "Grades A*AA Subjects A* in Mathematics required. Further Mathematics preferred."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Further Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A* in Mathematics is required; if you take both Mathematics and Further Mathematics the A* can be in either subject."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Further Mathematics"
+     ],
+     "note": "Preferred."
+    },
+    {
+     "subjects": [
+      "Chemistry",
+      "Economics",
+      "Physics",
+      "Statistics"
+     ],
+     "note": "Other preferred subjects named by UCL. UCL also asks for at least two A levels from its preferred list (Geography and Psychology are both on it)."
+    }
+   ],
+   "furtherMaths": "preferred",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "English Language and Mathematics at grade C or 4",
+   "subjectsEvidence": {
+    "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-and-statistics-bsc-econ",
+    "checked": "2026-10-22",
+    "evidence": "A* in Mathematics required. Further Mathematics preferred. If you are studying both then the A* can be in either subject."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course. UCL's entry in UAT-UK's official 2027 list of courses needing the TMUA, ESAT or TARA does not include it (it names only Economics L100/L101 for the TMUA, plus some Engineering and Computer Science courses), and the course page does not mention a test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "For each of the courses listed below, either the ESAT, the TARA, or the TMUA is compulsory:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*BB",
+     "tariff": null,
+     "conditions": "Lower Access UCL contextual offer, if you meet Access UCL's criteria (UK state school plus an eligible postcode or free school meals; or care experienced; or estranged from your parents). It is not a guaranteed offer. A* in Mathematics is still required.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-and-statistics-bsc-econ",
+      "checked": "2026-10-22",
+      "evidence": "Contextual offer Grades A*BB Subjects A* in Mathematics required."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/economics-and-statistics-bsc-econ",
+    "ucas": null
+   },
+   "notes": "Run by the Department of Statistical Science jointly with Economics. Accredited by the Royal Statistical Society for students first enrolling between September 2023 and September 2028. Resits are not typically accepted (Access UCL-eligible applicants may be considered if resitting their A levels once)."
+  },
+  {
+   "lengthYears": 3,
+   "lengthNote": "A limited number of study abroad placements may be available (subject to first-year grades and a successful application): you transfer to a four-year programme at the end of Year 2.",
+   "entryYear": 2027,
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking",
+    "Global Perspectives and Research"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "competition": null,
+   "notConfirmed": [
+    "2028 entry requirements are not published yet (UCL's course page shows a September 2027 start only); 2027 entry is recorded"
+   ],
+   "id": "ucl-ppe",
+   "name": "Philosophy, Politics and Economics",
+   "degree": "BSc",
+   "ucasCode": "4V86",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "ppe"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA including an A* in Mathematics (GCSE English Language grade 6 and Mathematics grade 4)",
+    "source": {
+     "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/philosophy-politics-and-economics-bsc",
+     "checked": "2026-10-22",
+     "evidence": "Grades A*AA Subjects A* in Mathematics required. GCSEs English Language at grade B or 6 and Mathematics at grade C or 4"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A* in A level Mathematics is required (also with the Access UCL contextual offer)."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Mathematics",
+      "Further Mathematics",
+      "Economics",
+      "Geography",
+      "Psychology",
+      "History",
+      "Government and Politics",
+      "Sociology",
+      "Statistics"
+     ],
+     "note": "UCL asks for at least two A levels from its preferred list (your third can be any other subject). The list covers most main subjects, including Geography (A or B) and Psychology (A or B); Mathematics, which this course requires, is on it too."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade 4 with an Access UCL contextual offer."
+    }
+   ],
+   "gcseText": "English Language at grade B or 6 and Mathematics at grade C or 4",
+   "subjectsEvidence": {
+    "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/philosophy-politics-and-economics-bsc",
+    "checked": "2026-10-22",
+    "evidence": "A* in Mathematics required."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course. UCL's entry in UAT-UK's official 2027 list of courses needing the TMUA, ESAT or TARA does not include it (it names only Economics L100/L101 for the TMUA, plus some Engineering and Computer Science courses), and the course page does not mention a test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "For each of the courses listed below, either the ESAT, the TARA, or the TMUA is compulsory:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*BB",
+     "tariff": null,
+     "conditions": "Lower Access UCL contextual offer, if you meet Access UCL's criteria (UK state school plus an eligible postcode or free school meals; or care experienced; or estranged from your parents). It is not a guaranteed offer. A* in Mathematics is still required; English Language grade 4 is enough for a contextual offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/philosophy-politics-and-economics-bsc",
+      "checked": "2026-10-22",
+      "evidence": "Contextual offer Grades A*BB Subjects A* in Mathematics required."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/philosophy-politics-and-economics-bsc",
+    "ucas": null
+   },
+   "notes": "From Year 2 you choose politics and philosophy or politics and economics. A separate Social Data Science (Q-step) stream is available. Selection is based on the UCAS application and reference."
+  },
+  {
+   "lengthYears": 3,
+   "lengthNote": "Also offered as a 4-year MSci (UCL encourages applying initially for the MSci because you can transfer to the BSc at any point during the first three years).",
+   "entryYear": 2027,
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking",
+    "Global Perspectives and Research"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "competition": null,
+   "notConfirmed": [
+    "2028 entry requirements are not published yet (UCL's course page shows a September 2027 start only); 2027 entry is recorded",
+    "The 4-year Mathematics with Economics MSci (G1LC) page was not read"
+   ],
+   "id": "ucl-maths-economics",
+   "name": "Mathematics with Economics",
+   "degree": "BSc",
+   "ucasCode": "G1L1",
+   "options": {
+    "yearAbroad": "unknown",
+    "placement": "unknown",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "A*A*A",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*A*A: an A* in Mathematics, an A* in Further Mathematics and an A in your third subject (or A*AA with A*A in Mathematics and Further Mathematics, in any order, plus a 2 in any STEP paper or a Distinction in the Mathematics AEA)",
+    "source": {
+     "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-economics-bsc",
+     "checked": "2026-10-22",
+     "evidence": "Grades A*A*A Subjects A*A*A with A*A* in Mathematics and Further Mathematics; or A*AA with A*A in Mathematics and Further Mathematics, in any order"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A*A* in Mathematics and Further Mathematics for the A*A*A offer (the A*AA route needs A*A in these two subjects, in any order, plus a 2 in any STEP paper or a Distinction in the Mathematics AEA)."
+    },
+    {
+     "subjects": [
+      "Further Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "Further Mathematics is required: A*A* in Mathematics and Further Mathematics for the A*A*A offer."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Biology",
+      "Chemistry",
+      "Computer Science",
+      "Economics",
+      "English Language",
+      "English Literature",
+      "Physics",
+      "Statistics"
+     ],
+     "note": "Preferred subjects named by UCL for the third A level. UCL also asks for at least two A levels from its preferred list (Mathematics and Further Mathematics count)."
+    }
+   ],
+   "furtherMaths": "required",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "4",
+     "note": null
+    }
+   ],
+   "gcseText": "English Language and Mathematics at grade C or 4",
+   "subjectsEvidence": {
+    "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-economics-bsc",
+    "checked": "2026-10-22",
+    "evidence": "A*A*A with A*A* in Mathematics and Further Mathematics; or A*AA with A*A in Mathematics and Further Mathematics, in any order"
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course. UCL's entry in UAT-UK's official 2027 list of courses needing the TMUA, ESAT or TARA does not include it (it names only Economics L100/L101 for the TMUA, plus some Engineering and Computer Science courses), and the course page does not mention a test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "For each of the courses listed below, either the ESAT, the TARA, or the TMUA is compulsory:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "other",
+     "offer": "A*AA",
+     "tariff": null,
+     "conditions": "A*AA with A*A in Mathematics and Further Mathematics (in any order), together with a 2 in any STEP paper or a Distinction in the Mathematics AEA.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-economics-bsc",
+      "checked": "2026-10-22",
+      "evidence": "or A*AA with A*A in Mathematics and Further Mathematics, in any order, together with a 2 in any STEP Paper or a Distinction in the Mathematics AEA."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": "A*A*C",
+     "tariff": null,
+     "conditions": "Lower Access UCL contextual offer, if you meet Access UCL's criteria (UK state school plus an eligible postcode or free school meals; or care experienced; or estranged from your parents). It is not a guaranteed offer. Needs A*A* in Mathematics and Further Mathematics (or A*AC with A*A in those two plus a 2 in any STEP paper or a Distinction in the Mathematics AEA).",
+     "programme": null,
+     "source": {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-economics-bsc",
+      "checked": "2026-10-22",
+      "evidence": "Contextual offer Grades A*A*C Subjects A*A* in Mathematics and Further Mathematics; or A*AC with A*A in Mathematics and Further Mathematics, in any order"
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/mathematics-economics-bsc",
+    "ucas": null
+   },
+   "notes": "Mathematics-led degree with 30 credits of economics in each of Years 1 and 2; no previous economics needed. Resits are not typically accepted. The department supports the Year in Industry scheme (deferring entry for a year)."
+  },
+  {
+   "lengthYears": 3,
+   "lengthNote": "Study options include a year in industry (Management Science with Year in Industry BSc); a study abroad year or an internship can also be arranged, subject to places and successful applications.",
+   "entryYear": 2027,
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking",
+    "Global Perspectives and Research"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "competition": null,
+   "notConfirmed": [
+    "2028 entry requirements are not published yet (UCL's course page shows a September 2027 start only); 2027 entry is recorded"
+   ],
+   "id": "ucl-management-science",
+   "name": "Management Science",
+   "degree": "BSc",
+   "ucasCode": "N991",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "business-management"
+   ],
+   "offer": {
+    "kind": "grades",
+    "typical": "A*AA",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "A*AA including an A* in Mathematics (GCSE English Language grade 6 and Mathematics grade 4)",
+    "source": {
+     "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-bsc",
+     "checked": "2026-10-22",
+     "evidence": "Grades A*AA Subjects Mathematics with A* required. Science or Social Sciences preferred."
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A*",
+     "note": "A* in A level Mathematics is required (also with the Access UCL contextual offer)."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Science subjects",
+      "Social science subjects"
+     ],
+     "note": "UCL prefers Science or Social Sciences A levels for this course. On UCL's preferred A level list, Geography and Psychology sit under the Social Sciences heading."
+    }
+   ],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": null
+    },
+    {
+     "subject": "English Language",
+     "minGrade": "6",
+     "note": "Grade 4 with an Access UCL contextual offer."
+    }
+   ],
+   "gcseText": "English Language at grade B or 6 and Mathematics at grade C or 4",
+   "subjectsEvidence": {
+    "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-bsc",
+    "checked": "2026-10-22",
+    "evidence": "Mathematics with A* required. Science or Social Sciences preferred."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course. UCL's entry in UAT-UK's official 2027 list of courses needing the TMUA, ESAT or TARA does not include it (it names only Economics L100/L101 for the TMUA, plus some Engineering and Computer Science courses), and the course page does not mention a test.",
+    "source": {
+     "url": "https://uat-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/04/01172717/Course_List_2027_Entry_Final.pdf",
+     "checked": "2026-10-22",
+     "evidence": "For each of the courses listed below, either the ESAT, the TARA, or the TMUA is compulsory:"
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "A*BB",
+     "tariff": null,
+     "conditions": "Lower Access UCL contextual offer, if you meet Access UCL's criteria (UK state school plus an eligible postcode or free school meals; or care experienced; or estranged from your parents). It is not a guaranteed offer. A* in Mathematics is still required; English Language grade 4 is enough for a contextual offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-bsc",
+      "checked": "2026-10-22",
+      "evidence": "Contextual offer Grades A*BB Subjects Mathematics with A* required."
+     }
+    }
+   ],
+   "links": {
+    "course": "https://www.ucl.ac.uk/study/prospective-students/undergraduate/courses/management-science-bsc",
+    "ucas": null
+   },
+   "notes": "Taught by the UCL School of Management (Faculty of Engineering Sciences). Selection is based on the information in your UCAS application; people who get an offer are invited to an offer-holder open day."
+  }
+ ],
+ "notes": [
+  "All six courses use 2027 entry: UCL's course pages show a September 2027 start and a 13 January 2027 UCAS equal-consideration deadline (UCL says applications may stay open after it). No 2028 option is shown yet.",
+  "UCL does not use UCAS tariff points: standard offers range from A*A*A to ABB depending on the course, and it asks for at least two A levels from its preferred list (which includes Geography and Psychology). General Studies, Critical Thinking and Global Perspectives and Research are not accepted, and the EPQ is not part of its standard entrance requirements (https://www.ucl.ac.uk/study/prospective-students/undergraduate/how-apply/entry-requirements).",
+  "Economics (L100) and Economics with Study Abroad (L101) require the TMUA for 2027 entry (UCL's course page and UAT-UK's official list agree). No test is listed for the other courses recorded here.",
+  "Every course recorded here asks for an A* in A level Mathematics (Mathematics with Economics also needs Further Mathematics), so Mathematics A* is the key grade for UCL.",
+  "UCL runs an Open Day Travel Bursary for eligible Year 12 state-school students who live outside Greater London and meet widening participation criteria (applications were closed when checked; https://www.ucl.ac.uk/engage/widening-participation/get-involved/year-12-and-13/ucl-open-day-travel-bursary).",
+  "Not recorded, to keep to about six courses: Statistics with Economics and Finance (GLN0), Economics and Business with East European Studies (L1R7), History, Politics and Economics (4P47), Philosophy and Economics (VL51) and the Mathematics with Economics MSci (G1LC)."
+ ],
+ "notConfirmed": [
+  "2028 entry (the student's year): UCL's course pages show September 2027 entry only, so 2027 requirements are recorded. Check again once 2028 entry is published.",
+  "Access UCL criteria and postcode datasets are published for the 2027 UCAS cycle only; UCL says they may change for the 2028 cycle and will be updated in September 2027.",
+  "The 2027/28 UK tuition fee (£10,050) is subject to parliamentary approval (UCL's wording). UCL's general 'Fees and funding' page still shows 2026/27 wording, so the fee comes from the course pages.",
+  "Open days: no summer 2027 in-person open day dates are listed yet (UCL's June 2026 open days were cancelled, per its travel bursary page).",
+  "Year 12 summer schools: none is listed in UCL's Access and Widening Participation events and programmes directory on 2026-10-22 (UCL says it runs summer schools, but no 2027 dates were found).",
+  "UCAS course pages were not used: UCL's own course pages could be read in the browser pane."
+ ]
+}

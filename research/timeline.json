@@ -1,0 +1,873 @@
+{
+  "checked": "2026-10-17",
+  "facts": [
+    {
+      "id": "ucas-courses-in-search",
+      "title": "2028-entry courses appear in UCAS search",
+      "date": "2027-04-27",
+      "endDate": null,
+      "text": "UCAS's course search should start showing 2028-entry courses around the end of April 2027 (expected).",
+      "status": "Expected",
+      "basedOn": "UCAS hasn't published 2028-entry dates. 2027 entry: Tuesday 28 April 2026; 2026 entry: Tuesday 29 April 2025. Estimate = the matching weekday one year on (Tuesday 27 April 2027).",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "28 Apr UCAS’ search tool displays 2027 entry courses"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked": "2026-10-17",
+          "evidence": "29 Apr UCAS’ search tool displays 2026 entry courses"
+        }
+      ]
+    },
+    {
+      "id": "ucas-application-opens",
+      "title": "UCAS application opens (2028 entry)",
+      "date": "2027-05-11",
+      "endDate": null,
+      "text": "You can register and start filling in your UCAS application for 2028 entry from around mid-May 2027 (expected), but you can't send it until early September 2027.",
+      "status": "Expected",
+      "basedOn": "2027 entry: opened Tuesday 12 May 2026; 2026 entry: Tuesday 13 May 2025. Estimate = the matching weekday one year on (Tuesday 11 May 2027).",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "12 May UCAS applications open for 2027 entry You can register and start your application in your UCAS Hub."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/discover/advice-for-parents-guardians-and-carers/key-dates-and-the-application-journey",
+          "checked": "2026-10-17",
+          "evidence": "Students can start their applications, but they cannot be submitted to UCAS until 1 September 2026."
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked": "2026-10-17",
+          "evidence": "13 May Undergraduate applications open for 2026 entry"
+        }
+      ]
+    },
+    {
+      "id": "tmua-account-opens",
+      "title": "TMUA: accounts, bursary and access-arrangement requests open",
+      "date": "2027-06-01",
+      "endDate": null,
+      "text": "For 2028 entry, expect to be able to create a UAT-UK account and apply for a bursary or access arrangements from early June 2027. Apply for a bursary before booking: it covers the full fee, but can't be refunded afterwards.",
+      "status": "Expected",
+      "basedOn": "UAT-UK has only published 2027-entry dates (tests in October 2026 and January 2027). 2027 entry: Monday 1 June 2026 (3pm). The matching Monday in 2027 (31 May) is a bank holiday, so early June 2027 is the estimate.",
+      "source": {
+        "url": "https://esat-tmua.ac.uk/deadlines/",
+        "checked": "2026-10-17",
+        "evidence": "Account creation, access arrangements and bursaries open for all 2027 entry candidates | 1st June 2026 3pm BST"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.gov.uk/bank-holidays.json",
+          "checked": "2026-10-17",
+          "evidence": "{\"title\":\"Spring bank holiday\",\"date\":\"2027-05-31\",\"notes\":\"\",\"bunting\":true}"
+        }
+      ]
+    },
+    {
+      "id": "tmua-october-booking",
+      "title": "TMUA: booking window for the October sitting",
+      "date": "2027-07-19",
+      "endDate": "2027-09-27",
+      "text": "Booking for the October 2027 TMUA sitting is expected to open around 19 July 2027 and close around 27 September 2027 (6pm). Bursary requests are due about a week before booking closes, access arrangements about two weeks before.",
+      "status": "Expected",
+      "basedOn": "UAT-UK has only published 2027-entry dates (tests in October 2026 and January 2027). 2027 entry: booking opened Monday 20 July 2026 and closed Monday 28 September 2026 (6pm); bursary deadline 21 September 2026; access-arrangements deadline 14 September 2026. Estimate = the matching weekday one year on.",
+      "source": {
+        "url": "https://esat-tmua.ac.uk/deadlines/",
+        "checked": "2026-10-17",
+        "evidence": "Test booking opens for October 2026 | 20 July 2026 3pm BST"
+      },
+      "extraSources": [
+        {
+          "url": "https://esat-tmua.ac.uk/deadlines/",
+          "checked": "2026-10-17",
+          "evidence": "Test booking closes for October 2026 | 28th September 2026 6pm BST"
+        },
+        {
+          "url": "https://esat-tmua.ac.uk/deadlines/",
+          "checked": "2026-10-17",
+          "evidence": "Deadline for requesting a bursary for the October 2026 sitting (candidates who make a request by this date will still be able to book a test once approved) | 21st September 2026 6pm BST"
+        }
+      ]
+    },
+    {
+      "id": "ucas-can-send",
+      "title": "Completed UCAS applications can be sent",
+      "date": "2027-08-31",
+      "endDate": null,
+      "text": "Completed applications (including your school's reference and predicted grades) can be sent to UCAS from around the start of September 2027 (expected). Your school will set its own earlier internal deadline.",
+      "status": "Expected",
+      "basedOn": "2027 entry: Tuesday 1 September 2026; 2026 entry: Tuesday 2 September 2025. Estimate = the matching weekday one year on (Tuesday 31 August 2027, the day after the 30 August 2027 bank holiday), so it could be 31 August or early September 2027.",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "01 Sep Completed applications can be submitted to UCAS You will need a reference before you can send your application."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked": "2026-10-17",
+          "evidence": "02 Sep Completed undergraduate applications can be submitted to UCAS"
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-university/how-get-ucas-reference",
+          "checked": "2026-10-17",
+          "evidence": "You’ll need to submit your application to your school, college or centre by the date they tell you (their internal deadline) so they can review it and add a reference and predicted grades (if needed)."
+        },
+        {
+          "url": "https://www.gov.uk/bank-holidays.json",
+          "checked": "2026-10-17",
+          "evidence": "{\"title\":\"Summer bank holiday\",\"date\":\"2027-08-30\",\"notes\":\"\",\"bunting\":true}"
+        }
+      ]
+    },
+    {
+      "id": "tmua-october-sitting",
+      "title": "TMUA: October test window",
+      "date": "2027-10-11",
+      "endDate": "2027-10-15",
+      "text": "TMUA sitting 1 for 2028 entry is expected in mid-October 2027 (about 11–15 October). You only sit once per cycle; outside Oxford and Cambridge there's no advantage in October over January.",
+      "status": "Expected",
+      "basedOn": "UAT-UK has only published 2027-entry dates (tests in October 2026 and January 2027). 2027 entry: Monday 12 – Friday 16 October 2026. Estimate = the matching weekday one year on.",
+      "source": {
+        "url": "https://esat-tmua.ac.uk/",
+        "checked": "2026-10-17",
+        "evidence": "Test Sitting 1 Monday 12th October 2026 – Friday 16th October 2026"
+      },
+      "extraSources": [
+        {
+          "url": "https://esat-tmua.ac.uk/deadlines/",
+          "checked": "2026-10-17",
+          "evidence": "Applicants to all other institutions can decide when to sit. There is no advantage to sitting in either session, but you can only sit once within an admissions cycle."
+        }
+      ]
+    },
+    {
+      "id": "ucas-october-deadline",
+      "title": "Early UCAS deadline (Oxford, Cambridge, medicine, dentistry, veterinary)",
+      "date": "2027-10-15",
+      "endDate": null,
+      "text": "15 October 2027 at 18:00 UK time (expected): the early deadline for Oxford, Cambridge and most medicine, dentistry and veterinary courses. Most other courses use the January deadline.",
+      "status": "Expected",
+      "basedOn": "It was 15 October in both the 2026 and 2027 entry cycles (15 October 2025 and 15 October 2026), so 15 October 2027 is expected. UCAS's admissions consultation (dates, deadlines and number of choices) shares its final outcomes in autumn 2026, and the 2028 cycle (2028 entry) is the earliest any changes could apply, so check UCAS once 2028-entry dates are published.",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "15 Oct (18:00 UK time) Equal consideration date for applications to the universities of Oxford and Cambridge, and for most courses in medicine, dentistry, and veterinary medicine/science"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/about-us/news-and-insights/ucas-admissions-consultation-dates-deadlines-and-choices",
+          "checked": "2026-10-17",
+          "evidence": "application deadlines, including the early (October) deadline and January Equal Consideration Date"
+        }
+      ]
+    },
+    {
+      "id": "tmua-january-booking",
+      "title": "TMUA: booking window for the January sitting",
+      "date": "2027-10-25",
+      "endDate": "2027-12-20",
+      "text": "Booking for the January 2028 TMUA sitting is expected to open around 25 October 2027 and close around 20 December 2027 (6pm); bursary requests due about a week before it closes.",
+      "status": "Expected",
+      "basedOn": "UAT-UK has only published 2027-entry dates (tests in October 2026 and January 2027). 2027 entry: booking opened Monday 26 October 2026 and closes Monday 21 December 2026 (6pm); bursary deadline 14 December 2026. Estimate = the matching weekday one year on.",
+      "source": {
+        "url": "https://esat-tmua.ac.uk/deadlines/",
+        "checked": "2026-10-17",
+        "evidence": "Test booking opens for January 2027 | 26th October 2026 3pm GMT"
+      },
+      "extraSources": [
+        {
+          "url": "https://esat-tmua.ac.uk/deadlines/",
+          "checked": "2026-10-17",
+          "evidence": "Test booking closes for January 2027 | 21st December 2026 6pm GMT"
+        },
+        {
+          "url": "https://esat-tmua.ac.uk/deadlines/",
+          "checked": "2026-10-17",
+          "evidence": "Deadline for requesting a bursary for the January 2027 sitting (candidates who make a request by this date will still be able to book a test once approved) | 14th December 2026 6pm GMT"
+        }
+      ]
+    },
+    {
+      "id": "tmua-october-results",
+      "title": "TMUA: October results",
+      "date": "2027-11-15",
+      "endDate": null,
+      "text": "Results from the October 2027 sitting are expected in mid-November 2027 in your UAT-UK account; they're sent automatically to TMUA universities on your UCAS application.",
+      "status": "Expected",
+      "basedOn": "UAT-UK has only published 2027-entry dates (tests in October 2026 and January 2027). 2027 entry: Monday 16 November 2026. Estimate = the matching weekday one year on.",
+      "source": {
+        "url": "https://esat-tmua.ac.uk/deadlines/",
+        "checked": "2026-10-17",
+        "evidence": "Candidates to receive test results via their UAT-UK account | Monday 16th November 2026"
+      }
+    },
+    {
+      "id": "tmua-january-sitting",
+      "title": "TMUA: January test window",
+      "date": "2028-01-03",
+      "endDate": "2028-01-07",
+      "text": "TMUA sitting 2 for 2028 entry is expected in the first week of January 2028 (not for Oxford or Cambridge applicants).",
+      "status": "Expected",
+      "basedOn": "UAT-UK has only published 2027-entry dates (tests in October 2026 and January 2027). 2027 entry: Monday 4 – Friday 8 January 2027. Estimate = the matching weekday one year on (3–7 January 2028), but 3 January 2028 is a bank holiday, so the window may start later.",
+      "source": {
+        "url": "https://esat-tmua.ac.uk/",
+        "checked": "2026-10-17",
+        "evidence": "Test Sitting 2 Monday 4th January 2027 – Friday 8th January 2027"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.gov.uk/bank-holidays.json",
+          "checked": "2026-10-17",
+          "evidence": "{\"title\":\"New Year’s Day\",\"date\":\"2028-01-03\",\"notes\":\"Substitute day\",\"bunting\":true}"
+        }
+      ]
+    },
+    {
+      "id": "ucas-equal-consideration",
+      "title": "Main UCAS deadline (equal consideration date)",
+      "date": "2028-01-12",
+      "endDate": null,
+      "text": "Main UCAS deadline for most courses: expected Wednesday 12 January 2028 at 18:00 UK time. Applications sent by then are guaranteed equal consideration; later ones may not be. Schools usually set an earlier internal deadline.",
+      "status": "Expected",
+      "basedOn": "2027 entry: Wednesday 13 January 2027 (18:00); 2026 entry: Wednesday 14 January 2026. Estimate = the matching weekday one year on (Wednesday 12 January 2028). UCAS's admissions consultation (dates, deadlines and number of choices) shares its final outcomes in autumn 2026, and the 2028 cycle (2028 entry) is the earliest any changes could apply, so check UCAS once 2028-entry dates are published.",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "2027 13 Jan (18:00 UK time) Equal consideration date for applications for most undergraduate courses"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked": "2026-10-17",
+          "evidence": "2026 14 Jan (18:00 UK time) Equal consideration date for applications for most undergraduate courses"
+        },
+        {
+          "url": "https://www.ucas.com/discover/advice-for-parents-guardians-and-carers/key-dates-and-the-application-journey",
+          "checked": "2026-10-17",
+          "evidence": "Applications can be sent after this, but providers cannot guarantee they’ll give it equal consideration."
+        },
+        {
+          "url": "https://www.ucas.com/about-us/news-and-insights/ucas-admissions-consultation-dates-deadlines-and-choices",
+          "checked": "2026-10-17",
+          "evidence": "5 Autumn 2026 Sharing of the final outcomes. 6 2028 cycle Earliest date for potential changes to be implemented."
+        }
+      ]
+    },
+    {
+      "id": "tmua-january-results",
+      "title": "TMUA: January results",
+      "date": "2028-02-07",
+      "endDate": null,
+      "text": "Results from the January 2028 sitting are expected in early February 2028.",
+      "status": "Expected",
+      "basedOn": "UAT-UK has only published 2027-entry dates (tests in October 2026 and January 2027). 2027 entry: 8 February 2027 (a Monday). Estimate = the matching weekday one year on.",
+      "source": {
+        "url": "https://esat-tmua.ac.uk/deadlines/",
+        "checked": "2026-10-17",
+        "evidence": "Candidates to receive test results via their UAT-UK account | 8th February 2027"
+      }
+    },
+    {
+      "id": "ucas-extra",
+      "title": "UCAS Extra (add a choice if you have no offers)",
+      "date": "2028-02-24",
+      "endDate": "2028-07-01",
+      "text": "If you've used all five choices and hold no offers, Extra lets you add another choice: expected from late February 2028 until 1 July 2028.",
+      "status": "Expected",
+      "basedOn": "2027 entry: Extra opens Thursday 25 February 2027 and the last day to add an Extra choice is 1 July 2027 (2026 entry: Thursday 26 February and 1 July 2026). Opening estimate = the matching weekday one year on (Thursday 24 February 2028); the 1 July close was the same date both years (1 July 2028 is a Saturday, so it may move).",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "25 Feb Extra opens If you've used all five choices and are not holding any offers, you may be able to add another choice in your application."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked": "2026-10-17",
+          "evidence": "01 Jul Last day to add an Extra choice in your application"
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked": "2026-10-17",
+          "evidence": "26 Feb Extra opens"
+        }
+      ]
+    },
+    {
+      "id": "student-finance-opens",
+      "title": "Student finance applications open (2028/29)",
+      "date": "2028-03-20",
+      "endDate": null,
+      "text": "Applications for student finance for courses starting in autumn 2028 are expected to open in spring 2028 (around March). You don't need a confirmed university place to apply. From courses starting on or after 1 January 2027, England uses the new Lifelong Learning Entitlement (LLE) system.",
+      "status": "Expected",
+      "basedOn": "No date published for 2028/29. For courses starting from 1 August 2027, GOV.UK says applications open in spring 2027; for 2026/27, new full-time applications opened on 23 March 2026 (date of the SLC announcement). Estimate = the matching weekday two years on from 23 March 2026 (Monday 20 March 2028).",
+      "source": {
+        "url": "https://www.gov.uk/apply-for-student-finance-lifelong-learning-entitlement/when-to-apply",
+        "checked": "2026-10-17",
+        "evidence": "For courses starting from 1 August 2027, you’ll be able to apply from spring 2027."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.gov.uk/government/news/full-time-undergraduate-student-finance-applications-now-open-for-2026-to-2027",
+          "checked": "2026-10-17",
+          "evidence": "Published: 23 March 2026 Student Finance England Full-time undergraduate students from England whose course starts between 31 August and 31 December 2026 can now apply for student finance."
+        },
+        {
+          "url": "https://www.gov.uk/apply-for-student-finance-lifelong-learning-entitlement/when-to-apply",
+          "checked": "2026-10-17",
+          "evidence": "You do not need a confirmed offer from a university or college to apply."
+        },
+        {
+          "url": "https://www.gov.uk/student-finance-on-or-after-1-january-2027",
+          "checked": "2026-10-17",
+          "evidence": "For courses starting on or after 1 January 2027, you may need to apply for student finance through the new student finance system. The new system is called your Lifelong Learning Entitlement (LLE)."
+        }
+      ]
+    },
+    {
+      "id": "ucas-decisions-aim",
+      "title": "Universities aim to send decisions",
+      "date": "2028-03-31",
+      "endDate": null,
+      "text": "Universities should aim to have sent decisions on applications sent by the January deadline by 31 March 2028 (expected).",
+      "status": "Expected",
+      "basedOn": "31 March in both the 2026 and 2027 entry cycles (31 March 2026 and 31 March 2027).",
+      "source": {
+        "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+        "checked": "2026-10-17",
+        "evidence": "31 Mar Providers should aim to have sent all decisions on applications received at UCAS by 13 January"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+          "checked": "2026-10-17",
+          "evidence": "31 Mar Providers should aim to have sent all decisions on applications received at UCAS by 14 January"
+        }
+      ]
+    },
+    {
+      "id": "ucas-reply-deadline-may",
+      "title": "Reply to offers (if all decisions arrive by 31 March)",
+      "date": "2028-05-03",
+      "endDate": null,
+      "text": "If all your universities have replied by 31 March 2028, you must choose your firm and insurance offers by about 3 May 2028 (expected), or your offers are declined by default.",
+      "status": "Expected",
+      "basedOn": "2027 entry: decisions by 31 March, reply by Wednesday 5 May 2027; 2026 entry: reply by Wednesday 6 May 2026. Estimate = the matching weekday one year on (Wednesday 3 May 2028).",
+      "source": {
+        "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+        "checked": "2026-10-17",
+        "evidence": "If applicants receive all decisions by 31 March, they must reply by 5 May, otherwise their application will be declined by default (DBD)."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+          "checked": "2026-10-17",
+          "evidence": "If applicants receive all decisions by 31 March, they must reply by 6 May"
+        }
+      ]
+    },
+    {
+      "id": "a-level-exams",
+      "title": "A-level exams (summer 2028)",
+      "date": "2028-05-08",
+      "endDate": "2028-06-16",
+      "text": "A-level exams usually run from mid-May to mid/late June. For 2028, expected roughly 8 May to 16 June 2028, with a contingency day around 21 June 2028. Your own dates depend on your subjects and exam boards.",
+      "status": "Expected",
+      "basedOn": "June 2027 series (JCQ dates, via AQA's key dates): first AS/A-level exam Monday 10 May 2027, final exam Friday 18 June 2027, contingency day Wednesday 23 June 2027. Estimate = the matching weekday one year on. 2028 timetables aren't published yet (the JCQ website itself couldn't be read: it shows a bot check).",
+      "source": {
+        "url": "https://www.aqa.org.uk/exams-administration/dates-and-timetables/search?q=June%202027%20exam",
+        "checked": "2026-10-17",
+        "evidence": "Exam Time for AS/A-level June 2027 series: Date of first June 2027 exam 10 May 2027 Source: JCQ"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.aqa.org.uk/exams-administration/dates-and-timetables/search?q=June%202027%20exam",
+          "checked": "2026-10-17",
+          "evidence": "Exam Time for AS/A-level June 2027 series: Date of final June 2027 exam 18 Jun 2027 Source: JCQ"
+        },
+        {
+          "url": "https://www.aqa.org.uk/exams-administration/dates-and-timetables/search?q=June%202027%20exam",
+          "checked": "2026-10-17",
+          "evidence": "Contingency day for GCSE and/or GCE Examinations should sustained national or significant local disruption arise during the June 2027 examination series 23 Jun 2027"
+        }
+      ]
+    },
+    {
+      "id": "ucas-decisions-deadline",
+      "title": "Deadline for universities' decisions",
+      "date": "2028-05-10",
+      "endDate": null,
+      "text": "Universities must make decisions on applications sent by the January deadline by about 10 May 2028 (expected); any choice still without a decision is rejected by default. For applications sent after January but by 30 June, decisions are due in mid-July 2028.",
+      "status": "Expected",
+      "basedOn": "2027 entry: Wednesday 12 May 2027 (and Wednesday 14 July 2027 for applications sent by 30 June); 2026 entry: Wednesday 13 May 2026. Estimate = the matching weekday one year on (Wednesday 10 May 2028; July: Wednesday 12 July 2028).",
+      "source": {
+        "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+        "checked": "2026-10-17",
+        "evidence": "12 May UCAS Undergraduate reject by default (RBD) Provider decisions due on applications submitted by 13 January. Otherwise applicants will be rejected by default (RBD)."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+          "checked": "2026-10-17",
+          "evidence": "13 May UCAS Undergraduate reject by default (RBD) Provider decisions due on applications submitted by 14 January."
+        },
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+          "checked": "2026-10-17",
+          "evidence": "14 Jul UCAS Undergraduate reject by default (RBD) Provider decisions due on applications submitted by 30 June."
+        }
+      ]
+    },
+    {
+      "id": "student-finance-deadline",
+      "title": "Apply for student finance by (for money at the start of term)",
+      "date": "2028-05-12",
+      "endDate": null,
+      "text": "Apply by mid-May 2028 (expected) so your loans are in place when term starts in September 2028. You can still apply later, but your first payment may be late or reduced at first.",
+      "status": "Expected",
+      "basedOn": "Most recent published date: Friday 15 May 2026 for new full-time Student Finance England students starting in 2026/27. No 2027/28 or 2028/29 date published yet. Estimate = the matching weekday two years on (Friday 12 May 2028).",
+      "source": {
+        "url": "https://www.gov.uk/government/news/full-time-undergraduate-student-finance-applications-now-open-for-2026-to-2027",
+        "checked": "2026-10-17",
+        "evidence": "SLC is encouraging students to apply before the deadline of Friday 15 May 2026 to ensure their funding is in place for the start of their course."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.gov.uk/apply-for-student-finance/when",
+          "checked": "2026-10-17",
+          "evidence": "You might get less money than you expected if you apply close to the start of your course or after it has started."
+        }
+      ]
+    },
+    {
+      "id": "ucas-reply-deadline-june",
+      "title": "Reply to offers (if your last decision arrives in April or early May)",
+      "date": "2028-05-31",
+      "endDate": null,
+      "text": "If your last decision arrives after 31 March but by the universities' May decision deadline, you must reply by about 31 May 2028 (expected).",
+      "status": "Expected",
+      "basedOn": "2027 entry: decisions by 12 May, reply by Wednesday 2 June 2027; 2026 entry: decisions by 13 May, reply by Wednesday 3 June 2026. Estimate = the matching weekday one year on (Wednesday 31 May 2028).",
+      "source": {
+        "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+        "checked": "2026-10-17",
+        "evidence": "If applicants receive all decisions by 12 May, they must reply by 2 June, otherwise their application will be declined by default (DBD)."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+          "checked": "2026-10-17",
+          "evidence": "If applicants receive all decisions by 13 May, they must reply by 3 June"
+        }
+      ]
+    },
+    {
+      "id": "ucas-june-deadline",
+      "title": "Last date to apply with choices (after this, Clearing)",
+      "date": "2028-06-30",
+      "endDate": null,
+      "text": "Applications received by 18:00 on 30 June 2028 (expected) are sent to universities; after that, new applications go straight into Clearing.",
+      "status": "Expected",
+      "basedOn": "30 June in both the 2026 and 2027 entry cycles (30 June 2026 and 30 June 2027).",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "30 Jun (18:00 UK time) Applications received by this deadline will be sent to universities and colleges After this time, applications are automatically entered into Clearing."
+      }
+    },
+    {
+      "id": "ucas-clearing-opens",
+      "title": "Clearing opens",
+      "date": "2028-07-02",
+      "endDate": null,
+      "text": "Clearing opens in early July 2028 (expected) for applicants without a place; vacancies show in UCAS search. Most Clearing activity happens after results day.",
+      "status": "Expected",
+      "basedOn": "2 July in both the 2026 and 2027 entry cycles (2 July 2026 and 2 July 2027). 2 July 2028 is a Sunday, so the exact day may differ.",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "02 Jul Clearing opens Clearing opens for eligible applicants, and vacancies are displayed in UCAS’ search tool."
+      }
+    },
+    {
+      "id": "ucas-reply-deadline-july",
+      "title": "Reply to offers (if your last decision arrives in July)",
+      "date": "2028-07-19",
+      "endDate": null,
+      "text": "If your last decision arrives by the mid-July decision deadline, you must reply by about 19 July 2028 (expected).",
+      "status": "Expected",
+      "basedOn": "2027 entry: decisions by 14 July, reply by Wednesday 21 July 2027; 2026 entry: decisions by 15 July, reply by Wednesday 22 July 2026. Estimate = the matching weekday one year on (Wednesday 19 July 2028).",
+      "source": {
+        "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+        "checked": "2026-10-17",
+        "evidence": "If applicants receive all decisions by 14 July, they must reply by 21 July, otherwise their application will be declined by default (DBD), including those in Extra."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+          "checked": "2026-10-17",
+          "evidence": "If applicants receive all decisions by 15 July, they must reply by 22 July"
+        }
+      ]
+    },
+    {
+      "id": "a-level-results-day",
+      "title": "A-level results day 2028",
+      "date": "2028-08-10",
+      "endDate": null,
+      "text": "A-level results day 2028 is expected on Thursday 10 August 2028 (results from 08:00). UCAS shows whether your place is confirmed that morning.",
+      "status": "Expected",
+      "basedOn": "JCQ hasn't published 2028 results days. 2027: Thursday 12 August 2027; 2026: Thursday 13 August 2026. Estimate = the matching weekday one year on (Thursday 10 August 2028); check JCQ's key dates once published.",
+      "source": {
+        "url": "https://www.aqa.org.uk/exams-administration/results-days",
+        "checked": "2026-10-17",
+        "evidence": "| June 2027 | A-level AS Level | 12 August 2027"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.aqa.org.uk/exams-administration/dates-and-timetables/search?q=results",
+          "checked": "2026-10-17",
+          "evidence": "Results and Certification for AS/A-level June 2027 series: Results for June 2027 released to students from 08:00 12 Aug 2027 Source: JCQ"
+        },
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/key-dates-timeline",
+          "checked": "2026-10-17",
+          "evidence": "13 Aug JCQ results are published"
+        },
+        {
+          "url": "https://qualifications.pearson.com/en/news-policy/qualifications/general-qualifications/general-qualifications-bulletin-uk-issue-81.html",
+          "checked": "2026-10-17",
+          "evidence": "Results should not be issued to candidates until 08:00am (BST) on 13 or 20 August depending on the qualification."
+        }
+      ]
+    },
+    {
+      "id": "ucas-final-deadline",
+      "title": "Final UCAS deadline for 2028 entry",
+      "date": "2028-09-21",
+      "endDate": null,
+      "text": "Final date for 2028-entry applications (via Clearing): expected Thursday 21 September 2028 at 18:00 UK time.",
+      "status": "Expected",
+      "basedOn": "2027 entry: Thursday 23 September 2027; 2026 entry: Thursday 24 September 2026. Estimate = the matching weekday one year on (Thursday 21 September 2028).",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "23 Sep (18:00 UK time) Final date for 2027 entry applications"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked": "2026-10-17",
+          "evidence": "24 Sep (18:00 UK time) Final date for 2026 entry applications"
+        }
+      ]
+    },
+    {
+      "id": "ucas-last-clearing-choice",
+      "title": "Last date to add a Clearing choice",
+      "date": "2028-10-16",
+      "endDate": null,
+      "text": "Last date to add a 2028-entry Clearing choice: expected around 16 October 2028.",
+      "status": "Expected",
+      "basedOn": "2027 entry: Monday 18 October 2027; 2026 entry: Monday 19 October 2026. Estimate = the matching weekday one year on.",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+        "checked": "2026-10-17",
+        "evidence": "18 Oct Last date to add a Clearing choice"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/dates-and-deadlines-for-uni-applications",
+          "checked": "2026-10-17",
+          "evidence": "19 Oct Last date to add a Clearing choice"
+        }
+      ]
+    }
+  ],
+  "reference": {
+    "ucasFee": {
+      "amount": 34.5,
+      "currency": "GBP",
+      "cycle": "2027 entry",
+      "status": "Confirmed for 2027 entry",
+      "text": "The UCAS application fee for 2027 entry is £34.50 for up to five choices. The 2028-entry fee hasn't been published yet. Students who got UK Government-funded free school meals at any point in secondary school, and care leavers, may be able to have the fee waived.",
+      "choices": 5,
+      "waivers": [
+        "Free school meals (UK Government funded, at any point during secondary education)",
+        "Care leavers (from 2027 entry)"
+      ],
+      "source": {
+        "url": "https://www.ucas.com/faqs/what-is-the-application-fee-for-the-2027-cycle",
+        "checked": "2026-10-17",
+        "evidence": "For the 2027 cycle, the undergraduate and conservatoires application fee is £34.50. This single fee allows students to add up to five university and college choices to their application"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/faqs/what-is-the-application-fee-for-the-2027-cycle",
+          "checked": "2026-10-17",
+          "evidence": "Free school meals application fee waiver: Students who have received UK Government funded free school meals at any point during their secondary education may be eligible to have the application fee waived."
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/filling-in-your-ucas-application",
+          "checked": "2026-10-17",
+          "evidence": "For 2027 entry onwards, students who are care leavers may also be eligible to have the application fee waived."
+        }
+      ],
+      "notConfirmed": [
+        "2028-entry fee: UCAS has no 2028-cycle fee page yet (checked 2026-10-17)"
+      ]
+    },
+    "personalStatement": {
+      "appliesTo": "2026 entry onwards (so it covers 2028 entry unless UCAS announces a change)",
+      "format": "Three questions, answered in separate boxes",
+      "questions": [
+        "Why do you want to study this course or subject?",
+        "How have your qualifications and studies helped you to prepare for this course or subject?",
+        "What else have you done to prepare outside of education, and why are these experiences useful?"
+      ],
+      "characterLimit": 4000,
+      "limitIncludesSpaces": true,
+      "minimumPerAnswer": 350,
+      "text": "The UCAS personal statement is three questions with a 4,000-character limit in total (including spaces) and at least 350 characters per answer. You can split the 4,000 characters however you like, and admissions staff read the three answers as one statement.",
+      "source": {
+        "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement-for-2026-entry-onwards",
+        "checked": "2026-10-17",
+        "evidence": "Each answer will have a minimum character count of 350 characters, which is clearly labelled on the question boxes, along with an overall character counter, so you can keep track."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement-for-2026-entry-onwards",
+          "checked": "2026-10-17",
+          "evidence": "Applying for university or college to start your studies from 2026 onwards? Find out more about the personal statement format and tips on what to include."
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement-for-2026-entry-onwards",
+          "checked": "2026-10-17",
+          "evidence": "The 4,000 overall character limit (including spaces) remains the same, as does what you're expected to include."
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement-for-2026-entry-onwards",
+          "checked": "2026-10-17",
+          "evidence": "Question 1: Why do you want to study this course or subject?"
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement-for-2026-entry-onwards",
+          "checked": "2026-10-17",
+          "evidence": "Question 2: How have your qualifications and studies helped you to prepare for this course or subject?"
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement-for-2026-entry-onwards",
+          "checked": "2026-10-17",
+          "evidence": "Question 3: What else have you done to prepare outside of education, and why are these experiences useful?"
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/how-to-write-your-personal-statement-for-2026-entry-onwards",
+          "checked": "2026-10-17",
+          "evidence": "Admissions staff will still review your personal statement as a whole"
+        }
+      ]
+    },
+    "tariff": {
+      "aLevel": {
+        "A*": 56,
+        "A": 48,
+        "B": 40,
+        "C": 32,
+        "D": 24,
+        "E": 16
+      },
+      "asLevel": {
+        "A": 20,
+        "B": 16,
+        "C": 12,
+        "D": 10,
+        "E": 6
+      },
+      "epq": {
+        "A*": 28,
+        "A": 24,
+        "B": 20,
+        "C": 16,
+        "D": 12,
+        "E": 8
+      },
+      "text": "UCAS Tariff points for one A level: A* 56, A 48, B 40, C 32, D 24, E 16 (this scale has been used since 2017 entry). Many universities ask for grades rather than points; some only count your best three A levels.",
+      "calculator": "https://www.ucas.com/applying/before-you-apply/what-and-where-to-study/entry-requirements/calculate-your-ucas-tariff-points",
+      "tables": "https://www.ucas.com/applying/before-you-apply/what-and-where-to-study/entry-requirements/ucas-tariff-points",
+      "source": {
+        "url": "https://www.ucas.com/api/v4/tariff/list?group=true&order=true",
+        "checked": "2026-10-17",
+        "evidence": "{\"code\":\"670c6d53\",\"name\":\"A level\",\"grades\":[{\"grade\":\"A*\",\"score\":56},{\"grade\":\"A\",\"score\":48},{\"grade\":\"B\",\"score\":40},{\"grade\":\"C\",\"score\":32},{\"grade\":\"D\",\"score\":24},{\"grade\":\"E\",\"score\":16}]"
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/corporate/news-and-key-documents/news/new-ucas-tariff-ten-things-university-applicants-teachers-and-parents-need-know",
+          "checked": "2026-10-17",
+          "evidence": "For example, an A level grade A* gets 56 points in comparison with 140 previously."
+        },
+        {
+          "url": "https://www.ucas.com/corporate/news-and-key-documents/news/new-ucas-tariff-ten-things-university-applicants-teachers-and-parents-need-know",
+          "checked": "2026-10-17",
+          "evidence": "The new Tariff comes into effect for HE courses starting in September 2017."
+        },
+        {
+          "url": "https://www.ucas.com/api/v4/tariff/list?group=true&order=true",
+          "checked": "2026-10-17",
+          "evidence": "{\"code\":\"a2c29192\",\"name\":\"AS\",\"grades\":[{\"grade\":\"A\",\"score\":20},{\"grade\":\"B\",\"score\":16},{\"grade\":\"C\",\"score\":12},{\"grade\":\"D\",\"score\":10},{\"grade\":\"E\",\"score\":6}]"
+        },
+        {
+          "url": "https://www.ucas.com/api/v4/tariff/list?group=true&order=true",
+          "checked": "2026-10-17",
+          "evidence": "{\"code\":\"79607ec4\",\"name\":\"Extended Project\",\"grades\":[{\"grade\":\"A*\",\"score\":28},{\"grade\":\"A\",\"score\":24},{\"grade\":\"B\",\"score\":20},{\"grade\":\"C\",\"score\":16},{\"grade\":\"D\",\"score\":12},{\"grade\":\"E\",\"score\":8}]"
+        },
+        {
+          "url": "https://www.ucas.com/applying/before-you-apply/what-and-where-to-study/entry-requirements/calculate-your-ucas-tariff-points",
+          "checked": "2026-10-17",
+          "evidence": "Some limit the qualifications they accept. For example, they may only accept Tariff points from the highest scoring three A levels or Scottish Highers."
+        }
+      ],
+      "note": "Values come from the data feed behind UCAS's official Tariff calculator (the calculator page itself needs JavaScript)."
+    },
+    "polarChecker": {
+      "name": "Young participation by area: search by postcode (Office for Students)",
+      "url": "https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/search-by-postcode/",
+      "measures": [
+        "POLAR4",
+        "TUNDRA MSOA",
+        "TUNDRA LSOA",
+        "Adult HE 2011"
+      ],
+      "quintiles": "Quintile 1 = lowest rate of young people going into higher education, quintile 5 = highest.",
+      "text": "Enter a postcode to see its POLAR4 and TUNDRA quintiles (how likely young people from that area are to go to university), plus the share of adults with HE qualifications. Quintile 1 is the lowest. TUNDRA covers England only. The OfS says the tool shouldn't be used on its own to decide eligibility for contextual offers or bursaries; each university decides that.",
+      "source": {
+        "url": "https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/search-by-postcode/",
+        "checked": "2026-10-17",
+        "evidence": "This tool can be used to search by postcode for levels of young participation in higher education."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/search-by-postcode/",
+          "checked": "2026-10-17",
+          "evidence": "levels of young participation (POLAR4, TUNDRA MSOA and TUNDRA LSOA) higher education qualifications among adults (Adult HE 2011)"
+        },
+        {
+          "url": "https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/search-by-postcode/",
+          "checked": "2026-10-17",
+          "evidence": "quintile one shows the lowest rates quintile five shows the highest rates."
+        },
+        {
+          "url": "https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/search-by-postcode/",
+          "checked": "2026-10-17",
+          "evidence": "This is not the purpose of the tool and it should not be used on its own for this purpose."
+        },
+        {
+          "url": "https://www.officeforstudents.org.uk/data-and-analysis/young-participation-by-area/search-by-postcode/",
+          "checked": "2026-10-17",
+          "evidence": "TUNDRA MSOA was produced using 2011 MSOAs as it covers England only."
+        }
+      ]
+    },
+    "predictedGrades": {
+      "text": "Predicted grades are set by your school or college and added to your UCAS application with your reference, after you submit it to them by their internal deadline. UCAS advises schools to give students their likely predicted grades early enough to research courses, and predictions must be final by the time the application is sent. UCAS doesn't set a national date: your school decides when (often after Year 12 assessments).",
+      "source": {
+        "url": "https://www.ucas.com/advisers/help-and-training/guides-resources-and-training/application-overview/predicted-grades-what-you-need-to-know-for-entry-this-year",
+        "checked": "2026-10-17",
+        "evidence": "students should be given their likely UCAS predicted grades in time to inform their research about which courses and providers may be suitable choices for them."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/guides-resources-and-training/application-overview/predicted-grades-what-you-need-to-know-for-entry-this-year",
+          "checked": "2026-10-17",
+          "evidence": "Finalised by the point of submitting an application – universities and colleges may only consider the predicted grades received as part of the UCAS application."
+        },
+        {
+          "url": "https://www.ucas.com/applying/applying-university/how-get-ucas-reference",
+          "checked": "2026-10-17",
+          "evidence": "If your referee is one of your teachers, they can add your predicted grades for any pending qualifications you’re studying now."
+        }
+      ],
+      "notConfirmed": [
+        "UCAS publishes no fixed date for predicted grades; timing is set by each school (the 'often after Year 12 assessments' remark is UCAS's 'ideally before any assessments that may inform them' guidance, not a date)"
+      ]
+    },
+    "openDays": {
+      "text": "UCAS doesn't publish a national open-day season: each university sets its own dates, listed in UCAS's open-day search. UCAS advises Year 12s to visit at least two open days, to book (most need booking) and to contact universities some months ahead because days get booked up. UCAS's suggested sixth-form calendar: spring of Year 12 for researching options, summer of Year 12 for making decisions and starting the UCAS application.",
+      "searchUrl": "https://www.ucas.com/explore/search/events?query=",
+      "source": {
+        "url": "https://www.ucas.com/advisers/help-and-training/develop-your-skills-adviser/university-events-school-and-college-students",
+        "checked": "2026-10-17",
+        "evidence": "If possible, Year 12s thinking about going to university should visit at least two open days."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/develop-your-skills-adviser/university-events-school-and-college-students",
+          "checked": "2026-10-17",
+          "evidence": "Top tip: Remember that most open days require pre-booking, so preparation is key"
+        },
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/develop-your-skills-as-an-adviser/events-and-summer-schools-to-prepare-students-for-higher-education",
+          "checked": "2026-10-17",
+          "evidence": "Open days and campus visits: Make sure you contact the university you wish to visit some months ahead as days get booked up."
+        },
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/develop-your-skills-as-an-adviser/events-and-summer-schools-to-prepare-students-for-higher-education",
+          "checked": "2026-10-17",
+          "evidence": "Spring Year 12: Researching options Event title: What and where to study?"
+        },
+        {
+          "url": "https://www.ucas.com/advisers/help-and-training/develop-your-skills-as-an-adviser/events-and-summer-schools-to-prepare-students-for-higher-education",
+          "checked": "2026-10-17",
+          "evidence": "Summer Year 12: Making decisions Event title: How to complete your UCAS application"
+        },
+        {
+          "url": "https://www.ucas.com/discover/advice-for-parents-guardians-and-carers/researching-university-options",
+          "checked": "2026-10-17",
+          "evidence": "Use the open days search tool to find out when the university they’re interested in is holding its next open day."
+        }
+      ],
+      "notConfirmed": [
+        "No official UCAS statement on when open days usually happen (months); check each university's open-day page"
+      ]
+    },
+    "studentFinance": {
+      "system": "Lifelong Learning Entitlement (LLE)",
+      "text": "In England, courses starting on or after 1 January 2027 are funded through the new Lifelong Learning Entitlement (LLE) student finance system, so 2028 entry uses LLE. You don't need a confirmed offer to apply, and you must reapply each year of your course.",
+      "url": "https://www.gov.uk/student-finance-on-or-after-1-january-2027",
+      "source": {
+        "url": "https://www.gov.uk/student-finance-on-or-after-1-january-2027",
+        "checked": "2026-10-17",
+        "evidence": "For courses starting on or after 1 January 2027, you may need to apply for student finance through the new student finance system. The new system is called your Lifelong Learning Entitlement (LLE)."
+      },
+      "extraSources": [
+        {
+          "url": "https://www.gov.uk/student-finance-on-or-after-1-january-2027",
+          "checked": "2026-10-17",
+          "evidence": "You will need to apply for funding for each course you study. If your course lasts longer than a year, you will need to reapply each year of your course."
+        }
+      ]
+    },
+    "tmua": null,
+    "schoolPerformance": null,
+    "russellGroup": null
+  },
+  "notes": [
+    "Every date is 'Confirmed' (published for that exact year) or 'Expected' (estimate from earlier years, explained in basedOn).",
+    "No 2028-entry dates were published by UCAS, UAT-UK (TMUA) or JCQ on 2026-10-17, so all Timeline dates are Expected. Where two earlier cycles fell on the same weekday, the estimate is the matching weekday one year on; where they fell on the same calendar date, that date is used.",
+    "UCAS's admissions consultation (dates, deadlines and number of choices) shares its final outcomes in autumn 2026, and the 2028 cycle (2028 entry) is the earliest any changes could apply, so check UCAS once 2028-entry dates are published.",
+    "Evidence quotes are verbatim page text from tools/page_text.py; line breaks in the page text are shown as single spaces.",
+    "The JCQ website (jcq.org.uk) couldn't be read (it shows a bot check), so JCQ dates come from AQA's key dates pages, which list JCQ as the source, plus UCAS and Pearson pages."
+  ],
+  "notConfirmed": [
+    "All 2028-entry UCAS dates (not published yet)",
+    "2028-entry TMUA dates, booking windows and fee (UAT-UK only shows 2027 entry)",
+    "2028 A-level exam timetable and results day (JCQ hasn't published them)",
+    "2027/28 and 2028/29 Student Finance England opening dates and 'apply by' deadlines",
+    "2028-entry UCAS application fee"
+  ]
+}

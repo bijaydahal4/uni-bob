@@ -1,0 +1,1599 @@
+{
+  "id": "bath",
+  "name": "University of Bath",
+  "shortName": "Bath",
+  "aliases": [
+    "Bath",
+    "Bath Uni",
+    "Uni of Bath",
+    "UoBath"
+  ],
+  "city": "Bath",
+  "region": "South West",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.bath.ac.uk/topics/undergraduate-open-days/",
+    "checked": "2026-10-17",
+    "evidence": "We are a campus university in the South West of England and offer courses in engineering, humanities, management, science and social science."
+  },
+  "location": {
+    "postcode": "BA2 7AY",
+    "postcodeSource": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics/",
+    "lat": 51.379324,
+    "lng": -2.327157,
+    "coordsSource": "https://api.postcodes.io/postcodes/BA27AY",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for Home (UK) students on standard full-time courses starting in 2027 (2027/28). Bath says the 2027/28 regulated fee is still to be confirmed by the UK government (subject to parliamentary approval); placement/study-abroad year fees are reduced.",
+    "source": {
+      "url": "https://www.bath.ac.uk/corporate-information/full-time-undergraduate-funding-guide-english-students/",
+      "checked": "2026-10-17",
+      "evidence": "Home UK tuition fees are £10,050 for standard full-time courses in 2027/28."
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 98,
+    "amountHigh": 315,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "University self-catered (non-catered) halls cost about £98–£315 a week including bills, average £183 a week (2026/27). Bath's sample student budget for a 38-week year totals about £12,392.",
+    "source": {
+      "url": "https://www.bath.ac.uk/corporate-information/full-time-undergraduate-funding-guide-english-students/",
+      "checked": "2026-10-17",
+      "evidence": "*University Non-Catered Accommodation (ranges from £98-£315 per week) Average cost £183 p/w. inclusive of bills"
+    }
+  },
+  "openDays": {
+    "events": [],
+    "text": "Next in-person undergraduate open days are in June 2027 (exact dates not announced yet).",
+    "url": "https://www.bath.ac.uk/topics/undergraduate-open-days/",
+    "source": {
+      "url": "https://www.bath.ac.uk/topics/undergraduate-open-days/",
+      "checked": "2026-10-17",
+      "evidence": "Our next in-person Open Days are in June 2027."
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "Home-fee applicants who meet any one of Bath's contextual criteria automatically get a lower contextual offer and extra consideration from an Admissions Progression Team.",
+    "typicalReduction": "Two grades lower than the typical entry requirements for most courses (Economics & Mathematics: one grade lower for 2026 and 2027 entry).",
+    "criteria": [
+      {
+        "key": "fsm",
+        "detail": "Recorded as eligible for Free School Meals in the National Pupil Database (England, or equivalent in NI/Wales) at any point during Key Stage 3 or Key Stage 4. FSM during sixth form does not count.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Home postcode when you apply is in an area of high socio-economic disadvantage (IMD quintiles 1 or 2) and you attended a UK state school or college for at least two full academic years in your last four years.",
+        "measure": "IMD",
+        "quintiles": [
+          1,
+          2
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "care",
+        "detail": "Care leaver or care experienced, aged 25 or under when you start, with evidence.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "carer",
+        "detail": "Young carer, aged 25 or under when you start, with evidence.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "Estranged student, aged 25 or under when you start, with evidence.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "refugee",
+        "detail": "You hold leave in the UK as a refugee, asylum seeker or person with humanitarian protection, or you are the child of someone who does.",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "You will be considered for contextual admissions (including contextual offers) if you are eligible for UK fees and meet any one of the criteria. Contextual offers are automatic and replace the typical or alternative offers; contextual and alternative offers do not stack.",
+    "url": "https://www.bath.ac.uk/guides/understanding-contextual-admissions-for-undergraduate-applicants/",
+    "source": {
+      "url": "https://www.bath.ac.uk/guides/understanding-contextual-admissions-for-undergraduate-applicants/",
+      "checked": "2026-10-17",
+      "evidence": "You will be considered for contextual admissions (including contextual offers) if you are a student eligible for UK fees and you meet any one of the following criteria:"
+    }
+  },
+  "programmes": [
+    {
+      "id": "bath-discover-bath",
+      "name": "Discover Bath",
+      "provider": "University of Bath",
+      "providerType": "university",
+      "uniIds": [
+        "bath"
+      ],
+      "summary": "Free 2-night residential summer school for Year 12 students from widening participation backgrounds, with subject streams including Economics and Accounting/Business.",
+      "whoCanApply": "Year 12 (or equivalent) students who are academically able to study their chosen subject at Bath and meet Bath's widening participation criteria. You can only do one of Pathway to Bath, Bath Ambitions or Discover Bath.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "area",
+        "care",
+        "carer",
+        "refugee",
+        "estranged"
+      ],
+      "eligibilityDetail": "Meet one or more WP criteria: eligible for FSM between ages 11 and 16; home postcode in IMD quintiles 1-2 (deciles 1-4) and no more than two years at an independent/international school in your last four years; care leaver; young carer; refugee, asylum seeker or humanitarian protection; irreconcilably estranged from parents.",
+      "benefits": [
+        "Free on-campus accommodation, meals and academic sessions; reasonable UK travel reimbursed",
+        "Possible guaranteed conditional offer from Bath if you complete the programme and meet the criteria (terms currently published for 2026 and 2027 entry)",
+        "UCAS, personal statement and student finance support"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "residential",
+      "subjects": "Social Sciences stream (incl. Economics, Politics, Psychology, Sociology) or Accounting, Management and Business stream (Business and Marketing, Accounting and Finance)",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Social Sciences and Accounting/Management/Business streams: Wednesday 4 – Friday 6 August 2027 (2 nights)",
+        "start": "2027-08-04",
+        "end": "2027-08-06",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "End of January 2027",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not published yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "2027 dates published; application deadline not yet published.",
+      "url": "https://www.bath.ac.uk/campaigns/discover-bath/",
+      "source": {
+        "url": "https://www.bath.ac.uk/campaigns/discover-bath/",
+        "checked": "2026-10-17",
+        "evidence": "Wednesday 4th August – Friday 6th August 2027 (2-night stay)"
+      },
+      "notConfirmed": [
+        "2027 application deadline not published",
+        "Guaranteed-offer terms are only published for 2026 and 2027 entry, not 2028 entry"
+      ]
+    },
+    {
+      "id": "bath-pathway-to-bath",
+      "name": "Pathway to Bath",
+      "provider": "University of Bath",
+      "providerType": "university",
+      "uniIds": [
+        "bath"
+      ],
+      "summary": "Free year-long programme for Year 12 students from under-represented backgrounds: online taught sessions and assignments in a subject stream (including Economics, Business and Accounting), a summer residential, and application support.",
+      "whoCanApply": "Academically able UK Year 12 students considering Bath who are on track to meet the contextual offer for a course in their chosen area and meet one or more of Bath's widening participation criteria.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "area",
+        "care",
+        "carer",
+        "refugee",
+        "estranged"
+      ],
+      "eligibilityDetail": "Bath WP criteria: FSM between ages 11 and 16; home postcode in IMD quintiles 1-2 (deciles 1-4) and no more than two years at an independent/international school in your last four years; care leaver; young carer; refugee, asylum seeker or humanitarian protection; irreconcilably estranged.",
+      "benefits": [
+        "Guaranteed conditional offer from Bath on successful completion (terms currently published for 2026 and 2027 entry)",
+        "Free summer residential on campus",
+        "1:1 personal statement support"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "Economics, Business and Accounting stream (Business and Marketing, Economics, Accounting and Finance) among others",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Online course 3 February – 28 April 2027; residential week beginning 19 July 2027; application support September – December 2027",
+        "start": "2027-02-03",
+        "end": "2027-12-31",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Applications for 2027 are open now",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "6 January 2027",
+        "date": "2027-01-06",
+        "status": "Confirmed"
+      },
+      "infoYear": 2027,
+      "infoNote": "End date approximates 'September – December 2027' support phase.",
+      "url": "https://www.bath.ac.uk/campaigns/pathway-to-bath-programme/",
+      "source": {
+        "url": "https://www.bath.ac.uk/campaigns/pathway-to-bath-programme/",
+        "checked": "2026-10-17",
+        "evidence": "Application deadline 6 January 2027"
+      },
+      "notConfirmed": [
+        "Guaranteed-offer terms are only published for 2026 and 2027 entry, not 2028 entry"
+      ]
+    },
+    {
+      "id": "bath-step-into-bath",
+      "name": "Step into Bath",
+      "provider": "University of Bath",
+      "providerType": "university",
+      "uniIds": [
+        "bath"
+      ],
+      "summary": "Paid 2-night residential summer school for Year 12 students on track for Bath's typical offer, with taster lectures and admissions advice; Humanities/Social Science and School of Management streams.",
+      "whoCanApply": "Year 12/Lower Sixth students on track to meet the typical offer for their chosen course, taking the relevant A levels, and planning to start university in 2028. Students likely to meet WP criteria are pointed to Discover Bath instead.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "On track to meet the typical offer for your chosen Bath course; expected grades requested on the application form.",
+      "benefits": [
+        "Taster lectures and placement/employability sessions",
+        "Personal statement advice from admissions selectors and chance to talk to admissions tutors",
+        "Stay 2 nights in student accommodation"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "£365",
+      "isFree": false,
+      "format": "residential",
+      "subjects": "Humanities or Social Science stream, or School of Management stream",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "28–30 July 2027 (Humanities/Social Science and School of Management streams)",
+        "start": "2027-07-28",
+        "end": "2027-07-30",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "End of January 2027",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not published yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "Cost covers accommodation, food and activities; travel not reimbursed.",
+      "url": "https://www.bath.ac.uk/campaigns/step-into-bath/",
+      "source": {
+        "url": "https://www.bath.ac.uk/campaigns/step-into-bath/",
+        "checked": "2026-10-17",
+        "evidence": "from 28 - 30 July 2027 for students interested in a Humanities or Social Science or School of management course."
+      },
+      "notConfirmed": [
+        "2027 application deadline not published"
+      ]
+    },
+    {
+      "id": "bath-bath-ambitions",
+      "name": "Bath Ambitions (formerly Target Bath)",
+      "provider": "University of Bath",
+      "providerType": "university",
+      "uniIds": [
+        "bath"
+      ],
+      "summary": "Free Year 12 programme (February to July) for students of Black African and Caribbean heritage, with talks, 1:1s, an overnight campus visit and application support.",
+      "whoCanApply": "UK-based Year 12 students of Black African, Black Caribbean, Black Other or mixed Black heritage with 5 or more GCSEs at grades 9-6, on track to study their chosen subject at Bath. Priority for students meeting WP criteria.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "other"
+      ],
+      "eligibilityDetail": "Black African, Black Caribbean, Black Other or mixed Black heritage; 5+ GCSEs at 9-6; on track academically for Bath; priority to those meeting widening participation criteria.",
+      "benefits": [
+        "Possible guaranteed conditional offer from Bath on completion (terms currently published for 2026 and 2027 entry)",
+        "Additional consideration when applying to Bath",
+        "Free overnight campus stay"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "mixed",
+      "subjects": "All subjects",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "February to July of Year 12",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Not published yet (page says applications are closed as of October 2026)",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not published yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Page describes the programme as running February to July of Year 12; 2027 application dates not announced.",
+      "url": "https://www.bath.ac.uk/campaigns/bath-ambitions/",
+      "source": {
+        "url": "https://www.bath.ac.uk/campaigns/bath-ambitions/",
+        "checked": "2026-10-17",
+        "evidence": "Bath Ambitions (formerly Target Bath) is a free Year 12 programme for Black African and Caribbean heritage students across the UK."
+      },
+      "notConfirmed": [
+        "2027 application window and exact dates not published"
+      ]
+    },
+    {
+      "id": "bath-apply-with-bath",
+      "name": "Apply with Bath",
+      "provider": "University of Bath",
+      "providerType": "university",
+      "uniIds": [
+        "bath"
+      ],
+      "summary": "Free, flexible online programme for Year 13 students applying to Bath, with short live sessions run by current students and a Teams group; 1:1 personal statement sessions for students meeting WP criteria.",
+      "whoCanApply": "Year 13 students applying to Bath who have at least six GCSEs at grades 9-6 (A*-B), including at least 4/C in English and Maths, and are on track for their chosen subject.",
+      "eligibility": "open",
+      "eligibilityCriteria": [],
+      "eligibilityDetail": "Open to eligible Year 13 applicants; 1:1 personal statement support only for those meeting one or more WP criteria.",
+      "benefits": [
+        "Application, accommodation, finance and student-life sessions",
+        "1:1 personal statement support if you meet WP criteria"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "online",
+      "subjects": "All subjects",
+      "yearGroup": "Year 13",
+      "runs": {
+        "text": "Live online sessions September to December (2026 sessions: 10 September – 3 December 2026)",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Applications for 2026 are open",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not published",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2026,
+      "infoNote": "Based on the 2026 programme (Year 13 applicants for 2027 entry). The 2027 version (for 2028 entry applicants) is expected to run September to December 2027 but dates are not announced.",
+      "url": "https://www.bath.ac.uk/campaigns/apply-with-bath/",
+      "source": {
+        "url": "https://www.bath.ac.uk/campaigns/apply-with-bath/",
+        "checked": "2026-10-17",
+        "evidence": "Apply with Bath is a free, online programme for Year 13 students, designed to help you feel confident and prepared when applying to the University of Bath."
+      },
+      "notConfirmed": [
+        "2027 session dates not announced"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.bath.ac.uk/",
+    "courses": "https://www.bath.ac.uk/topics/undergraduate-study-2027/",
+    "economics": "https://www.bath.ac.uk/departments/department-of-economics/",
+    "openDays": "https://www.bath.ac.uk/topics/undergraduate-open-days/",
+    "fees": "https://www.bath.ac.uk/corporate-information/tuition-fees-for-undergraduate-students-starting-in-2027/",
+    "contextual": "https://www.bath.ac.uk/guides/understanding-contextual-admissions-for-undergraduate-applicants/",
+    "accommodation": "https://www.bath.ac.uk/corporate-information/undergraduate-accommodation-prices/"
+  },
+  "courses": [
+    {
+      "id": "bath-economics",
+      "name": "Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "D100",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a 4-year course with a professional placement or study abroad in Year 3 (course code D101)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA in three A levels including Mathematics",
+        "source": {
+          "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics/",
+          "checked": "2026-10-17",
+          "evidence": "A*AA in three A levels including Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A level Mathematics required; typical offer A*AA including Mathematics (the page does not say the A* must be in Mathematics). Contextual and alternative offers ask for A in Mathematics."
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Biology",
+            "Chemistry",
+            "Classical Civilisation",
+            "Computer Science",
+            "Economics",
+            "English Language/Literature",
+            "Foreign Language",
+            "Further Mathematics",
+            "Geography",
+            "History/Ancient History/History of Art",
+            "Law",
+            "Philosophy/Philosophy & Ethics",
+            "Politics/Government & Politics",
+            "Physics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology",
+            "Statistics",
+            "Welsh Language/Literature"
+          ],
+          "note": "The strongest applicants take A level Mathematics plus two of these preferred subjects (Geography and Psychology are both on the list). Subjects studied are weighted 20% in selection."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "GCSE English Language or Literature grade 4/C. Wider GCSE profile weighted 50% in selection (best eight grades incl. Maths and English); strongest applicants have had mostly 9/A* grades."
+        }
+      ],
+      "gcseText": "GCSE English Language or Literature grade 4 or C (or equivalent from English language category B). Your wider GCSE profile is also a significant factor in how we select students for offer for this course.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bath.ac.uk/corporate-information/admissions-for-a-level-students-for-economics/",
+        "checked": "2026-10-17",
+        "evidence": "A level Mathematics is required for this course. You do not need to have previously studied Economics or Politics."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Bath stopped considering TMUA and MAT scores from 2025 entry; maths tests are only used for some Mathematics degrees.",
+        "source": {
+          "url": "https://www.bath.ac.uk/guides/guide-to-mathematics-tests-for-undergraduate-admissions/",
+          "checked": "2026-10-17",
+          "evidence": "For 2025 onwards we will no longer be considering TMUA or MAT scores in our admissions."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB including A in Mathematics, automatically if you meet Bath's contextual criteria (replaces the typical and alternative offers).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics/",
+            "checked": "2026-10-17",
+            "evidence": "AAB in three A levels including A in Mathematics."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "AAA or A*AB including A in Mathematics, plus grade A in an EPQ or IEPQ (or an appropriate grade in another recognised project qualification). Not available if you get the contextual offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics/",
+            "checked": "2026-10-17",
+            "evidence": "AAA or A*AB in three A levels including A in Mathematics plus one of:"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "AAA or A*AB including A in Mathematics, plus grade A in AS level Further Mathematics (if not taking the full A level), or grade B in a fourth A level where your four A levels include A level Further Mathematics.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics/",
+            "checked": "2026-10-17",
+            "evidence": "grade A in AS level Further Mathematics (except if you are studying an A level in that subject)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed conditional offer if you successfully complete Pathway to Bath, Discover Bath or Bath Ambitions, apply by the UCAS on-time deadline, are predicted no more than two grades below the typical offer and meet the course's minimum requirements. Terms are published for 2026 and 2027 entry only; the offer grades are not stated.",
+          "programme": "Pathway to Bath / Discover Bath / Bath Ambitions",
+          "source": {
+            "url": "https://www.bath.ac.uk/legal-information/guaranteed-conditional-offers-for-outreach-participants-2026-and-2027/",
+            "checked": "2026-10-17",
+            "evidence": "We will therefore guarantee an offer to those who successfully complete the programme (Pathway, Discover or Bath Ambitions, formerly Target Bath) and meet our eligibility criteria as outlined below."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not yet published (Bath's undergraduate-2028 course pages return 404); 2027 entry used",
+        "Course page says 2027/28 fee information is not yet available"
+      ],
+      "notes": "Selection weighting (A level applicants): GCSE profile 50%, predicted grades 20% (Maths grade particularly important), subjects 20%, personal statement 10%. Economics, Economics with Politics and their placement/abroad versions are assessed together; no benefit in applying to more than one. Most offers are made in February and March."
+    },
+    {
+      "id": "bath-economics-politics",
+      "name": "Economics with Politics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "D110",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a 4-year course with a professional placement or study abroad in Year 3",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA in three A levels including Mathematics",
+        "source": {
+          "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-with-politics/",
+          "checked": "2026-10-17",
+          "evidence": "A*AA in three A levels including Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A level Mathematics required; typical offer A*AA including Mathematics (the page does not say the A* must be in Mathematics). Contextual and alternative offers ask for A in Mathematics."
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Biology",
+            "Chemistry",
+            "Classical Civilisation",
+            "Computer Science",
+            "Economics",
+            "English Language/Literature",
+            "Foreign Language",
+            "Further Mathematics",
+            "Geography",
+            "History/Ancient History/History of Art",
+            "Law",
+            "Philosophy/Philosophy & Ethics",
+            "Politics/Government & Politics",
+            "Physics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology",
+            "Statistics",
+            "Welsh Language/Literature"
+          ],
+          "note": "The strongest applicants take A level Mathematics plus two of these preferred subjects (Geography and Psychology are both on the list). Subjects studied are weighted 20% in selection."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "GCSE English Language or Literature grade 4/C. Wider GCSE profile weighted 50% in selection (best eight grades incl. Maths and English); strongest applicants have had mostly 9/A* grades."
+        }
+      ],
+      "gcseText": "GCSE English Language or Literature grade 4 or C (or equivalent from English language category B). Your wider GCSE profile is also a significant factor in how we select students for offer for this course.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bath.ac.uk/corporate-information/admissions-for-a-level-students-for-economics/",
+        "checked": "2026-10-17",
+        "evidence": "A level Mathematics is required for this course. You do not need to have previously studied Economics or Politics."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Bath stopped considering TMUA and MAT scores from 2025 entry; maths tests are only used for some Mathematics degrees.",
+        "source": {
+          "url": "https://www.bath.ac.uk/guides/guide-to-mathematics-tests-for-undergraduate-admissions/",
+          "checked": "2026-10-17",
+          "evidence": "For 2025 onwards we will no longer be considering TMUA or MAT scores in our admissions."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB including A in Mathematics, automatically if you meet Bath's contextual criteria (replaces the typical and alternative offers).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-with-politics/",
+            "checked": "2026-10-17",
+            "evidence": "AAB in three A levels including A in Mathematics."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "AAA or A*AB including A in Mathematics, plus grade A in an EPQ or IEPQ (or an appropriate grade in another recognised project qualification). Not available if you get the contextual offer.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-with-politics/",
+            "checked": "2026-10-17",
+            "evidence": "AAA or A*AB in three A levels including A in Mathematics plus one of:"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "AAA or A*AB including A in Mathematics, plus grade A in AS level Further Mathematics (if not taking the full A level), or grade B in a fourth A level where your four A levels include A level Further Mathematics.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-with-politics/",
+            "checked": "2026-10-17",
+            "evidence": "grade A in AS level Further Mathematics (except if you are studying an A level in that subject)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed conditional offer if you successfully complete Pathway to Bath, Discover Bath or Bath Ambitions, apply by the UCAS on-time deadline, are predicted no more than two grades below the typical offer and meet the course's minimum requirements. Terms are published for 2026 and 2027 entry only; the offer grades are not stated.",
+          "programme": "Pathway to Bath / Discover Bath / Bath Ambitions",
+          "source": {
+            "url": "https://www.bath.ac.uk/legal-information/guaranteed-conditional-offers-for-outreach-participants-2026-and-2027/",
+            "checked": "2026-10-17",
+            "evidence": "We will therefore guarantee an offer to those who successfully complete the programme (Pathway, Discover or Bath Ambitions, formerly Target Bath) and meet our eligibility criteria as outlined below."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-with-politics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not yet published (Bath's undergraduate-2028 course pages return 404); 2027 entry used",
+        "Course page says 2027/28 fee information is not yet available"
+      ],
+      "notes": "Same entry requirements and selection process as BSc Economics (GCSE profile 50%, predicted grades 20%, subjects 20%, personal statement 10%). Applications to Economics and Economics with Politics are considered together."
+    },
+    {
+      "id": "bath-economics-mathematics",
+      "name": "Economics and Mathematics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "D120",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a 4-year course with a professional placement or study abroad in Year 3",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA in three A levels including A*A in Mathematics and Further Mathematics",
+        "source": {
+          "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-and-mathematics/",
+          "checked": "2026-10-17",
+          "evidence": "A*AA in three A levels including A*A in Mathematics and Further Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A*A across Mathematics and Further Mathematics (one of them at A*)"
+        },
+        {
+          "subjects": [
+            "Further Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "Full A level Further Mathematics strongly preferred; AS Further Maths only considered in exceptional cases (then with STEP/AEA)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "required",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "GCSE English Language or Literature grade 4/C"
+        }
+      ],
+      "gcseText": "GCSE English Language or Literature grade 4 or C (or equivalent from English language category C)",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-and-mathematics/",
+        "checked": "2026-10-17",
+        "evidence": "We strongly prefer that you study a full A level in Further Mathematics. In exceptional cases we may consider an alternative offer if you have only studied Further Mathematics at AS level."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No test if you take A level Further Maths. Only in the exceptional AS Further Maths route does the offer add grade 2 in any STEP paper or Merit in the AEA. TMUA and MAT are not considered.",
+        "source": {
+          "url": "https://www.bath.ac.uk/guides/guide-to-mathematics-tests-for-undergraduate-admissions/",
+          "checked": "2026-10-17",
+          "evidence": "You do not need a Maths test if you study A level Further Mathematics or IB HL Mathematics: Analysis & Approaches."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "A*AB",
+          "tariff": null,
+          "conditions": "A*A in Mathematics and Further Mathematics plus B in a third A level, if you meet the contextual criteria (one grade lower for 2026 and 2027 entry). You must take A level Further Maths.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-and-mathematics/",
+            "checked": "2026-10-17",
+            "evidence": "A*A in Mathematics and Further Mathematics plus B in a third A level."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "A*AB",
+          "tariff": null,
+          "conditions": "A*A in Mathematics and Further Mathematics plus B in a third A level, plus grade A in an EPQ or IEPQ (or another recognised project qualification).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-and-mathematics/",
+            "checked": "2026-10-17",
+            "evidence": "A*A in Mathematics and Further Mathematics plus B in a third A level plus one of:"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "A*AA",
+          "tariff": null,
+          "conditions": "Exceptional route with only AS Further Maths: A*AA including A* in Mathematics, plus A in AS Further Mathematics, plus grade 2 in any STEP paper or Merit in the AEA.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-and-mathematics/",
+            "checked": "2026-10-17",
+            "evidence": "A*AA in three A levels including A* in Mathematics plus A in AS Level Further Mathematics plus grade 2 in any STEP or Merit in the GCE AEA in Mathematics."
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed conditional offer if you successfully complete Pathway to Bath, Discover Bath or Bath Ambitions, apply by the UCAS on-time deadline, are predicted no more than two grades below the typical offer and meet the course's minimum requirements. Terms are published for 2026 and 2027 entry only; the offer grades are not stated.",
+          "programme": "Pathway to Bath / Discover Bath / Bath Ambitions",
+          "source": {
+            "url": "https://www.bath.ac.uk/legal-information/guaranteed-conditional-offers-for-outreach-participants-2026-and-2027/",
+            "checked": "2026-10-17",
+            "evidence": "We will therefore guarantee an offer to those who successfully complete the programme (Pathway, Discover or Bath Ambitions, formerly Target Bath) and meet our eligibility criteria as outlined below."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bath.ac.uk/courses/undergraduate-2027/economics/bsc-economics-and-mathematics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not yet published; 2027 entry used",
+        "Course page says 2027/28 fee information is not yet available"
+      ],
+      "notes": "Requires Further Mathematics (full A level strongly preferred)."
+    },
+    {
+      "id": "bath-politics-economics",
+      "name": "Politics with Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "A100",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a 4-year course with a professional placement or study abroad in Year 3",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA or A*AB in three A levels (no specific subjects required)",
+        "source": {
+          "url": "https://www.bath.ac.uk/courses/undergraduate-2027/politics/bsc-politics-with-economics/",
+          "checked": "2026-10-17",
+          "evidence": "AAA or A*AB in three A levels."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "7",
+          "note": "Grade 7/A; grade 6/B may be considered if you take a numerical A level such as Economics, Psychology or a science"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "GCSE English Language or Literature grade 4/C"
+        }
+      ],
+      "gcseText": "GCSE Mathematics grade 7 or A. GCSE English Language or Literature grade 4 or C. We may also be able to consider you with a GCSE grade 6 or B in Mathematics if you study a numerical subject such as Economics, Psychology or a science at A level (or equivalent).",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bath.ac.uk/courses/undergraduate-2027/politics/bsc-politics-with-economics/",
+        "checked": "2026-10-17",
+        "evidence": "You do not need to have studied Politics or Economics before to be suitable for this course, and your relevant experiences and interests are more important than which subjects you have previously studied."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Bath stopped considering TMUA and MAT scores from 2025 entry; maths tests are only used for some Mathematics degrees.",
+        "source": {
+          "url": "https://www.bath.ac.uk/guides/guide-to-mathematics-tests-for-undergraduate-admissions/",
+          "checked": "2026-10-17",
+          "evidence": "For 2025 onwards we will no longer be considering TMUA or MAT scores in our admissions."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB in three A levels if you meet Bath's contextual criteria (automatic).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/politics/bsc-politics-with-economics/",
+            "checked": "2026-10-17",
+            "evidence": "ABB in three A levels."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB plus grade A in an EPQ or IEPQ (or another recognised project qualification).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/politics/bsc-politics-with-economics/",
+            "checked": "2026-10-17",
+            "evidence": "AAB in three A levels plus one of:"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB plus grade B in a Core Maths qualification, or B in AS Mathematics or Statistics (if not taking that A level), or B in a fourth A level where your four A levels include Mathematics or Statistics.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/politics/bsc-politics-with-economics/",
+            "checked": "2026-10-17",
+            "evidence": "grade B in a fourth A level, where your four A levels include A level Mathematics or Statistics"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed conditional offer if you successfully complete Pathway to Bath, Discover Bath or Bath Ambitions, apply by the UCAS on-time deadline, are predicted no more than two grades below the typical offer and meet the course's minimum requirements. Terms are published for 2026 and 2027 entry only; the offer grades are not stated.",
+          "programme": "Pathway to Bath / Discover Bath / Bath Ambitions",
+          "source": {
+            "url": "https://www.bath.ac.uk/legal-information/guaranteed-conditional-offers-for-outreach-participants-2026-and-2027/",
+            "checked": "2026-10-17",
+            "evidence": "We will therefore guarantee an offer to those who successfully complete the programme (Pathway, Discover or Bath Ambitions, formerly Target Bath) and meet our eligibility criteria as outlined below."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bath.ac.uk/courses/undergraduate-2027/politics/bsc-politics-with-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not yet published; 2027 entry used",
+        "Course page says 2027/28 fee information is not yet available"
+      ],
+      "notes": "Taught by the Department of Politics, Languages & International Studies. A level Maths not required but a strong Maths grounding (e.g. high GCSE grade) is essential. Personal statement should show enthusiasm for politics or international relations."
+    },
+    {
+      "id": "bath-international-development-economics",
+      "name": "International Development with Economics",
+      "degree": "BSc (Hons)",
+      "ucasCode": "U140",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a 4-year course with a professional placement in Year 3",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-geography"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB in three A levels (no specific subjects required)",
+        "source": {
+          "url": "https://www.bath.ac.uk/courses/undergraduate-2027/international-development/bsc-international-development-with-economics/",
+          "checked": "2026-10-17",
+          "evidence": "AAB in three A levels."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6/B (requirement updated in June 2026 for 2027 entry)"
+        },
+        {
+          "subject": "English",
+          "minGrade": "4",
+          "note": "GCSE English Language or Literature grade 4/C"
+        }
+      ],
+      "gcseText": "GCSE Mathematics grade 6 or B. GCSE English Language or Literature grade 4 or C. The GCSE Mathematics requirement for this course was updated in June 2026 for September 2027 entry.",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bath.ac.uk/courses/undergraduate-2027/international-development/bsc-international-development-with-economics/",
+        "checked": "2026-10-17",
+        "evidence": "Previous Mathematics study is essential to prepare you for Economics content at University. While A level Mathematics is not required, you will need a strong grounding in Mathematics (for example, a high grade at GCSE)."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Bath stopped considering TMUA and MAT scores from 2025 entry; maths tests are only used for some Mathematics degrees.",
+        "source": {
+          "url": "https://www.bath.ac.uk/guides/guide-to-mathematics-tests-for-undergraduate-admissions/",
+          "checked": "2026-10-17",
+          "evidence": "For 2025 onwards we will no longer be considering TMUA or MAT scores in our admissions."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "BBB or ABC in three A levels if you meet Bath's contextual criteria (automatic).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/international-development/bsc-international-development-with-economics/",
+            "checked": "2026-10-17",
+            "evidence": "BBB or ABC in three A levels."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade A in an EPQ or IEPQ (or another recognised project qualification).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/international-development/bsc-international-development-with-economics/",
+            "checked": "2026-10-17",
+            "evidence": "ABB in three A levels plus one of:"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB plus grade B in a Core Maths qualification, or B in AS Mathematics or Statistics (if not taking that A level), or B in a fourth A level where your four A levels include Mathematics or Statistics.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/international-development/bsc-international-development-with-economics/",
+            "checked": "2026-10-17",
+            "evidence": "grade B in a Core Mathematics qualification"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed conditional offer if you successfully complete Pathway to Bath, Discover Bath or Bath Ambitions, apply by the UCAS on-time deadline, are predicted no more than two grades below the typical offer and meet the course's minimum requirements. Terms are published for 2026 and 2027 entry only; the offer grades are not stated.",
+          "programme": "Pathway to Bath / Discover Bath / Bath Ambitions",
+          "source": {
+            "url": "https://www.bath.ac.uk/legal-information/guaranteed-conditional-offers-for-outreach-participants-2026-and-2027/",
+            "checked": "2026-10-17",
+            "evidence": "We will therefore guarantee an offer to those who successfully complete the programme (Pathway, Discover or Bath Ambitions, formerly Target Bath) and meet our eligibility criteria as outlined below."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bath.ac.uk/courses/undergraduate-2027/international-development/bsc-international-development-with-economics/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not yet published; 2027 entry used",
+        "Course page says 2027/28 fee information is not yet available",
+        "Study abroad option not mentioned on the course page (only a placement version)"
+      ],
+      "notes": "Taught by the Department of Social & Policy Sciences. Personal statement should show enthusiasm for international development."
+    },
+    {
+      "id": "bath-accounting-finance",
+      "name": "Accounting and Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "C120",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a 4-year course with a work placement",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "accounting-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA or A*A*B in three A levels including A in Mathematics",
+        "source": {
+          "url": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-accounting-and-finance/",
+          "checked": "2026-10-17",
+          "evidence": "A*AA or A*A*B in three A levels including A in Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A level Mathematics at grade A"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Biology",
+            "Business",
+            "Chemistry",
+            "Classical Civilisation",
+            "Computer Science",
+            "Criminology",
+            "Economics",
+            "English Language/Literature",
+            "Environmental Science",
+            "Finance (LIBF)",
+            "Further Mathematics",
+            "Geography",
+            "History/History of Art",
+            "Law",
+            "Philosophy/Philosophy & Ethics",
+            "Physics",
+            "Politics/Government & Politics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology",
+            "Statistics",
+            "Welsh Language/Literature"
+          ],
+          "note": "Strongest applicants take Maths plus two preferred subjects, ideally one more numerical and one essay-based subject (Geography and Psychology are on the list). Subjects weighted 30% in selection."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "6",
+          "note": "GCSE English Language or Literature grade 6/B. GCSE profile weighted 40% in selection; strongest applicants have had mostly 9/A* grades."
+        }
+      ],
+      "gcseText": "GCSE English Language or Literature grade 6 or B (or equivalent from English language category A)",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bath.ac.uk/corporate-information/admissions-for-a-level-students-for-accounting-and-finance/",
+        "checked": "2026-10-17",
+        "evidence": "A level Mathematics is required for this course."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Bath stopped considering TMUA and MAT scores from 2025 entry; maths tests are only used for some Mathematics degrees.",
+        "source": {
+          "url": "https://www.bath.ac.uk/guides/guide-to-mathematics-tests-for-undergraduate-admissions/",
+          "checked": "2026-10-17",
+          "evidence": "For 2025 onwards we will no longer be considering TMUA or MAT scores in our admissions."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB or A*BB including B in Mathematics, if you meet Bath's contextual criteria (automatic).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-accounting-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "AAB or A*BB in three A levels including B in Mathematics."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "AAA or A*AB including A in Mathematics, plus grade A in an EPQ or IEPQ (or another recognised project qualification).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-accounting-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "AAA or A*AB in three A levels including A in Mathematics plus one of:"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAA",
+          "tariff": null,
+          "conditions": "AAA or A*AB including A in Mathematics, plus A in AS Further Mathematics (if not taking the A level), or B in a fourth A level where your four A levels include Further Mathematics.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-accounting-and-finance/",
+            "checked": "2026-10-17",
+            "evidence": "grade A in AS level Further Mathematics (except if you are studying an A level in that subject)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed conditional offer if you successfully complete Pathway to Bath, Discover Bath or Bath Ambitions, apply by the UCAS on-time deadline, are predicted no more than two grades below the typical offer and meet the course's minimum requirements. Terms are published for 2026 and 2027 entry only; the offer grades are not stated.",
+          "programme": "Pathway to Bath / Discover Bath / Bath Ambitions",
+          "source": {
+            "url": "https://www.bath.ac.uk/legal-information/guaranteed-conditional-offers-for-outreach-participants-2026-and-2027/",
+            "checked": "2026-10-17",
+            "evidence": "We will therefore guarantee an offer to those who successfully complete the programme (Pathway, Discover or Bath Ambitions, formerly Target Bath) and meet our eligibility criteria as outlined below."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-accounting-and-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not yet published; 2027 entry used",
+        "Course page says 2027/28 fee information is not yet available",
+        "GCSE Mathematics grade requirement not listed on the course page"
+      ],
+      "notes": "School of Management. Selection weighting: GCSE profile 40%, predicted grades 20% (Maths particularly important), subjects 30%, personal statement 10%."
+    },
+    {
+      "id": "bath-finance",
+      "name": "Finance",
+      "degree": "BSc (Hons)",
+      "ucasCode": "C180",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a 4-year course with a work placement",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "A*AA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "A*AA or A*A*B in three A levels including A* in Mathematics",
+        "source": {
+          "url": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-finance/",
+          "checked": "2026-10-17",
+          "evidence": "A*AA or A*A*B in three A levels including A* in Mathematics."
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A*",
+          "note": "A level Mathematics at grade A* (contextual offer: A)"
+        }
+      ],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Biology",
+            "Business",
+            "Chemistry",
+            "Classical Civilisation",
+            "Computer Science",
+            "Criminology",
+            "Economics",
+            "English Language/Literature",
+            "Environmental Science",
+            "Finance (LIBF)",
+            "Further Mathematics",
+            "Geography",
+            "History/History of Art",
+            "Law",
+            "Philosophy/Philosophy & Ethics",
+            "Physics",
+            "Politics/Government & Politics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology",
+            "Statistics",
+            "Welsh Language/Literature"
+          ],
+          "note": "Strongest applicants take Maths plus two preferred subjects, ideally one more numerical and one essay-based (Geography and Psychology are on the list). Subjects weighted 30% in selection."
+        }
+      ],
+      "furtherMaths": "notRequired",
+      "gcse": [
+        {
+          "subject": "English",
+          "minGrade": "6",
+          "note": "GCSE English Language or Literature grade 6/B. GCSE profile weighted 40% in selection."
+        }
+      ],
+      "gcseText": "GCSE English Language or Literature grade 6 or B (or equivalent from English language category A)",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bath.ac.uk/corporate-information/admissions-for-a-level-students-for-finance/",
+        "checked": "2026-10-17",
+        "evidence": "A level Mathematics is required for this course."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Bath stopped considering TMUA and MAT scores from 2025 entry; maths tests are only used for some Mathematics degrees.",
+        "source": {
+          "url": "https://www.bath.ac.uk/guides/guide-to-mathematics-tests-for-undergraduate-admissions/",
+          "checked": "2026-10-17",
+          "evidence": "For 2025 onwards we will no longer be considering TMUA or MAT scores in our admissions."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB including A in Mathematics, if you meet Bath's contextual criteria (automatic).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-finance/",
+            "checked": "2026-10-17",
+            "evidence": "AAB in three A levels including A in Mathematics."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "A*AB",
+          "tariff": null,
+          "conditions": "A*AB including A* in Mathematics, plus grade A in an EPQ or IEPQ (or another recognised project qualification).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-finance/",
+            "checked": "2026-10-17",
+            "evidence": "A*AB in three A levels including A* in Mathematics plus one of:"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "A*AB",
+          "tariff": null,
+          "conditions": "A*AB including A* in Mathematics, plus A in AS Further Mathematics (if not taking the A level), or B in a fourth A level where your four A levels include Further Mathematics.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-finance/",
+            "checked": "2026-10-17",
+            "evidence": "grade A in AS level Further Mathematics (except if you are studying an A level in that subject)"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed conditional offer if you successfully complete Pathway to Bath, Discover Bath or Bath Ambitions, apply by the UCAS on-time deadline, are predicted no more than two grades below the typical offer and meet the course's minimum requirements. Terms are published for 2026 and 2027 entry only; the offer grades are not stated.",
+          "programme": "Pathway to Bath / Discover Bath / Bath Ambitions",
+          "source": {
+            "url": "https://www.bath.ac.uk/legal-information/guaranteed-conditional-offers-for-outreach-participants-2026-and-2027/",
+            "checked": "2026-10-17",
+            "evidence": "We will therefore guarantee an offer to those who successfully complete the programme (Pathway, Discover or Bath Ambitions, formerly Target Bath) and meet our eligibility criteria as outlined below."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bath.ac.uk/courses/undergraduate-2027/accounting-and-finance/bsc-finance/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not yet published; 2027 entry used",
+        "Course page says 2027/28 fee information is not yet available",
+        "GCSE Mathematics grade requirement not listed on the course page"
+      ],
+      "notes": "School of Management. Bath says the majority of successful applicants are predicted an A* in Maths. Selection weighting: GCSE 40%, predicted grades 20%, subjects 30%, personal statement 10%."
+    },
+    {
+      "id": "bath-management",
+      "name": "Management",
+      "degree": "BSc (Hons)",
+      "ucasCode": "C140",
+      "lengthYears": 3,
+      "lengthNote": "Also offered as a 4-year course with a work placement",
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "business-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA or A*AB in three A levels (no specific subjects required)",
+        "source": {
+          "url": "https://www.bath.ac.uk/courses/undergraduate-2027/business-and-management/bsc-management/",
+          "checked": "2026-10-17",
+          "evidence": "AAA or A*AB in three A levels."
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [
+        {
+          "subjects": [
+            "Accounting",
+            "Biology",
+            "Business",
+            "Chemistry",
+            "Classical Civilisation",
+            "Computer Science",
+            "Criminology",
+            "Economics",
+            "English Language/Literature",
+            "Environmental Science",
+            "Finance (LIBF)",
+            "Further Mathematics",
+            "Geography",
+            "History/History of Art",
+            "Law",
+            "Philosophy/Philosophy & Ethics",
+            "Physics",
+            "Politics/Government & Politics",
+            "Psychology",
+            "Religious Studies",
+            "Sociology",
+            "Statistics",
+            "Welsh Language/Literature"
+          ],
+          "note": "Strong applications take three preferred subjects; strongest include one numerical and one essay-based subject (Geography and Psychology are on the list). Subjects weighted 30% in selection."
+        }
+      ],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6/B"
+        },
+        {
+          "subject": "English",
+          "minGrade": "6",
+          "note": "GCSE English Language or Literature grade 6/B. GCSE profile weighted 40%; strongest applicants have had mostly 8/A* grades."
+        }
+      ],
+      "gcseText": "GCSE Mathematics grade 6 or B. GCSE English Language or Literature grade 6 or B (or equivalent from English language category A)",
+      "notAccepted": [],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.bath.ac.uk/corporate-information/admissions-for-a-level-students-for-business-and-management-courses/",
+        "checked": "2026-10-17",
+        "evidence": "Strong applications in this area will study three subjects from the following preferred subjects list."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test. Bath stopped considering TMUA and MAT scores from 2025 entry; maths tests are only used for some Mathematics degrees.",
+        "source": {
+          "url": "https://www.bath.ac.uk/guides/guide-to-mathematics-tests-for-undergraduate-admissions/",
+          "checked": "2026-10-17",
+          "evidence": "For 2025 onwards we will no longer be considering TMUA or MAT scores in our admissions."
+        }
+      },
+      "alternativeOffers": [
+        {
+          "type": "contextual",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "ABB in three A levels if you meet Bath's contextual criteria (automatic).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/business-and-management/bsc-management/",
+            "checked": "2026-10-17",
+            "evidence": "ABB in three A levels."
+          }
+        },
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB plus grade A in an EPQ or IEPQ (or another recognised project qualification).",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/business-and-management/bsc-management/",
+            "checked": "2026-10-17",
+            "evidence": "AAB in three A levels plus one of:"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "AAB plus grade B in a Core Maths qualification, or B in AS Mathematics or Statistics (if not taking that A level), or B in a fourth A level where your four A levels include Mathematics or Statistics.",
+          "programme": null,
+          "source": {
+            "url": "https://www.bath.ac.uk/courses/undergraduate-2027/business-and-management/bsc-management/",
+            "checked": "2026-10-17",
+            "evidence": "grade B in a Core Mathematics qualification"
+          }
+        },
+        {
+          "type": "accessProgramme",
+          "offer": null,
+          "tariff": null,
+          "conditions": "Guaranteed conditional offer if you successfully complete Pathway to Bath, Discover Bath or Bath Ambitions, apply by the UCAS on-time deadline, are predicted no more than two grades below the typical offer and meet the course's minimum requirements. Terms are published for 2026 and 2027 entry only; the offer grades are not stated. For Management, guaranteed-offer applicants also need GCSE Maths and English at 6/B and a mix of essay-based and numerical A levels (otherwise a guaranteed referral to the Admissions Tutor).",
+          "programme": "Pathway to Bath / Discover Bath / Bath Ambitions",
+          "source": {
+            "url": "https://www.bath.ac.uk/legal-information/guaranteed-conditional-offers-for-outreach-participants-2026-and-2027/",
+            "checked": "2026-10-17",
+            "evidence": "We will therefore guarantee an offer to those who successfully complete the programme (Pathway, Discover or Bath Ambitions, formerly Target Bath) and meet our eligibility criteria as outlined below."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.bath.ac.uk/courses/undergraduate-2027/business-and-management/bsc-management/",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "2028 entry requirements not yet published; 2027 entry used",
+        "Course page says 2027/28 fee information is not yet available"
+      ],
+      "notes": "School of Management. Selection weighting: GCSE 40%, predicted grades 20%, subjects 30%, personal statement 10%."
+    }
+  ],
+  "notes": [
+    "No 2028-entry course pages yet (checked 2026-10-17: bath.ac.uk/courses/undergraduate-2028/ returns 404), so all courses use 2027 entry.",
+    "Bath does not use the TMUA (or MAT) for any course from 2025 entry.",
+    "Economics selection (A level applicants) is weighted: GCSE profile 50% (best eight grades incl. Maths and English), predicted grades 20%, subjects 20%, personal statement 10%. Geography and Psychology are both on the Economics preferred-subject list.",
+    "Bath accepts all A levels equally; no more than three A levels are ever needed and extra subjects give no advantage.",
+    "Alternative offers (EPQ, extra maths) never lower the offer by more than one grade; contextual and alternative offers do not stack (contextual applicants get only the contextual offer).",
+    "Guaranteed conditional offers for students who complete Pathway to Bath, Discover Bath or Bath Ambitions are published for 2026 and 2027 entry; terms for 2028 entry are not yet published.",
+    "Bath also pledges guaranteed offers to care leavers and estranged students who meet its criteria.",
+    "Student Performance Sport Offer Scheme: nominated student athletes who meet the criteria get an alternative offer one grade below the typical offer.",
+    "Most offers are made in February and March, after the January UCAS equal consideration deadline (13 January 2027 for 2027 entry)."
+  ],
+  "notConfirmed": [
+    "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+    "2027/28 Home fee (£10,050) still to be confirmed by the UK government; course pages say fee information is not yet available",
+    "Exact June 2027 open day dates not announced",
+    "Grades of the guaranteed conditional offer for outreach participants are not stated",
+    "No official competition figures (offer rates or applications per place) found on Bath course pages",
+    "UCAS course pages not checked; course codes taken from Bath course pages"
+  ]
+}

@@ -1,0 +1,1153 @@
+{
+  "id": "southampton",
+  "name": "University of Southampton",
+  "shortName": "Southampton",
+  "aliases": [
+    "Southampton",
+    "Soton",
+    "UoS",
+    "UoSoton",
+    "Southampton Uni",
+    "Southampton University"
+  ],
+  "city": "Southampton",
+  "region": "South East",
+  "country": "England",
+  "setting": "campus",
+  "settingEvidence": {
+    "url": "https://www.southampton.ac.uk/open-days/undergraduate",
+    "checked": "2026-10-17",
+    "evidence": "Most students are based at our main Southampton campus, centred on Highfield"
+  },
+  "location": {
+    "postcode": "SO17 1BJ",
+    "postcodeSource": "https://www.southampton.ac.uk/study/subjects/economics",
+    "lat": 50.934091,
+    "lng": -1.395705,
+    "coordsSource": "https://api.postcodes.io/postcodes/SO171BJ",
+    "checked": "2026-10-17"
+  },
+  "fees": {
+    "homeAnnual": 10050,
+    "academicYear": "2027/28",
+    "text": "£10,050 per year for UK students (2027/28)",
+    "source": {
+      "url": "https://www.southampton.ac.uk/courses/fees/undergraduate/tuition-fees.page",
+      "checked": "2026-10-17",
+      "evidence": "course fees for the 2027/28 undergraduate academic year ... Economics | BSc | L100 | Full-time | £10,050"
+    }
+  },
+  "livingCosts": {
+    "kind": "halls rent",
+    "amountLow": 139.09,
+    "amountHigh": 262.64,
+    "period": "week",
+    "academicYear": "2026/27",
+    "text": "University self-catered halls cost about £139.09-£262.64 a week on 38- or 41-week contracts (2026-27); utilities and a Unilink bus pass are included. The University's living costs page gives an average of £155 to £236 a week for halls (year not stated).",
+    "source": {
+      "url": "https://www.southampton.ac.uk/student-life/accommodation/fees-contracts",
+      "checked": "2026-10-17",
+      "evidence": "student accommodation fees for the 2026-27 academic year ... Standard studio flat | £262.64 | 41 weeks ... Standard shared bathroom | £139.09 | 41 weeks, 51 weeks"
+    }
+  },
+  "openDays": {
+    "events": [
+      {
+        "date": "2026-11-07",
+        "endDate": null,
+        "label": "Undergraduate open day (Southampton campuses; also Winchester School of Art)",
+        "format": "in person",
+        "status": "Confirmed"
+      },
+      {
+        "date": "2026-11-21",
+        "endDate": null,
+        "label": "Undergraduate virtual open day",
+        "format": "online",
+        "status": "Confirmed"
+      }
+    ],
+    "text": "Next open days: Saturday 7 November 2026 (in person) and Saturday 21 November 2026 (virtual). 2027 dates not announced yet.",
+    "url": "https://www.southampton.ac.uk/open-days/undergraduate",
+    "source": {
+      "url": "https://www.southampton.ac.uk/open-days/undergraduate",
+      "checked": "2026-10-17",
+      "evidence": "Sunday 27 September Sunday 11 October Saturday 7 November ... We have a virtual open day on Saturday 21 November"
+    }
+  },
+  "contextual": {
+    "offersContextual": true,
+    "summary": "If you meet one of Southampton's contextual criteria and the course's academic entry requirements, you may get an offer lower than the typical offer.",
+    "typicalReduction": "an offer lower than the typical offer for the course (the size of the reduction is not published)",
+    "criteria": [
+      {
+        "key": "care",
+        "detail": "You have been in care, or looked after, for 3 months or more",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Your home postcode is in a low-participation neighbourhood: quintile 1 on POLAR4",
+        "measure": "POLAR4",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Your home postcode is in a low-participation neighbourhood: quintile 1 on TUNDRA MSOA",
+        "measure": "TUNDRA",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "access",
+        "detail": "You took part in a recognised outreach or widening participation programme, e.g. Learn with US residential activities for widening participation students, the Learn with US Outreach programme over at least 3 years between Year 9 and 13 (or at least 3 Learn with US activities), or other programmes or mentoring projects with at least 3 interactions",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "area",
+        "detail": "Your home postcode is in decile 1 or 2 of the English Index of Multiple Deprivation (their postcode checker calls this IMD quintile 1)",
+        "measure": "IMD",
+        "quintiles": [
+          1
+        ],
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "fsm",
+        "detail": "You were eligible for free school meals after the age of 14 (say so in the 'More about you' section of UCAS)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      },
+      {
+        "key": "estranged",
+        "detail": "You are estranged from your parents or guardians (under 25 at the start of the course and studying without the support and approval of any parent)",
+        "measure": null,
+        "quintiles": null,
+        "threshold": null,
+        "alone": true
+      }
+    ],
+    "minCriteria": 1,
+    "rulesText": "You are assessed as eligible for contextual admissions if you meet one of the listed criteria (two for Medicine BM5 school-leaver entry). A UCAT bursary voucher is a further criterion for Medicine BM5 school-leavers only. Applies to UK-domiciled home-fee applicants for participating undergraduate degrees (almost all degrees); you must also meet the academic criteria in the course entry requirements. The page describes entry in 2027/28.",
+    "url": "https://www.southampton.ac.uk/study/contexual-admissions",
+    "source": {
+      "url": "https://www.southampton.ac.uk/study/contexual-admissions",
+      "checked": "2026-10-17",
+      "evidence": "We will assess you as eligible for contextual admissions if you meet one of the following criteria"
+    }
+  },
+  "programmes": [
+    {
+      "id": "southampton-summer-school",
+      "name": "University of Southampton and The Sutton Trust Summer School",
+      "provider": "University of Southampton (with The Sutton Trust)",
+      "providerType": "university",
+      "uniIds": [
+        "southampton"
+      ],
+      "summary": "A free 4-day, 3-night residential at Highfield campus with a subject taster, student-life activities and finance guidance; Business and Economics were among the 2026 subject areas.",
+      "whoCanApply": "Home UK students in Year 12 in England or Wales at a state-funded, non-fee-paying school or college, studying subjects relevant to the chosen subject area, who meet at least one widening participation criterion (students who are or have been in care only need to meet the age, school and academic requirements).",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "firstGen",
+        "fsm",
+        "school",
+        "area",
+        "care"
+      ],
+      "eligibilityDetail": "Attend, and have always attended, a state-funded non-fee-paying school or college; Year 12 in England or Wales; relevant subjects; and at least one of: first generation to attend university; free school meals at secondary school; a school or college with below-average attainment or low progression to the top third of higher education; a neighbourhood with low progression to higher education and/or high socio-economic deprivation. Meeting more criteria improves your chances. Home UK students only; you must be available for all dates.",
+      "benefits": [
+        "Free accommodation and meals for the 4 days",
+        "Train ticket booked for you, or travel reimbursement of up to £100",
+        "Taster lecture and group workshop or practical in your subject",
+        "Guidance on finance, student maintenance loans and the cost of living",
+        "Access to Sutton Trust support and resources (Sutton Trust Online platform and alumni network)"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": "Free",
+      "isFree": true,
+      "format": "residential",
+      "subjects": "Several subject areas; the 2026 list included Business and Economics",
+      "yearGroup": "Year 12",
+      "runs": {
+        "text": "Tuesday 13 to Friday 16 July 2027",
+        "start": "2027-07-13",
+        "end": "2027-07-16",
+        "status": "Confirmed"
+      },
+      "opens": {
+        "text": "Autumn Term 2026 (exact date not published)",
+        "date": null,
+        "status": "Confirmed"
+      },
+      "deadline": {
+        "text": "Not published yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "Dates are for the 2027 residential. The page is marked 'for reference only' and says applications open in the Autumn Term; the subject list shown on it is for 2026.",
+      "url": "https://www.southampton.ac.uk/schools-colleges/experience-summer-event.page",
+      "source": {
+        "url": "https://www.southampton.ac.uk/schools-colleges/experience-summer-event.page",
+        "checked": "2026-10-17",
+        "evidence": "From Tuesday 13 to Friday 16 July 2027, you are invited to join us on campus for a 4-day, 3-night programme."
+      },
+      "notConfirmed": [
+        "deadline: the application deadline isn't published yet",
+        "lowersOffer: the page doesn't say whether attending lowers an offer (Southampton's contextual page counts 'Learn with US residential activities targeted at students meeting widening participation criteria')",
+        "subjects: the list of subject areas for 2027 isn't published (the 2026 list included Business and Economics)"
+      ]
+    },
+    {
+      "id": "southampton-ignite-your-journey",
+      "name": "Ignite your Journey",
+      "provider": "University of Southampton",
+      "providerType": "university",
+      "uniIds": [
+        "southampton"
+      ],
+      "summary": "A sustained support programme for Year 12 and 13 students from groups under-represented in higher education, with online learning, e-mentoring, Q&As and an on-campus event.",
+      "whoCanApply": "Home UK students in Year 12 (or equivalent) who live permanently in the UK and meet at least one criterion: 16 to 19 Bursary or similar grant, or free school meals after age 14; in UK local authority care for 3 months or more, or estranged from family; a young carer; POLAR4 or TUNDRA MSOA quintile 1; or the lowest 20% of the Index of Multiple Deprivation.",
+      "eligibility": "criteria",
+      "eligibilityCriteria": [
+        "fsm",
+        "care",
+        "estranged",
+        "carer",
+        "area"
+      ],
+      "eligibilityDetail": "Must be a home UK student in Year 12 (or equivalent) living permanently in the UK, and meet at least one of the listed criteria. BA Economics is not available through Ignite your Journey (BSc Economics and the other Economics degrees are not on the excluded list).",
+      "benefits": [
+        "Online learning module on university preparation and study skills",
+        "Monthly virtual Q&A sessions on applying to university",
+        "E-mentoring with a current Southampton student",
+        "Transition and Skills event on campus in April of Year 13",
+        "Travel bursaries of up to £100 to attend an Autumn Open Day or Applicant Visit Day (where appropriate)",
+        "If you complete it you may be eligible for additional admissions consideration, a £1,000 scholarship in your first year, and support to apply for Ignite your Success"
+      ],
+      "lowersOffer": false,
+      "lowersOfferAt": [],
+      "offerReduction": null,
+      "cost": null,
+      "isFree": null,
+      "format": "mixed",
+      "subjects": "All subjects except the listed excluded courses (BA Economics, BM6 Medicine and others)",
+      "yearGroup": "Year 12 and 13",
+      "runs": {
+        "text": "Year 12 into Year 13 (includes an on-campus Transition and Skills event in April of Year 13); exact dates not published",
+        "start": null,
+        "end": null,
+        "status": "Expected"
+      },
+      "opens": {
+        "text": "Details for 2028 entry due in spring 2027 (the page says it will be updated then); application dates not announced",
+        "date": null,
+        "status": "Expected"
+      },
+      "deadline": {
+        "text": "Not published yet",
+        "date": null,
+        "status": "Expected"
+      },
+      "infoYear": 2027,
+      "infoNote": "Describes the 2027 programme (applications closed). Southampton says it will publish details for 2028 entry in spring 2027.",
+      "url": "https://www.southampton.ac.uk/schools-colleges/ignite-your-journey",
+      "source": {
+        "url": "https://www.southampton.ac.uk/schools-colleges/ignite-your-journey",
+        "checked": "2026-10-17",
+        "evidence": "Applications for the 2027 programme are now closed. We will update this page with details for 2028 entry in spring 2027."
+      },
+      "notConfirmed": [
+        "cost: the page doesn't state a price",
+        "lowersOffer: the page only says completing it may give 'additional admissions consideration'; no specific lower offer is stated",
+        "dates: application opening, deadline and programme dates for the 2028-entry cohort aren't published yet"
+      ]
+    }
+  ],
+  "links": {
+    "home": "https://www.southampton.ac.uk/",
+    "courses": "https://www.southampton.ac.uk/courses/undergraduate",
+    "economics": "https://www.southampton.ac.uk/study/subjects/economics",
+    "openDays": "https://www.southampton.ac.uk/open-days/undergraduate",
+    "fees": "https://www.southampton.ac.uk/courses/fees/undergraduate/tuition-fees.page",
+    "contextual": "https://www.southampton.ac.uk/study/contexual-admissions",
+    "accommodation": "https://www.southampton.ac.uk/student-life/accommodation/fees-contracts"
+  },
+  "courses": [
+    {
+      "id": "southampton-economics",
+      "name": "Economics",
+      "degree": "BSc",
+      "ucasCode": "L100",
+      "lengthYears": 3,
+      "lengthNote": "Optional year in employment adds a year (the tuition fee for that year is 20% of the normal fee)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB including Mathematics",
+        "source": {
+          "url": "https://www.southampton.ac.uk/courses/economics-degree-bsc",
+          "checked": "2026-10-17",
+          "evidence": "For Academic year 202728 A-levels AAB including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics must be one of your A-levels (the page doesn't state the grade needed in it)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "GCSE English language (or GCSE English), minimum grade 4/C"
+        }
+      ],
+      "gcseText": "Applicants must hold GCSE English language (or GCSE English) (minimum grade 4/C)",
+      "notAccepted": [
+        "General Studies",
+        "Use of Maths",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.southampton.ac.uk/courses/economics-degree-bsc",
+        "checked": "2026-10-17",
+        "evidence": "AAB including Mathematics ... Excluded subjects are General Studies, Use of Maths and Critical Thinking."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you take an EPQ as well as 3 A-levels: ABB including Mathematics plus grade A in the EPQ (given in addition to the standard offer)",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "you will receive the following offer in addition to the standard A level offer: ABB including Mathematics and grade A in the EPQ"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABBB",
+          "tariff": null,
+          "conditions": "If you are taking four A-levels you also get this alternative offer: ABBB including Maths",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "If you are taking four A levels, you will receive the standard offer as well as an alternative offer of ABBB including Maths."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you meet Southampton's contextual admissions criteria you can get an offer lower than the typical offer; the course page doesn't say how much lower",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who are highlighted in this way will be made an offer which is lower than the typical offer for that programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.southampton.ac.uk/courses/economics-degree-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: the course page lists only GCSE English language (grade 4); it does not state a GCSE Maths grade for this course"
+      ],
+      "notes": "Main BSc Economics degree. Taught at Highfield campus. Semester abroad and year in employment are optional."
+    },
+    {
+      "id": "southampton-economics-ba",
+      "name": "Economics",
+      "degree": "BA",
+      "ucasCode": "L102",
+      "lengthYears": 3,
+      "lengthNote": "Optional year in employment adds a year (the tuition fee for that year is 20% of the normal fee)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB plus grade 6 in GCSE Mathematics",
+        "source": {
+          "url": "https://www.southampton.ac.uk/courses/economics-degree-ba",
+          "checked": "2026-10-17",
+          "evidence": "For Academic year 202728 A-levels AAB plus grade 6 in GCSE Mathematics"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6 in GCSE Mathematics is part of the offer (no A-level Maths needed)"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "GCSE English language (or GCSE English), minimum grade 4/C"
+        }
+      ],
+      "gcseText": "AAB plus grade 6 in GCSE Mathematics. Applicants must hold GCSE English language (or GCSE English) (minimum grade 4/C)",
+      "notAccepted": [
+        "General Studies",
+        "Use of Maths",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.southampton.ac.uk/courses/economics-degree-ba",
+        "checked": "2026-10-17",
+        "evidence": "AAB plus grade 6 in GCSE Mathematics ... Excluded subjects are General Studies, Use of Maths and Critical Thinking."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you take an EPQ as well as 3 A-levels: ABB plus grade 6 in GCSE Mathematics plus grade A in the EPQ (given in addition to the standard offer)",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-degree-ba",
+            "checked": "2026-10-17",
+            "evidence": "you will receive the following offer in addition to the standard A level offer: ABB plus grade 6 in GCSE Mathematics and grade A in the EPQ"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABBB",
+          "tariff": null,
+          "conditions": "If you are taking four A-levels you also get this alternative offer: ABBB",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-degree-ba",
+            "checked": "2026-10-17",
+            "evidence": "If you are taking four A levels, you will receive the standard offer as well as an alternative offer of ABBB."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you meet Southampton's contextual admissions criteria you can get an offer lower than the typical offer; the course page doesn't say how much lower",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-degree-ba",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who are highlighted in this way will be made an offer which is lower than the typical offer for that programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.southampton.ac.uk/courses/economics-degree-ba",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: GCSE English language grade 4 is listed in the entry requirements; no A-level subject requirement is listed"
+      ],
+      "notes": "BA version of Economics: the offer asks for GCSE Maths grade 6 rather than A-level Maths. Southampton's Ignite your Journey programme does not include BA Economics. Year in employment (after year 2) or a semester abroad in the final year are optional."
+    },
+    {
+      "id": "southampton-economics-finance",
+      "name": "Economics and Finance",
+      "degree": "BSc",
+      "ucasCode": "L1NH",
+      "lengthYears": 3,
+      "lengthNote": "Optional year in employment adds a year (the tuition fee for that year is 20% of the normal fee)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-finance"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB including Mathematics",
+        "source": {
+          "url": "https://www.southampton.ac.uk/courses/economics-finance-degree-bsc",
+          "checked": "2026-10-17",
+          "evidence": "For Academic year 202728 A-levels AAB including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics must be one of your A-levels (the page doesn't state the grade needed in it)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "GCSE English language (or GCSE English), minimum grade 4/C"
+        }
+      ],
+      "gcseText": "Applicants must hold GCSE English language (or GCSE English) (minimum grade 4/C)",
+      "notAccepted": [
+        "General Studies",
+        "Use of Maths",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.southampton.ac.uk/courses/economics-finance-degree-bsc",
+        "checked": "2026-10-17",
+        "evidence": "AAB including Mathematics ... Excluded subjects are General Studies, Use of Maths and Critical Thinking."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you take an EPQ as well as 3 A-levels: ABB including Mathematics plus grade A in the EPQ (given in addition to the standard offer)",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-finance-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "you will receive the following offer in addition to the standard A level offer: ABB including Mathematics and grade A in the EPQ"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABBB",
+          "tariff": null,
+          "conditions": "If you are taking four A-levels you also get this alternative offer: ABBB including Maths",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-finance-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "If you are taking four A levels, you will receive the standard offer as well as an alternative offer of ABBB including Maths."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you meet Southampton's contextual admissions criteria you can get an offer lower than the typical offer; the course page doesn't say how much lower",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-finance-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who are highlighted in this way will be made an offer which is lower than the typical offer for that programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.southampton.ac.uk/courses/economics-finance-degree-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: the course page lists only GCSE English language (grade 4); it does not state a GCSE Maths grade for this course"
+      ],
+      "notes": "Taught at Highfield campus. Semester abroad in third year and year in employment are optional."
+    },
+    {
+      "id": "southampton-economics-business-management",
+      "name": "Economics and Business Management",
+      "degree": "BSc",
+      "ucasCode": "L112",
+      "lengthYears": 3,
+      "lengthNote": "Optional year in employment adds a year (the tuition fee for that year is 20% of the normal fee)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-management"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB including Mathematics",
+        "source": {
+          "url": "https://www.southampton.ac.uk/courses/economics-business-management-degree-bsc",
+          "checked": "2026-10-17",
+          "evidence": "For Academic year 202728 A-levels AAB including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics must be one of your A-levels (the page doesn't state the grade needed in it)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "GCSE English language (or GCSE English), minimum grade 4/C"
+        }
+      ],
+      "gcseText": "Applicants must hold GCSE English language (or GCSE English) (minimum grade 4/C)",
+      "notAccepted": [
+        "General Studies",
+        "Use of Maths",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.southampton.ac.uk/courses/economics-business-management-degree-bsc",
+        "checked": "2026-10-17",
+        "evidence": "AAB including Mathematics ... Excluded subjects are General Studies, Use of Maths and Critical Thinking."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you take an EPQ as well as 3 A-levels: ABB including Mathematics plus grade A in the EPQ (given in addition to the standard offer)",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-business-management-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "you will receive the following offer in addition to the standard A level offer: ABB including Mathematics and grade A in the EPQ"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABBB",
+          "tariff": null,
+          "conditions": "If you are taking four A-levels you also get this alternative offer: ABBB including Maths",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-business-management-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "If you are taking four A levels, you will receive the standard offer as well as an alternative offer of ABBB including Maths."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you meet Southampton's contextual admissions criteria you can get an offer lower than the typical offer; the course page doesn't say how much lower",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-business-management-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who are highlighted in this way will be made an offer which is lower than the typical offer for that programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.southampton.ac.uk/courses/economics-business-management-degree-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: the course page lists only GCSE English language (grade 4); it does not state a GCSE Maths grade for this course"
+      ],
+      "notes": "Taught at Highfield campus. Semester abroad in third year and year in employment are optional."
+    },
+    {
+      "id": "southampton-economics-data-science",
+      "name": "Economics with Data Science",
+      "degree": "BSc",
+      "ucasCode": "L115",
+      "lengthYears": 3,
+      "lengthNote": "Optional year in employment adds a year (the tuition fee for that year is 20% of the normal fee)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "maths-economics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAA",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAA including Mathematics",
+        "source": {
+          "url": "https://www.southampton.ac.uk/courses/economics-with-data-science-degree-bsc",
+          "checked": "2026-10-17",
+          "evidence": "For Academic year 202728 A-levels AAA including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": "A",
+          "note": "A-level Mathematics is required; the offer is AAA, so it needs to be at grade A"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "GCSE English language (or GCSE English), minimum grade 4/C"
+        }
+      ],
+      "gcseText": "Applicants must hold GCSE English language (or GCSE English) (minimum grade 4/C)",
+      "notAccepted": [
+        "General Studies",
+        "Use of Maths",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.southampton.ac.uk/courses/economics-with-data-science-degree-bsc",
+        "checked": "2026-10-17",
+        "evidence": "AAA including Mathematics ... Excluded subjects are General Studies, Use of Maths and Critical Thinking."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "AAB",
+          "tariff": null,
+          "conditions": "If you take an EPQ as well as 3 A-levels: AAB including grade A in Mathematics plus grade A in the EPQ (given in addition to the standard offer)",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-with-data-science-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "you will receive the following offer in addition to the standard A level offer: AAB including grade A in Mathematics plus grade A in the EPQ"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "AABB",
+          "tariff": null,
+          "conditions": "If you are taking four A-levels you also get this alternative offer: AABB including A in Maths",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-with-data-science-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "If you are taking four A levels, you will receive the standard offer as well as an alternative offer of AABB including A in Maths."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you meet Southampton's contextual admissions criteria you can get an offer lower than the typical offer; the course page doesn't say how much lower",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/economics-with-data-science-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who are highlighted in this way will be made an offer which is lower than the typical offer for that programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.southampton.ac.uk/courses/economics-with-data-science-degree-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: the course page lists only GCSE English language (grade 4); it does not state a GCSE Maths grade for this course"
+      ],
+      "notes": "Highest offer of the Economics degrees (AAA). Year in employment and a semester abroad in third year are available."
+    },
+    {
+      "id": "southampton-politics-economics",
+      "name": "Politics and Economics",
+      "degree": "BSc",
+      "ucasCode": "LL12",
+      "lengthYears": 3,
+      "lengthNote": "Optional year in employment adds a year (the tuition fee for that year is 20% of the normal fee)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-politics"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "ABB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "ABB including Mathematics",
+        "source": {
+          "url": "https://www.southampton.ac.uk/courses/politics-economics-degree-bsc",
+          "checked": "2026-10-17",
+          "evidence": "For Academic year 202728 A-levels ABB including Mathematics"
+        }
+      },
+      "subjectRequirements": [
+        {
+          "subjects": [
+            "Mathematics"
+          ],
+          "minGrade": null,
+          "note": "A-level Mathematics must be one of your A-levels (the page doesn't state the grade needed in it)"
+        }
+      ],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "GCSE English language (or GCSE English), minimum grade 4/C"
+        }
+      ],
+      "gcseText": "Applicants must hold GCSE English language (or GCSE English) (minimum grade 4/C)",
+      "notAccepted": [
+        "General Studies",
+        "Use of Maths",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.southampton.ac.uk/courses/politics-economics-degree-bsc",
+        "checked": "2026-10-17",
+        "evidence": "ABB including Mathematics ... Excluded subjects are General Studies, Use of Maths and Critical Thinking."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "BBB",
+          "tariff": null,
+          "conditions": "If you take an EPQ as well as 3 A-levels: BBB including Mathematics plus grade A in the EPQ (given in addition to the standard offer)",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/politics-economics-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "you will receive the following offer in addition to the standard A level offer: BBB including Mathematics and grade A in the EPQ"
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you meet Southampton's contextual admissions criteria you can get an offer lower than the typical offer; the course page doesn't say how much lower",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/politics-economics-degree-bsc",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who are highlighted in this way will be made an offer which is lower than the typical offer for that programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.southampton.ac.uk/courses/politics-economics-degree-bsc",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: the course page lists only GCSE English language (grade 4); it does not state a GCSE Maths grade for this course"
+      ],
+      "notes": "Lowest typical offer of the Economics degrees (ABB). Semester abroad in third year and year in employment are available."
+    },
+    {
+      "id": "southampton-ppe",
+      "name": "Philosophy, Politics and Economics",
+      "degree": "BA",
+      "ucasCode": "L0V1",
+      "lengthYears": 3,
+      "lengthNote": "Also offered with a Year Abroad (4 years, own UCAS code V5L2) and with an industrial placement year (the page says you can take the course with a placement year)",
+      "options": {
+        "yearAbroad": "optional",
+        "placement": "optional",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "ppe"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "AAB plus grade 6 in GCSE Mathematics",
+        "source": {
+          "url": "https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba",
+          "checked": "2026-10-17",
+          "evidence": "For Academic year 202728 A-levels AAB plus grade 6 in GCSE Mathematics"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [
+        {
+          "subject": "Mathematics",
+          "minGrade": "6",
+          "note": "Grade 6 in GCSE Mathematics is part of the offer; the page's general GCSE line also says mathematics grade 4/C"
+        },
+        {
+          "subject": "English Language",
+          "minGrade": "4",
+          "note": "GCSE English language (or GCSE English), minimum grade 4/C"
+        }
+      ],
+      "gcseText": "AAB plus grade 6 in GCSE Mathematics. Applicants must hold GCSE English language (or GCSE English) (minimum grade 4/C) and mathematics (minimum grade 4/C)",
+      "notAccepted": [
+        "General Studies",
+        "Critical Thinking"
+      ],
+      "acceptsPsychology": "yes",
+      "acceptsGeography": "yes",
+      "subjectsEvidence": {
+        "url": "https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba",
+        "checked": "2026-10-17",
+        "evidence": "AAB plus grade 6 in GCSE Mathematics ... Excluded subjects are General Studies and Critical Thinking."
+      },
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is listed in the course entry requirements",
+        "source": null
+      },
+      "alternativeOffers": [
+        {
+          "type": "epq",
+          "offer": "ABB",
+          "tariff": null,
+          "conditions": "If you take an EPQ as well as 3 A-levels: ABB including grade 6 in GCSE Mathematics (given in addition to the standard offer; the page doesn't state an EPQ grade)",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba",
+            "checked": "2026-10-17",
+            "evidence": "you will receive the following offer in addition to the standard A level offer: ABB including grade 6 in GCSE Mathematics"
+          }
+        },
+        {
+          "type": "other",
+          "offer": "ABBB",
+          "tariff": null,
+          "conditions": "If you are taking four A-levels you also get this alternative offer: ABBB",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba",
+            "checked": "2026-10-17",
+            "evidence": "If you are taking four A levels, you will receive the standard offer as well as an alternative offer of ABBB."
+          }
+        },
+        {
+          "type": "contextual",
+          "offer": null,
+          "tariff": null,
+          "conditions": "If you meet Southampton's contextual admissions criteria you can get an offer lower than the typical offer; the course page doesn't say how much lower",
+          "programme": null,
+          "source": {
+            "url": "https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba",
+            "checked": "2026-10-17",
+            "evidence": "Applicants who are highlighted in this way will be made an offer which is lower than the typical offer for that programme."
+          }
+        }
+      ],
+      "competition": null,
+      "links": {
+        "course": "https://www.southampton.ac.uk/courses/philosophy-politics-economics-degree-ba",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "gcse: the page's general GCSE line says mathematics grade 4/C but the offer says grade 6; grade 6 is recorded"
+      ],
+      "notes": "Taught at Avenue and Highfield campuses. No A-level Maths needed (GCSE Maths grade 6 instead)."
+    },
+    {
+      "id": "southampton-economics-accounting",
+      "name": "Economics and Accounting",
+      "degree": "BSc",
+      "ucasCode": "NL41",
+      "lengthYears": 3,
+      "lengthNote": null,
+      "options": {
+        "yearAbroad": "unknown",
+        "placement": "unknown",
+        "foundationYear": "unknown"
+      },
+      "types": [
+        "economics-accounting"
+      ],
+      "entryYear": 2027,
+      "offer": {
+        "kind": "grades",
+        "typical": "AAB",
+        "low": null,
+        "tariff": null,
+        "tariffLow": null,
+        "text": "Typical offer AAB (from the Economics subject page; the full entry requirements page could not be read)",
+        "source": {
+          "url": "https://www.southampton.ac.uk/study/subjects/economics",
+          "checked": "2026-10-17",
+          "evidence": "Economics and Accounting Typical Offer AAB Duration 3 UCAS course code NL41"
+        }
+      },
+      "subjectRequirements": [],
+      "preferredSubjects": [],
+      "furtherMaths": "notMentioned",
+      "gcse": [],
+      "gcseText": null,
+      "notAccepted": [],
+      "acceptsPsychology": "unknown",
+      "acceptsGeography": "unknown",
+      "subjectsEvidence": null,
+      "admissionsTest": {
+        "status": "none",
+        "name": null,
+        "effect": "No admissions test is mentioned for this course on the pages that list it",
+        "source": null
+      },
+      "alternativeOffers": [],
+      "competition": null,
+      "links": {
+        "course": "https://www.southampton.ac.uk/study/subjects/economics",
+        "ucas": null
+      },
+      "notConfirmed": [
+        "course page: the 'Find out more' link for Economics and Accounting on the Economics subject page redirects to the CourseFinder list, so no course page could be read",
+        "subjects: required A-level subjects (e.g. whether Maths is needed), excluded subjects and the grade for any required subject are not confirmed",
+        "gcse: GCSE requirements for this course are not confirmed",
+        "alternativeOffers: EPQ, four-A-level and contextual offers for this course are not confirmed",
+        "options: year abroad / year in employment / foundation year options are not confirmed",
+        "admissionsTest: no test is mentioned on the pages that list the course, but the course's own entry requirements were not available",
+        "entryYear: the Economics subject page and the CourseFinder list show the typical offer AAB without saying which entry year it is for (checked 2026-10-22), so 2027 entry is assumed, not confirmed"
+      ],
+      "notes": "Only the typical offer (AAB), duration (3 years) and UCAS code (NL41) are confirmed, from the Economics subject page and the fees table. Check the UCAS course page or ask Southampton before relying on subject requirements."
+    }
+  ],
+  "notes": [
+    "All course details are for 2027 entry (academic year 2027/28); Southampton has not published 2028 entry requirements yet.",
+    "No admissions test is mentioned on the Economics course pages. A-level Maths is required for the BSc courses; the BA Economics and BA PPE offers ask for GCSE Maths grade 6 instead.",
+    "Related courses not included: Economics MEcon (L101, 4 years, AAB including Maths), Economics and Actuarial Science (L1N3, AAA including Maths), Mathematics, Operational Research, Statistics and Economics (GL12, AAA or AABB including grade A in Maths) and Philosophy and Economics (VL51, AAB plus GCSE Maths grade 6).",
+    "Tuition fee is the same £10,050 for these courses; a full year in employment is charged at 20% of the fee and a full year abroad at 15%.",
+    "Southampton plans to run the Learn with US Summer School in 2026-27 but has not published details.",
+    "The contextual criteria described apply to entry in 2027/28 and Southampton says postcode classifications can change from year to year."
+  ],
+  "notConfirmed": [
+    "entry year: 2028 entry requirements are not published yet, so 2027 entry (2027/28) is used throughout",
+    "contextual: the size of the contextual reduction is not published (pages say only 'lower than the typical offer')",
+    "contextual: criteria for 2028 entry are not published yet",
+    "openDays: 2027 open day dates are not announced yet",
+    "livingCosts: the living costs page doesn't state which academic year its £155 to £236 weekly halls figure is for, so the dated 2026-27 halls fees table is used",
+    "economics-accounting: course page not available, only the typical offer is confirmed (see that course)"
+  ]
+}

@@ -1,0 +1,1127 @@
+{
+ "id": "newcastle",
+ "name": "Newcastle University",
+ "shortName": "Newcastle",
+ "aliases": [
+  "Newcastle",
+  "Newcastle Uni",
+  "Newcastle University",
+  "NCL",
+  "Newcastle upon Tyne"
+ ],
+ "city": "Newcastle upon Tyne",
+ "region": "North",
+ "country": "England",
+ "setting": "city",
+ "settingEvidence": {
+  "url": "https://www.ncl.ac.uk/schools/",
+  "checked": "2026-10-21",
+  "evidence": "Bring a school group to experience our city centre campus and learn about university life."
+ },
+ "location": {
+  "postcode": "NE1 4SE",
+  "postcodeSource": "https://www.ncl.ac.uk/business/about/contact/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/NE14SE",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for Home (UK) students on full-time undergraduate courses starting in 2027 (2027/28). Newcastle says fees for 2028/29 have not been confirmed (it suggests they could be £10,320 at the same rate of increase). A significant fee reduction applies to a work placement or study abroad year.",
+  "source": {
+   "url": "https://www.ncl.ac.uk/undergraduate/fees-funding/tuition-fees/",
+   "checked": "2026-10-21",
+   "evidence": "£10,050 in 2027/28"
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 543,
+  "amountHigh": 924,
+  "period": "month",
+  "academicYear": "Compiled August 2025",
+  "text": "Rent in University-owned or managed partnership accommodation (bills included) is about £543-£924 a month for undergraduates. Newcastle's rough monthly guide also lists groceries about £144, socialising about £99 and a SIM-only phone about £16 (compiled August 2025; the academic year is not stated).",
+  "source": {
+   "url": "https://www.ncl.ac.uk/study/student-life/cost/",
+   "checked": "2026-10-21",
+   "evidence": "Rent in University-owned or managed partnership accommodation (includes bills, such as electricity, water, gas and wifi): Undergraduate: £543– £924, Postgraduate: £392 – £940"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Undergraduate Open Day (9:00-16:00)",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next undergraduate open day: Saturday 21 November 2026, 9:00-16:00 (the booking form lets you choose 2027 or 2028 as your year of entry). No later dates are listed yet.",
+  "url": "https://www.ncl.ac.uk/study/meet/undergraduate-open-day/",
+  "source": {
+   "url": "https://www.ncl.ac.uk/study/meet/undergraduate-open-day/",
+   "checked": "2026-10-21",
+   "evidence": "Saturday 21 November 2026"
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Applicants who meet one or more contextual criteria may get an offer up to two grades below the typical entry requirements, with no separate application.",
+  "typicalReduction": "Up to two grades below the typical entry requirements",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Your home postcode is in POLAR4 Quintile 1 or 2: a neighbourhood with a low rate of progression to higher education. Newcastle has a postcode checker.",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "You have experienced any time in care during your life.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "estranged",
+    "detail": "You are estranged from your family and no longer have support due to a breakdown in that relationship (this may include biological, adoptive or step-parents, or other family members who previously provided support).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "You are eligible for free school meals. If you attend an independent school but would have been eligible in the state sector, you may also qualify (checked with data supplied by UCAS).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "You have sole or shared responsibility for the care of a relative because they are ill, have a disability, are experiencing mental distress, or are affected by substance abuse.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "You attend a state school in North East England (Regional Contextual Offer).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "You may be eligible if you meet one or more of the criteria. There is no separate application: make sure the relevant information is in the 'Applicant Context' section of your UCAS application. Eligibility for a contextual offer does not guarantee that an offer will be made.",
+  "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/contextual-offer/",
+  "source": {
+   "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/contextual-offer/",
+   "checked": "2026-10-21",
+   "evidence": "Eligible applicants may receive an offer of up to two grades below the typical entry requirements."
+  }
+ },
+ "programmes": [
+  {
+   "id": "newcastle-partners",
+   "name": "PARTNERS Programme (Supported Entry Route)",
+   "provider": "Newcastle University",
+   "providerType": "university",
+   "uniIds": [
+    "newcastle"
+   ],
+   "summary": "A widening-access route for Year 13 applicants: a lower offer (up to three A level grades lower), a free Academic Summer School and support from application to enrolment.",
+   "whoCanApply": "Year 13 (or equivalent) applicants who live in the UK, pay Home fees, do not already hold a higher education qualification, are predicted at least CCC and meet at least one eligibility criterion. You apply after submitting your UCAS application; students now in Year 12 apply next year.",
+   "eligibility": "criteria",
+   "eligibilityCriteria": [
+    "area",
+    "school",
+    "fsm",
+    "care",
+    "firstGen",
+    "carer",
+    "estranged",
+    "refugee",
+    "other"
+   ],
+   "eligibilityDetail": "Essential: UK resident; Home fee status; no existing higher education qualification; predicted CCC or above (or, if grades are already achieved, they must meet the lower PARTNERS offer). Plus at least one of: a low-progression or deprived home postcode (IMD, ACORN or TUNDRA); attending a low-performing school or college (for example GCSE Attainment 8 of 44 or less, or over 50% of pupils on free school meals); an ethnic group under-represented at Newcastle; free school meals, Pupil Premium or discretionary hardship payments; time in care; neither parent/carer holding a degree; a disability or long-term health condition with PIP at the required level; recognised carer; estranged; family armed forces service; Gypsy, Roma or Traveller; refugee, asylum seeker or humanitarian protection; parent/carer of a child under 17; or extenuating personal circumstances. These are the 2027-entry criteria and can change each year.",
+   "benefits": [
+    "Lower offer: up to three A level grades lower than the typical offer (Newcastle's example: AAA becomes BBB), if you complete the Academic Summer School and make Newcastle your firm choice",
+    "Free PARTNERS Academic Summer School (PASS) in the summer before you start",
+    "Dedicated support from application to enrolment"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "newcastle"
+   ],
+   "offerReduction": "Up to three A level grades (or equivalent) lower than the typical offer",
+   "cost": "Free",
+   "isFree": true,
+   "format": "mixed",
+   "subjects": "All subjects (the summer school strand matches your firm-choice course)",
+   "yearGroup": "Year 13",
+   "runs": {
+    "text": "Academic Summer School (PASS): Sunday 27 June - Friday 2 July 2027 (2.5 days on campus, 2.5 days online) - 2027-entry round",
+    "start": "2027-06-27",
+    "end": "2027-07-02",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "Applications open for 2027 entry (you apply after submitting your UCAS application)",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Friday 29 January 2027 (all courses except Medicine and Dentistry) - 2027-entry round",
+    "date": "2027-01-29",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "Dates and criteria are for the 2027-entry round (Year 13 students applying this year). The 2028-entry round, which is the one for students now in Year 12, has not been announced yet.",
+   "url": "https://www.ncl.ac.uk/partners/",
+   "source": {
+    "url": "https://www.ncl.ac.uk/partners/how-to-apply/",
+    "checked": "2026-10-21",
+    "evidence": "For all other courses, you must submit your PARTNERS application no later than Friday 29th January 2027"
+   },
+   "notConfirmed": [
+    "2028-entry application deadline and summer school dates not published yet",
+    "Course-specific PARTNERS offer grades are only shown in each course's entry-requirements drop-down, which did not load"
+   ]
+  },
+  {
+   "id": "newcastle-pathways-to-newcastle",
+   "name": "Pathways to Newcastle",
+   "provider": "Newcastle University",
+   "providerType": "university",
+   "uniIds": [
+    "newcastle"
+   ],
+   "summary": "An online route for Year 13 applicants to science, maths, engineering and computing degrees: complete a short online module in July and receive an offer up to two A level grades lower. Of the courses recorded here, only Mathematics and Economics (GL11) takes part.",
+   "whoCanApply": "UK-resident, Home-fee Year 13 applicants predicted at least CCC who applied through UCAS to a participating course by the January deadline and meet that course's academic requirements.",
+   "eligibility": "open",
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Apply to a participating course via UCAS by 6pm on 13 January 2027 (2027 entry); be resident in the UK; be classed as Home for fees; not already hold a higher education qualification; be predicted CCC (or equivalent) or above; meet the course's academic requirements; Newcastle must be your firm choice.",
+   "benefits": [
+    "Reduced offer up to two A level grades lower than the standard offer (you may get a standard and a reduced offer together)",
+    "Subject-specific online module plus a Higher Education Study Skills module on Canvas, the platform used at Newcastle"
+   ],
+   "lowersOffer": true,
+   "lowersOfferAt": [
+    "newcastle"
+   ],
+   "offerReduction": "Up to two A level grades lower than the standard offer",
+   "cost": "Not stated on the page",
+   "isFree": null,
+   "format": "online",
+   "subjects": "Maths, physics, engineering, computing and other science subjects (Mathematics and Economics GL11 is on the list)",
+   "yearGroup": "Year 13",
+   "runs": {
+    "text": "Online module between Monday 5 and Friday 30 July 2027 (about 10-15 hours of self-directed study) - 2027-entry round",
+    "start": "2027-07-05",
+    "end": "2027-07-30",
+    "status": "Confirmed"
+   },
+   "opens": {
+    "text": "You are invited to submit a separate application form after applying through UCAS",
+    "date": null,
+    "status": "Confirmed"
+   },
+   "deadline": {
+    "text": "Wednesday 5 May 2027 for the separate Pathways form (you must also have applied through UCAS by 6pm on 13 January 2027) - 2027-entry round",
+    "date": "2027-05-05",
+    "status": "Confirmed"
+   },
+   "infoYear": 2027,
+   "infoNote": "Dates are for the 2027-entry round (Year 13 students applying this year). The 2028-entry round, which is the one for students now in Year 12, has not been announced yet.",
+   "url": "https://www.ncl.ac.uk/schools/about-outreach-services/pathwaystonewcastle/",
+   "source": {
+    "url": "https://www.ncl.ac.uk/schools/about-outreach-services/pathwaystonewcastle/",
+    "checked": "2026-10-21",
+    "evidence": "AND a reduced offer, which is up to two A level grades lower."
+   },
+   "notConfirmed": [
+    "Cost not stated on the page",
+    "2028-entry application and module dates not published yet"
+   ]
+  },
+  {
+   "id": "newcastle-bitesize-uni",
+   "name": "Bitesize Uni (BSU) Summer School",
+   "provider": "Newcastle University",
+   "providerType": "university",
+   "uniIds": [
+    "newcastle"
+   ],
+   "summary": "Free residential Year 12 summer school: stay on campus, try a subject strand (including Economics and Finance) and join social activities.",
+   "whoCanApply": "UK students in Year 12 / first year of college (or the equivalent in Northern Ireland and Scotland). If the event is oversubscribed, Newcastle may use its Summer School eligibility criteria to allocate places.",
+   "eligibility": null,
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "Only for UK students in Year 12 / first year of college or the equivalent. The page says Newcastle may rely on its Summer School eligibility criteria if the event is oversubscribed, but the criteria are not shown on the page.",
+   "benefits": [
+    "All costs covered by the University, including travel to and from Newcastle upon Tyne",
+    "Try a subject strand such as Economics or Finance in sessions delivered by academics",
+    "Stay in Newcastle University accommodation (Park View) and meet current students and other Year 12 students from across the UK"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Free",
+   "isFree": true,
+   "format": "residential",
+   "subjects": "Many subject strands, including Economics and Finance",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Expected mid-July 2027 (based on 2026: Sunday 12 - Tuesday 14 July or Wednesday 15 - Friday 17 July 2026)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not announced; Newcastle says to check back in early 2027 for information about applying",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not announced for 2027 (the 2026 deadline was 15 March 2026)",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026 programme (ran in July 2026; applications closed 15 March 2026). BSU 2027 has not been announced. BSU did not run in 2025.",
+   "url": "https://www.ncl.ac.uk/schools/visit-us-on-campus/other-on-campus-events/bitesize-uni/",
+   "source": {
+    "url": "https://www.ncl.ac.uk/schools/visit-us-on-campus/other-on-campus-events/bitesize-uni/",
+    "checked": "2026-10-21",
+    "evidence": "Bitesize Uni (BSU) is our free Year 12 summer school. Stay on campus, try out a degree subject in an area of your choice, and take part in fun social activities."
+   },
+   "notConfirmed": [
+    "2027 dates, opening date and deadline not announced yet (the page says to check back in early 2027)",
+    "Eligibility criteria used if the event is oversubscribed are not shown on the page"
+   ]
+  },
+  {
+   "id": "newcastle-get-ahead",
+   "name": "Get Ahead (Year 12 virtual events)",
+   "provider": "Newcastle University",
+   "providerType": "university",
+   "uniIds": [
+    "newcastle"
+   ],
+   "summary": "A series of short online evening sessions for Year 12 students (and one for parents and supporters) on choosing courses, study skills, student life and applying, with breakout subject tasters.",
+   "whoCanApply": "Year 12 students (the page describes them as Year 12 events); sign up with the form on the page.",
+   "eligibility": null,
+   "eligibilityCriteria": [],
+   "eligibilityDetail": "The page describes the events as Year 12 events and does not list any other eligibility rules.",
+   "benefits": [
+    "Subject taster sessions with mini-lectures and virtual facility tours",
+    "Study skills tips, a student ambassador panel and a session on the application process and student finance"
+   ],
+   "lowersOffer": false,
+   "lowersOfferAt": [],
+   "offerReduction": null,
+   "cost": "Not stated on the page",
+   "isFree": null,
+   "format": "online",
+   "subjects": "All subjects (breakout subject tasters)",
+   "yearGroup": "Year 12",
+   "runs": {
+    "text": "Expected April 2027 (based on the 2026 series: 14, 15 and 21 April 2026)",
+    "start": null,
+    "end": null,
+    "status": "Expected"
+   },
+   "opens": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "deadline": {
+    "text": "Not published yet",
+    "date": null,
+    "status": "Expected"
+   },
+   "infoYear": 2026,
+   "infoNote": "Based on the 2026 series: Course, Employability and Enterprise (14 April 2026), Parents and Supporters (15 April 2026) and Student Life and Study Essentials (21 April 2026). 2027 dates not announced.",
+   "url": "https://www.ncl.ac.uk/schools/visit-us-on-campus/other-on-campus-events/get-ahead/",
+   "source": {
+    "url": "https://www.ncl.ac.uk/schools/visit-us-on-campus/other-on-campus-events/get-ahead/",
+    "checked": "2026-10-21",
+    "evidence": "Year 12 Events to Kickstart Your Future with Newcastle University"
+   },
+   "notConfirmed": [
+    "Eligibility rules not shown on the page (it describes Year 12 events and lists no other criteria)",
+    "Cost not stated on the page",
+    "2027 dates and sign-up details not published yet"
+   ]
+  }
+ ],
+ "links": {
+  "home": "https://www.ncl.ac.uk/",
+  "courses": "https://www.ncl.ac.uk/undergraduate/degrees/",
+  "economics": "https://www.ncl.ac.uk/undergraduate/degrees/l100/",
+  "openDays": "https://www.ncl.ac.uk/study/meet/undergraduate-open-day/",
+  "fees": "https://www.ncl.ac.uk/undergraduate/fees-funding/tuition-fees/",
+  "contextual": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/contextual-offer/",
+  "accommodation": "https://www.ncl.ac.uk/accommodation/university/types/our-rooms/"
+ },
+ "courses": [
+  {
+   "id": "newcastle-economics",
+   "name": "Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L100",
+   "lengthYears": 3,
+   "lengthNote": "Taking a work placement or a year abroad adds a year (4 years in total).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB at A level, excluding General Studies (2027 entry)",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/l100/",
+     "checked": "2026-10-21",
+     "evidence": "AAB excluding General Studies."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Grade A or 7; required if Mathematics is not taken at A or AS level."
+    },
+    {
+     "subject": "English",
+     "minGrade": "6",
+     "note": "English Language or Literature, grade B or 6; required if English is not taken at A or AS level."
+    }
+   ],
+   "gcseText": "GCSE Mathematics grade A or 7 and English Language or Literature grade B or 6 required if not taken at A or AS Level.",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ncl.ac.uk/undergraduate/degrees/l100/",
+    "checked": "2026-10-21",
+    "evidence": "AAB excluding General Studies."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course (entry is by grades). Newcastle is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/l100/",
+     "checked": "2026-10-21",
+     "evidence": "AAB excluding General Studies."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the typical entry requirements if you meet one or more of Newcastle's contextual criteria (low-progression neighbourhood, time in care, estranged, free school meals, recognised carer, or a state school in North East England). No separate application: Newcastle uses your UCAS form. The grades for this course are not shown in the page text, and eligibility does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/contextual-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Eligible applicants may receive an offer of up to two grades below the typical entry requirements."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to three A level grades lower than the typical offer (Newcastle's example: AAA becomes BBB) if you are a Year 13 applicant from an underrepresented background, are accepted onto PARTNERS, make Newcastle your firm choice and complete the PARTNERS Academic Summer School. You apply separately after submitting your UCAS application. The exact grades for this course are not shown in the page text.",
+     "programme": "PARTNERS Programme",
+     "source": {
+      "url": "https://www.ncl.ac.uk/partners/benefits/lower-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Through the PARTNERS Programme you could receive a lower offer to study at Newcastle University, which is up to three grades lower than the typical offer."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades lower than the typical entry requirements if you take part in Realising Opportunities through a partner school (a Year 12 programme run with 10 research-intensive universities). The exact grades for this course are not shown in the page text.",
+     "programme": "Realising Opportunities",
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/",
+      "checked": "2026-10-21",
+      "evidence": "You’re participating through a Realising Opportunities partner school"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ncl.ac.uk/undergraduate/degrees/l100/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says its requirements apply to 2027 entry); 2027 entry used",
+    "EPQ: the course page has an Extended Project Qualification drop-down, but its content did not load in the page text, so no EPQ offer is recorded",
+    "Course-specific grades for the contextual, PARTNERS and Realising Opportunities offers are only shown in a drop-down that did not load; only the general reductions (up to two or three grades lower) are recorded"
+   ],
+   "notes": "No specific A level subjects are listed (AAB excluding General Studies). GCSE Mathematics grade 7 and GCSE English Language or Literature grade 6 are needed if those subjects are not taken at A or AS level."
+  },
+  {
+   "id": "newcastle-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "L161",
+   "lengthYears": 3,
+   "lengthNote": "Taking a work placement or a year abroad adds a year (4 years in total).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB at A level, excluding General Studies (2027 entry)",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/l161/",
+     "checked": "2026-10-21",
+     "evidence": "AAB excluding General Studies."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Grade A or 7; required if Mathematics is not taken at A or AS level."
+    },
+    {
+     "subject": "English",
+     "minGrade": "6",
+     "note": "English Language or Literature, grade B or 6; required if English is not taken at A or AS level."
+    }
+   ],
+   "gcseText": "GCSE Mathematics grade A or 7 and English Language or Literature grade B or 6 required if not taken at A or AS Level.",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ncl.ac.uk/undergraduate/degrees/l161/",
+    "checked": "2026-10-21",
+    "evidence": "AAB excluding General Studies."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course (entry is by grades). Newcastle is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/l161/",
+     "checked": "2026-10-21",
+     "evidence": "AAB excluding General Studies."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the typical entry requirements if you meet one or more of Newcastle's contextual criteria (low-progression neighbourhood, time in care, estranged, free school meals, recognised carer, or a state school in North East England). No separate application: Newcastle uses your UCAS form. The grades for this course are not shown in the page text, and eligibility does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/contextual-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Eligible applicants may receive an offer of up to two grades below the typical entry requirements."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to three A level grades lower than the typical offer (Newcastle's example: AAA becomes BBB) if you are a Year 13 applicant from an underrepresented background, are accepted onto PARTNERS, make Newcastle your firm choice and complete the PARTNERS Academic Summer School. You apply separately after submitting your UCAS application. The exact grades for this course are not shown in the page text.",
+     "programme": "PARTNERS Programme",
+     "source": {
+      "url": "https://www.ncl.ac.uk/partners/benefits/lower-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Through the PARTNERS Programme you could receive a lower offer to study at Newcastle University, which is up to three grades lower than the typical offer."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades lower than the typical entry requirements if you take part in Realising Opportunities through a partner school (a Year 12 programme run with 10 research-intensive universities). The exact grades for this course are not shown in the page text.",
+     "programme": "Realising Opportunities",
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/",
+      "checked": "2026-10-21",
+      "evidence": "You’re participating through a Realising Opportunities partner school"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ncl.ac.uk/undergraduate/degrees/l161/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says its requirements apply to 2027 entry); 2027 entry used",
+    "EPQ: the course page has an Extended Project Qualification drop-down, but its content did not load in the page text, so no EPQ offer is recorded",
+    "Course-specific grades for the contextual, PARTNERS and Realising Opportunities offers are only shown in a drop-down that did not load; only the general reductions (up to two or three grades lower) are recorded"
+   ],
+   "notes": "No specific A level subjects are listed (AAB excluding General Studies). GCSE Mathematics grade 7 and GCSE English Language or Literature grade 6 are needed if those subjects are not taken at A or AS level."
+  },
+  {
+   "id": "newcastle-economics-business-management",
+   "name": "Economics and Business Management",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN12",
+   "lengthYears": 3,
+   "lengthNote": "Taking a work placement or a year abroad adds a year (4 years in total).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB at A level, excluding General Studies (2027 entry)",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/ln12/",
+     "checked": "2026-10-21",
+     "evidence": "AAB excluding General Studies."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Grade A or 7; required if Mathematics is not taken at A or AS level."
+    },
+    {
+     "subject": "English",
+     "minGrade": "6",
+     "note": "English Language or Literature, grade B or 6; required if English is not taken at A or AS level."
+    }
+   ],
+   "gcseText": "GCSE Mathematics grade A or 7 and English Language or Literature grade B or 6 required if not taken at A or AS Level.",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ncl.ac.uk/undergraduate/degrees/ln12/",
+    "checked": "2026-10-21",
+    "evidence": "AAB excluding General Studies."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course (entry is by grades). Newcastle is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/ln12/",
+     "checked": "2026-10-21",
+     "evidence": "AAB excluding General Studies."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the typical entry requirements if you meet one or more of Newcastle's contextual criteria (low-progression neighbourhood, time in care, estranged, free school meals, recognised carer, or a state school in North East England). No separate application: Newcastle uses your UCAS form. The grades for this course are not shown in the page text, and eligibility does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/contextual-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Eligible applicants may receive an offer of up to two grades below the typical entry requirements."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to three A level grades lower than the typical offer (Newcastle's example: AAA becomes BBB) if you are a Year 13 applicant from an underrepresented background, are accepted onto PARTNERS, make Newcastle your firm choice and complete the PARTNERS Academic Summer School. You apply separately after submitting your UCAS application. The exact grades for this course are not shown in the page text.",
+     "programme": "PARTNERS Programme",
+     "source": {
+      "url": "https://www.ncl.ac.uk/partners/benefits/lower-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Through the PARTNERS Programme you could receive a lower offer to study at Newcastle University, which is up to three grades lower than the typical offer."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades lower than the typical entry requirements if you take part in Realising Opportunities through a partner school (a Year 12 programme run with 10 research-intensive universities). The exact grades for this course are not shown in the page text.",
+     "programme": "Realising Opportunities",
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/",
+      "checked": "2026-10-21",
+      "evidence": "You’re participating through a Realising Opportunities partner school"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ncl.ac.uk/undergraduate/degrees/ln12/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says its requirements apply to 2027 entry); 2027 entry used",
+    "EPQ: the course page has an Extended Project Qualification drop-down, but its content did not load in the page text, so no EPQ offer is recorded",
+    "Course-specific grades for the contextual, PARTNERS and Realising Opportunities offers are only shown in a drop-down that did not load; only the general reductions (up to two or three grades lower) are recorded"
+   ],
+   "notes": "No specific A level subjects are listed (AAB excluding General Studies). GCSE Mathematics grade 7 and GCSE English Language or Literature grade 6 are needed if those subjects are not taken at A or AS level. The course page says the Introductory Mathematical Methods for Economics module is compulsory for students without A-level maths (or equivalent) and optional for those with it."
+  },
+  {
+   "id": "newcastle-politics-economics",
+   "name": "Politics and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "LL21",
+   "lengthYears": 3,
+   "lengthNote": "Taking a work placement or a year abroad adds a year (4 years in total). A work placement is not available if you spend a year studying abroad.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB at A level; General Studies is accepted (2027 entry)",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/ll21/",
+     "checked": "2026-10-21",
+     "evidence": "AAB. GCSE Mathematics (minimum grade A/7) required if not offered at a higher level. General Studies is accepted."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "7",
+     "note": "Minimum grade A or 7; required if Mathematics is not offered at a higher level (A or AS level)."
+    }
+   ],
+   "gcseText": "GCSE Mathematics (minimum grade A/7) required if not offered at a higher level.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ncl.ac.uk/undergraduate/degrees/ll21/",
+    "checked": "2026-10-21",
+    "evidence": "AAB. GCSE Mathematics (minimum grade A/7) required if not offered at a higher level. General Studies is accepted."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course (entry is by grades). Newcastle is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/ll21/",
+     "checked": "2026-10-21",
+     "evidence": "AAB. GCSE Mathematics (minimum grade A/7) required if not offered at a higher level. General Studies is accepted."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the typical entry requirements if you meet one or more of Newcastle's contextual criteria (low-progression neighbourhood, time in care, estranged, free school meals, recognised carer, or a state school in North East England). No separate application: Newcastle uses your UCAS form. The grades for this course are not shown in the page text, and eligibility does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/contextual-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Eligible applicants may receive an offer of up to two grades below the typical entry requirements."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to three A level grades lower than the typical offer (Newcastle's example: AAA becomes BBB) if you are a Year 13 applicant from an underrepresented background, are accepted onto PARTNERS, make Newcastle your firm choice and complete the PARTNERS Academic Summer School. You apply separately after submitting your UCAS application. The exact grades for this course are not shown in the page text.",
+     "programme": "PARTNERS Programme",
+     "source": {
+      "url": "https://www.ncl.ac.uk/partners/benefits/lower-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Through the PARTNERS Programme you could receive a lower offer to study at Newcastle University, which is up to three grades lower than the typical offer."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades lower than the typical entry requirements if you take part in Realising Opportunities through a partner school (a Year 12 programme run with 10 research-intensive universities). The exact grades for this course are not shown in the page text.",
+     "programme": "Realising Opportunities",
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/",
+      "checked": "2026-10-21",
+      "evidence": "You’re participating through a Realising Opportunities partner school"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ncl.ac.uk/undergraduate/degrees/ll21/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says its requirements apply to 2027 entry); 2027 entry used",
+    "EPQ: the course page has an Extended Project Qualification drop-down, but its content did not load in the page text, so no EPQ offer is recorded",
+    "Course-specific grades for the contextual, PARTNERS and Realising Opportunities offers are only shown in a drop-down that did not load; only the general reductions (up to two or three grades lower) are recorded",
+    "English GCSE requirement not stated on the course page"
+   ],
+   "notes": "No specific A level subjects are listed and General Studies is accepted. Studied 50:50 across politics (School of Geography, Politics and Sociology) and economics (Business School), with a strong mathematical component."
+  },
+  {
+   "id": "newcastle-mathematics-economics",
+   "name": "Mathematics and Economics",
+   "degree": "BSc (Hons)",
+   "ucasCode": "GL11",
+   "lengthYears": 3,
+   "lengthNote": "Taking a work placement or a year abroad adds a year (4 years in total).",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "maths-economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB including grade A in Mathematics (or ABB including A in Mathematics plus a second listed subject, or grade 2 in any STEP paper); General Studies and Critical Thinking not accepted (2027 entry)",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/gl11/",
+     "checked": "2026-10-21",
+     "evidence": "AAB including grade A in Mathematics OR ABB including grade A in Mathematics AND one A level from"
+    }
+   },
+   "subjectRequirements": [
+    {
+     "subjects": [
+      "Mathematics"
+     ],
+     "minGrade": "A",
+     "note": "AAB including grade A in Mathematics. A level Mathematics is required in both the AAB and the lower ABB route."
+    }
+   ],
+   "preferredSubjects": [
+    {
+     "subjects": [
+      "Further Mathematics",
+      "Biology",
+      "Chemistry",
+      "English Literature",
+      "Geography",
+      "History",
+      "Physics",
+      "Modern Languages",
+      "Classical Languages"
+     ],
+     "note": "Mathematics at grade A plus one of these as a second A level gives the lower ABB offer (grade 2 in any STEP paper also works)."
+    }
+   ],
+   "furtherMaths": "notRequired",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "6",
+     "note": "Grade B or 6 in English at GCSE is expected. A GCSE Mathematics grade is not stated."
+    }
+   ],
+   "gcseText": "Applicants are expected to have a minimum of grade B or 6 in English at GCSE.",
+   "notAccepted": [
+    "General Studies",
+    "Critical Thinking"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ncl.ac.uk/undergraduate/degrees/gl11/",
+    "checked": "2026-10-21",
+    "evidence": "We do not accept General Studies and Critical Thinking as one of the three A level grades."
+   },
+   "admissionsTest": {
+    "status": "optional",
+    "name": "STEP",
+    "effect": "No admissions test is required. Grade 2 in any STEP paper can replace the second listed A level in the lower ABB route. Newcastle is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/gl11/",
+     "checked": "2026-10-21",
+     "evidence": "or grade 2 in any STEP paper."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "other",
+     "offer": "ABB",
+     "tariff": null,
+     "conditions": "ABB including grade A in Mathematics, plus one A level from Further Maths, Biology, Chemistry, English Literature, Geography, History, Physics or Modern/Classical Languages, or grade 2 in any STEP paper.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/degrees/gl11/",
+      "checked": "2026-10-21",
+      "evidence": "ABB including grade A in Mathematics AND one A level from: Further Maths, Biology, Chemistry, English Literature, Geography, History, Physics and Modern/Classical Languages"
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two A level grades lower than the standard offer if you are a UK-resident Home-fee Year 13 applicant predicted at least CCC, apply through UCAS by the January deadline, complete the online Pathways to Newcastle module in July and make Newcastle your firm choice (2027-entry round details). Mathematics and Economics (GL11) is on the participating course list. The exact grades are not shown in the page text.",
+     "programme": "Pathways to Newcastle",
+     "source": {
+      "url": "https://www.ncl.ac.uk/schools/about-outreach-services/pathwaystonewcastle/",
+      "checked": "2026-10-21",
+      "evidence": "AND a reduced offer, which is up to two A level grades lower."
+     }
+    },
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the typical entry requirements if you meet one or more of Newcastle's contextual criteria (low-progression neighbourhood, time in care, estranged, free school meals, recognised carer, or a state school in North East England). No separate application: Newcastle uses your UCAS form. The grades for this course are not shown in the page text, and eligibility does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/contextual-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Eligible applicants may receive an offer of up to two grades below the typical entry requirements."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to three A level grades lower than the typical offer (Newcastle's example: AAA becomes BBB) if you are a Year 13 applicant from an underrepresented background, are accepted onto PARTNERS, make Newcastle your firm choice and complete the PARTNERS Academic Summer School. You apply separately after submitting your UCAS application. The exact grades for this course are not shown in the page text.",
+     "programme": "PARTNERS Programme",
+     "source": {
+      "url": "https://www.ncl.ac.uk/partners/benefits/lower-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Through the PARTNERS Programme you could receive a lower offer to study at Newcastle University, which is up to three grades lower than the typical offer."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades lower than the typical entry requirements if you take part in Realising Opportunities through a partner school (a Year 12 programme run with 10 research-intensive universities). The exact grades for this course are not shown in the page text.",
+     "programme": "Realising Opportunities",
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/",
+      "checked": "2026-10-21",
+      "evidence": "You’re participating through a Realising Opportunities partner school"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ncl.ac.uk/undergraduate/degrees/gl11/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says its requirements apply to 2027 entry); 2027 entry used",
+    "EPQ: the course page has an Extended Project Qualification drop-down, but its content did not load in the page text, so no EPQ offer is recorded",
+    "Course-specific grades for the contextual, PARTNERS and Realising Opportunities offers are only shown in a drop-down that did not load; only the general reductions (up to two or three grades lower) are recorded",
+    "The page lists a 'Sutton Trust Offer' in its alternative-offer menu, but its terms are not visible in the page text"
+   ],
+   "notes": "Delivered by the School of Mathematics, Statistics and Physics with the Business School. The page lists a Sutton Trust Offer, Pathways to Newcastle (A levels) and PARTNERS among its alternative offers."
+  },
+  {
+   "id": "newcastle-finance",
+   "name": "Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "N300",
+   "lengthYears": 3,
+   "lengthNote": "The page gives the length as 3-4 years: 3 years, or 4 with a work placement or a year abroad.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "unknown"
+   },
+   "types": [
+    "finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "AAB",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "AAB at A level, excluding General Studies (2027 entry)",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/n300/",
+     "checked": "2026-10-21",
+     "evidence": "AAB excluding General Studies. GCSE mathematics and English Language or Literature at grade 6 or B is required if not taken at A or AS Level."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "6",
+     "note": "Grade 6 or B; required if Mathematics is not taken at A or AS level."
+    },
+    {
+     "subject": "English",
+     "minGrade": "6",
+     "note": "English Language or Literature, grade 6 or B; required if English is not taken at A or AS level."
+    }
+   ],
+   "gcseText": "GCSE mathematics and English Language or Literature at grade 6 or B is required if not taken at A or AS Level.",
+   "notAccepted": [
+    "General Studies"
+   ],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.ncl.ac.uk/undergraduate/degrees/n300/",
+    "checked": "2026-10-21",
+    "evidence": "AAB excluding General Studies. GCSE mathematics and English Language or Literature at grade 6 or B is required if not taken at A or AS Level."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed for this course (entry is by grades). Newcastle is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.ncl.ac.uk/undergraduate/degrees/n300/",
+     "checked": "2026-10-21",
+     "evidence": "AAB excluding General Studies. GCSE mathematics and English Language or Literature at grade 6 or B is required if not taken at A or AS Level."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades below the typical entry requirements if you meet one or more of Newcastle's contextual criteria (low-progression neighbourhood, time in care, estranged, free school meals, recognised carer, or a state school in North East England). No separate application: Newcastle uses your UCAS form. The grades for this course are not shown in the page text, and eligibility does not guarantee an offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/contextual-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Eligible applicants may receive an offer of up to two grades below the typical entry requirements."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to three A level grades lower than the typical offer (Newcastle's example: AAA becomes BBB) if you are a Year 13 applicant from an underrepresented background, are accepted onto PARTNERS, make Newcastle your firm choice and complete the PARTNERS Academic Summer School. You apply separately after submitting your UCAS application. The exact grades for this course are not shown in the page text.",
+     "programme": "PARTNERS Programme",
+     "source": {
+      "url": "https://www.ncl.ac.uk/partners/benefits/lower-offer/",
+      "checked": "2026-10-21",
+      "evidence": "Through the PARTNERS Programme you could receive a lower offer to study at Newcastle University, which is up to three grades lower than the typical offer."
+     }
+    },
+    {
+     "type": "accessProgramme",
+     "offer": null,
+     "tariff": null,
+     "conditions": "Up to two grades lower than the typical entry requirements if you take part in Realising Opportunities through a partner school (a Year 12 programme run with 10 research-intensive universities). The exact grades for this course are not shown in the page text.",
+     "programme": "Realising Opportunities",
+     "source": {
+      "url": "https://www.ncl.ac.uk/undergraduate/applications-offers/access-schemes/",
+      "checked": "2026-10-21",
+      "evidence": "You’re participating through a Realising Opportunities partner school"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.ncl.ac.uk/undergraduate/degrees/n300/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (the course page says its requirements apply to 2027 entry); 2027 entry used",
+    "EPQ: the course page has an Extended Project Qualification drop-down, but its content did not load in the page text, so no EPQ offer is recorded",
+    "Course-specific grades for the contextual, PARTNERS and Realising Opportunities offers are only shown in a drop-down that did not load; only the general reductions (up to two or three grades lower) are recorded"
+   ],
+   "notes": "No specific A level subjects are listed (AAB excluding General Studies). Delivered by the Business School's Finance Subject Group."
+  }
+ ],
+ "notes": [
+  "All six courses use 2027 entry: each course page says its requirements and offers apply to 2027 entry (start September 2027). No 2028-entry pages are published yet.",
+  "No course page names an admissions test and Newcastle is not on UAT-UK's TMUA list for 2027 entry. Mathematics and Economics (GL11) accepts grade 2 in any STEP paper as an alternative to a second listed A level.",
+  "Economics, Economics and Finance, Economics and Business Management and Finance share the same headline offer (AAB excluding General Studies); Politics and Economics is AAB with General Studies accepted; Mathematics and Economics needs an A in Mathematics.",
+  "Alternative offers (access-schemes page): contextual, Regional Contextual, High Performance Athlete and Realising Opportunities are each up to 2 grades lower; PARTNERS is up to 3 grades lower. Pathways to Newcastle (up to 2 grades lower) covers science, maths and engineering courses only.",
+  "Regional offers apply only to people who live or study in the North East or Tees Valley: a Regional Guaranteed Offer for eligible postcodes and a Regional Contextual Offer (up to two grades lower) for state-school students in the region; both need predicted CCC or above and the course's subject requirements.",
+  "Opportunity Scholarships (cash bursaries, awarded automatically by household income): £2,000 a year (up to £25,000), £1,250 (£25,001-£35,000), £750 (£35,001-£40,000). The page does not say which year these amounts apply to.",
+  "Campus postcode NE1 4SE is the Business School (5 Barrack Road), where the economics and finance courses are taught; the University's main postal address is NE1 7RU. Newcastle also runs Experience Days (Years 12 and 13) for school groups, not researched."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "2028/29 Home fee not confirmed by Newcastle (2027/28 fee of £10,050 recorded)",
+  "Living cost figures are an estimate compiled in August 2025; the academic year is not stated",
+  "Only one 2026/27 open day (21 November 2026) is listed; 2027 dates not announced",
+  "Course-specific contextual, PARTNERS and Realising Opportunities grades and the EPQ offer are in a drop-down on each course page that did not load in the page text, so only the general reductions are recorded",
+  "Bitesize Uni 2027 dates, deadline and its oversubscription criteria not published; costs of Get Ahead and Pathways to Newcastle not stated"
+ ]
+}

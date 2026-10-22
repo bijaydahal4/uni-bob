@@ -1,0 +1,988 @@
+{
+ "id": "keele",
+ "name": "Keele University",
+ "shortName": "Keele",
+ "aliases": [
+  "Keele",
+  "Keele Uni",
+  "Keele University",
+  "Uni of Keele"
+ ],
+ "city": "Keele (Newcastle-under-Lyme)",
+ "region": "Midlands",
+ "country": "England",
+ "setting": "campus",
+ "settingEvidence": {
+  "url": "https://www.keele.ac.uk/study/opendays/undergraduateopendays/",
+  "checked": "2026-10-21",
+  "evidence": "Explore our 600-acre campus"
+ },
+ "location": {
+  "postcode": "ST5 5BG",
+  "postcodeSource": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsbsc/",
+  "lat": null,
+  "lng": null,
+  "coordsSource": "https://api.postcodes.io/postcodes/ST55BG",
+  "checked": "2026-10-21"
+ },
+ "fees": {
+  "homeAnnual": 10050,
+  "academicYear": "2027/28",
+  "text": "£10,050 per year for Home (UK) students starting in September 2027 (2027/28). Keele says fees are regulated by the UK Government and may change in later years of the course. A placement year is charged at 20% of the Home fee.",
+  "source": {
+   "url": "https://www.keele.ac.uk/study/undergraduate/tuitionfeesandfunding/undergraduatetuitionfees/undergraduatetuitionfeesuk/",
+   "checked": "2026-10-21",
+   "evidence": "Tuition fees for home students commencing, or continuing, their studies in September 2027 will be £10,050."
+  }
+ },
+ "livingCosts": {
+  "kind": "halls rent",
+  "amountLow": 128.03,
+  "amountHigh": 231.98,
+  "period": "week",
+  "academicYear": "2026/27",
+  "text": "Keele halls cost about £128–£232 a week in 2026/27, from Standard Shared Halls (£128.03) to Superior En-suite (£231.98). A 38-week contract (for most undergraduates) totals about £4,865–£8,815. These are the latest prices on Keele's page.",
+  "source": {
+   "url": "https://www.keele.ac.uk/accommodation/accommodationfees/",
+   "checked": "2026-10-21",
+   "evidence": "Standard Shared Halls | £128.03 | £2,249.67 | £4,865.14"
+  }
+ },
+ "openDays": {
+  "events": [
+   {
+    "date": "2026-11-21",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-06-25",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-06-26",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-08-14",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-10-10",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   },
+   {
+    "date": "2027-11-20",
+    "endDate": null,
+    "label": "Undergraduate open day",
+    "format": "in person",
+    "status": "Confirmed"
+   }
+  ],
+  "text": "Next open day: Saturday 21 November 2026 (Keele's last of 2026). 2027 open days are scheduled for 25 June, 26 June, 14 August, 10 October and 20 November 2027.",
+  "url": "https://www.keele.ac.uk/study/opendays/undergraduateopendays/",
+  "source": {
+   "url": "https://www.keele.ac.uk/study/opendays/undergraduateopendays/",
+   "checked": "2026-10-21",
+   "evidence": "Our final Open Day of 2026 at Keele University will take place on Saturday 21 November 2026."
+  }
+ },
+ "contextual": {
+  "offersContextual": true,
+  "summary": "Home-fee applicants who meet any one of Keele's contextual indicators automatically get a lower offer: two grades lower for most courses including Economics (BBC becomes CCC).",
+  "typicalReduction": "Two full grades lower than the typical offer for most courses (for example BBC = CCC); one grade lower for some health courses.",
+  "criteria": [
+   {
+    "key": "area",
+    "detail": "Currently at a state school, academy or college and living in an area with low participation in higher education (POLAR4 quintiles 1 and 2).",
+    "measure": "POLAR4",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "area",
+    "detail": "Currently at a state school, academy or college and living in an area of relative deprivation (IMD quintiles 1 and 2).",
+    "measure": "IMD",
+    "quintiles": [
+     1,
+     2
+    ],
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "care",
+    "detail": "Care leavers who have spent any length of time in local authority care, either with foster carers or in a children's home (or in Scotland under a home supervision order).",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "refugee",
+    "detail": "Refugees, asylum seekers or those under humanitarian protection.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "fsm",
+    "detail": "Receive (or have received) free school meals.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "carer",
+    "detail": "You are a young carer.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "firstGen",
+    "detail": "First in the family to enter higher education, as defined by UCAS; you must say so on your UCAS application form.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   },
+   {
+    "key": "other",
+    "detail": "Either parent served in the Armed Forces, you served in the Armed Forces, or you are a Service Leaver.",
+    "measure": null,
+    "quintiles": null,
+    "threshold": null,
+    "alone": true
+   }
+  ],
+  "minCriteria": 1,
+  "rulesText": "To receive a contextual offer applicants must meet ONE of the indicators. Contextual and alternative offers are only available to home students and are applied automatically from the information on your application. Keele's alternative offer schemes do not stack: you are offered the most generous offer available, or more than one offer, and only need to meet one of them.",
+  "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+  "source": {
+   "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+   "checked": "2026-10-21",
+   "evidence": "To receive a contextual offer applicants must meet ONE of the following indicators:"
+  }
+ },
+ "programmes": [],
+ "links": {
+  "home": "https://www.keele.ac.uk/",
+  "courses": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/",
+  "economics": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsbsc/",
+  "openDays": "https://www.keele.ac.uk/study/opendays/undergraduateopendays/",
+  "fees": "https://www.keele.ac.uk/study/undergraduate/tuitionfeesandfunding/undergraduatetuitionfees/undergraduatetuitionfeesuk/",
+  "contextual": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+  "accommodation": "https://www.keele.ac.uk/accommodation/accommodationfees/"
+ },
+ "courses": [
+  {
+   "id": "keele-economics-bsc",
+   "name": "Economics (BSc)",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LNC3",
+   "lengthYears": 3,
+   "lengthNote": "The page says '3 years or 4 years with international, placement or entrepreneurship year'. The foundation-year version (UCAS code L101) is a separate course.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC in three A levels",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsbsc/",
+     "checked": "2026-10-21",
+     "evidence": "BBC in three A Levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4/C in GCSE Maths, or Level 2 Functional Skills Maths."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Keele asks for an English language qualification or test; most students meet this with a 4 or C in GCSE English (Keele's English language pages list other options)."
+    }
+   ],
+   "gcseText": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below). All our courses require an English language qualification or test. Most students meet this through a 4 or C in GCSE English.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsbsc/",
+    "checked": "2026-10-21",
+    "evidence": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Keele is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsbsc/",
+     "checked": "2026-10-21",
+     "evidence": "This will include any subject specific, GCSE/Level 2 Maths, and/or English language requirements."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC in three A levels if you are a home student and meet one of Keele's contextual indicators (for example a low-participation or deprived area with a state school or college, free school meals, care experience, young carer, refugee, first in family to go to university, armed forces). Applied automatically. Keele's alternative offers do not stack: you get the most generous offer, or more than one offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsbsc/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: CCC in three A Levels."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC plus grade B in the EPQ. Keele counts other additional qualifications the same way (B in Core Maths, AQA or Cambridge IPQ, IB Extended Essay, or M2 in Pre-U Global Perspectives). You receive both the standard and the alternative offer and only need to meet one. Keele's alternative offers do not stack.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = CCC + B in the EPQ"
+     }
+    },
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "One grade lower (BBC becomes BCC) if you apply from a school or college (study centre) in the Keele Region: Cheshire East, Cheshire West and Chester, Derby, Derbyshire, Dudley, Sandwell, Shropshire, Staffordshire, Stoke-on-Trent, Telford and Wrekin, Walsall, Wolverhampton and Wrexham. Independent applicants use their current postcode.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsbsc/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Keele's 2028 course page returned 404 on 2026-10-21); 2027 entry used."
+   ],
+   "notes": "The page lists no required or excluded A level subjects (only GCSE Maths/English), so any three A levels at the typical offer count."
+  },
+  {
+   "id": "keele-economics-ba",
+   "name": "Economics (BA)",
+   "degree": "BA (Hons)",
+   "ucasCode": "LNC5",
+   "lengthYears": 3,
+   "lengthNote": "The page says '3 years or 4 years with international, placement or entrepreneurship year'. The foundation-year version (UCAS code L102) is a separate course.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC in three A levels",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsba/",
+     "checked": "2026-10-21",
+     "evidence": "BBC in three A Levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Keele asks for an English language qualification or test; most students meet this with a 4 or C in GCSE English (Keele's English language pages list other options)."
+    }
+   ],
+   "gcseText": "You will also need: an English language qualification (see below). All our courses require an English language qualification or test. Most students meet this through a 4 or C in GCSE English.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsba/",
+    "checked": "2026-10-21",
+    "evidence": "You will also need: an English language qualification (see below)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Keele is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsba/",
+     "checked": "2026-10-21",
+     "evidence": "This will include any subject specific, GCSE/Level 2 Maths, and/or English language requirements."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC in three A levels if you are a home student and meet one of Keele's contextual indicators (for example a low-participation or deprived area with a state school or college, free school meals, care experience, young carer, refugee, first in family to go to university, armed forces). Applied automatically. Keele's alternative offers do not stack: you get the most generous offer, or more than one offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsba/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: CCC in three A Levels."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC plus grade B in the EPQ. Keele counts other additional qualifications the same way (B in Core Maths, AQA or Cambridge IPQ, IB Extended Essay, or M2 in Pre-U Global Perspectives). You receive both the standard and the alternative offer and only need to meet one. Keele's alternative offers do not stack.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = CCC + B in the EPQ"
+     }
+    },
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "One grade lower (BBC becomes BCC) if you apply from a school or college (study centre) in the Keele Region: Cheshire East, Cheshire West and Chester, Derby, Derbyshire, Dudley, Sandwell, Shropshire, Staffordshire, Stoke-on-Trent, Telford and Wrekin, Walsall, Wolverhampton and Wrexham. Independent applicants use their current postcode.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsba/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Keele's 2028 course page returned 404 on 2026-10-21); 2027 entry used.",
+    "GCSE Maths: this course page lists no GCSE Maths requirement (Keele's other Economics-related pages ask for grade 4/C); check with Keele admissions."
+   ],
+   "notes": "The page lists no required or excluded A level subjects (only GCSE Maths/English), so any three A levels at the typical offer count. Students can transfer to the BSc Economics subject to meeting the relevant thresholds in quantitative economic modules."
+  },
+  {
+   "id": "keele-economics-finance",
+   "name": "Economics and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "LN13",
+   "lengthYears": 3,
+   "lengthNote": "The page says '3 years or 4 years with international, placement or entrepreneurship year'. The foundation-year version (UCAS code LN31) is a separate course.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC in three A levels",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsandfinance/",
+     "checked": "2026-10-21",
+     "evidence": "BBC in three A Levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4/C in GCSE Maths, or Level 2 Functional Skills Maths."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Keele asks for an English language qualification or test; most students meet this with a 4 or C in GCSE English (Keele's English language pages list other options)."
+    }
+   ],
+   "gcseText": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below). All our courses require an English language qualification or test. Most students meet this through a 4 or C in GCSE English.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsandfinance/",
+    "checked": "2026-10-21",
+    "evidence": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Keele is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsandfinance/",
+     "checked": "2026-10-21",
+     "evidence": "This will include any subject specific, GCSE/Level 2 Maths, and/or English language requirements."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC in three A levels if you are a home student and meet one of Keele's contextual indicators (for example a low-participation or deprived area with a state school or college, free school meals, care experience, young carer, refugee, first in family to go to university, armed forces). Applied automatically. Keele's alternative offers do not stack: you get the most generous offer, or more than one offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsandfinance/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: CCC in three A Levels."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC plus grade B in the EPQ. Keele counts other additional qualifications the same way (B in Core Maths, AQA or Cambridge IPQ, IB Extended Essay, or M2 in Pre-U Global Perspectives). You receive both the standard and the alternative offer and only need to meet one. Keele's alternative offers do not stack.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = CCC + B in the EPQ"
+     }
+    },
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "One grade lower (BBC becomes BCC) if you apply from a school or college (study centre) in the Keele Region: Cheshire East, Cheshire West and Chester, Derby, Derbyshire, Dudley, Sandwell, Shropshire, Staffordshire, Stoke-on-Trent, Telford and Wrekin, Walsall, Wolverhampton and Wrexham. Independent applicants use their current postcode.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/economicsandfinance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Keele's 2028 course page returned 404 on 2026-10-21); 2027 entry used."
+   ],
+   "notes": "The page lists no required or excluded A level subjects (only GCSE Maths/English), so any three A levels at the typical offer count."
+  },
+  {
+   "id": "keele-business-management-economics",
+   "name": "Business Management and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "LN19",
+   "lengthYears": 3,
+   "lengthNote": "The page says '3 years or 4 years with international, placement or entrepreneurship year'. The foundation-year version (UCAS code LN92) is a separate course.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-management"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC in three A levels",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/businessmanagementandeconomics/",
+     "checked": "2026-10-21",
+     "evidence": "BBC in three A Levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4/C in GCSE Maths, or Level 2 Functional Skills Maths."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Keele asks for an English language qualification or test; most students meet this with a 4 or C in GCSE English (Keele's English language pages list other options)."
+    }
+   ],
+   "gcseText": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below). All our courses require an English language qualification or test. Most students meet this through a 4 or C in GCSE English.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/businessmanagementandeconomics/",
+    "checked": "2026-10-21",
+    "evidence": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Keele is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/businessmanagementandeconomics/",
+     "checked": "2026-10-21",
+     "evidence": "This will include any subject specific, GCSE/Level 2 Maths, and/or English language requirements."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC in three A levels if you are a home student and meet one of Keele's contextual indicators (for example a low-participation or deprived area with a state school or college, free school meals, care experience, young carer, refugee, first in family to go to university, armed forces). Applied automatically. Keele's alternative offers do not stack: you get the most generous offer, or more than one offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/businessmanagementandeconomics/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: CCC in three A Levels."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC plus grade B in the EPQ. Keele counts other additional qualifications the same way (B in Core Maths, AQA or Cambridge IPQ, IB Extended Essay, or M2 in Pre-U Global Perspectives). You receive both the standard and the alternative offer and only need to meet one. Keele's alternative offers do not stack.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = CCC + B in the EPQ"
+     }
+    },
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "One grade lower (BBC becomes BCC) if you apply from a school or college (study centre) in the Keele Region: Cheshire East, Cheshire West and Chester, Derby, Derbyshire, Dudley, Sandwell, Shropshire, Staffordshire, Stoke-on-Trent, Telford and Wrekin, Walsall, Wolverhampton and Wrexham. Independent applicants use their current postcode.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/businessmanagementandeconomics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Keele's 2028 course page returned 404 on 2026-10-21); 2027 entry used."
+   ],
+   "notes": "The page lists no required or excluded A level subjects (only GCSE Maths/English), so any three A levels at the typical offer count."
+  },
+  {
+   "id": "keele-politics-economics",
+   "name": "Politics with Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "LL14",
+   "lengthYears": 3,
+   "lengthNote": "The page says '3 years or 4 years with international, placement or entrepreneurship year'. The foundation-year version (UCAS code LL15) is a separate course.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "economics-politics"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC in three A levels",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/politicswitheconomics/",
+     "checked": "2026-10-21",
+     "evidence": "BBC in three A Levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4/C in GCSE Maths, or Level 2 Functional Skills Maths."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Keele asks for an English language qualification or test; most students meet this with a 4 or C in GCSE English (Keele's English language pages list other options)."
+    }
+   ],
+   "gcseText": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below). All our courses require an English language qualification or test. Most students meet this through a 4 or C in GCSE English.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/politicswitheconomics/",
+    "checked": "2026-10-21",
+    "evidence": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Keele is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/politicswitheconomics/",
+     "checked": "2026-10-21",
+     "evidence": "This will include any subject specific, GCSE/Level 2 Maths, and/or English language requirements."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC in three A levels if you are a home student and meet one of Keele's contextual indicators (for example a low-participation or deprived area with a state school or college, free school meals, care experience, young carer, refugee, first in family to go to university, armed forces). Applied automatically. Keele's alternative offers do not stack: you get the most generous offer, or more than one offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/politicswitheconomics/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: CCC in three A Levels."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC plus grade B in the EPQ. Keele counts other additional qualifications the same way (B in Core Maths, AQA or Cambridge IPQ, IB Extended Essay, or M2 in Pre-U Global Perspectives). You receive both the standard and the alternative offer and only need to meet one. Keele's alternative offers do not stack.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = CCC + B in the EPQ"
+     }
+    },
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "One grade lower (BBC becomes BCC) if you apply from a school or college (study centre) in the Keele Region: Cheshire East, Cheshire West and Chester, Derby, Derbyshire, Dudley, Sandwell, Shropshire, Staffordshire, Stoke-on-Trent, Telford and Wrekin, Walsall, Wolverhampton and Wrexham. Independent applicants use their current postcode.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/politicswitheconomics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Keele's 2028 course page returned 404 on 2026-10-21); 2027 entry used."
+   ],
+   "notes": "The page lists no required or excluded A level subjects (only GCSE Maths/English), so any three A levels at the typical offer count."
+  },
+  {
+   "id": "keele-ppe",
+   "name": "Philosophy, Politics and Economics",
+   "degree": "BA (Hons)",
+   "ucasCode": "LV50",
+   "lengthYears": 3,
+   "lengthNote": "The page says '3 years or 4 years with international, placement or entrepreneurship year'. The foundation-year version (UCAS code LV51) is a separate course.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "ppe"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC in three A levels",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/philosophypoliticsandeconomics/",
+     "checked": "2026-10-21",
+     "evidence": "BBC in three A Levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4/C in GCSE Maths, or Level 2 Functional Skills Maths."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Keele asks for an English language qualification or test; most students meet this with a 4 or C in GCSE English (Keele's English language pages list other options)."
+    }
+   ],
+   "gcseText": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below). All our courses require an English language qualification or test. Most students meet this through a 4 or C in GCSE English.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/philosophypoliticsandeconomics/",
+    "checked": "2026-10-21",
+    "evidence": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Keele is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/philosophypoliticsandeconomics/",
+     "checked": "2026-10-21",
+     "evidence": "This will include any subject specific, GCSE/Level 2 Maths, and/or English language requirements."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC in three A levels if you are a home student and meet one of Keele's contextual indicators (for example a low-participation or deprived area with a state school or college, free school meals, care experience, young carer, refugee, first in family to go to university, armed forces). Applied automatically. Keele's alternative offers do not stack: you get the most generous offer, or more than one offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/philosophypoliticsandeconomics/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: CCC in three A Levels."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC plus grade B in the EPQ. Keele counts other additional qualifications the same way (B in Core Maths, AQA or Cambridge IPQ, IB Extended Essay, or M2 in Pre-U Global Perspectives). You receive both the standard and the alternative offer and only need to meet one. Keele's alternative offers do not stack.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = CCC + B in the EPQ"
+     }
+    },
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "One grade lower (BBC becomes BCC) if you apply from a school or college (study centre) in the Keele Region: Cheshire East, Cheshire West and Chester, Derby, Derbyshire, Dudley, Sandwell, Shropshire, Staffordshire, Stoke-on-Trent, Telford and Wrekin, Walsall, Wolverhampton and Wrexham. Independent applicants use their current postcode.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/philosophypoliticsandeconomics/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Keele's 2028 course page returned 404 on 2026-10-21); 2027 entry used."
+   ],
+   "notes": "The page lists no required or excluded A level subjects (only GCSE Maths/English), so any three A levels at the typical offer count."
+  },
+  {
+   "id": "keele-accounting-finance",
+   "name": "Accounting and Finance",
+   "degree": "BSc (Hons)",
+   "ucasCode": "NN34",
+   "lengthYears": 3,
+   "lengthNote": "The page says '3 years or 4 years with international, placement or entrepreneurship year'. The foundation-year version (UCAS code N4L0) is a separate course.",
+   "options": {
+    "yearAbroad": "optional",
+    "placement": "optional",
+    "foundationYear": "available"
+   },
+   "types": [
+    "accounting-finance"
+   ],
+   "entryYear": 2027,
+   "offer": {
+    "kind": "grades",
+    "typical": "BBC",
+    "low": null,
+    "tariff": null,
+    "tariffLow": null,
+    "text": "BBC in three A levels",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/accountingandfinance/",
+     "checked": "2026-10-21",
+     "evidence": "BBC in three A Levels."
+    }
+   },
+   "subjectRequirements": [],
+   "preferredSubjects": [],
+   "furtherMaths": "notMentioned",
+   "gcse": [
+    {
+     "subject": "Mathematics",
+     "minGrade": "4",
+     "note": "Grade 4/C in GCSE Maths, or Level 2 Functional Skills Maths."
+    },
+    {
+     "subject": "English",
+     "minGrade": "4",
+     "note": "Keele asks for an English language qualification or test; most students meet this with a 4 or C in GCSE English (Keele's English language pages list other options)."
+    }
+   ],
+   "gcseText": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below). All our courses require an English language qualification or test. Most students meet this through a 4 or C in GCSE English.",
+   "notAccepted": [],
+   "acceptsPsychology": "yes",
+   "acceptsGeography": "yes",
+   "subjectsEvidence": {
+    "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/accountingandfinance/",
+    "checked": "2026-10-21",
+    "evidence": "You will also need: 4 / C in GCSE Maths or Level 2 Functional Skills Maths, plus an English language qualification (see below)."
+   },
+   "admissionsTest": {
+    "status": "none",
+    "name": null,
+    "effect": "No admissions test is listed in the entry requirements, and Keele is not on UAT-UK's official TMUA list for 2027 entry.",
+    "source": {
+     "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/accountingandfinance/",
+     "checked": "2026-10-21",
+     "evidence": "This will include any subject specific, GCSE/Level 2 Maths, and/or English language requirements."
+    }
+   },
+   "alternativeOffers": [
+    {
+     "type": "contextual",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC in three A levels if you are a home student and meet one of Keele's contextual indicators (for example a low-participation or deprived area with a state school or college, free school meals, care experience, young carer, refugee, first in family to go to university, armed forces). Applied automatically. Keele's alternative offers do not stack: you get the most generous offer, or more than one offer.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/accountingandfinance/",
+      "checked": "2026-10-21",
+      "evidence": "Contextual Offer: CCC in three A Levels."
+     }
+    },
+    {
+     "type": "epq",
+     "offer": "CCC",
+     "tariff": null,
+     "conditions": "CCC plus grade B in the EPQ. Keele counts other additional qualifications the same way (B in Core Maths, AQA or Cambridge IPQ, IB Extended Essay, or M2 in Pre-U Global Perspectives). You receive both the standard and the alternative offer and only need to meet one. Keele's alternative offers do not stack.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = CCC + B in the EPQ"
+     }
+    },
+    {
+     "type": "other",
+     "offer": "BCC",
+     "tariff": null,
+     "conditions": "One grade lower (BBC becomes BCC) if you apply from a school or college (study centre) in the Keele Region: Cheshire East, Cheshire West and Chester, Derby, Derbyshire, Dudley, Sandwell, Shropshire, Staffordshire, Stoke-on-Trent, Telford and Wrekin, Walsall, Wolverhampton and Wrexham. Independent applicants use their current postcode.",
+     "programme": null,
+     "source": {
+      "url": "https://www.keele.ac.uk/study/undergraduate/apply/contextual-and-alternative-offers/",
+      "checked": "2026-10-21",
+      "evidence": "BBC = BCC"
+     }
+    }
+   ],
+   "competition": null,
+   "links": {
+    "course": "https://www.keele.ac.uk/study/undergraduate/undergraduatecourses/accountingandfinance/",
+    "ucas": null
+   },
+   "notConfirmed": [
+    "2028 entry requirements not published yet (Keele's 2028 course page returned 404 on 2026-10-21); 2027 entry used."
+   ],
+   "notes": "The page lists no required or excluded A level subjects (only GCSE Maths/English), so any three A levels at the typical offer count."
+  }
+ ],
+ "notes": [
+  "All seven courses list BBC at A level (contextual CCC) and no required A level subjects; GCSE Maths grade 4/C is asked for on every course except Economics (BA), whose page lists none.",
+  "No 2028-entry pages yet (checked 2026-10-21: Keele's 2028 course URL returns 404), so all courses use 2027 entry.",
+  "No admissions test is listed for these courses, and Keele is not on UAT-UK's official TMUA list for 2027 entry.",
+  "Interviews are held for all applicants to the health, social work and veterinary courses listed on Keele's entry requirements page; Economics is not on that list.",
+  "Keele's Year 12 taster days and masterclasses listed in October 2026 (English and Creative Writing, Music, Media and Games) are booked by schools and colleges and are not in Economics or Business. A Schools and Colleges Open Day is planned for Friday 25 June 2027 (details not published yet).",
+  "Every course has a foundation-year version with its own UCAS code; the Business Management and Economics and the Accounting and Finance foundation pages ask for 40-48 UCAS tariff points."
+ ],
+ "notConfirmed": [
+  "2028 entry requirements not published yet; 2027 entry recorded for all courses",
+  "Latest accommodation prices on Keele's page are for 2026/27; 2027/28 prices not seen",
+  "No Economics-relevant Year 12 programme or summer school found on Keele's outreach pages",
+  "Economics (BA): GCSE Maths requirement not listed on the course page"
+ ]
+}
