@@ -88,8 +88,29 @@ function renderShell() {
       <div id="banner"></div>
       <main class="content" id="main" tabindex="-1"></main>
     </div>
-  </div>`);
+  </div>
+  <div id="whats-new"></div>`);
   bindGlobal();
+}
+
+// ---- What's new -----------------------------------------------------------------
+// Change the id and the text to announce the next feature; closing it is remembered on this device.
+const WHATS_NEW = { id: 'summer-favourites', text: 'You can now tap the heart on a summer school to save it in its own section of Favourites.' };
+
+function renderWhatsNew() {
+  const el = $('#whats-new');
+  if (!el || store.get().meta.whatsNewSeen === WHATS_NEW.id) return;
+  el.innerHTML = toHTML(html`<aside class="whats-new" role="status" aria-label="What's new">
+    <div class="whats-new__body">
+      <p class="whats-new__title">What's new!</p>
+      <p class="whats-new__text">${WHATS_NEW.text}</p>
+    </div>
+    <button type="button" class="icon-btn icon-btn--sm whats-new__close" aria-label="Close What's new">${icon('x', { size: 18 })}</button>
+  </aside>`);
+  $('.whats-new__close', el).addEventListener('click', () => {
+    store.update((s) => { s.meta.whatsNewSeen = WHATS_NEW.id; }, 'meta');
+    el.innerHTML = '';
+  });
 }
 
 function renderSidebarNow() {
@@ -207,7 +228,7 @@ function bindGlobal() {
   on(root, 'click', '[data-action="fav"]', (e, t) => {
     e.preventDefault();
     e.stopPropagation();
-    const kind = t.dataset.kind === 'uni' ? 'unis' : 'courses';
+    const kind = { uni: 'unis', course: 'courses', programme: 'programmes' }[t.dataset.kind];
     const nowSaved = store.toggleFavourite(kind, t.dataset.id);
     for (const b of $$(`[data-action="fav"][data-kind="${t.dataset.kind}"][data-id="${CSS.escape(t.dataset.id)}"]`)) {
       b.classList.toggle('is-on', nowSaved);
@@ -301,6 +322,7 @@ function start() {
   renderMain({ fresh: true });
   window.addEventListener('hashchange', onHashChange);
   noteDataUpdate();
+  renderWhatsNew();
 }
 
 async function boot() {

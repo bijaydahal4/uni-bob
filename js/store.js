@@ -15,12 +15,12 @@ export function defaults() {
     version: VERSION,
     profile: { name: '', subjects: DEFAULT_SUBJECTS.map((s) => ({ ...s })), gcse: { maths: null, english: null } },
     settings: { theme: 'light', onboarded: false },
-    favourites: { unis: [], courses: [] },
+    favourites: { unis: [], courses: [], programmes: [] },
     tracker: {},
     contextual: {},
     whatIf: { active: false, current: null, currentId: null, saved: [] },
     explore: null,
-    meta: { lastGreeting: -1, lastDataVersion: null, persisted: null },
+    meta: { lastGreeting: -1, lastDataVersion: null, persisted: null, whatsNewSeen: null },
   };
 }
 
@@ -48,7 +48,7 @@ export function migrate(s) {
   out.profile.gcse = { ...d.profile.gcse, ...(s.profile?.gcse || {}) };
   if (!Array.isArray(out.profile.subjects) || !out.profile.subjects.length) out.profile.subjects = d.profile.subjects;
   out.settings = { ...d.settings, ...(s.settings || {}) };
-  out.favourites = { unis: [...(s.favourites?.unis || [])], courses: [...(s.favourites?.courses || [])] };
+  out.favourites = { unis: [...(s.favourites?.unis || [])], courses: [...(s.favourites?.courses || [])], programmes: [...(s.favourites?.programmes || [])] };
   out.tracker = { ...(s.tracker || {}) };
   out.contextual = { ...(s.contextual || {}) };
   out.whatIf = { ...d.whatIf, ...(s.whatIf || {}) };

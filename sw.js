@@ -1,6 +1,6 @@
 // Uni Bob service worker: opens offline after the first visit, and fetches fresh data when online.
 
-const VERSION = 'unibob-2026-10-22-1';
+const VERSION = 'unibob-2026-11-05-1';
 const SHELL = `${VERSION}-shell`;
 const DATA = `${VERSION}-data`;
 

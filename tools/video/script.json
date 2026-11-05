@@ -1,0 +1,40 @@
+{
+  "_note": "Narration for the demo video. 'say' is what the voice reads (numbers written out, British style); 'caption' is what appears on screen. Every figure was checked against /data on 2026-10-23.",
+  "scenes": [
+    {
+      "id": "intro",
+      "caption": "Choosing a university can feel overwhelming, especially when you're working out which courses suit your grades and what's out there. That's why I built Uni Bob: to bring everything together in one place.",
+      "say": "Choosing a university can feel overwhelming, especially when you're working out which courses suit your grades, and what's out there. That's why I built Uni Bob: to bring everything together, in one place."
+    },
+    {
+      "id": "explore",
+      "caption": "Explore 436 courses across 64 universities, from competitive Russell Group options to a wider range of unis. Search and filter by what matters to you, then compare typical offers and see how each course matches your grades.",
+      "say": "Explore four hundred and thirty-six courses across sixty-four universities, from competitive Russell Group options to a wider range of unis. Search and filter by what matters to you, then compare typical offers, and see how each course matches your grades."
+    },
+    {
+      "id": "course",
+      "caption": "Each course brings the key details together: the typical offer, required subjects, GCSEs, and admissions tests where they apply. The chance indicator is guidance, not a guarantee, but it helps you build a balanced shortlist.",
+      "say": "Each course brings the key details together: the typical offer, required subjects, G.C.S.E.s, and admissions tests where they apply. The chance indicator is guidance, not a guarantee, but it helps you build a balanced shortlist."
+    },
+    {
+      "id": "summer",
+      "caption": "There's more to getting in than grades. Uni Bob brings together 130 summer schools and access programmes, including 59 that can lower an offer at a particular uni, if you meet their criteria. You can also check whether contextual offers might apply to you.",
+      "say": "There's more to getting in than grades. Uni Bob brings together a hundred and thirty summer schools and access programmes, including fifty-nine that can lower an offer at a particular uni, if you meet their criteria. You can also check whether contextual offers might apply to you."
+    },
+    {
+      "id": "favourites",
+      "caption": "Found a course you like? Save it to your favourites. And with What ifs, try different grades and see how your options would change.",
+      "say": "Found a course you like? Save it to your favourites. And with What ifs, try different grades, and see how your options would change."
+    },
+    {
+      "id": "timeline",
+      "caption": "The timeline maps out each step towards September 2028, with every date clearly labelled. And in Settings, you can back up everything you've saved, and restore it later.",
+      "say": "The timeline maps out each step towards September twenty twenty-eight, with every date clearly labelled. And in Settings, you can back up everything you've saved, and restore it later."
+    },
+    {
+      "id": "closing",
+      "caption": "Uni Bob turns a confusing university search into a clearer plan. Explore your options, discover opportunities, and build a shortlist that works for you.",
+      "say": "Uni Bob turns a confusing university search into a clearer plan. Explore your options, discover opportunities, and build a shortlist that works for you."
+    }
+  ]
+}

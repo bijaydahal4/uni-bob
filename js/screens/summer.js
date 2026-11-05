@@ -4,7 +4,7 @@ import * as store from '../store.js';
 import { db } from '../data.js';
 import { html, toHTML, raw, $, $$, on, plural } from '../ui/dom.js';
 import { icon } from '../ui/icons.js';
-import { chip, info, externalLink, emptyState, dateStatus } from '../ui/components.js';
+import { chip, info, heart, externalLink, emptyState, dateStatus } from '../ui/components.js';
 import { programmeStatus, deadlineSortKey, formatDate } from '../logic/dates.js';
 import { meetsCriterion } from '../logic/contextual.js';
 
@@ -73,8 +73,13 @@ function dateLine(label, d) {
   return html`<li><span class="dl__k">${label}</span><span class="dl__v">${text} ${dateStatus(d.status)}</span></li>`;
 }
 
-function card(p, st) {
+/** The "Open now" / "Closing soon" label, shared with Favourites. */
+export function statusTag(p) {
   const status = programmeStatus(p);
+  return html`<span class="status-tag is-${status.key}">${status.label}${status.daysLeft != null && status.key === 'closingSoon' ? (status.daysLeft === 0 ? ' · last day' : ` · ${plural(status.daysLeft, 'day')} left`) : ''}${status.expected ? html` <span class="status-tag__exp">(expected)</span>` : ''}</span>`;
+}
+
+function card(p, st) {
   const mine = st.tracker[p.id] || {};
   const lowerAt = (p.lowersOfferAt || []).map((id) => db.uni.get(id)?.shortName).filter(Boolean);
   return html`<article class="card prog" id="prog-${p.id}">
@@ -83,7 +88,10 @@ function card(p, st) {
         <h3 class="prog__name">${p.name}</h3>
         <p class="prog__provider">${p.provider}</p>
       </div>
-      <span class="status-tag is-${status.key}">${status.label}${status.daysLeft != null && status.key === 'closingSoon' ? ` · ${plural(status.daysLeft, 'day')} left` : ''}${status.expected ? html` <span class="status-tag__exp">(expected)</span>` : ''}</span>
+      <div class="prog__side">
+        ${statusTag(p)}
+        ${heart('programme', p.id, store.isFavourite('programmes', p.id), p.name)}
+      </div>
     </div>
     ${p.summary ? html`<p class="prog__summary">${p.summary}</p>` : ''}
     <div class="chips">
@@ -133,7 +141,9 @@ function listHTML() {
 export default {
   label: 'Summer Schools',
   title: () => 'Summer Schools',
-  render() {
+  render([focusId] = []) {
+    // Opened from a link to one programme: make sure a leftover search or filter isn't hiding it.
+    if (focusId && !list().some((p) => p.id === focusId)) { ui.q = ''; ui.filters = []; }
     const answered = Object.keys(store.get().contextual || {}).length > 0;
     return html`<div class="page">
       <h1 class="large-title">Summer Schools</h1>

@@ -29,7 +29,9 @@ def new_page(browser, theme="light", size=(1180, 820), onboarded=True, seed=True
     ctx = browser.new_context(viewport={"width": size[0], "height": size[1]}, device_scale_factor=1, locale="en-GB",
                               has_touch=True, reduced_motion="reduce")
     if seed:
-        ctx.add_init_script(f"if (!sessionStorage.getItem('seeded')) {{ localStorage.setItem('unibob:v1', {json.dumps(json.dumps(state(theme, onboarded)))}); sessionStorage.setItem('seeded', '1'); }}")
+        st = state(theme, onboarded)
+        st["meta"]["whatsNewSeen"] = "summer-favourites"   # the box is checked separately below
+        ctx.add_init_script(f"if (!sessionStorage.getItem('seeded')) {{ localStorage.setItem('unibob:v1', {json.dumps(json.dumps(st))}); sessionStorage.setItem('seeded', '1'); }}")
     page = ctx.new_page()
     page.on("console", lambda m: m.type == "error" and console_errors.append(m.text))
     page.on("pageerror", lambda e: console_errors.append(f"PAGEERROR {e}"))
@@ -149,6 +151,32 @@ def main():
             page.reload()
             go(page, "favourites")
             check("Favourites survive a reload", page.locator(f'[data-action="fav"][data-id="{first}"]').count() > 0, first)
+
+            # --- Summer school favourites, starting from a save made before this feature ---------
+            old_ctx, old = new_page(browser, seed=False)
+            old_save = state("light")
+            old_save["favourites"] = {"unis": ["bath"], "courses": ["bath-economics"]}
+            old_save["tracker"] = {"keep-me": {"status": "applying", "note": "Ask for a reference"}}
+            old_save["meta"].pop("whatsNewSeen", None)
+            old.add_init_script(f"if (!sessionStorage.getItem('seeded')) {{ localStorage.setItem('unibob:v1', {json.dumps(json.dumps(old_save))}); sessionStorage.setItem('seeded', '1'); }}")
+            go(old, "favourites")
+            check("Older save: saved uni and course still there", old.locator('[data-action="fav"][data-id="bath-economics"]').count() > 0)
+            check("What's new box shows", old.locator(".whats-new").count() == 1)
+            old.click(".whats-new__close")
+            check("What's new box closes", old.locator(".whats-new").count() == 0)
+            go(old, "summer")
+            pid = old.get_attribute('.prog [data-action="fav"][data-kind="programme"]', "data-id")
+            old.click(f'[data-action="fav"][data-kind="programme"][data-id="{pid}"]')
+            old.reload()
+            go(old, "favourites")
+            check("Summer school is in its own Favourites section", old.locator(f'#fav-programmes [data-id="{pid}"]').count() == 1, pid)
+            check("Uni and course favourites are unchanged", old.evaluate("(() => { const f = JSON.parse(localStorage.getItem('unibob:v1')).favourites; return f.unis.join() === 'bath' && f.courses.join() === 'bath-economics'; })()"))
+            check("Older save: tracker note kept", old.evaluate("JSON.parse(localStorage.getItem('unibob:v1')).tracker['keep-me'].note") == "Ask for a reference")
+            check("What's new stays closed after a reload", old.locator(".whats-new").count() == 0)
+            old.click(f'#fav-programmes [data-id="{pid}"]')
+            old.wait_for_timeout(200)
+            check("Removing a summer school takes it off the list", old.locator(f'#fav-programmes [data-id="{pid}"]').count() == 0)
+            old_ctx.close()
 
             # --- What-if mode ------------------------------------------------------------------
             go(page, "whatif")

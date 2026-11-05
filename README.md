@@ -30,3 +30,9 @@ GitHub rebuilds the site in a minute or two.
 ## For developers
 Plain HTML, CSS and JavaScript modules, no build step. See [CLAUDE.md](CLAUDE.md) for the rules, file layout and
 commands (tests run in WebKit via Playwright for Python).
+
+## Demo video
+A 100-second walkthrough recorded from the real app (`video/uni-bob-demo.mp4`, not committed). To re-make it after
+changes: `python3 tools/video/voice.py` (narration from `tools/video/script.json`, using a British voice on this
+Mac), `.venv/bin/python tools/video/record.py` (drives the app frame by frame), then `python3 tools/video/build.py`
+(captions, music and the final 1080p MP4 + `.srt`).
